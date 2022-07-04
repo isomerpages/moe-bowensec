@@ -138,3 +138,36 @@ We see MTL as living language, and we nurture active learners who can use their 
   </tr>
 </tbody>
 </table>
+
+### Tamil Language Teachers
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-580q{background-color:#ECECEC;color:#222;text-align:center;vertical-align:top}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-580q">Mrs. Sankar <br></td>
+    <td class="tg-fxx4"><span style="color:#222">ST / TL &amp; ML</span></td>
+    <td class="tg-fxx4"><span style="color:#222">sankar_thilahavathi@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Dr Banu</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">pichandi_banumathi@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
