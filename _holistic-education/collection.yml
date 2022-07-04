@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Character and Citizenship Education.md
       - The Desired Bowenian.md
       - Piloting Full Subject Based Banding (FSBB).md
       - Academic Programmes/.keep
