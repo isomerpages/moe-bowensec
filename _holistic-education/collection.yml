@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/Education & Career Guidance.md
       - CCE/Character and Citizenship Education.md
       - CCE/.keep
