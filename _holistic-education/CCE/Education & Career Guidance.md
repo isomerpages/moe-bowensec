@@ -45,3 +45,11 @@ Our key ECG Programmes include:
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">
 <img src="/images/logo_myskillsfuture.png" width="50" height="50">
 </a></p>
+
+MySkillsFuture is a one-stop ECG portal developed by MOE.  MySkillsFuture supports students in making education and career decisions across each education stage, and empowers them for life-long learning.  Bowenians can discover more about themselves through games and tools, explore the Singapore Education Landscape and learn more about careers in over one thousand job roles.  Visit [www.myskillsfuture.sg/secondary](http://www.myskillsfuture.sg/secondary) and log on today!
+
+  
+
+**If you need someone to talk to:**
+
+The MOE ECG counsellor attached to Bowen, Miss Catherine Ng, is available to help Bowenians explore their strengths and aspirations, and guide them in planning and making informed decisions their education and career pathways.  You can email her to make an appointment for a consultation, at [**ng\_hui\_fong\_catherine@schools.gov.sg**](mailto:ng_hui_fong_catherine@schools.gov.sg)
