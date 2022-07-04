@@ -83,3 +83,211 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scop
   </tr>
 </tbody>
 </table>
+
+### Secondary 2
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">UNIT</th>
+    <th class="tg-rj1p">LESSONS / DURATION</th>
+    <th class="tg-rj1p">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rj1p">TIME PERIOD<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-y7qa">1<br>(60  mins)</td>
+    <td class="tg-ii8k"><br>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br><br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br><br>Understand what sexual orientation entails<br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2A<br>(60 mins)</td>
+    <td class="tg-ii8k"><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline<br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2B<br>(60 mins)</td>
+    <td class="tg-y7qa"><br>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online<br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+</tbody>
+</table>
+
+### Secondary 3
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">UNIT</th>
+    <th class="tg-rj1p">LESSONS / DURATION</th>
+    <th class="tg-rj1p">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rj1p">TIME PERIOD<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-y7qa">1A<br>(60 mins)</td>
+    <td class="tg-y7qa"><br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br><br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br><br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br><br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">1B<br>(60 mins)</td>
+    <td class="tg-y7qa"><br>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br><br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2<br>(60 mins)</td>
+    <td class="tg-y7qa">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+</tbody>
+</table>
+
+### Secondary 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">UNIT</th>
+    <th class="tg-rj1p">LESSONS / DURATION</th>
+    <th class="tg-rj1p">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rj1p">TIME PERIOD<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-y7qa">1<br>(60 mins)</td>
+    <td class="tg-y7qa"><br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br><br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2<br>(60 mins)</td>
+    <td class="tg-y7qa"><br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br><br>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br><br>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br><br>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br><br><br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">3<br>(60 mins)</td>
+    <td class="tg-y7qa"><br>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions. <br><br><br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br><br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br><br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"> </td>
+    <td class="tg-y7qa">4<br>(60 mins)</td>
+    <td class="tg-y7qa"><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.<br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+</tbody>
+</table>
+
+### Secondary 5
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">UNIT</th>
+    <th class="tg-rj1p">LESSONS / DURATION</th>
+    <th class="tg-rj1p">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rj1p">TIME PERIOD<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa">Respectful Relationships &amp; Safety</td>
+    <td class="tg-y7qa">1<br>(60 mins)</td>
+    <td class="tg-ii8k"><br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+</tbody>
+</table>
+
+*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.*
+
+-----
+
+### eTeens Programme
+
+7. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+ 
+8. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Bowen Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">Topics/Lessons</th>
+    <th class="tg-rj1p">Programme Learning Objectives</th>
+    <th class="tg-rj1p">Time Period<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-y7qa"><br>Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV <br></td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Classroom-based Lesson</td>
+    <td class="tg-y7qa"><br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br> </td>
+    <td class="tg-y7qa">Terms 1 - 3</td>
+  </tr>
+</tbody>
+</table>
+
+### Information for Parents
+
+9. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+10. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below. The completed form is to be submitted **by 04/02/2022**
+
+[ANNEX A SEd Parent Opt Out Form 2022](/files/ANNEX%20A%20SEd%20Parent%20Opt%20Out%20Form%202022.pdf)
+
