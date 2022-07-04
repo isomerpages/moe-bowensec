@@ -12,3 +12,6 @@ The Mother Tongue Department aims to empower Bowenians to succeed in the 21st Ce
 2.  Cultivating deeper appreciation of culture, history and values through learning of Mother Tongue Languages, 
     
     - and hence retain our Asian roots and values while embracing globalisation.
+     
+<img src="/images/MT1.png" 
+     style="width:70%">
