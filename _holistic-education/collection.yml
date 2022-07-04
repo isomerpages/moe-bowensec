@@ -2,10 +2,10 @@ collections:
   holistic-education:
     output: true
     order:
-      - CCE/Sexuality Education.md
-      - CCE/Education & Career Guidance.md
-      - CCE/Character and Citizenship Education.md
       - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Education & Career Guidance.md
+      - CCE/Sexuality Education.md
       - The Desired Bowenian.md
       - Piloting Full Subject Based Banding (FSBB).md
       - Academic Programmes/.keep
