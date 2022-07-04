@@ -18,8 +18,16 @@ Held annually, Bowen’s English Week is a dedicated week-long celebration of th
 
 
 <img src="/images/EL1.png" 
-     style="width:50%">
+     style="width:70%">
 		 
 The oratorical presentations during morning assembly is a platform designed specifically to help students gain confidence in speaking publicly to a large audience. 
 
 Various classes take turns to give a short presentation on topics ranging from idiomatic expressions to word etymology, during morning assemblies to encourage their peers to widen their vocabulary.
+
+### E-mazing Race
+<img src="/images/EL2.png" 
+     style="width:70%">
+
+A perennial favorite, the E(English)-mazing Race is a post-examination activity held during Bowen Fiesta for Secondary Two students. 
+
+Students race one another in groups around the school to take part in language learning activities at various designated stations.
