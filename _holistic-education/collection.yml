@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Academic Programmes/Science.md
       - Academic Programmes/Mathematics.md
       - Academic Programmes/Mother Tongue.md
       - Academic Programmes/English.md
