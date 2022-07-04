@@ -99,3 +99,60 @@ Students may connect to the **SWN Wi-Fi network** to access the internet for l
 
 
 Please remember to **logout** from SWN at **[http://portal.swn.moe.edu.sg](http://portal.swn.moe.edu.sg/)** when you have finished using the connection.
+
+# ICT Team
+### ICT Teachers and Support Team
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fxx4"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></td>
+    <td class="tg-e6w6"></td>
+    <td class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></td>
+  </tr>
+  <tr>
+    <td class="tg-b4br">Mr. Tan Kok Boon</td>
+    <td class="tg-b4br">HOD / ICT</td>
+    <td class="tg-b4br">tan_kok_boon@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">SH / ICT</span></td>
+    <td class="tg-fxx4"><span style="color:#222">alvin_chong_chee_leong@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Muhammad Hafiz Rosli</span></td>
+    <td class="tg-fxx4"><span style="color:#222">ICT Associate</span></td>
+    <td class="tg-fxx4"><span style="color:#222">muhammad_hafiz_rosli@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Nama Ganesh</span></td>
+    <td class="tg-fxx4"><span style="color:#222">ICT Trainer</span></td>
+    <td class="tg-fxx4"><span style="color:#222">nama_ganesh@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr Jay Phay Jun Le</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
+    <td class="tg-emg8"></td>
+  </tr>
+</tbody>
+</table>
