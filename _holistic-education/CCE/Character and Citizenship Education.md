@@ -28,4 +28,41 @@ The programmes/activities were split into 3 Tiers:
 1. School-wide  
 2. Cohort-wide  
 3. Programmes/Activities for selected group/streams of Students
-		 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-nfz5{background-color:#F2F9FF;color:#222;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ua0u{background-color:#F2F9FF;color:#222;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-i38w">Cohort Focus</th>
+    <th class="tg-muqq">Sec 1</th>
+    <th class="tg-muqq">Sec 2</th>
+    <th class="tg-muqq">Sec 3</th>
+    <th class="tg-muqq">Sec 4/5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nfz5">Values</td>
+    <td class="tg-2w19">Respect<br>Responsibility</td>
+    <td class="tg-2w19">Compassion<br>Teamwork</td>
+    <td class="tg-ua0u">Teamwork<br>Resilience</td>
+    <td class="tg-ua0u">Resilience<br>Excellence</td>
+  </tr>
+  <tr>
+    <td class="tg-nfz5">Theme</td>
+    <td class="tg-2w19" colspan="2">Explore and Embrace</td>
+    <td class="tg-2w19" colspan="2">Empower &amp; Elevate</td>
+  </tr>
+</tbody>
+</table>
