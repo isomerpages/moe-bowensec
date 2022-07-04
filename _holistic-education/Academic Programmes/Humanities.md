@@ -31,3 +31,7 @@ Students become actively involved in the learning process as they: 
 *   develop, clarify, and test hypotheses; and,  
     
 *   draw inferences and generate possible solutions.
+
+### Historical & Social Studies Investigations 
+<img src="/images/humanities%202.png" 
+     style="width:60%">
