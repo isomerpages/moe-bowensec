@@ -65,3 +65,14 @@ These tables list the various login platforms available for students.
   </tr>
 </tbody>
 </table>
+
+*   SSOE-devices and SWN Wireless Student User ID In order to access school-based devices and the wireless network, students will be using their NRIC/BC/FIN number as the user ID.  
+      
+    
+*   On-line Learning Portals Accounts Student User ID In order to access online learning accounts, every student is given a unique User ID.  For security purposes, student User IDs are generated from the first 5 characters of their names and the last 4 digits and letters of NRIC/BC/FIN number.
+
+------
+
+### Student Accounts and School Technical Support Information
+
+[Student Icon Quick Reference Guide](/files/Student%20Icon%20Quick%20Reference%20Guide.pdf)
