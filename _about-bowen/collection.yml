@@ -2,9 +2,9 @@ collections:
   about-bowen:
     output: true
     order:
-      - Senior and Lead Teachers.md
-      - Subject Heads.md
-      - Our School Song.md
-      - Our Heritage.md
-      - Our Vision, Mission, Motto and Values.md
       - The Principal's Foreword.md
+      - Our Vision, Mission, Motto and Values.md
+      - Our Heritage.md
+      - Our School Song.md
+      - Subject Heads.md
+      - Senior and Lead Teachers.md
