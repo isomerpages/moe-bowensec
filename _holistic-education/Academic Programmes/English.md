@@ -31,3 +31,11 @@ Various classes take turns to give a short presentation on topics ranging from i
 A perennial favorite, the E(English)-mazing Race is a post-examination activity held during Bowen Fiesta for Secondary Two students. 
 
 Students race one another in groups around the school to take part in language learning activities at various designated stations.
+
+### Literature Learning Journeys
+<img src="/images/EL3.png" 
+     style="width:70%">
+		 
+Literature Learning Journeys provide students with authentic experiences of how literature can come alive. By experiencing the magic and the richness of stage performances, students learn to better connect with the text that they are reading. 
+ 
+Whenever possible, students will have the opportunity to experience literature on the stage such as Animal Farm, Forbidden City and Peer Pleasure.
