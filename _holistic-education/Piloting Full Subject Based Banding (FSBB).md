@@ -55,5 +55,4 @@ Second, **Sec 2N(A) students who are eligible can offer Geography and/or Histor
 
 <u>Note 2:</u>
 
-*   Geography and/or History at Sec 2N(A) level has been made available for Sec 2N(T) students since Jan 2021.  
-
+*   Geography and/or History at Sec 2N(A) level has been made available for Sec 2N(T) students since Jan 2021.
