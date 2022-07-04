@@ -94,3 +94,171 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
   </tr>
 </tbody>
 </table>
+
+# English Department Team
+### English Language Teacher
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b4br">Mrs. Serene Goh</td>
+    <td class="tg-b4br">HOD / EL</td>
+    <td class="tg-b4br">serene_goh@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr Juraimy Abu Bakar</span></td>
+    <td class="tg-fxx4"><span style="color:#222">HOD / Student Well-Being</span></td>
+    <td class="tg-fxx4"><span style="color:#222">juraimy_abu_bakar@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Paul Lim</span></td>
+    <td class="tg-fxx4"><span style="color:#222">SH / EL</span></td>
+    <td class="tg-fxx4"><span style="color:#222">lim_keng_soon_paul@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Tan Shuming</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">SH / SWB</span></td>
+    <td class="tg-fxx4"><span style="color:#222">tan_shuming@schools.gov.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span></td>
+    <td class="tg-fxx4"><span style="color:#222">SH / ICT</span></td>
+    <td class="tg-fxx4"><span style="color:#222">alvin_chong_chee_leong@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Suraiya Izharul</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">suraiya_izharul@schools.gov.sg </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Grace Wang</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">wang_yahui_grace@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Andrea Thoo</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">kan_sok_may_andrea@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Kalaivani Pookays</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">kalaivani_pookays@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Adeline Lee</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">wee_siah_imm_adeline@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Kelly Lim</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">goh_yi_cheng@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm. Ida Lim</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">ida_lim@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm. Ng Gek Hwa</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">ng_gek_hwa@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm. Siti Hawa</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">siti_hawa_abdul_hadi@schools.gov.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Rachel Emily Wu</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">wu_shi_min_rachel@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Ken Foo</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">foo_sea_win@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Lim Kah Kiat</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">lim_kah_kiat@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Sean Ross Clunies</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">clunies_ross_sean_james@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Jean Cai</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">cai_junting@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Wirda</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">wirda_mardiana_sanif@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+### English Literature Teachers
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b4br">Mrs. Serene Goh</td>
+    <td class="tg-b4br">HOD / EL</td>
+    <td class="tg-b4br">serene_goh@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Suraiya Izharul</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">suraiya_izharul@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Grace Wang</span>             <br></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">wang_yahui_grace@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Mohamad Irsyad</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">mohamad_irsyad@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
