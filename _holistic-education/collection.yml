@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - CCE/Education & Career Guidance.md
       - CCE/Character and Citizenship Education.md
       - CCE/.keep
       - The Desired Bowenian.md
