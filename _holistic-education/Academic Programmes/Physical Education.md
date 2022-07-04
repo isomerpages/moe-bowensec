@@ -25,3 +25,29 @@ Besides the games & sports and outdoor education lessons, our students also go t
 You may go to the Bowen PE microsite to look in detail at the school's PE programme across all levels.  
 [Bowen PE Microsite >>>](https://sites.google.com/bws.edu.sg/bowenpe)
 ![](/images/Bowen%20PE%20microsite.png)
+
+------
+
+### ASSESSMENT
+
+Our students undergo continuous assessment of their level of competency in understanding and application of game skills and concepts, fitness level and their capacity to demonstrate sportsmanship and good values. 
+
+
+All our students are encouraged to achieve a good PE grade based on the following components:
+
+*   Game Skills and Concepts  
+    
+*   Physical Health & Fitness  
+    
+*   Outdoor Education Skills  
+    
+*   Social and Emotional learning
+
+------
+### Exercise and Sports Science (ESS)
+<img src="/images/PE%201.png" 
+     style="width:60%">
+
+Exercise and Sports Science (ESS) is a new subject that will look at various aspects of sports science, including exercise physiology, biomechanics, sports psychology, sports sociology and motor learning. Students will also apply the concepts behind these disciplines to perform physical activities and find ways to improve performance.
+
+Students entering Secondary 3 can opt for the subject and offer it as an O-level subject. They will have an extra three hours of PE classes weekly, on top of the two hours of lessons for all students. This move provides students with another option to pursue their interests and engage their strengths.
