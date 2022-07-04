@@ -11,3 +11,4 @@ description: ""
  
 ### The Previous Campus in Ang Mo Kio New Town
 
+![](/images/prev%20campus.png)
