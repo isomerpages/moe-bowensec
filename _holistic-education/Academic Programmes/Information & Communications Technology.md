@@ -100,6 +100,9 @@ Students may connect to the **SWN Wi-Fi network** to access the internet for l
 
 Please remember to **logout** from SWN at **[http://portal.swn.moe.edu.sg](http://portal.swn.moe.edu.sg/)** when you have finished using the connection.
 
+
+### Password Recovery
+[Reseting password in Bowen updated 2022](/files/Reseting%20password%20in%20Bowen%20updated%202022%20-%201.pdf)
 # ICT Team
 ### ICT Teachers and Support Team
 
@@ -156,3 +159,4 @@ Please remember to **logout** from SWN at **[http://portal.swn.moe.edu.sg](h
   </tr>
 </tbody>
 </table>
+
