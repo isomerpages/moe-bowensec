@@ -26,3 +26,16 @@ These designerly dispositions include:
 *   3D manipulation of resistant materials as a language for visualisation, communication, and presentation.
 
 ---------
+
+### Food and Nutrition (FN)
+
+
+The Food and Consumer Education program aims to educate students to be health-conscious and discerning consumers. This enables them to better manage their lives for the present and the future. Through the lessons, students are equipped with life skills that optimise their resources of food, finance and time to meet their physical, mental, social and economic needs.
+
+We take an innovative approach and aim to make the learning of the subject relevant, interesting and enjoyable for the students. By equipping our students with practical life skills through various activities such as investigative activities, planning balanced meals through supermarkets and canteen visits, they learn to connect what they learn with their own lives.
+
+Some activities students enjoyed were Action-Research projects and level-based cooking competitions.  In "Food in our Canteen" Action research project, various classes went to the canteen and approached the canteen vendors. Through their conversations with the vendors, students have found about more how their canteen food were cooked. They also came up with suggestions on how to improve the nutritive value of the food. 
+
+A cooking competition was open to Secondary 2 students and the aim was to discover Bowen’s young cooking talents. Through the competition, the students got an opportunity to unleash and discover their inner talents, develop their cooking skills, all while having fun.
+
+![](/images/F&N.png)
