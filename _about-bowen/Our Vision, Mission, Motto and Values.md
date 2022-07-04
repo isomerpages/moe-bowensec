@@ -18,3 +18,11 @@ We are committed to cultivating in Bowenians a mindset of life-long learning, st
 <b>Motto:<i> I Believe, Therefore I am.</b></i>
 
 We believe that our students will fulfil their aspirations when they believe in their own abilities and are determined to strive for success.
+
+
+# Our Values
+
+![](/images/Sch-Values_800x600.jpeg)
+
+# The School Crest
+![](/images/sch-crest_800x600.jpeg)
