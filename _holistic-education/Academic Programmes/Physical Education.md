@@ -51,3 +51,74 @@ All our students are encouraged to achieve a good PE grade based on the followin
 Exercise and Sports Science (ESS) is a new subject that will look at various aspects of sports science, including exercise physiology, biomechanics, sports psychology, sports sociology and motor learning. Students will also apply the concepts behind these disciplines to perform physical activities and find ways to improve performance.
 
 Students entering Secondary 3 can opt for the subject and offer it as an O-level subject. They will have an extra three hours of PE classes weekly, on top of the two hours of lessons for all students. This move provides students with another option to pursue their interests and engage their strengths.
+
+# Physical Education Team
+### Physical Education Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b4br">Mr. Poon Zi Li</td>
+    <td class="tg-b4br">HOD/ PE &amp; CCA</td>
+    <td class="tg-b4br">poon_zi_li@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Gary See</span></td>
+    <td class="tg-fxx4"><span style="color:#222">SH / CCA</span></td>
+    <td class="tg-fxx4"><span style="color:#222">gary_see_gim_boon@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Winston Chua </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">ST / PE</span></td>
+    <td class="tg-fxx4"><span style="color:#222">chua_seng_wee_winston@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Stacey Ang</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">ang_ting_ting@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Sean Ross</span></td>
+    <td class="tg-fxx4"></td>
+    <td class="tg-fxx4"><span style="color:#222">clunies_ross_sean_james@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Justin Chong</span></td>
+    <td class="tg-emg8"></td>
+    <td class="tg-fxx4"><span style="color:#222">justin_chong_jin_fatt@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Eileen Ong</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">eileen_ong@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Anne Marie Chua </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">anne_marie_chua@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Nurhaqimah</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">nurhaqimah_mohd_khamin@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
