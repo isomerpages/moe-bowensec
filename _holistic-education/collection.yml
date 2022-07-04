@@ -2,4 +2,5 @@ collections:
   holistic-education:
     output: true
     order:
+      - Piloting Full Subject Based Banding (FSBB).md
       - The Desired Bowenian.md
