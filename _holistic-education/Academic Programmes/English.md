@@ -50,5 +50,5 @@ Bowen actively trains and sends our students from different streams and levels, 
 Our Bowenians won the National Public Speaking Competition in 2016 and also clinched the 2nd runner-up (upper secondary) and top 16 (lower secondary) at the national-level Plain English Speaking Award (PESA) in 2017.
 <img src="/images/EL5.png" 
      style="width:70%">
-At the National Schools Literature Festival, our team of Secondary 2 Normal (Academic) and Normal (Technical) students choreographed their own presentation for the Choral Reading competition. Our Secondary 3 Literature students took part in the Literature debates, with one team winning the Unseen Poetry debate.
 		 
+At the National Schools Literature Festival, our team of Secondary 2 Normal (Academic) and Normal (Technical) students choreographed their own presentation for the Choral Reading competition. Our Secondary 3 Literature students took part in the Literature debates, with one team winning the Unseen Poetry debate.
