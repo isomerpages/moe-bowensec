@@ -39,3 +39,39 @@ Some activities students enjoyed were Action-Research projects and level-based c
 A cooking competition was open to Secondary 2 students and the aim was to discover Bowen’s young cooking talents. Through the competition, the students got an opportunity to unleash and discover their inner talents, develop their cooking skills, all while having fun.
 
 ![](/images/F&N.png)
+
+--------
+
+### Computer Applications (CPA)
+
+The Computer Applications (CPA) syllabus aims to prepare Bowenians in the Normal Technical Stream to be technologically adept citizens, and to function and contribute effectively in an increasingly technologically-driven world. 
+
+The syllabus emphasises fundamental knowledge and skills, and includes the appreciation and use of several software application packages for word processing, computer drawing and image editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming; as well as, applications on the Internet. 
+
+Specifically, the aims of the syllabus are to enable students to:
+
+*   acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities  
+    
+*   develop an awareness of how computing technology is used in the home, school, workplace and community  
+    
+*   appreciate the role computers play in everyday life and recognise the impact computers have on society and people  
+    
+*   develop critical thinking and problem-solving skills.  
+    
+
+Bowen has also been participating in the annual Media Computing Competition for CPA Coursework conducted by the Ministry of Education since its inauguration in 2012. Our students from Secondary 2 and 3 have been showing strong interest and aptitude and have won several top 10 awards in their respective categories of animation and game programming.
+![](/images/CPA.png)
+
+--------
+### Art
+
+Bowen offers GCE 'O' and 'N' Level Art as electives. The Art programme is a two or three-year course starting at Secondary Three and ending with the GCE 'O' or 'N' Level examinations at the end of Secondary Four or Five.  
+
+Art in Bowen as a subject, aims to identify and groom students in the Arts while instilling in them with a greater sense of appreciation for the aesthetics.   
+
+Our art curriculum is structured to provide students with the opportunities to become creative, innovative and thinking citizens of Singapore, leaders with a passion for the arts and a heart for the community and lifelong advocates of the arts. 
+
+Art assessment for lower secondary level is based on class assignments and an art examination in term 4. Secondary 3 art curriculum will be more technical, exploratory and theory-based, The assessments consist of class assignments and examinations. Secondary 4 and 5 art curriculum will be coursework based.
+
+![](/images/Bowen-artists.jpeg)
+![](/images/art1.png)
