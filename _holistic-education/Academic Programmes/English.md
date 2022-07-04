@@ -39,3 +39,16 @@ Students race one another in groups around the school to take part in language l
 Literature Learning Journeys provide students with authentic experiences of how literature can come alive. By experiencing the magic and the richness of stage performances, students learn to better connect with the text that they are reading. 
  
 Whenever possible, students will have the opportunity to experience literature on the stage such as Animal Farm, Forbidden City and Peer Pleasure.
+
+### Inter-School Competitions
+
+<img src="/images/EL4.png" 
+     style="width:70%">
+		 
+Bowen actively trains and sends our students from different streams and levels, to participate in various inter-school oratorical competitions, and events. In recent years, our students have done well in their respective competitions and events.
+
+Our Bowenians won the National Public Speaking Competition in 2016 and also clinched the 2nd runner-up (upper secondary) and top 16 (lower secondary) at the national-level Plain English Speaking Award (PESA) in 2017.
+<img src="/images/EL5.png" 
+     style="width:70%">
+At the National Schools Literature Festival, our team of Secondary 2 Normal (Academic) and Normal (Technical) students choreographed their own presentation for the Choral Reading competition. Our Secondary 3 Literature students took part in the Literature debates, with one team winning the Unseen Poetry debate.
+		 
