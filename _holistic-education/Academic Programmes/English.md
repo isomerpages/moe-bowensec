@@ -52,3 +52,45 @@ Our Bowenians won the National Public Speaking Competition in 2016 and also clin
      style="width:70%">
 		 
 At the National Schools Literature Festival, our team of Secondary 2 Normal (Academic) and Normal (Technical) students choreographed their own presentation for the Choral Reading competition. Our Secondary 3 Literature students took part in the Literature debates, with one team winning the Unseen Poetry debate.
+
+### Summary of Key Activities
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lr6o"><span style="color:#222">LifELit</span></th>
+    <th class="tg-lr6o"><span style="color:#222">An oratorical programme for lower secondary</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">English Week</span></td>
+    <td class="tg-lr6o"><span style="color:#222">A celebration of English Language learning</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">Fun with English</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Presentations by students</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">E-mazing Race</span></td>
+    <td class="tg-lr6o"><span style="color:#222">A post-examination activity Word-based games</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">Literature Learning Journey</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Theatre visits</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">Oratorical Competitions</span></td>
+    <td class="tg-vqm8">Both intra-school and inter-school competitions on oratorical presentation or Literature presentation or debate</td>
+  </tr>
+</tbody>
+</table>
