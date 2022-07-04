@@ -1,4 +1,5 @@
 collections:
   about-bowen:
     output: true
-    order: []
+    order:
+      - The Principal's Foreword.md
