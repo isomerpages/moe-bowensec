@@ -128,3 +128,126 @@ Art assessment for lower secondary level is based on class assignments and an 
   </tr>
 </tbody>
 </table>
+
+### Food & Nutrition Teachers
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Zurainah Kassim</span></td>
+    <td class="tg-fxx4"><span style="color:#222">zurainah_kassim@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Irene Leong </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">low_wai_wan@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Randy Low</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">low_chen_long_randy@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Siti Aisha Bte Yassin</span></td>
+    <td class="tg-fxx4"><span style="color:#222">siti_aisha_yassin@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+### Computer Applications Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Angela Tan       </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Co-ordinator  / CPA</span></td>
+    <td class="tg-fxx4"><span style="color:#222">tan_leng_khim@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Estelle Chong</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Year Head</span></td>
+    <td class="tg-fxx4"><span style="color:#222">estelle_chong_chyi_shin@schools.gov.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">SH / ICT</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">alvin_chong_chee_leong@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Chong How Kiat</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">chong_how_kiat@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Joyce Toh</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">toh_lin_lee_joyce@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Edmund Khee Jun Jie</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">khee_junjie@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+### Art Teachers
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Sim Sook Fen</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">loh_sook_fen@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Wong Swee Keng</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">woon_swee_keng@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm. Noorlidiawati</span></td>
+    <td class="tg-fxx4"><span style="color:#222">noorlidiawati_said@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
