@@ -16,3 +16,10 @@ a. Knowledge, Understanding and Application,<br>
 b) Skills and Processes and<br>
 c) Ethics and Attitudes.<br>
 
+<img src="/images/sci%201.png" 
+     style="width:60%">
+
+The curriculum design seeks to enable students to view the pursuit of science as meaningful and relevant to real life.
+
+<img src="/images/sci%202.png" 
+     style="width:60%">
