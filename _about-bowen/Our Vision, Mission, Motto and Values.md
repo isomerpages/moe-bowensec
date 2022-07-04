@@ -31,3 +31,9 @@ We believe that our students will fulfil their aspirations when they believe in 
 
 <b>Passion, Genuineness, Benevolence,</b><br>
 <b>Confidence, Vibrancy and Imagination.</b></center>
+
+Skewed in one direction to create a notable rotation denoting the shaping of aspirations and self-belief, the six arrows converge to form a star, which symbolizes distinction through the core values of <b>Respect, Responsibility, Compassion, Resilience, Teamwork and Excellence.</b>
+
+  
+
+Together with the corporate colours of **Blue (Youth)** and **Purple (Passion)**. The distinctive logo epitomizes the harmonious balance between the left and right brain.
