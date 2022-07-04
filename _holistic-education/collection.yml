@@ -2,15 +2,15 @@ collections:
   holistic-education:
     output: true
     order:
-      - Academic Programmes/Music.md
-      - Academic Programmes/Information & Communications Technology.md
-      - Academic Programmes/Physical Education.md
-      - Academic Programmes/Craft and Technology.md
-      - Academic Programmes/Humanities.md
-      - Academic Programmes/Science.md
-      - Academic Programmes/Mathematics.md
-      - Academic Programmes/Mother Tongue.md
-      - Academic Programmes/English.md
       - Academic Programmes/.keep
+      - Academic Programmes/English.md
+      - Academic Programmes/Mother Tongue.md
+      - Academic Programmes/Mathematics.md
+      - Academic Programmes/Science.md
+      - Academic Programmes/Humanities.md
+      - Academic Programmes/Craft and Technology.md
+      - Academic Programmes/Physical Education.md
+      - Academic Programmes/Information & Communications Technology.md
+      - Academic Programmes/Music.md
       - The Desired Bowenian.md
       - Piloting Full Subject Based Banding (FSBB).md
