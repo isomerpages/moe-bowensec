@@ -2,4 +2,5 @@ collections:
   about-bowen:
     output: true
     order:
+      - Our Vision, Mission, Motto and Values.md
       - The Principal's Foreword.md
