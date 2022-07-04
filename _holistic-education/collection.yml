@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Academic Programmes/Physical Education.md
       - Academic Programmes/Craft and Technology.md
       - Academic Programmes/Humanities.md
       - Academic Programmes/Science.md
