@@ -2,5 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
+      - Academic Programmes/.keep
       - The Desired Bowenian.md
       - Piloting Full Subject Based Banding (FSBB).md
