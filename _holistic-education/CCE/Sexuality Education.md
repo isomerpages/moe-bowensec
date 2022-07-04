@@ -291,3 +291,12 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scop
 
 [ANNEX A SEd Parent Opt Out Form 2022](/files/ANNEX%20A%20SEd%20Parent%20Opt%20Out%20Form%202022.pdf)
 
+11. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form.  
+  
+This form will be distributed to parents at the start of the year and is also downloadable in the link below. The completed form is to be submitted **by 28/02/2022.**
+
+[ANNEX B eTeens Parents Opt-out Form 2022](/files/ANNEX%20B%20eTeens%20Parents%20Opt-out%20Form%202022.pdf)
+
+12. Parents can contact the school at **63859466** for discussion or to seek clarification about the school’s sexuality education programme.
+
+13. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
