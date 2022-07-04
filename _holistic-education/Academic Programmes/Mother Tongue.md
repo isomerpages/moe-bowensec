@@ -171,3 +171,67 @@ We see MTL as living language, and we nurture active learners who can use their 
   </tr>
 </tbody>
 </table>
+
+# Bowen Young Journalists
+Student correspondents in Singapore submit articles to ZaoBao Comma on-line edition. Since 2014, Bowen has about a growing number of articles published and some articles have even won awards.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ggb9{background-color:#E8EDFF;color:#0FB3DF;text-align:left;vertical-align:top}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u05r">#</th>
+    <th class="tg-u05r">Recent Articles</th>
+    <th class="tg-u05r">Date</th>
+    <th class="tg-u05r">Contributor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vqm8">1</td>
+    <td class="tg-ggb9"><a href="https://zbschools.sg/news/school/stories-16665#"><span style="text-decoration:none;color:#0FB3DF">博文中学适应新常态活动依然精彩</span></a><br></td>
+    <td class="tg-vqm8">16 Sept 2020</td>
+    <td class="tg-vqm8">黄冰菁、李弦惠、许亦惠</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">2</td>
+    <td class="tg-ggb9"><a href="https://zbschools.sg/showbiz/manga/stories-16694"><span style="text-decoration:none;color:#0FB3DF">《动漫馆》：学之旅</span></a><br></td>
+    <td class="tg-vqm8">16 Sept 2020</td>
+    <td class="tg-lr6o"><span style="color:#222">许亦惠</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">3.</td>
+    <td class="tg-ggb9"><a href="https://zbschools.sg/news/school/stories-16362"><span style="text-decoration:none;color:#0FB3DF">质疑就是动力</span></a></td>
+    <td class="tg-vqm8">12 Aug 2020</td>
+    <td class="tg-vqm8">黄冰菁<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">4</td>
+    <td class="tg-vqm8">《线上面试限制才能》<br></td>
+    <td class="tg-vqm8">12 Aug 2020</td>
+    <td class="tg-vqm8">4E1 Yeo Fengwei<br>interviewed by ZbComma<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">5</td>
+    <td class="tg-lr6o"><span style="color:#222">2020年联合学生通讯员俱乐部招生名单公布</span><br></td>
+    <td class="tg-vqm8">17 April 2020</td>
+    <td class="tg-lr6o"><span style="color:#222">联合早报</span></td>
+  </tr>
+</tbody>
+</table>
+
+### 2020年联合学生通讯员俱乐部招生名单公布
+
+
+17 April 2020, 联合早报
+
+![](/images/Newspaper%20cutting%202.png)
