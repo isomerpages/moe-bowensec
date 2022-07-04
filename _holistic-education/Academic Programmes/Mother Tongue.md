@@ -15,3 +15,11 @@ The Mother Tongue Department aims to empower Bowenians to succeed in the 21st Ce
      
 <img src="/images/MT1.png" 
      style="width:70%">
+		 
+With this in mind, the MTL Department strives to keep MTL effective and relevant with the changing language environment landscape. The MTL department organizes several activities for our students as we aim to create a conducive environment to promote MTL usage and learning outside the classrooms.   
+
+  
+
+We see MTL as living language, and we nurture active learners who can use their MTL to communicate proficiently in everyday life, developing their awareness of cultural identity, and cultivate an appreciation of their cultural roots. This enables our students to connect with communities across Asia and the people who speak that language or share that culture.
+
+![](/images/MT2.png)
