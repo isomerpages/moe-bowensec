@@ -2,6 +2,7 @@ collections:
   about-bowen:
     output: true
     order:
+      - Our School Song.md
       - Our Heritage.md
       - Our Vision, Mission, Motto and Values.md
       - The Principal's Foreword.md
