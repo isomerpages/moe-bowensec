@@ -75,3 +75,56 @@ Art assessment for lower secondary level is based on class assignments and an 
 
 ![](/images/Bowen-artists.jpeg)
 ![](/images/art1.png)
+
+# Craft and Technology Team
+### Craft and Technology Teachers
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
+    <th class="tg-e6w6"></th>
+    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Jason Yap</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">HOD/C&amp;T</span></td>
+    <td class="tg-fxx4"><span style="color:#222">yap_chee_han@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm. Sim Sze Hwei</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">                                 </span></td>
+    <td class="tg-fxx4"><span style="color:#222">sim_sze_hwei@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Jackson Ng</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">ng_chip_khiang_jackson@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr Edmund Khee Jun Jie</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">khee_junjie@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Freddy Tan</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer</span></td>
+    <td class="tg-fxx4"><span style="color:#222">tan_hock_nang_freddy@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Ng Yew Hian</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer</span></td>
+    <td class="tg-fxx4"><span style="color:#222">ng_yew_hian@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
