@@ -76,3 +76,26 @@ These tables list the various login platforms available for students.
 ### Student Accounts and School Technical Support Information
 
 [Student Icon Quick Reference Guide](/files/Student%20Icon%20Quick%20Reference%20Guide.pdf)
+
+-----
+
+### Connecting to the Segregated Wireless Network (SWN)
+
+Students may connect to the **SWN Wi-Fi network** to access the internet for learning purposes using their own devices such as laptops, tablets or mobile phones. _*One device per login only._
+
+**To connect to SWN Wi-Fi:**
+
+1.  Select **SWN@SSOE** from available Wi-Fi network list  
+    
+2.  Once connected, a default login page will be loaded on the device's Internet Browser.
+3.  **Login** using your **IAMS account**. (Remember to check on the box to agree to the T&C.)
+4.  Download and install the **MOE-SSL certificate.** (You only need to do so once.
+    
+**Note:** You cannot login to more than one device using the same account at the same time.
+
+
+
+**Disconnect from SWN Wi-Fi after use**
+
+
+Please remember to **logout** from SWN at **[http://portal.swn.moe.edu.sg](http://portal.swn.moe.edu.sg/)** when you have finished using the connection.
