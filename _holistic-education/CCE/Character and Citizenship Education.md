@@ -66,3 +66,41 @@ The programmes/activities were split into 3 Tiers:
   </tr>
 </tbody>
 </table>
+
+### The Content Areas in CCE
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u05r">Components</th>
+    <th class="tg-u05r">What is refers to</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u05r">CCE Lessons</td>
+    <td class="tg-vqm8"><br>Teaching of values, knowledge and skills for Character &amp; Citizenship<br></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">School-based CCE</td>
+    <td class="tg-vqm8"><br>Values In Action (VIA)<br>Commemoration of National Education Day<br>(Total Defence Day, International Friendship Day, Racial Harmony Day and National Day)<br>Assembly Programme anchored on the school values<br>Environment Awareness Efforts<br>(Recycling and Keep Your School Clean daily area cleaning programme etc.)<br>Care and Inclusion Week<br>Cyber wellness Talks<br>Anti-Drug/ Anti-Bully Talks<br>Mental Wellness Talks<br></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">CCE Guidance Modules</td>
+    <td class="tg-vqm8"><br>Education and Career Guidance (ECG)<br>Sexuality Education (SEd)<br>Cyber Wellness (CW)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-u05r">New Content Areas<br>(w.e.f 2021)</td>
+    <td class="tg-vqm8">Mental Health<br><br>Family Education</td>
+  </tr>
+</tbody>
+</table>
