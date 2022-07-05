@@ -9,3 +9,14 @@ The school's GCE N Level  Preliminary Examination is scheduled from Monday, 25 
 
 Schedule:
 [2022 N Level Prelim TT](/files/2022%20N%20Level%20Prelim%20TT.pdf)
+
+### Bowen celebrates her 40th Anniversary
+
+
+Visit the Bowen 40th anniversary Microsite and browse through a selection of images that take you through Bowen's history and milestones. See and hear some of our former principals, staff and Bowenians as they share their well-wishes for tour school.
+
+  
+
+[Visit the Bowen 40th Anniversary Microsite here ](https://sites.google.com/moe.edu.sg/bowensec40)
+
+----
