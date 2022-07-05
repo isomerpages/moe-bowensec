@@ -22,12 +22,6 @@ Parents and students can learn more about Bowen’s PDLP from our student micros
 # Personal Learning Device Information
 [PLD Support Information Website Updated 3 Lenovo Acer.pdf](/files/PLD%20Support%20Information%20Website%20Updated%203%20Lenovo%20Acer.pdf)
 
-### Personal Learning Device Support Information
-
-Sec 1 to Sec 3 students will be receiving their PLDs on 27 August 2021. Please find the information for the support of PLDs in the link below.
-
-[nformation Page on PLD Support >>>](https://bowensec-moe-edu-sg-admin.cwp.sg/signature-programmes/learning-with-technology/personal-learning-device-pld-information)
-https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology
 
 ### Lenovo Service Centre Information
 ![](/images/PLD%201.jpeg)
