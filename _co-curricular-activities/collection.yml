@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports/Taekwando.md
       - Sports/Table Tennis.md
       - Sports/Netball.md
       - Sports/Football (Girls).md
