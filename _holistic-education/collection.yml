@@ -2,10 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Student Leadership/.keep
-      - Student Leadership/Student Leadership.md
-      - Student Leadership/The Bowen Student Council.md
-      - Student Leadership/Student Initiated Projects.md
       - The Desired Bowenian.md
       - Piloting Full Subject Based Banding (FSBB).md
       - Academic Programmes/.keep
@@ -22,3 +18,7 @@ collections:
       - CCE/Character and Citizenship Education.md
       - CCE/Education & Career Guidance.md
       - CCE/Sexuality Education.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/The Bowen Student Council.md
+      - Student Leadership/Student Initiated Projects.md
