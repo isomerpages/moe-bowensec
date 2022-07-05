@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Student Leadership/Student Initiated Projects.md
       - Student Leadership/The Bowen Student Council.md
       - Student Leadership/Student Leadership.md
       - Student Leadership/.keep
