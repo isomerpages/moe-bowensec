@@ -226,3 +226,18 @@ Please note that these instructions are for 2022 Sec 1 only.
   </tr>
 </tbody>
 </table>
+
+-----
+
+### Sec 2 - 4/5 Online Purchase of Textbooks 2022 and Uniforms 
+
+
+1.  Due to COVID-19, the sales of textbooks and uniforms for 2022 **will be conducted online** to manage the number of visitors to the school and to ensure crowds are kept to the minimum. **This is done to safeguard the health of our students and parents**. 
+2.  The Bookshop and Uniform Vendor’s websites for ordering the textbooks and uniforms will begin taking orders from **Mon, 8 Nov 2021**. Please access the websites to:  
+    a.       Order textbooks / uniforms and make payment through e-payment modes  
+    b.       Choose to self-collect the books / uniforms at the Bookshop at the chosen date / time. Self-Collection at school starts from **Mon, 15 Nov 2021** (please refer to stipulated dates given on website).  
+    c.       Or, get the items delivered to your house at a cost.  Indicate date and time as per the Vendor’s websites.
+     
+3.  **Please note**: the Bookshop and Uniform Vendor at school **will not serve walk-in customers** who have not placed online orders beforehand.  This is to provide them time to pre-pack the orders and to ensure Safety Measures are observed.  
+ 
+4.  Please refer to the information below. Please **create a user account** using your own choice of email address and password (there is no preset user ID or Password).
