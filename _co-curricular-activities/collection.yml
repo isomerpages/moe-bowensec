@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Indian Dance.md
       - Performing Arts/Bowen Band (Display & Marching).md
       - Performing Arts/.keep
       - CCAs.md
