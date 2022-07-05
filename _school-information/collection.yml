@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Level Matters/Secondary 1.md
       - Level Matters/.keep
       - School Matters/.keep
       - School Matters/News & Events.md
