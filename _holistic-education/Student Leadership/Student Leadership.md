@@ -26,3 +26,17 @@ In Bowen, there are **3 main groups of student leaders** – Class Leaders, CC
 <img src="/images/14th-Student-Council-small.jpeg" 
      style="width:75%">
 * ***Student Councillors*** : Student Councillors are appointed at Secondary 2 or 3, after going through a rigorous selection process which includes interviews, observations and a probation period.  Besides planning key events such as Secondary 1 Orientation and Teachers’ Day Celebrations, Student Councillors also serve the school by doing daily duties and providing support for programs within school.  As leaders selected to represent the student population, they play a key role in leading by example, to influence and inspire the school to serve to the best of their ability.
+
+### Leadership Development
+Leadership development in Bowen takes a two-tiered approach - **school-wide** and **customised.**  
+
+*   We believe that it is important for every student to pick up basic leadership skills (e.g. communication, building confidence).  We conduct **school-wide programmes** to equip students with these basic skills. For example, all Sec 2 and Sec 3 students will have the opportunity to go through a leadership workshop (aligned to the _Leadership Challenge Model_ ) during Bowen Fiesta.  Through other programmes such as Level Camps and VIA, students also have the chance to pick up important skills and values and lead in serving the school and community.
+    
+    
+*   **Customised** leadership development is also carried out for the various groups of student leaders who may need more development specifically for their roles. The school provides support in this area in various ways:
+	*   _Training & Development:_
+
+		Each group of student leaders will have their own leadership development programmes that cater to their needs. For example, Class Leaders will go through a training workshop and there are feedback sessions and conversations with teachers to help develop them. Uniformed Group CCA Leaders may be required to attend specific training courses related to their rank.
+	* _Leadership Opportunities:_
+
+		Many student leaders are given the opportunity to plan activities for their peers such as class bonding activities, CCA camps and school-led events for the school population. Students also given the opportunity to go out of school for training or exposure (e.g. Outward Bound School for CCA Leaders and Post National Day Rally Dialogue for Student Councillors)
