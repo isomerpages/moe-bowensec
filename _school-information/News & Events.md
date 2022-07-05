@@ -322,3 +322,8 @@ Sec 1 to Sec 3 students will be receiving their PLDs on 27 August 2021. Please f
 
 [nformation Page on PLD Support >>>](https://bowensec-moe-edu-sg-admin.cwp.sg/signature-programmes/learning-with-technology/personal-learning-device-pld-information)
 https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology
+
+### Lenovo Service Centre Information
+![](/images/PLD%201.jpeg)
+### Acer Service Centre Information
+![](/images/PLD%202.jpeg)
