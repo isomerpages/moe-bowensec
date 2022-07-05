@@ -32,3 +32,14 @@ Our programme includes 3 key learning activities:
     
 
 In addition, the school’s **[Education and Career Guidance Programme](https://moe-bowensec-staging.netlify.app/holistic-education/CCE/education-and-career-guidance)** will support the Normal Course students to learn more about post-secondary options and career possibilities (see later section on Education and Career Guidance).
+
+### CARE-bean
+
+Care-Bean is an activity room tucked at a corner next to the school hall where students are welcome to drop and enjoy a healthy dose of fun activities to wind down and recharge.  
+  
+
+It was first conceptualised as a community project, an outcome of a collaboration that the school undertook together with the Singapore Children's Society. Then, it was known as 'Project Cabin'. The school has continued 'Project Cabin' and reposition it as part of the school care effort. The space is now renamed as **'CARE-bean Corner'**. 
+
+  
+
+**'CARE-bean Corner'** **remains** an outreach platform, engaging our students through an array of student-centred activities. At **'CARE-bean Corner'**, we availed to our students fun and learning resources\*,\* like gaming consoles and board games. The school Care Team that is now running the space hopes to strengthen stronger school engagement for our students by providing a space that promotes healthy social interaction through fun and learning.
