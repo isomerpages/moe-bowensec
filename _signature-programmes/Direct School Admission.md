@@ -100,3 +100,19 @@ The programme aims to develop students’ talents and potentials in the various 
   </tr>
 </tbody>
 </table>
+
+----
+### Centralised DSA-Sec Application Process
+---------------------------------------
+
+  
+For 2022, application for DSA-Sec can be submitted through the online DSA-Sec Portal.  
+  
+The application is free-of-charge and will be open **from 5th May 2022**.  
+  
+ For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+ 
+ -----
+ ### Selection Process and Key Dates
+
+![](/images/DSA%20Schedule.jpeg)
