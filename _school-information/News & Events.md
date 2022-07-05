@@ -316,14 +316,9 @@ Please note that these instructions are for 2022 Sec 1 only.
 5.  Students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
 
 -----
+
 ### Personal Learning Device Support Information
 
 Sec 1 to Sec 3 students will be receiving their PLDs on 27 August 2021. Please find the information for the support of PLDs in the link below.
 
-[nformation Page on PLD Support >>>](https://bowensec-moe-edu-sg-admin.cwp.sg/signature-programmes/learning-with-technology/personal-learning-device-pld-information)
-https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology
-
-### Lenovo Service Centre Information
-![](/images/PLD%201.jpeg)
-### Acer Service Centre Information
-![](/images/PLD%202.jpeg)
+[nformation Page on PLD Support >>>](https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology)
