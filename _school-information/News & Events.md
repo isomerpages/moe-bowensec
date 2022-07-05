@@ -69,3 +69,33 @@ Visit the Bowen 40th anniversary Microsite and browse through a selection of ima
 * [5 Eudialyte Sem2 TT](/files/2022%20SEM2%20S5E%20TT%20V1.pdf)
 
 ------
+
+### Direct School Admission (DSA) to Bowen Secondary in 2023
+--------------------------------------------------------
+
+Bowen welcomes students who are currently in Primary 6 (or the equivalent) to find out more about Direct School Admission (DSA) for entry to Sec 1 in 2023. Bowen is committed to developing students to their fullest potential in both their areas of talent and their studies. Applications for DSA-Sec can be submitted through the online [DSA-Sec Portal](https://www.moe.gov.sg/dsa-sec). and will be open **from 5th May 2022**.
+
+Bowen offers DSA for Boys and Girls in:   
+
+*   Entrepreneurship
+*   Community Youth Leadership
+*   Marching Band
+*   Badminton
+*   Football
+
+[Click here for Information on DSA to Bowen >>>](https://moe-bowensec-staging.netlify.app//signature-programmes/direct-school-admission-1)
+
+-----
+
+### 2022 Term Academic Coaching Programme (ACP) Timetables
+
+* [4Topaz ACP 2022](/files/4T%20ACP%202022.pdf)
+* [4Opal ACP 2022](/files/4O%20ACP%202022.pdf)
+* [4Sapphire ACP 2022](/files/4S%20ACP%202022.pdf)
+* [4Peridot ACP 2022](/files/4P%20ACP%202022.pdf)
+* [4Amethyst ACP 2022](/files/4A%20ACP%202022.pdf)
+* [4Ruby ACP 2022](/files/4R%20ACP%202022.pdf)
+* [4Kunzite ACP 2022](/files/4K%20ACP%202022.pdf)
+* [4Larimar ACP 2022](/files/4L%20ACP%202022.pdf)
+* [4Emerald ACP 2022](/files/4E%20ACP%202022.pdf)
+* [5 Eudialyte ACP](/files/5E%20ACP%202022.pdf)
