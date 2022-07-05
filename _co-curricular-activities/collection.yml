@@ -2,14 +2,14 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports/Taekwando.md
-      - Sports/Table Tennis.md
-      - Sports/Netball.md
-      - Sports/Football (Girls).md
-      - Sports/Football (Boys).md
-      - Sports/Basketball (Boys).md
-      - Sports/Badminton.md
       - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball (Boys).md
+      - Sports/Football (Boys).md
+      - Sports/Football (Girls).md
+      - Sports/Netball.md
+      - Sports/Table Tennis.md
+      - Sports/Taekwando.md
       - Performing Arts/.keep
       - Performing Arts/Bowen Band (Display & Marching).md
       - Performing Arts/Indian Dance.md
