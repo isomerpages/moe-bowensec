@@ -241,3 +241,76 @@ Please note that these instructions are for 2022 Sec 1 only.
 3.  **Please note**: the Bookshop and Uniform Vendor at school **will not serve walk-in customers** who have not placed online orders beforehand.  This is to provide them time to pre-pack the orders and to ensure Safety Measures are observed.  
  
 4.  Please refer to the information below. Please **create a user account** using your own choice of email address and password (there is no preset user ID or Password).
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xjw2{background-color:#EAEAEA;border-color:inherit;color:#0FB3DF;text-align:left;vertical-align:top}
+.tg .tg-53fn{background-color:#EAEAEA;border-color:inherit;color:#0FB3DF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-z5wu{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cjod{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-z5wu"></th>
+    <th class="tg-z5wu">Bookshop</th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Uniform Vendor</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cjod">Supplier</td>
+    <td class="tg-cjod">Pacific Bookstores Pte Ltd</td>
+    <td class="tg-cjod">Johnson Uniform and Trading Company Pte Ltd</td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Website</td>
+    <td class="tg-53fn"><a href="http://www.pacificbookstores.com/">www.pacificbookstores.com</a></td>
+    <td class="tg-53fn"><a href="http://www.intrenduniforms.com/">www.intrenduniforms.com</a></td>
+  </tr>
+  <tr>
+    <td class="tg-z5wu">Sales begin:</td>
+    <td class="tg-z5wu" colspan="2">Mon, 8 Nov 2021</td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Self-collection at School / Home Delivery</td>
+    <td class="tg-cjod" colspan="2">Starting on Mon, 15 Nov 2021 (Refer to stipulated dates given on website)</td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Home Delivery Charge</td>
+    <td class="tg-z5wu">$13.80 per delivery<br>(parents are allowed to combine up to 2 orders)</td>
+    <td class="tg-z5wu">$10.00 per delivery</td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Payment mode for         online purchase</td>
+    <td class="tg-cjod">VISA / MASTER / Debit Cards / Paynow</td>
+    <td class="tg-cjod">Paynow</td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Payment mode for        on-site purchase</td>
+    <td class="tg-cjod">Cash / Paynow</td>
+    <td class="tg-cjod">Cash / Paynow</td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Contact No:</td>
+    <td class="tg-cjod">Tel: 6559 2269</td>
+    <td class="tg-cjod">Tel: 6741 0930</td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Email</td>
+    <td class="tg-xjw2"><a href="mailto:sales@pacificbookstores.com.sg">sales@pacificbookstores.com.sg</a></td>
+    <td class="tg-xjw2"><a href="mailto:sales@itu.com.sg">sales@itu.com.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-cjod">Application for MOE Financial Assistance Scheme (MOE FAS) 2022</td>
+    <td class="tg-cjod" colspan="2"><br>Students who are applying or have applied for MOE FAS for 2022 should not purchase textbooks or uniforms before they are informed of the outcome of their FAS application. <br>If you order Textbooks / Uniforms and make payment before your FAS application is approved, we will be unable to refund you even if the FAS application is approved.<br><br>The General Office (GO) will contact you to collect the ‘Approval of FAS for 2022 Letter’ i.e. do not come to school until you are contacted by GO.  The letter will have details of the collection of textbooks and uniforms.</td>
+  </tr>
+</tbody>
+</table>
+
+5.  Students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
