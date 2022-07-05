@@ -16,3 +16,9 @@ The Applied Learning Programme in Bowen helps Bowenians appreciate the relevance
 The Learning for Life Programme (LLP) provides Bowenians with real-life experiences to develop character and values, cultivate positive attitudes, self-expression and strengthen their people skills. Bowen's focus on LLP is to develop **Community and Youth Leadership** in our students.
 
 These aspects of Applied Learning are part of the Bowen's signature **[Bowen ChANgeMakers](https://moe-bowensec-staging.netlify.app//signature-programmes/bowen-changemakers)** programme.
+
+**Links to MOE information on Applied Learning**
+
+[MOE Information about Applied Learning Programme >>>](https://www.moe.gov.sg/education/secondary/applied-learning)
+
+[MOE Information about Learning for Life Programme >>>](https://www.moe.gov.sg/education/secondary/applied-learning)
