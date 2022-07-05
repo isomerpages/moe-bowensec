@@ -40,3 +40,9 @@ Leadership development in Bowen takes a two-tiered approach - **school-wide** a
 	* _Leadership Opportunities:_
 
 		Many student leaders are given the opportunity to plan activities for their peers such as class bonding activities, CCA camps and school-led events for the school population. Students also given the opportunity to go out of school for training or exposure (e.g. Outward Bound School for CCA Leaders and Post National Day Rally Dialogue for Student Councillors)
+		
+### Recognition
+
+In terms of recognition, student leaders are recognised at various platforms. For example, Class Leaders are given badges and a Letter of Appointment during the annual Class Leaders Appointment Ceremony.
+
+Student Councillors are appointed officially during the Student Council Investiture, where guests from other schools are also invited for the prestigious ceremony.
