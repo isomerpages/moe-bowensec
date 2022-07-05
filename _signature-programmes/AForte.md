@@ -30,4 +30,5 @@ Our programme includes 3 key learning activities:
     
 3.  **Exploring career options** – students attend Elective Modules (EM) conducted in school and at ITE, for a variety of areas including Aeronautics, E-Entrepreneurship, Food Science Culinary, Photography and Mechatronics. These modules serve to extend what they learn in their subjects and give students insight into the jobs and industries that they might be interested in. From Sec 2 to Sec 4, students can experience up to 3 EMs.  Students can also get to visit polytechnics and ITE, and take part in various post-secondary competitions.   
     
-In addition, the school’s Education and Career Guidance Programme will support the Normal Course students to learn more about post-secondary options and career possibilities (see later section on Education and Career Guidance).
+
+In addition, the school’s **[Education and Career Guidance Programme](https://moe-bowensec-staging.netlify.app/holistic-education/CCE/education-and-career-guidance)** will support the Normal Course students to learn more about post-secondary options and career possibilities (see later section on Education and Career Guidance).
