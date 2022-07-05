@@ -138,3 +138,11 @@ Financial assistance benefits include the following :
 \*Students can use their Edusave Accounts to pay the 2nd\-Tier Miscellaneous Fee of $10.00 per month.
 
 To find out more about Merit based awards and scholarships, [click here for MOE awards and scholarships >>>](https://www.moe.gov.sg/financial-matters/awards-scholarships)
+
+### FAS Application Procedures
+
+Parents are to complete the FAS application form (available at the General Office) and submit the completed form with relevant documents to the General Office.  Applications are accepted year-round.    
+
+You may also find more information on MOE's website [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).   
+
+Please approach **Mdm. Filzah, Administration Manager**, at tel: **6385 9466** if you have any query with regard to financial assistance.
