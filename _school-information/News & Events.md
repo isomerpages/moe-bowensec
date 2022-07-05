@@ -42,3 +42,27 @@ Visit the Bowen 40th anniversary Microsite and browse through a selection of ima
 * [2 Kunzite Sem 2 TT](/files/2022%20SEM2%20S2K%20TT%20V1.pdf)
 * [2 Larimar Sem 2 TT](/files/2022%20SEM2%20S2L%20TT%20V1.pdf)
 * [2 Emerald Sem 2 TT](/files/2022%20SEM2%20S2E%20TT%20V1.pdf)
+
+**2022 Sec 3 Semester 2 Term 3 Class Timetables (wef 27 June 2022)**
+
+* [3 Topaz Sem2 TT](/files/2022%20SEM2%20S3T%20TT%20V1.pdf)
+* [3 Opal Sem2 TT](/files/2022%20SEM2%20S3O%20TT%20V1.pdf)
+* [3 Sapphire Sem2 TT](/files/2022%20SEM2%20S3S%20TT%20V1.pdf)
+* [3 Peridot Sem2 TT](/files/2022%20SEM2%20S3P%20TT%20V1.pdf)
+* [3 Amethyst Sem2 TT](/files/2022%20SEM2%20S3A%20TT%20V1.pdf)
+* [3 Ruby Sem2 TT](/files/2022%20SEM2%20S3R%20TT%20V1.pdf)
+* [3 Kunzite Sem2 TT](/files/2022%20SEM2%20S3K%20TT%20V1.pdf)
+* [3 Larimar Sem2 TT](/files/2022%20SEM2%20S3L%20TT%20V1.pdf)
+* [3 Emerald Sem2 TT](/files/2022%20SEM2%20S3E%20TT%20V1.pdf)
+
+**2022 Sec 4n5 Semester 2 Term 3 Class Timetables (wef 27 June 2022)**
+
+* [ 4 Topaz Sem 2 TT](/files/2022%20SEM2%20S4T%20TT%20V1.pdf)
+* [ 4 Opal Sem 2 TT](/files/2022%20SEM2%20S4O%20TT%20V1.pdf)
+* [ 4 Sapphire Sem 2 TT](/files/2022%20SEM2%20S4S%20TT%20V1.pdf)
+* [ 4 Peridot Sem 2 TT](/files/2022%20SEM2%20S4P%20TT%20V1.pdf)
+* [ 4 Amethyst Sem 2 TT](/files/2022%20SEM2%20S4A%20TT%20V1.pdf)
+* [ 4 Ruby Sem 2 TT](/files/2022%20SEM2%20S4R%20TT%20V1.pdf)
+* [ 4 Kunzite Sem 2 TT](/files/2022%20SEM2%20S4K%20TT%20V1.pdf)
+* [ 4 Larimar Sem 2 TT](/files/2022%20SEM2%20S4L%20TT%20V1.pdf)
+* 
