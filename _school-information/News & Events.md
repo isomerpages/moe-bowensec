@@ -380,3 +380,14 @@ Google Suite for Education allows students to collaborate using cloud-based tool
 		
 **Office Hours:**     <br>Monday ― Friday:    8:00am - 4:00pm  <br>
 **Tel: 63852042** (School-based Helpdesk)
+
+----- 
+
+### Bowen celebrated her 40th Anniversary
+
+
+Visit the Bowen 40th anniversary Microsite and browse through a selection of images that take you through Bowen's history and milestones. See and hear some of our former principals, staff and Bowenians as they share their well-wishes for tour school.
+
+  
+
+[Visit the Bowen 40th Anniversary Microsite here >>>](https://sites.google.com/moe.edu.sg/bowensec40)
