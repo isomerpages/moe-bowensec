@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School Matters/Care and Discipline.md
       - School Matters/News & Events.md
       - School Matters/.keep
