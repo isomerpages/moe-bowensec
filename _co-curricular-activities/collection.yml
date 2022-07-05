@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Bowen Dance Club.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Indian Dance.md
       - Performing Arts/Bowen Band (Display & Marching).md
