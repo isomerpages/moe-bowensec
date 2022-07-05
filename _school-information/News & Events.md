@@ -65,4 +65,7 @@ Visit the Bowen 40th anniversary Microsite and browse through a selection of ima
 * [ 4 Ruby Sem 2 TT](/files/2022%20SEM2%20S4R%20TT%20V1.pdf)
 * [ 4 Kunzite Sem 2 TT](/files/2022%20SEM2%20S4K%20TT%20V1.pdf)
 * [ 4 Larimar Sem 2 TT](/files/2022%20SEM2%20S4L%20TT%20V1.pdf)
-* 
+* [ 4 Emerald Sem 2 TT](/files/2022%20SEM2%20S4E%20TT%20V1.pdf)
+* [5 Eudialyte Sem2 TT](/files/2022%20SEM2%20S5E%20TT%20V1.pdf)
+
+------
