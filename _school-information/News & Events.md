@@ -368,3 +368,15 @@ Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) <br>
 Google Suite for Education allows students to collaborate using cloud-based tools. Applications include G-mail, Google Docs, Slides, Spreadsheet, Google Classroom etc.  
 **Office Hours:** <br>Monday ― Friday: 8:00am - 4:00pm <br>
 **Tel: 63852042** (School-based Helpdesk)
+
+3.  **ACE-Learning**  
+    A Math on-line learning platform.  
+    **\- Consult individual Subject Teachers**  
+      
+    
+2.  **SSOE-IAMS login (School-based WIFI networks)**  
+    This covers the login required on all SSOE devices that are on school-based networks,  
+    Eg. Computers in computer lab, 
+		
+**Office Hours:**     <br>Monday ― Friday:    8:00am - 4:00pm  <br>
+**Tel: 63852042** (School-based Helpdesk)
