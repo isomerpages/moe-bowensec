@@ -321,4 +321,6 @@ Please note that these instructions are for 2022 Sec 1 only.
 
 Sec 1 to Sec 3 students will be receiving their PLDs on 27 August 2021. Please find the information for the support of PLDs in the link below.
 
-[nformation Page on PLD Support >>>](https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology)
+[Information Page on PLD Support >>>](https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology)
+
+[Student_Zoom_Onboarding_Guide.pdf](/files/Student_Zoom_Onboarding_Guide.pdf)
