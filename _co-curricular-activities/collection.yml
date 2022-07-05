@@ -2,14 +2,14 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts/Bowen Artists.md
-      - Performing Arts/Bowen Chorale.md
-      - Performing Arts/Drama Club.md
-      - Performing Arts/Bowen Dance Club.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Indian Dance.md
-      - Performing Arts/Bowen Band (Display & Marching).md
       - Performing Arts/.keep
+      - Performing Arts/Bowen Band (Display & Marching).md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Bowen Dance Club.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Bowen Chorale.md
+      - Performing Arts/Bowen Artists.md
       - CCAs.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys Brigade.md
