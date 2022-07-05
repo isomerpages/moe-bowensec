@@ -2,10 +2,10 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniformed Groups/NPCC.md
-      - Uniformed Groups/NCDCC.md
-      - Uniformed Groups/NCC (Land)(Boys).md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/Boys Brigade.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC (Land)(Boys).md
+      - Uniformed Groups/NCDCC.md
+      - Uniformed Groups/NPCC.md
       - CCAs.md
