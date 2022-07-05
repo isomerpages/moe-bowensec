@@ -99,3 +99,130 @@ Bowen offers DSA for Boys and Girls in: 
 * [4Larimar ACP 2022](/files/4L%20ACP%202022.pdf)
 * [4Emerald ACP 2022](/files/4E%20ACP%202022.pdf)
 * [5 Eudialyte ACP](/files/5E%20ACP%202022.pdf)
+
+-----
+
+### Release of 2021 Singapore-Cambridge GCE O-Level Examination Results and 2022 Joint Admissions Exercise
+
+We like to congratulate all our Bowenian who took their GCE O Level Examinations in 2021. The presentation deck is available for download in the link below. Students are reminded to read the information on the 2022 Joint Admissions Exercise (JAE) carefully and take note of the stipulated deadlines.
+
+**Links for Parents**
+1. [ 2021 O-Level Results Release Message and Information Sheet for Parents_Bowen.pdf](/files/2021%20O-Level%20Results%20Release%20Message%20and%20Information%20Sheet%20for%20Parents_Bowen.pdf)
+2. [N-O Level Info Sheet for Parents_28 Sept.pdf](/files/N-O%20Level%20Info%20Sheet%20for%20Parents_28%20Sept.pdf)
+3. [JAE Information from SEAB Website](/files/2021-o-level-results_1st-pr_website.pdf)
+-----
+### Joint Admissions Exercise (JAE) 2022
+
+The Joint Admissions Exercise (JAE) 2022 is for candidates seekings, Millennia Institute, polytechnics and Institute of Technical Education in 2022.   
+
+**Registration**
+
+1.  JAE registration will open from **3.00pm on Wednesday, 12 Jan 2022** to **4.00pm on Monday, 17 Jan 2022**.  
+2.  All course registration must be done online through the JAE Internet System (JAE-IS) accessible through the JAE website at [www.moe.gov.sg/jae](http://www.moe.gov.sg/jae). 
+3.  Applicants can access JAE-IS with your SingPass or JAE PIN. 
+4.  The JAE PIN can be found in Form A (in envelope).
+
+**Results**
+
+1.  The JAE posting results will be released on **Fri 4 Feb 2022** through the following modes: 
+2.  JAE-IS, accessible through the JAE website at [www.moe.gov.sg/jae](http://www.moe.gov.sg/jae) 
+3.  Short Message Service (SMS) via applicant’s mobile number (if a valid Singapore mobile number is provided by applicants during the JAE registration).
+
+For more information about JAE, visit the following links
+
+1 . [www.moe.gov.sg/jae.](http://www.moe.gov.sg/jae.)
+2. JAE Booklet
+
+-----
+
+### Sec 1 Online Purchase of Textbooks 2022 and Uniforms
+Please note that these instructions are for 2022 Sec 1 only.
+1.  Due to COVID-19, the sales of textbooks and uniforms for 2022 **will be conducted online** to manage the number of visitors to the school and to ensure crowds are kept to the minimum. **This is done to safeguard the health of our students and parents.**
+    
+      
+    
+2.  The Bookshop and Uniform Vendor’s websites for ordering the textbooks and uniforms will begin taking orders from **Monday, 20 Dec 2021**. Please access the websites to:  
+      
+    
+    a. Order textbooks / uniforms and make payment through e-payment modes  
+    b. Choose to self-collect the books / uniforms at the Bookshop at the chosen date / time. Self-Collection at school starts from **Thursday, 23 Dec 2021** (please refer to stipulated dates given on website).  
+    
+    c. Or, get the items delivered to your house at a cost. Indicate date and time as per the Vendor’s websites.  
+    
+      
+    
+3.  **Please note:** the Bookshop and Uniform Vendor at school **will NOT serve walk-in customers** who have not placed online orders beforehand. This is to provide them time to pre-pack the orders and to ensure Safety Measures are observed. 
+    
+      
+    
+4.  Please refer to the information below. Please **create a user account** using your own choice of email address and password (there is no preset user ID or Password).
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-veki{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:right;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-5xlu{background-color:#EAEAEA;color:#0FB3DF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dpzh{background-color:#EAEAEA;color:#0FB3DF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p"></th>
+    <th class="tg-rj1p">Bookshop</th>
+    <th class="tg-baqh"><span style="font-weight:bold">Uniform Vendor</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Supplier</td>
+    <td class="tg-y7qa">Pacific Bookstores Pte Ltd</td>
+    <td class="tg-y7qa">Johnson Uniform and Trading Company Pte Ltd</td>
+  </tr>
+  <tr>
+    <td class="tg-veki">Website</td>
+    <td class="tg-5xlu"><a href="http://www.pacificbookstores.com/">www.pacificbookstores.com</a></td>
+    <td class="tg-5xlu"><a href="http://www.intrenduniforms.com/">www.intrenduniforms.com</a></td>
+  </tr>
+  <tr>
+    <td class="tg-rj1p">Sales begin:</td>
+    <td class="tg-rj1p" colspan="2">Monday, 20 Dec 2021</td>
+  </tr>
+  <tr>
+    <td class="tg-rj1p">Self-collection at School / Home Delivery</td>
+    <td class="tg-y7qa" colspan="2">Starting on Thursday, 23 Dec 2021 (Refer to stipulated dates given on website)</td>
+  </tr>
+  <tr>
+    <td class="tg-rj1p">Home Delivery Charge</td>
+    <td class="tg-rj1p">$13.80 per delivery<br>(parents are allowed to combine up to 2 orders)</td>
+    <td class="tg-rj1p">$10.00 per delivery</td>
+  </tr>
+  <tr>
+    <td class="tg-rj1p">Payment mode for    online purchase</td>
+    <td class="tg-y7qa">VISA / MASTER / Debit Cards / Paynow</td>
+    <td class="tg-y7qa">Paynow</td>
+  </tr>
+  <tr>
+    <td class="tg-veki">Payment mode for<br>on-site purchase</td>
+    <td class="tg-ii8k">Cash / Paynow</td>
+    <td class="tg-y7qa">Cash / Paynow</td>
+  </tr>
+  <tr>
+    <td class="tg-rj1p">Contact No</td>
+    <td class="tg-y7qa">Tel: 6559 2269</td>
+    <td class="tg-y7qa">Tel: 6741 0930</td>
+  </tr>
+  <tr>
+    <td class="tg-rj1p">Email</td>
+    <td class="tg-dpzh"><a href="mailto:sales@pacificbookstores.com.sg">sales@pacificbookstores.com.sg</a></td>
+    <td class="tg-dpzh"><a href="mailto:sales@itu.com.sg">sales@itu.com.sg</a></td>
+  </tr>
+</tbody>
+</table>
