@@ -2,10 +2,10 @@ collections:
   holistic-education:
     output: true
     order:
-      - Student Leadership/Student Initiated Projects.md
-      - Student Leadership/The Bowen Student Council.md
-      - Student Leadership/Student Leadership.md
       - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/The Bowen Student Council.md
+      - Student Leadership/Student Initiated Projects.md
       - The Desired Bowenian.md
       - Piloting Full Subject Based Banding (FSBB).md
       - Academic Programmes/.keep
