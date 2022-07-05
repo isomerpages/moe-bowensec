@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Bowen Artists.md
       - Performing Arts/Bowen Chorale.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Bowen Dance Club.md
