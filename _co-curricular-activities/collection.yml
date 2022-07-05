@@ -2,9 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs and Societies/.keep
-      - Clubs and Societies/AIMS Club.md
-      - Clubs and Societies/Library Club.md
       - CCAs.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys Brigade.md
@@ -28,3 +25,6 @@ collections:
       - Sports/Netball.md
       - Sports/Table Tennis.md
       - Sports/Taekwando.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/AIMS Club.md
+      - Clubs and Societies/Library Club.md
