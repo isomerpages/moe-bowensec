@@ -46,3 +46,23 @@ third_nav_title: Uniformed Groups
 Guided by the Cadet Strong framework form HQ NCC: **Strong Body**, **Resilient Mind** and **Committed Heart,** 
 
 Bowen NCC Land inspires to instill pride in its members through teamwork, discipline, and physical fitness. The CCA aims to provide cadets with a diverse range of challenging, enriching, and fun activities.
+
+### Training Objectives 
+
+The 5 broad objectives of our training are: 
+
+*   Character Building, 
+*   Military Awareness, 
+*   National Education,
+*   Adventurous & "Can Do" Spirit, and 
+*   Leadership. 
+
+Weekly activities include foot & arms drills, CrossFit Challenge, orienteering, physical training (running & gym sessions), individual field craft and weapon handling. Other interesting activities that are also organised include route marching, rock climbing, C-130 Hercules flying experience & Navy Frigate visit, unarmed combat program like Muay Thai, abseiling etc.  
+
+  
+
+Cadets at each level will undergo different activities and deserving cadets will also be given the opportunity to participate in International Cadet Exchange Programmes to Brunei, India, and USA. What sets the NCC apart from other CCAs is that physically-fit cadets can also look forward to joining SAF Courses such as the Airborne Course and Scuba Diving Course. Upon the successful completion of these SAF-conducted courses, cadets will earn the prestigious Airborne and Scuba Diving badges which they can wear upon enlistment for National Service. In a nutshell, Bowen NCC aims to develop youth with a fit body, good character and strong values that prepares them for challenges in future.  
+
+  
+
+[More information about the National Cadet Corps (NCC) can be found here >>>](https://www.facebook.com/sgncc.hq/)
