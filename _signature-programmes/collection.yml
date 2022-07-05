@@ -2,10 +2,10 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Direct School Admission.md
-      - Applied Learning & Learning for Life Programmes in Bowen.md
-      - Learning with Technology.md
-      - Bowen Horizons.md
-      - AForte.md
-      - Bowen Fiesta.md
       - Bowen ChANgeMakers.md
+      - Bowen Fiesta.md
+      - AForte.md
+      - Bowen Horizons.md
+      - Direct School Admission.md
+      - Learning with Technology.md
+      - Applied Learning & Learning for Life Programmes in Bowen.md
