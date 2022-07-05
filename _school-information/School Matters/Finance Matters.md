@@ -146,3 +146,7 @@ Parents are to complete the FAS application form (available at the General Offic
 You may also find more information on MOE's website [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).   
 
 Please approach **Mdm. Filzah, Administration Manager**, at tel: **6385 9466** if you have any query with regard to financial assistance.
+
+* [Edusave_Application_Form_2021.pdf](/files/Edusave_Application_Form_2021.pdf)
+* [Giro_application_form_2021.pdf](/files/Giro_application_form_2021.pdf)
+* [MOE FAS Application Form Updated Sep 2021.pdf](/files/MOE%20FAS%20Application%20Form%20Updated%20Sep%202021.pdf)
