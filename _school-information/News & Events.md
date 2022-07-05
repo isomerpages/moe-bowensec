@@ -324,3 +324,42 @@ Sec 1 to Sec 3 students will be receiving their PLDs on 27 August 2021. Please f
 [Information Page on PLD Support >>>](https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology)
 
 [Student_Zoom_Onboarding_Guide.pdf](/files/Student_Zoom_Onboarding_Guide.pdf)
+
+-----
+
+### Choosing the Right School
+![](/images/Choose-Bowen-Secondary-Popup2.jpeg)
+
+-----
+
+### Launch of Bowen PE Microsite
+
+
+Find out more about our PE curriculum from the Bowen PE microsite.  
+
+[Bowen PE microsite >>>](https://sites.google.com/bws.edu.sg/bowenpe)
+![](/images/Bowen%20PE%20microsite.png)
+
+-----
+
+### Password Reset Options for HBL
+
+If students have forgotten their passwords and require assistance to reset their passwords, they should first proceed with the following self-help procedures. As a last resort, they may contact their Form Teachers for assistance.
+
+1. **Student Learning Space (SLS)**<br>
+Students may get locked out of the system if there are too many failed attempts. SLS also require students to have a minimum of 12 character password.
+
+**Office Hours: (School-based Helpdesk)** <br>
+Monday ― Friday: 8:00am - 4:00pm  <br>
+**Tel: 63852042**   
+  
+**Non-Office Hours (SLS Helpdesk)** <br>
+Monday ― Friday:   <br>
+4:00 pm ― 9:00 pm (School Days),    <br>
+9:00 am ― 9:00 pm (School Holidays)  
+  
+Saturdays: 9:00 am ― 3:00 pm  <br>
+\*Closed on Sundays & Public Holidays  
+  
+Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) <br>
+**Tel: (65) 6702 6513**
