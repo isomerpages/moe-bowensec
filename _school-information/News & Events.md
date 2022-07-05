@@ -363,3 +363,8 @@ Saturdays: 9:00 am ― 3:00 pm  <br>
   
 Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) <br>
 **Tel: (65) 6702 6513**
+
+2. **School Google Suite Accounts (@bws.edu.sg)** <br>
+Google Suite for Education allows students to collaborate using cloud-based tools. Applications include G-mail, Google Docs, Slides, Spreadsheet, Google Classroom etc.  
+**Office Hours:** <br>Monday ― Friday: 8:00am - 4:00pm <br>
+**Tel: 63852042** (School-based Helpdesk)
