@@ -233,3 +233,49 @@ Together with my team of form teachers, we will seek to understand and strive to
 </table>
 
 ### 2022 Sec 3 Semester 2 Timetables by Class
+**(V1.33 Updated as of 1 July 2022)**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S3 TOPAZ</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S3 OPAL</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S3 SAPPHIRE</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3P%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Topaz TT</span></a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3O%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Opal TT</span></a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3S%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Sapphire TT</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S3 PERIDOT</span><br></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S3 AMETHYST</span><br></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S3 RUBY</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3P%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3P Peridot TT</span></a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3A%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Amethyst TT</span></a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3R%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Ruby TT</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0"> S3 KUNZITE</span></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0"> S3 LARIMAR</span></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0"> S3 EMERALD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3K%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Kunzite TT</span></a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3L%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Larimar TT</span></a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S3E%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S3 Emerald TT</span></a></td>
+  </tr>
+</tbody>
+</table>
