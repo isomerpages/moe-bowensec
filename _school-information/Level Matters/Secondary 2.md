@@ -19,3 +19,5 @@ Secondary 2 ( 2022 Academic Year)  <br>
 
 <img src="/images/2021%20Sec1%20Cohort%20Moto.jpg" 
      style="width:55%">
+		 
+**G**row and **E**mbrace change to become a **M**asterpiece
