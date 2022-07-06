@@ -206,10 +206,10 @@ Secondary 1  (2022 Academic Year)  <br>
     <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S1 EMERALD</span><br></td>
   </tr>
   <tr>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1R%20V1.33.pdf">2022 SEM2 S1 Ruby TT</a></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1K%20V1.33.pdf">2022 SEM2 S1 Kunzite TT</a></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1L%20V1.33.pdf">2022 SEM2 S1 Larimar TT</a></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1E%20V1.33.pdf">2022 SEM2 S1 Emerald TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S1R%20V1.pdf">2022 SEM2 S1 Ruby TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S1K%20V1.pdf">2022 SEM2 S1 Kunzite TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S1L%20V1.pdf">2022 SEM2 S1 Larimar TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S1E%20V1.pdf">2022 SEM2 S1 Emerald TT</a></td>
   </tr>
 </tbody>
 </table>
