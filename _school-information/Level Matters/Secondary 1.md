@@ -417,3 +417,19 @@ Do download the correct set as the cost for each set is different
   </tr>
 </tbody>
 </table>
+
+### User Guide for the Online Purchase of Textbooks 2022
+
+Please read the instructions for the online purchase and collection of textbooks here.  
+Vendor website: [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)
+
+You may also download the instructions here.[User Guide for Online Purchase of Textbooks S1.pdf](/files/User%20Guide%20for%20Online%20Purchase%20of%20Textbooks%20S1.pdf)
+
+### User Guide for the Online Purchase of Uniforms 2022
+
+Please read the instructions for the online purchase and collection of uniforms here.  
+Vendor website: [www.intrenduniforms.com](http://www.intrenduniforms.com/)
+
+You may also download the instructions here.[User Guide for Online Purchase of Uniforms_S1.pdf](/files/User%20Guide%20for%20Online%20Purchase%20of%20Uniforms_S1.pdf)
+
+![](/images/Uniform%20pricelist_v2.png)
