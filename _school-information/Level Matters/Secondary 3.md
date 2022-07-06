@@ -311,12 +311,12 @@ Together with my team of form teachers, we will seek to understand and strive to
   </tr>
   <tr>
     <td class="tg-y7qa">2022 Sec 3 Term Assessment 1 Letter to Parents</td>
-    <td class="tg-dpzh"><a href="/files/2022%20S1%20Letter%20to%20parents%20TA1.pdf">2022 S2 Letter to parents TA1.pdf</a><br></td>
+    <td class="tg-dpzh"><a href="/files/2022%20S3%20Letter%20to%20parents%20TA1.pdf">2022 S3 Letter to parents TA1.pdf</a><br></td>
     <td class="tg-ii8k"> 18 January 2022</td>
   </tr>
 	  <tr>
-    <td class="tg-y7qa">2022 Letter to Parents Sec 2 End Term 2 Letter</td>
-    <td class="tg-dpzh"><a href="/files/2022%20Letter%20to%20Parents%20Sec%202%20End%20Term%202%20Letter%20Final.pdf">2022 Letter to Parents Sec 2 End Term 2 Letter</a><br></td>
+    <td class="tg-y7qa">2022 Letter to Parents Sec 3 End Term 2 Letter</td>
+    <td class="tg-dpzh"><a href="/files/2022%20Letter%20to%20Parents%20Sec%203%20End%20Term%202%20Letter_final.pdf">2022 Letter to Parents Sec 3 End Term 2 Letter</a><br></td>
     <td class="tg-ii8k"> 18 January 2022</td>
   </tr>
   <tr>
@@ -331,7 +331,7 @@ Together with my team of form teachers, we will seek to understand and strive to
   </tr>
   <tr>
     <td class="tg-y7qa">2022 Start of Term 3 Letter<br></td>
-    <td class="tg-dpzh"><a href="/files/2022%20Term%203%20Letter_%20Sec%202.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S2 Start of Term 3 Letter</span></a>  </td>
+    <td class="tg-dpzh"><a href="/files/2022%20Term%203%20Letter_%20Sec%203.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S3 Start of Term 3 Letter</span></a>  </td>
     <td class="tg-ii8k">27 June 2022 </td>
   </tr>
   <tr>
