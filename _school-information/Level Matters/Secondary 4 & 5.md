@@ -428,13 +428,31 @@ Please download the schedules in PDF format via the links below.
     <td class="tg-uxuj"><a href="/files/S4%20EXP_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S4 EXP_Booklist_2022.pdf</span></a><br></td>
     <td class="tg-uxuj"><a href="/files/S4%20NA_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S4 NA_Booklist_2022.pdf</span></a></td>
   </tr>
+ 
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rqji{background-color:#b0b0b0;border-color:inherit;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-uihw{background-color:#EAEAEA;border-color:inherit;color:#0FB3DF;text-align:center;vertical-align:top}
+.tg .tg-ygvn{background-color:#b0b0b0;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 4 NT</span></td>
-    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 5 NA</span></td>
+    <th class="tg-rqji"><span style="font-weight:700;font-style:normal">SEC 4 NT</span></th>
+    <th class="tg-ygvn"><span style="font-weight:700;font-style:normal">SEC 5 NA</span></th>
   </tr>
+</thead>
+<tbody>
   <tr>
-    <td class="tg-uxuj">S4 NT_Booklist_2022.pdf</td>
-    <td class="tg-uxuj">S5 NA_Booklist_2022.pdf</td>
+    <td class="tg-uihw"><a href="/files/S4%20NT_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S4 NT_Booklist_2022.pdf</span></a>  <br></td>
+    <td class="tg-uihw"><a href="[](/files/S5%20NA_Booklist_2022.pdf)">S5 NA_Booklist_2022.pdf</a></td>
   </tr>
 </tbody>
 </table>
