@@ -341,3 +341,35 @@ Together with my team of form teachers, we will seek to understand and strive to
   </tr>
 </tbody>
 </table>
+
+### 2022 Sec 3 Term Assessment 2 (TA2) Schedule
+
+[2022 Sec 3 TA2 TT.pdf](/files/2022%20Sec%203%20TA2%20TT.pdf)
+
+### 2022 Secondary 3 Booklist
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 3 Exp</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 3 NA</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 3 NT</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/S3%20EXP_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S3 EXP_Booklist_2022.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/S3%20NA_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S3 NA_Booklist_2022.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/S3%20NT_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S3 NT_Booklist_2022.pdf</span></a><br></td>
+  </tr>
+</tbody>
+</table>
