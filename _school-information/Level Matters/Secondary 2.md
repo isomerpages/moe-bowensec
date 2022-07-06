@@ -42,3 +42,43 @@ Along their ‘yellow brick road’, our GEMies will experience their academic s
 
 
 At the end of their Bowen journey, we aim is that our GEMies will shine brilliantly, being imbued with deep life skills and lifelong learning skills, becoming a Masterpiece in his/her own right.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 TOPAZ</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 SAPPHIRE</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 PERIDOT</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 AMETHYST</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2T%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Topaz TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2S%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Sapphire TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2P%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Peridot TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2A%20V1.pdf">2022 SEM2 S2 Amethyst TT</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 RUBY</span><br></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 KUNZITE</span><br></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 LARIMAR</span><br></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S2 EMERALD</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec2/Sem2%20V1.33/2022%20SEM2%20S2R%20V1.33.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Ruby TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec2/Sem2%20V1.33/2022%20SEM2%20S2K%20V1.33.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Kunzite TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec2/Sem2%20V1.33/2022%20SEM2%20S2L%20V1.33.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Larimar TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec2/Sem2%20V1.33/2022%20SEM2%20S2E%20V1.33.pdf">2022 SEM2 S2 Emerald TT</a><br></td>
+  </tr>
+</tbody>
+</table>
