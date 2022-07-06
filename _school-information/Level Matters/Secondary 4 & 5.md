@@ -217,3 +217,79 @@ Secondary 4 (2022 Academic Year)  <br>
   </tr>
 </tbody>
 </table>
+
+### 2022 Sec 4 Semester 2 Class Timetables 
+
+**(v1.33 - wef 1 July 2022)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S4 TOPAZ</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S4 OPAL</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S4 SAPPHIRE</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4T%20V1.pdf">2022 SEM2 S4T Topaz TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4O%20V1.pdf">2022 SEM2 S4 Opal TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4S%20V1.pdf">2022 SEM2 S4 Sapphire TT</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S4 PERIDOT</span><br></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S4 AMETHYST</span><br></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S4 RUBY</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4P%20V1.pdf">2022 SEM2 S4 Peridot TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4A%20V1.pdf">2022 SEM2 S4 Amethyst TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4R%20V1.pdf">2022 SEM2 S4 Ruby TT</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0"> S4 KUNZITE</span></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0"> S4 LARIMAR</span></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0"> S4 EMERALD</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4K%20V1.pdf">2022 SEM2 S4 Kunzite TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4L%20V1.pdf">2022 SEM2 S4 Larimar TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S4E%20V1.pdf">2022 SEM2 S4 Emerald TT</a></td>
+  </tr>
+</tbody>
+</table>
+
+### 2022 Sec 5 Semester 2, Term 3 Class Timetable 
+
+**(v1.33 - wef 1 July 2022)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dpzh{background-color:#EAEAEA;color:#0FB3DF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S5 EUDIALYTE</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dpzh"><a href="[](/files/2022%20SEM2%20S5E%20V1.pdf)">2022 SEM2 S5 Eudialyte TT</a></td>
+  </tr>
+</tbody>
+</table>
