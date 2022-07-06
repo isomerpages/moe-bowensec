@@ -195,9 +195,9 @@ Secondary 1  (2022 Academic Year)  <br>
 <tbody>
   <tr>
     <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S1T%20V1.pdf">2022 SEM2 S1 Topaz TT</a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1S%20V1.33.pdf"><span style="text-decoration:none;color:#0FB3DF">2</span></a><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1S%20V1.33.pdf">022 SEM2 S1 Sapphire TT</a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1P%20V1.33.pdf">2022 SEM2 S1 Peridot TT</a></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1A%20V1.33.pdf">2022 SEM2 S1 Amethyst TT</a><br></td>
+    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec1/Sem2%20V1.33/2022%20SEM2%20S1S%20V1.33.pdf"><span style="text-decoration:none;color:#0FB3DF"></span></a><a href="/files/2022%20SEM2%20S1S%20V1.pdf">2022 SEM2 S1 Sapphire TT</a><br></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S1P%20V1.pdf">2022 SEM2 S1 Peridot TT</a></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S1A%20V1.pdf">2022 SEM2 S1 Amethyst TT</a><br></td>
   </tr>
   <tr>
     <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">S1 RUBY</span><br></td>
