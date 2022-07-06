@@ -109,7 +109,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
  
   <tr>
     <td class="tg-y7qa">2022 Start of Term 1 Letter</td>
-    <td class="tg-dpzh"><a href="/files/2022%20S2%20Start%20of%20Term%201%20Letter%20final.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S1 Start of Term 1 Letter.pdf</span></a><br></td>
+    <td class="tg-dpzh"><a href="/files/2022%20S2%20Start%20of%20Term%201%20Letter%20final.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S2 Start of Term 1 Letter.pdf</span></a><br></td>
     <td class="tg-ii8k">3 January 2022 </td>
   </tr>
   <tr>
