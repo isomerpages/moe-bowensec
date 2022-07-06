@@ -20,3 +20,9 @@ Secondary 3 (2022 Academic Year)  <br>
 <b>Mrs. Normala Chang</b><br>
 Head / Normal Course  <br>
 (Covering) Year Head Secondary 3 (2022 Academic Year) <br> [normala\_mohamed\_saleh\_ma@schools.gov.sg](mailto:normala_mohamed_saleh_ma@schools.gov.sg)
+
+
+### Sec 3 Cohort Theme
+
+<img src="/images/S3%20Cohort%20Theme.png" 
+     style="width:50%">
