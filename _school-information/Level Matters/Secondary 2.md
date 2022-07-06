@@ -76,9 +76,9 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   </tr>
   <tr>
     <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2R%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Ruby TT</span></a><br></td>
-    <td class="tg-uxuj"><a href=""><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Kunzite TT</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec2/Sem2%20V1.33/2022%20SEM2%20S2L%20V1.33.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Larimar TT</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2022%20Class%20Timetables/Sec2/Sem2%20V1.33/2022%20SEM2%20S2E%20V1.33.pdf">2022 SEM2 S2 Emerald TT</a><br></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2K%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Kunzite TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2L%20V1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 SEM2 S2 Larimar TT</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2022%20SEM2%20S2E%20V1.pdf">2022 SEM2 S2 Emerald TT</a><br></td>
   </tr>
 </tbody>
 </table>
