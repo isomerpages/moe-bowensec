@@ -134,7 +134,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   </tr>
   <tr>
     <td class="tg-y7qa">2022 Start of Term 3 Letter<br></td>
-    <td class="tg-dpzh"><a href="/files/2022%20Term%203%20Letter_%20Sec%201.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S3 Start of Term 3 Letter</span></a>  </td>
+    <td class="tg-dpzh"><a href="/files/2022%20Term%203%20Letter_%20Sec%202.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S2 Start of Term 3 Letter</span></a>  </td>
     <td class="tg-ii8k">27 June 2022 </td>
   </tr>
   <tr>
