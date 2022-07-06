@@ -306,15 +306,15 @@ Do download the correct set as the cost for each set is different
 <tbody>
   <tr>
     <td class="tg-ii8k">Sec 1</td>
-    <td class="tg-ii8k"> <a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2022%20Uniform%20and%20Booklist/S1%20EXP%20Booklist%202022.pdf">S1 EXP Booklist 2022.pdf</a></td>
-    <td class="tg-ii8k"> <a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2022%20Uniform%20and%20Booklist/S1%20NA%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">S1 NA Booklist 2022.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2022%20Uniform%20and%20Booklist/S1%20NT%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">S1 NT Booklist 2022.pdf</span></a><br></td>
+    <td class="tg-ii8k"> <a href="/files/S1%20EXP%20Booklist%202022.pdf">S1 EXP Booklist 2022.pdf</a></td>
+    <td class="tg-ii8k"> <a href="/files/S1%20NA%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">S1 NA Booklist 2022.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/S1%20NT%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">S1 NT Booklist 2022.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ii8k"> Sec 1 with SBB</td>
     <td class="tg-ii8k"> N.A.</td>
-    <td class="tg-ii8k"> <a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2022%20Uniform%20and%20Booklist/S1%20NA%20SBB%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">S1 NA SBB Booklist 2022.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2022%20Uniform%20and%20Booklist/S1%20NT%20SBB%20Booklist%202022.pdf">S1 NT SBB Booklist 2022.pd</a><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2022%20Uniform%20and%20Booklist/S1%20NT%20SBB%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">f</span></a><br></td>
+    <td class="tg-ii8k"> <a href="/files/S1%20NA%20SBB%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">S1 NA SBB Booklist 2022.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/S1%20NT%20SBB%20Booklist%202022.pdf">S1 NT SBB Booklist 2022.pd</a><span style="text-decoration:none;color:#0FB3DF">f</span></a><br></td>
   </tr>
 </tbody>
 </table>
