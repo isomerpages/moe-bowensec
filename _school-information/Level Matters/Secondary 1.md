@@ -213,3 +213,64 @@ Secondary 1  (2022 Academic Year)  <br>
   </tr>
 </tbody>
 </table>
+
+### Cohort Letters
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-g6bv{background-color:#B0B0B0;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-efmh{background-color:#B0B0B0;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dpzh{background-color:#EAEAEA;color:#0FB3DF;text-align:left;vertical-align:top}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-g6bv">Letters / Information Slides</th>
+    <th class="tg-efmh">Click to download files</th>
+    <th class="tg-efmh">Issued Date</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa">2022 Welcome Pack</td>
+    <td class="tg-dpzh"><a href="/files/2022%20Welcome%20Package.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 Welcome Package.pdf</span></a><br></td>
+    <td class="tg-ii8k">20 December 2021</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2022 Start of Term 1 Letter</td>
+    <td class="tg-dpzh"><a href="/files/2022%20S1%20Start%20of%20Term%201%20Letter.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S1 Start of Term 1 Letter.pdf</span></a><br></td>
+    <td class="tg-ii8k">3 January 2022 </td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2022 Term Assessment 1 Letter to Parents</td>
+    <td class="tg-dpzh"><a href="/files/2022%20S1%20Letter%20to%20parents%20TA1.pdf)">2022 S1 Letter to parents TA1.pdf</a><br></td>
+    <td class="tg-ii8k"> 18 January 2022</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">PG Mobile App Meetings Feature User Guide<br></td>
+    <td class="tg-dpzh"><a href="/files/PG%20Mobile%20App%20Meetings%20Feature%20User%20Guide.pdf"><span style="text-decoration:none;color:#0FB3DF">PG Mobile App Meetings Feature User Guide</span></a> </td>
+    <td class="tg-ii8k">19 May 2022<br></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Joint SPF CNB MOE School Advisory<span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-dpzh"><a href="/files/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">Joint SPF CNB MOE School Advisory - Jun 2022</span></a>  </td>
+    <td class="tg-ii8k"> June 2022</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">2022 Start of Term 3 Letter<br></td>
+    <td class="tg-dpzh"><a href="/files/2022%20Term%203%20Letter_%20Sec%201.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S3 Start of Term 3 Letter</span></a>  </td>
+    <td class="tg-ii8k">27 June 2022 </td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">HBL Mattters for Parents</td>
+    <td class="tg-dpzh"><a href="/files/How%20do%20I%20support%20my%20child%20on%20regular%20HBL%20Day.pdf"><span style="text-decoration:none;color:#0FB3DF">How do I support my child on regular HBL Day.pdf</span></a>  </td>
+    <td class="tg-ii8k">27 June 2022 </td>
+  </tr>
+</tbody>
+</table>
