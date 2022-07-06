@@ -4,3 +4,5 @@ links:
     url: /contact-us/
   - title: Resources
     resource_room: true
+  - title: Menu Title
+    collection: school-information
