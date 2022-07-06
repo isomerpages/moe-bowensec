@@ -359,3 +359,82 @@ Secondary 4 (2022 Academic Year)  <br>
   </tr>
 </tbody>
 </table>
+
+### 2022 ACP Timetables
+
+Please download the schedules in PDF format via the links below.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uxuj"><a href="/files/4T%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Topaz ACP</span></a><br></th>
+    <th class="tg-uxuj"><a href="/files/4O%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Opal ACP</span></a><br></th>
+    <th class="tg-uxuj"><a href="/files/4S%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Sapphire ACP</span></a><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/4P%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Peridot ACP</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/4A%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Amethyst ACP</span></a><br></td>
+    <td class="tg-ii8k"> <a href="/files/4R%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Ruby ACP</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="/files/4K%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Kunzite ACP</span></a></td>
+    <td class="tg-uxuj"><a href="/files/4L%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Larimar ACP</span></a><span style="color:#222;background-color:#EAEAEA">  </span></td>
+    <td class="tg-uxuj"><a href="/files/4E%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Emerald ACP</span></a><span style="color:#222;background-color:#EAEAEA">  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="[](/files/5E%20ACP%202022.pdf)"><span style="text-decoration:none;color:#0FB3DF">5 Eudialyte ACP</span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+### 2022 SEC 4/5 Mid-Year Examination Schedule
+[](/files/2022%20Sec%204n5%20MYE%20TT.pdf)
+
+### 2022 Secondary 4/5 Booklist
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 4 Exp</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 4 NA</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uxuj"><a href="/files/S4%20EXP_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S4 EXP_Booklist_2022.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/S4%20NA_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S4 NA_Booklist_2022.pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 4 NT</span></td>
+    <td class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">SEC 5 NA</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uxuj">S4 NT_Booklist_2022.pdf</td>
+    <td class="tg-uxuj">S5 NA_Booklist_2022.pdf</td>
+  </tr>
+</tbody>
+</table>
