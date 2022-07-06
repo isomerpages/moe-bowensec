@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Level Matters/2022 Booklists.md
       - Level Matters/Secondary 4 & 5.md
       - Level Matters/Secondary 3.md
       - Level Matters/Secondary 2.md
