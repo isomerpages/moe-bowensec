@@ -26,3 +26,13 @@ Head / Normal Course  <br>
 
 <img src="/images/S3%20Cohort%20Theme.png" 
      style="width:50%">
+		 
+**Growing Tree**
+
+Plant the seed of positivity  <br>
+Grow to deepen your roots  <br>
+Grow to reach the sky  <br>
+Never lose sight of the Sun  <br>
+Embrace the environment you are striving in  <br>
+Believe and empower the uniquely you  <br>
+In time, you will be a master with strength to reach greater heights.
