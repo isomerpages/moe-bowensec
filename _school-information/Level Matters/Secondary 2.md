@@ -21,3 +21,24 @@ Secondary 2 ( 2022 Academic Year)  <br>
      style="width:55%">
 		 
 **G**row and **E**mbrace change to become a **M**asterpiece
+
+We strongly believe that each student is unique and is able to shine in his/her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece. As such, we would like to introduce our class names, cohort motto and theme for the Sec 1s of 2021. 
+
+The Sec 1 classes will be named after gems with the acronym **“To SPARKLE”** as we believe each class is a gem of its own and will sparkle in its unique way.
+
+These gems are: 
+
+**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar and Emerald.**
+  
+The Secondary 1 theme will be based on our reinterpretation of the novel 'Wizard of Oz' written by L. Frank Baum: we envision our Sec 1 students, whom we will affectionately call “GEMies” in the “Land of Bowen”. 
+
+  
+
+With the support of their guardians, their Form Teachers, and a pair of Ruby shoes – a Growth Mindset - our GEMies will be empowered to reach their final destination – Emerald City.
+
+  
+
+Along their ‘yellow brick road’, our GEMies will experience their academic studies, CCAs and enrichment programmes. Our GEMies will discover their strengths, embrace change and diversity and forge strong friendships with other GEMies they meet along their journey.
+
+
+At the end of their Bowen journey, we aim is that our GEMies will shine brilliantly, being imbued with deep life skills and lifelong learning skills, becoming a Masterpiece in his/her own right.
