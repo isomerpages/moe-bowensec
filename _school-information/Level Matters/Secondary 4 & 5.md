@@ -290,7 +290,7 @@ Secondary 4 (2022 Academic Year)  <br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dpzh"><a href="[](/files/2022%20SEM2%20S5E%20V1.pdf)">2022 SEM2 S5 Eudialyte TT</a></td>
+    <td class="tg-dpzh"><a href="/files/2022%20SEM2%20S5E%20V1.pdf">2022 SEM2 S5 Eudialyte TT</a></td>
   </tr>
 </tbody>
 </table>
