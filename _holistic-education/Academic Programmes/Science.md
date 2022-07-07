@@ -6,7 +6,7 @@ third_nav_title: Academic Programmes
 ---
 <b><i>“Science is a way of thinking much more than it is a body of knowledge.”</i></b>
 
-<b><i>~ Carl Strong</b></i>
+<b><i>~ Carl Strong</i></b>
 
 The Bowen Science Department aims to equip students not just with scientific knowledge and skills but also a scientific way of thinking so that students will be able to make informed decisions about emerging science-related issues which are important to self and society. 
 
