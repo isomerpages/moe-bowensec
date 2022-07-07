@@ -69,3 +69,8 @@ description: ""
 <center><b>Mr. Dominic Goh<br>HOD / Character & Citizenship Education</b></center>
 <center><a href="dominic_goh_buan_chuan@schools.gov.sg">dominic_goh_buan_chuan@schools.gov.sg</a></center>
 
+<img src="/images/Mr-Tan-Kok-Boon.jpeg" 
+     style="width:20%">		 
+<center><b>Mr. Tan Kok Boon<br>HOD / ICT</b></center>
+<center><a href="tan_kok_boon@schools.gov.sg">tan_kok_boon@schools.gov.sg</a></center>
+
