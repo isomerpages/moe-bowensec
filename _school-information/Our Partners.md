@@ -34,6 +34,6 @@ ParentLink is the name of our Bowen Parent Support Group. ParentLink plays a st
   
 Rest assured Bowen ParentLink will respect your privacy and carefully manage your handphone numbers. We will send more information about ParentLink through Parents Gateway.
 <img src="/images/Parentlink_02.png" 
-     style="width:80%">
+     style="width:40%">
 
 [PLC Slides 2022 for update to school webpage.pdf](/files/PLC%20Slides%202022%20for%20update%20to%20school%20webpage.pdf)
