@@ -9,7 +9,7 @@ third_nav_title: Student Leadership
 ### The Bowen Student Council
 
 <img src="/images/Student-councillors-Welcoming-Our-Taiwan-Exchange-Students-With-a-Smile.jpeg" 
-     style="width:60%">
+     style="width:50%">
 		 
 The Bowen Student Council (BSC) is an important platform to nurture future leaders as it aims to develop confident student leaders who demonstrate school values whilst being in service to the school and the community. 
 
