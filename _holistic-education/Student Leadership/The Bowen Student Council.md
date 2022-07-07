@@ -19,7 +19,7 @@ The councillors also help to serve the school by doing daily council duties and 
 
 ### Leadership Activities
 <img src="/images/Teamwork-Saves-the-Day!-Council-June-Camp.jpeg" 
-     style="width:60%">
+     style="width:40%">
 One of the ways student leaders grow and test their mettle is when they are put in situations that demand them to step out of their comfort zones and face the challenges ahead. These challenges can, come in the form of learning how to organise activities for themselves and others and, provide them the opportunity to figure out the complexities and considerations to make events successful.
 
 The Council Camp is one such example where councillors are thrust into situations to learn key leadership skills. Taking the lead to organise the camp, the student councillors plan activities during the camp that focuses on developing teamwork and self-confidence. These camps are typically held during the June school holidays. Other events that the student councillors have organised include public speaking workshops and outdoor team-building and team bonding activities.
