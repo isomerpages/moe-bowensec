@@ -2,10 +2,22 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Bowen
     collection: about-bowen
+  - title: Holistic Education
+    url: /holistic-education/the-desired-bowenian-1
+    sublinks:
+      - title: The Desired Bowenian
+        url: /holistic-education/the-desired-bowenian-1
+      - title: Full Subject-Based Banding
+        url: /holistic-education/piloting-full-subject-based-banding-fsbb
+      - title: Academic Programmes
+        url: /holistic-education/Academic-Programmes/english
+      - title: CCE
+        url: /holistic-education/cce/Character-and-Citizenship-Education
+      - title: CCAs
+        url: /holistic-education/co-curricular-activities
+      - title: Student Leadership
+        url: /holistic-education/Student-Leadership
   - title: Signature Programme
     collection: signature-programmes
   - title: School Information
     collection: school-information
-  - title: Holistic Education
-    url: /holistic-education/the-desired-bowenian-1
-    sublinks: []
