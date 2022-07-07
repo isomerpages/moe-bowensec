@@ -5,5 +5,215 @@ description: ""
 third_nav_title: Online Portals
 ---
 ### Teachers Portals
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-06l0{color:#252525;text-align:center;vertical-align:middle}
+.tg .tg-o8e5{color:#252525;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-oq4r{color:#252525;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-699i{color:#0FB3DF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-o8e5"><span style="color:inherit;background-color:transparent">#</span></th>
+    <th class="tg-oq4r"><span style="color:inherit;background-color:transparent">Portals</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">1</span></td>
+    <td class="tg-699i"><a href="https://scmobile.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">SC Mobile Attendance-taking Portal</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">2</span></td>
+    <td class="tg-699i"><a href="https://pg.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">Parent Gateway for Teachers</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-699i"><a href="https://schoolcockpit.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">School Cockpit System</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">4</span></td>
+    <td class="tg-699i"><a href="https://bowen.edupage.org/"><span style="text-decoration:none;color:#0FB3DF">Facility Booking via Edupage</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
+    <td class="tg-699i"><a href="https://icon.moe.edu.sg/saas/usercenter/index.do"><span style="text-decoration:none;color:#0FB3DF">ICON Email (ICONnect)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">6</span></td>
+    <td class="tg-699i"><a href="https://iexams.seab.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">iEXAMS</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">7</span></td>
+    <td class="tg-699i"><a href="https://www.opal2.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">OPAL 2.o Portal</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">8</span></td>
+    <td class="tg-699i"><a href="https://portal.mims.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">MOE MIMS Management Portal</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">9</span></td>
+    <td class="tg-699i"><a href="https://ssoe2.moe.edu.sg/sp"><span style="text-decoration:none;color:#0FB3DF">SSOE 2 Service Portal</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">10</span></td>
+    <td class="tg-699i"><a href="https://sites.google.com/bws.edu.sg/bowen-swb"><span style="text-decoration:none;color:#0FB3DF">SWBC Microsite</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">11</span></td>
+    <td class="tg-699i"><a href="https://goo.gl/forms/j1WDS3d7818cy7n12"><span style="text-decoration:none;color:#0FB3DF">ICT Loan Request Form</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">12</span></td>
+    <td class="tg-699i"><a href="https://goo.gl/forms/EalxK7AXli9dVbKc2"><span style="text-decoration:none;color:#0FB3DF">Fault Reporting of ICT Equipment (Projectors, Visualisers, Laptops etc)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">13</span></td>
+    <td class="tg-699i"><a href="https://drive.google.com/open?id=1WBPna5x8PUfZvYZqzzNiqUffTRXze8mf9MNzh01bZHI"><span style="text-decoration:none;color:#0FB3DF">Print Quota Request Form</span></a></td>
+  </tr>
+</tbody>
+</table>
 
-<table class="ive_eobj_left iveo_table ives_tab_simple" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(37, 37, 37); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 774px; height: 70px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 58px;">#</th><th style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 716px;">Portals</th><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">1</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><a href="https://scmobile.moe.edu.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">SC Mobile Attendance-taking Portal</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">2</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://pg.moe.edu.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">Parent Gateway for Teachers</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">3</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">School Cockpit System</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">4</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://bowen.edupage.org/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">Facility Booking via Edupage</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">5</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://icon.moe.edu.sg/saas/usercenter/index.do" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">ICON Email (ICONnect)</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">6</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://iexams.seab.gov.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">iEXAMS</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">7</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://www.opal2.moe.edu.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">OPAL 2.o Portal</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">8</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://portal.mims.moe.gov.sg/" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">MOE MIMS Management Portal</a>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">9</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://ssoe2.moe.edu.sg/sp" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">SSOE 2 Service Portal</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">10</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://sites.google.com/bws.edu.sg/bowen-swb" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">SWBC Microsite</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">11</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://goo.gl/forms/j1WDS3d7818cy7n12" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">ICT Loan Request Form</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">12</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://goo.gl/forms/EalxK7AXli9dVbKc2" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">Fault Reporting of ICT Equipment (Projectors, Visualisers, Laptops etc)</a></td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit; width: 60px;">&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px; text-align: center; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;">13</td><td style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><a href="https://drive.google.com/open?id=1WBPna5x8PUfZvYZqzzNiqUffTRXze8mf9MNzh01bZHI" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(15, 179, 223); text-decoration: none;">Print Quota Request Form</a></td></tr></tbody></table>
+### Learning Portals
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-699i{color:#0FB3DF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wa1i"><span style="color:inherit;background-color:transparent">#</span></th>
+    <th class="tg-yla0"><span style="color:inherit;background-color:transparent">Portals</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><span style="color:inherit;background-color:transparent">1</span></td>
+    <td class="tg-699i"><a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#0FB3DF">The Singapore Student Learning Space (SLS)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><span style="color:inherit;background-color:transparent">2</span></td>
+    <td class="tg-699i"><a href="http://gmail.com/"><span style="text-decoration:none;color:#0FB3DF">Google Suite for Education</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-699i"><a href="https://www.academyofsingaporeteachers.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Academy of Singapore Teachers</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### Other MOE Portals (May require VPN)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-06l0{color:#252525;text-align:center;vertical-align:middle}
+.tg .tg-o8e5{color:#252525;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-oq4r{color:#252525;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-699i{color:#0FB3DF;text-align:left;vertical-align:top}
+.tg .tg-pkol{color:#252525;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-o8e5"><span style="color:inherit;background-color:transparent">#</span></th>
+    <th class="tg-oq4r"><span style="color:inherit;background-color:transparent">Portals</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">1</span></td>
+    <td class="tg-699i"><a href="http://semss2.moe.gov.sg/Login/"><span style="text-decoration:none;color:#0FB3DF">SEMSS </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">2</span></td>
+    <td class="tg-699i"><a href="http://intranet.moe.gov.sg/Pages/Home.aspx"><span style="text-decoration:none;color:#0FB3DF">MOE Intranet</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-699i"><a href="http://uat.intranet.moe.gov.sg/hr_online/"><span style="text-decoration:none;color:#0FB3DF">MOE HR Online (Intranet)</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">4</span></td>
+    <td class="tg-699i"><a href="https://www.moe.gov.sg/programmes/cyber-wellness"><span style="text-decoration:none;color:#0FB3DF">MOE Cyberwellness</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
+    <td class="tg-699i"><a href="https://www.schoolbag.sg/"><span style="text-decoration:none;color:#0FB3DF">MOE Schoolbag: Education News</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">6</span></td>
+    <td class="tg-699i"><a href="https://www.mesrc.net/"><span style="text-decoration:none;color:#0FB3DF">MOE Sports and Recreation Club </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-pkol" colspan="2"><span style="color:inherit;background-color:transparent">Other Government Portals</span></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent"> 1</span></td>
+    <td class="tg-699i"><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp"><span style="text-decoration:none;color:#0FB3DF">Pac@Gov</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent"> 2</span></td>
+    <td class="tg-699i"><a href="https://hrms.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">HR Management System (HRMS)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### External Information Portals
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-06l0{color:#252525;text-align:center;vertical-align:middle}
+.tg .tg-o8e5{color:#252525;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-oq4r{color:#252525;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-699i{color:#0FB3DF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-o8e5"><span style="color:inherit;background-color:transparent">#</span></th>
+    <th class="tg-oq4r"><span style="color:inherit;background-color:transparent">Portals</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">1</span></td>
+    <td class="tg-699i"><a href="https://www.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Ministry of Education (MOE)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">2</span></td>
+    <td class="tg-699i"><a href="https://www.seab.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Singapore Examinations and Assessment Board (SEAB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-699i"><a href="https://www.myskillsfuture.sg/content/portal/en/index.html"><span style="text-decoration:none;color:#0FB3DF">My Skills Future</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">4</span></td>
+    <td class="tg-699i"><a href="http://www.nea.gov.sg/weather-climate/forecasts/2-hour-nowcast"><span style="text-decoration:none;color:#0FB3DF">NEA Weather 2-hour forecast</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
+    <td class="tg-699i"><a href="https://www.haze.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Haze Situation Update</span></a></td>
+  </tr>
+</tbody>
+</table>
