@@ -11,7 +11,7 @@ The department strives to develop a creative and inquiring mind; one who is able
 ### Inquiry-based Learning
 
 <img src="/images/humanities%201.png" 
-     style="width:60%">
+     style="width:40%">
 		 
 Opportunities for outdoor learning make learning the Humanities exciting! They engage in experiential learning which helps students develop critical thinking skills, gain deeper appreciation of the humanities and develop interpersonal skills. 
 
