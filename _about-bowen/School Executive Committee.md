@@ -20,5 +20,4 @@ description: ""
      style="width:35%">
 		 
 <center><b> Mr. Melvin Tay <br> VICE-PRINCIPAL</b></center>
-<center><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
-
+<center><a href="tay_yong_seah_melvin@schools.gov.sg">tay_yong_seah_melvin@schools.gov.sg</a></center>
