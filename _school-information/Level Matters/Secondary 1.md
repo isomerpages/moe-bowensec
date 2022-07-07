@@ -314,7 +314,7 @@ Do download the correct set as the cost for each set is different
     <td class="tg-ii8k"> Sec 1 with SBB</td>
     <td class="tg-ii8k"> N.A.</td>
     <td class="tg-ii8k"> <a href="/files/S1%20NA%20SBB%20Booklist%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">S1 NA SBB Booklist 2022.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="/files/S1%20NT%20SBB%20Booklist%202022.pdf">S1 NT SBB Booklist 2022.pd</a><span style="text-decoration:none;color:#0FB3DF">f</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/S1%20NT%20SBB%20Booklist%202022.pdf">S1 NT SBB Booklist 2022.pdf</a><span style="text-decoration:none;color:#0FB3DF"></span></a><br></td>
   </tr>
 </tbody>
 </table>
