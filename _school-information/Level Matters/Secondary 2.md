@@ -8,12 +8,13 @@ third_nav_title: Level Matters
 
 
 <img src="/images/MS-BERNICE-TEY.jpeg" 
-     style="width:45%">
+     style="width:25%">
 		 
-<b>Mrs. Bernice Kuan</b><br>
+<center><b>Mrs. Bernice Kuan</b><br>
 Year Head  <br>
 Secondary 2 ( 2022 Academic Year)  <br>
-[tey\_puay\_leng@schools.gov.sg](mailto:tey_puay_leng@schools.gov.sg)
+<a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
+
 
 ### 2022 Sec 2 Cohort Moto
 
