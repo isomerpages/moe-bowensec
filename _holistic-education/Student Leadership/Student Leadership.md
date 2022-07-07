@@ -19,7 +19,7 @@ In Bowen, there are **3 main groups of student leaders** – Class Leaders, CC
 * ***Class Leaders*** : At the start of the year, every class in Bowen will appoint 2 students who will serve as Class Leaders for the year. The Class Leaders will work closely with their Form Teachers to be the bridge between the teachers and the class, as well as foster good relationships within the class and encourage everyone to aim high.
 
 <img src="/images/cca-leaders.jpeg" 
-     style="width:75%">
+     style="width:50%">
 		 
 * ***CCA Leaders*** : Each CCA in Bowen is led by 2 CCA Leaders (e.g. Captain & Vice-Captain, or Chairperson & Vice-Chairperson) who will serve their CCA from Secondary 3 to 4.  For some CCAs, students will also have the opportunity to serve as leaders at the Lower Secondary Level.  Besides working with CCA Teachers to lead and organize the CCA in the planning and conducting of activities, CCA Leaders also play an important role in promoting teamwork and motivating the CCA towards achieving their goals.
 
