@@ -24,7 +24,7 @@ In Bowen, there are **3 main groups of student leaders** – Class Leaders, CC
 * ***CCA Leaders*** : Each CCA in Bowen is led by 2 CCA Leaders (e.g. Captain & Vice-Captain, or Chairperson & Vice-Chairperson) who will serve their CCA from Secondary 3 to 4.  For some CCAs, students will also have the opportunity to serve as leaders at the Lower Secondary Level.  Besides working with CCA Teachers to lead and organize the CCA in the planning and conducting of activities, CCA Leaders also play an important role in promoting teamwork and motivating the CCA towards achieving their goals.
 
 <img src="/images/14th-Student-Council-small.jpeg" 
-     style="width:75%">
+     style="width:50%">
 * ***Student Councillors*** : Student Councillors are appointed at Secondary 2 or 3, after going through a rigorous selection process which includes interviews, observations and a probation period.  Besides planning key events such as Secondary 1 Orientation and Teachers’ Day Celebrations, Student Councillors also serve the school by doing daily duties and providing support for programs within school.  As leaders selected to represent the student population, they play a key role in leading by example, to influence and inspire the school to serve to the best of their ability.
 
 ### Leadership Development
