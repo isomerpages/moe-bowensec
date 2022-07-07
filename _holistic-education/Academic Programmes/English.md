@@ -18,7 +18,7 @@ Held annually, Bowen’s English Week is a dedicated week-long celebration of th
 
 
 <img src="/images/EL1.png" 
-     style="width:70%">
+     style="width:40%">
 		 
 The oratorical presentations during morning assembly is a platform designed specifically to help students gain confidence in speaking publicly to a large audience. 
 
@@ -26,7 +26,7 @@ Various classes take turns to give a short presentation on topics ranging from i
 
 ### E-mazing Race
 <img src="/images/EL2.png" 
-     style="width:70%">
+     style="width:40%">
 
 A perennial favorite, the E(English)-mazing Race is a post-examination activity held during Bowen Fiesta for Secondary Two students. 
 
@@ -34,7 +34,7 @@ Students race one another in groups around the school to take part in language l
 
 ### Literature Learning Journeys
 <img src="/images/EL3.png" 
-     style="width:70%">
+     style="width:40%">
 		 
 Literature Learning Journeys provide students with authentic experiences of how literature can come alive. By experiencing the magic and the richness of stage performances, students learn to better connect with the text that they are reading. 
  
@@ -49,7 +49,7 @@ Bowen actively trains and sends our students from different streams and levels, 
 
 Our Bowenians won the National Public Speaking Competition in 2016 and also clinched the 2nd runner-up (upper secondary) and top 16 (lower secondary) at the national-level Plain English Speaking Award (PESA) in 2017.
 <img src="/images/EL5.png" 
-     style="width:70%">
+     style="width:40%">
 		 
 At the National Schools Literature Festival, our team of Secondary 2 Normal (Academic) and Normal (Technical) students choreographed their own presentation for the Choral Reading competition. Our Secondary 3 Literature students took part in the Literature debates, with one team winning the Unseen Poetry debate.
 
