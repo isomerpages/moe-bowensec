@@ -325,7 +325,7 @@ Secondary 4 (2022 Academic Year)  <br>
   </tr>
   <tr>
     <td class="tg-y7qa">2022 S4/5 Term Assessment 1 Letter for Parents </td>
-    <td class="tg-dpzh"><a href="[](/files/2022%20S4n5%20Letter%20to%20parents%20TA1.pdf)"><span style="text-decoration:none;color:#0FB3DF">2022 S4n5 Letter to parents TA1.pdf</span></a>  </td>
+    <td class="tg-dpzh"><a href="/files/2022%20S4n5%20Letter%20to%20parents%20TA1.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 S4n5 Letter to parents TA1.pdf</span></a>  </td>
     <td class="tg-ii8k">18 January 2022<span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@ Secondary 4 (2022 Academic Year)  <br>
   </tr>
   <tr>
     <td class="tg-y7qa">2022 N Level Prelims Parent Letter<br></td>
-    <td class="tg-dpzh"><a href="[](/files/2022%20N%20Level%20Prelim%20Parent%20Letter%20with%20TT.pdf)"><span style="text-decoration:none;color:#0FB3DF">2022 N Level Prelim Parent Letter with TT.pdf</span></a>  </td>
+    <td class="tg-dpzh"><a href="/files/2022%20N%20Level%20Prelim%20Parent%20Letter%20with%20TT.pdf"><span style="text-decoration:none;color:#0FB3DF">2022 N Level Prelim Parent Letter with TT.pdf</span></a>  </td>
     <td class="tg-ii8k"> 28 June 2022</td>
   </tr>
 </tbody>
