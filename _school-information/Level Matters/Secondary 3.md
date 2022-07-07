@@ -21,10 +21,11 @@ Secondary 3 (2022 Academic Year)  <br>
 Head / Normal Course  <br>
 (Covering) Year Head Secondary 3 (2022 Academic Year) <br> 
 <a href="normala_mohamed_saleh_ma@schools.gov.sg">normala_mohamed_saleh_ma@schools.gov.sg</a></center>
+
 ### Sec 3 Cohort Theme
 
 <img src="/images/S3%20Cohort%20Theme.png" 
-     style="width:50%">
+     style="width:40%">
 		 
 **Growing Tree**
 
