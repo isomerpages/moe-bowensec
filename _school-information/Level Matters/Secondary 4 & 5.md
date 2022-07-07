@@ -396,7 +396,7 @@ Please download the schedules in PDF format via the links below.
     <td class="tg-uxuj"><a href="/files/4E%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">4 Emerald ACP</span></a><span style="color:#222;background-color:#EAEAEA">  </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="[](/files/5E%20ACP%202022.pdf)"><span style="text-decoration:none;color:#0FB3DF">5 Eudialyte ACP</span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="/files/5E%20ACP%202022.pdf"><span style="text-decoration:none;color:#0FB3DF">5 Eudialyte ACP</span></a></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-0lax"></td>
   </tr>
