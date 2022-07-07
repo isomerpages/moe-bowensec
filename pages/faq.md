@@ -32,3 +32,27 @@ or
 you can download the document
 
 [Care and Discipline - School Rules](/files/Discipline%20and%20Rules%20website%20updated%20as%20of%2019th%20January%202022.pdf)
+
+7. Where can school uniforms be purchased?
+	*  **Pacific Bookstores Pte Ltd (School Bookshop)**  <br>
+    c/o Bowen Secondary School  <br>
+    2 Lorong Napiri, Singapore 547529  <br>
+    Tel/Fax: 6386 2669  
+      
+	  Business Hours  <br>
+    Monday – Thursday: 7.00 am – 3.30 pm  <br>
+    Friday: 7.00 am to 3.00 pm  <br>
+      
+    *  **Johnson Uniform and Trading Company Pte Ltd**  
+    471 (2nd Floor) Geylang Road  <br>
+    Singapore 389430  <br>
+    Tel: 6345 8698  <br>
+    Fax: 6744 7689  
+      
+    Business Hours  <br>
+    Monday – Friday: 10.00 am – 6.00 pm  <br>
+    Saturday: 10.00 am to 3.00 pm
+
+8. When are the school holidays for 2022?<br>
+
+	[https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)
