@@ -110,3 +110,15 @@ Evouchers can be redeemed at any **Transitlink Add Value Machines** or **Tran
 To find out more about, you may click on the links below
 
 [Transport Subsidy Guide FAS](/files/Transport%20Subsidy%20Guide%20FAS.pdf)
+
+### Personal Learning Device (PLD) Matters
+1. When was the Personal Learning Device launched in Bowen Secondary School
+
+On the 27 August 2021, Sec 1 to Sec 3 students will receive their Personal Learning Device. They are expected to bring their PLD (fully-charged) to school daily and to bring it home after school hours. They are not allowed to leave it in school.
+
+2. My child's Personal Learning Device is experiencing some issues. Who should I contact for assistance?
+
+Please encourage your child to first contact the school's ICT Service Desk first with the device when he or she is in school. We can then advice if it is necessary to contact the PLD service centre for further assistance. Otherwise, you may also contact the PLD service centre directly.  You can find information about PLD warranty, service centre and other information in the link below,
+
+[PLD Information Page >>>](https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology)
+
