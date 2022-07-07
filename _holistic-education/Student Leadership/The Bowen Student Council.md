@@ -4,8 +4,8 @@ permalink: /holistic-education/student-leadership/the-bowen-student-council
 description: ""
 third_nav_title: Student Leadership
 ---
-![](/images/14th-Student-Council-small.jpeg)
-
+<img src="/images/14th-Student-Council-small.jpeg" 
+     style="width:50%">
 ### The Bowen Student Council
 
 <img src="/images/Student-councillors-Welcoming-Our-Taiwan-Exchange-Students-With-a-Smile.jpeg" 
