@@ -24,3 +24,15 @@ Parent volunteers play an important role in Bowen Secondary School and there are
 <img src="/images/instagram-png.png" 
      style="width:25%">
 <a href="https://www.instagram.com/accounts/login/?next=/parentlinkbwss/"> <center>@parentlinkbwss</center> </a>
+
+![](/images/PSG-2018.jpeg)
+
+### Overview of Bowen ParentLink
+
+
+ParentLink is the name of our Bowen Parent Support Group. ParentLink plays a strong supportive role to the school. Please consider joining ParentLink, either by sending your handphone number to [parentlinkcommittee@gmail.com](mailto:parentlinkcommittee@gmail.com) or by scanning the QR code.  
+  
+Rest assured Bowen ParentLink will respect your privacy and carefully manage your handphone numbers. We will send more information about ParentLink through Parents Gateway.
+
+![](/images/Parentlink_02.png)
+[PLC Slides 2022 for update to school webpage.pdf](/files/PLC%20Slides%202022%20for%20update%20to%20school%20webpage.pdf)
