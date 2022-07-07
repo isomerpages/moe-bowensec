@@ -218,3 +218,12 @@ Eg. Computers in computer lab, 
 Monday ― Friday:  <br>
 8am - 4pm  <br>
 **Tel: 63852042** (School-based Helpdesk)
+
+6. My child has his own laptop. Is there any way he/she can connect to the Internet to access on-line lesson content when in school?
+
+
+The school's SWN Wi-Fi network provides students who bring their own devices, a means to connect to the internet for learning purposes using their school IAMS account,
+
+  
+
+Please refer to the guide [**here**](https://moe-bowensec-staging.netlify.app/holistic-education/academic-programmes/information-n-communications-technology) on how to connect to the SWN network
