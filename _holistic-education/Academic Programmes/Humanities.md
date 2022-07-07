@@ -34,7 +34,7 @@ Students become actively involved in the learning process as they: 
 
 ### Historical & Social Studies Investigations 
 <img src="/images/humanities%202.png" 
-     style="width:60%">
+     style="width:50%">
 In Historical Investigations, students explore a range of authentic sources to glean perspectives of the lives of people in the past.
 
   
