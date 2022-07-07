@@ -87,5 +87,5 @@ description: ""
 
 <img src="/images/Mrs-Jermaine-Ng.jpeg" 
      style="width:20%">		 
-<center><b>Mrs. Jermaine Ngy<br>School Staff Developer</b></center>
+<center><b>Mrs. Jermaine Ng<br>School Staff Developer</b></center>
 <center><a href="lee_soo_sian_jermaine@schools.gov.sg">lee_soo_sian_jermaine@schools.gov.sg</a></center>
