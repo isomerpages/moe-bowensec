@@ -97,3 +97,7 @@ description: ""
 <center><b>Ms. Estelle Chong<br>Year Head Secondary 1 (2022)</b></center>
 <center><a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
 
+<img src="/images/MS-BERNICE-TEY.jpeg" 
+     style="width:20%">		 
+<center><b>Mrs. Bernice Kuan<br>Year Head Secondary 2 (2022)</b></center>
+<center><a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
