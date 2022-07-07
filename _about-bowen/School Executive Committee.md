@@ -35,3 +35,10 @@ description: ""
 		 
 <center><b>Ms. Chia Choi Queen <br>HOD / Mother Tongue Languages</b></center>
 <center><a href="chia_choi_queen@schools.gov.sg">chia_choi_queen@schools.gov.sg</a></center>
+
+<img src="/images/Mdm-Mah-CP.jpeg" 
+     style="width:20%">
+		 
+<center><b>Mdm Mah Chwee Peng <br>HOD / Mathematics</b></center>
+<center><a href="mah_chwee_peng@schools.gov.sg">mah_chwee_peng@schools.gov.sg</a></center>
+
