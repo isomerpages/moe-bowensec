@@ -25,8 +25,8 @@ We believe that our students will fulfil their aspirations when they believe in 
 <img src="/images/Sch-Values_800x600.jpeg" 
      style="width:70%">
 # The School Crest
-![](/images/sch-crest_800x600.jpeg)
-
+<img src="/images/sch-crest_800x600.jpeg" 
+     style="width:70%">
 <center>The six arrows represent Bowen's Brand Personality of 
 
 <b>Passion, Genuineness, Benevolence,</b><br>
