@@ -67,3 +67,23 @@ you can download the document
 
 	You can download the brochure here.
 	[2022_Bowen Experience_Fact Sheet.pdf](/files/2022_Bowen%20Experience_Fact%20Sheet.pdf)
+	
+### Finance Matters
+1. How much are the current school fees?
+
+	All students will receive their bills for school, miscellaneous and autonomous fees by postal mail to their home address from MOE directly. You can find out detailed information about secondary school fees from the [MOE website here >>>](https://www.moe.gov.sg/education/secondary)
+
+2. How can school fees payment be made?
+
+**OPTION 1: GIRO**  
+
+Parents are encouraged to pay their children’s fees through GIRO so that the pupils do not have to bring large sums of cash to school. GIRO deduction will be made monthly from February to December. The deduction in February will include the fees for January. Deduction date is on 26th of every month. Eg: For March fees, the deduction date will be on 26th March.
+
+_(Please note that GIRO deductions will be suspended after two consecutive unsuccessful deductions due to insufficient funds. Students will then receive cash bills and will have to pay the outstanding amount in cash. GIRO deduction will be reinstated once all outstanding fees have been paid.)_  
+
+**OPTION 2: CHEQUE**
+
+For cheque payment, either post the cheque or submit it to our General Office. Please make cheques payable to "Bowen Secondary School".
+  
+**OPTION 3: CASH**  
+Alternatively, you may make cash payments at our General Office.
