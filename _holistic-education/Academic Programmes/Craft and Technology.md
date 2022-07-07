@@ -73,8 +73,10 @@ Our art curriculum is structured to provide students with the opportunities to b
 
 Art assessment for lower secondary level is based on class assignments and an art examination in term 4. Secondary 3 art curriculum will be more technical, exploratory and theory-based, The assessments consist of class assignments and examinations. Secondary 4 and 5 art curriculum will be coursework based.
 
-![](/images/Bowen-artists.jpeg)
-![](/images/art1.png)
+<img src="/images/Bowen-artists.jpeg" 
+     style="width:70%">
+<img src="/images/art1.png" 
+     style="width:70%">
 
 # Craft and Technology Team
 ### Craft and Technology Teachers
