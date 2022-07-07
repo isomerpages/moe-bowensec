@@ -9,10 +9,10 @@ third_nav_title: Level Matters
 <img src="/images/Ms-Estelle-Chong.jpeg" 
      style="width:25%">
 		 
-<b>Ms. Estelle Chong</b><br>
+<center><b>Ms. Estelle Chong</b><br>
 Year Head  <br>
 Secondary 1  (2022 Academic Year)  <br>
-[estelle\_chong\_chyi\_shin@schools.gov.sg](mailto:estelle_chong_chyi_shin@schools.gov.sg)
+<a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
 
 ### 2022 Secondary 1 Form Teachers
 
