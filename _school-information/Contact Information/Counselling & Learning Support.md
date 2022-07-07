@@ -15,3 +15,25 @@ third_nav_title: Contact Information
 		 
 <center><b>Mr Farisudin Bin Mohammad Kassim</b></center>
 <center><a href="farisudin_mohamed_kassim@schools.gov.sg">farisudin_mohamed_kassim@schools.gov.sg</a></center>
+
+### BOWEN PARENTS REACH OUT
+
+
+**What’s the story morning glory?**
+
+  
+
+\-     Is your child/ward feeling overwhelmed?  
+\-     Is there something weighing heavily on his/her mind?  
+\-     Are you looking to find solution or resolve a difficult situation?  
+  
+
+Would you like your child/ward to have a TENDER LOVING CHAT with someone in school, someone who could walk alongside with him/her to navigate this situation.  
+  
+
+Having someone to talk may just ease the burden that is weighing heavily on his or heart and mind.
+
+
+VISIT US AT: [**https://go.gov.sg/bowenparents-reachout**](https://form.gov.sg/#!/5ee86f5f6348c100112e828b)
+
+![](/images/QR%20code%20reachout.jpg)
