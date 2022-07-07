@@ -122,3 +122,76 @@ Please encourage your child to first contact the school's ICT Service Desk first
 
 [PLD Information Page >>>](https://moe-bowensec-staging.netlify.app/signature-programmes/learning-with-technology)
 
+3. Where is the Bowen ICT Service Desk located and what are the operating hours?
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-mbkz{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mbkz" colspan="2">Bowen ICT Service Desk<br><span style="background-color:transparent">Location : Block C, (C4-04) D&amp;T Block next to Student Council Room</span><br>Opening hours of ICT Service Desk</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u05r" colspan="2">During School Term</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Monday – Friday (During recess/lunch)</td>
+    <td class="tg-vqm8">According to timetable</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Monday – Thursday (after school)</td>
+    <td class="tg-vqm8">2.30 pm – 4.30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Friday (after school)</td>
+    <td class="tg-vqm8">12.30 pm – 3.30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-u05r" colspan="2">During School Holidays</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Monday – Friday</td>
+    <td class="tg-vqm8">9.00 am – 11.00 am<br>1.00 pm – 3.00 pm</td>
+  </tr>
+</tbody>
+</table>
+
+4. Does the school have lockers for my child to secure his Personal Learning Device?
+
+From 11 August 2021, our school provides each student with a locker for the academic year to secure his/her Personal Learning Device. The locker is equipped with a 4 digit combination lock which the student con configure by himself/herself. At the end of the academic year, students will return and clear their lockers. The school will reassign the lockers to students the following academic year. The school reserves the right to conduct spot-checks to ensure that the contents of the lockers adhere to the school rules.   
+  
+Students may refer to the [following link](https://youtu.be/vjhdo3pLJuw) on how to reset their combination lock.
+
+5. My child has forgotten his passwords for his school-based learning platforms. How can I reset them?
+
+The school uses several on-line platforms for e-learning and HBL. If students have forgotten their passwords and require assistance to reset their passwords, they should first proceed with the following self-help procedures. As a last resort, they may contact their Form Teachers for assistance.
+
+**Student Learning Space (SLS)**  <br>
+Students may get locked out of the system if there are too many failed attempts. SLS also require students to have a minimum of 12 character password.  
+  
+**Office Hours: (School-based Helpdesk)**  <br>
+Monday ― Friday: <br>
+8am - 4pm  <br>
+**Tel: 63852042**  
+  
+**Non-Office Hours (SLS Helpdesk)** <br>
+Monday ― Friday:  <br>
+4:00 pm ― 9:00 pm (School Days)  <br>
+9:00 am ― 9:00 pm (School Holidays)  
+  
+Saturdays:  <br>
+9:00 am ― 3:00 pm  <br>
+\*Closed on Sundays & Public Holidays  <br>
+  
+**Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**  
+**Tel: (65) 6702 6513**
