@@ -8,7 +8,9 @@ description: ""
 </a>
 
 ### The Bowen 40th Anniversary Theme
-![](/images/40th_BE_logo2%20png.png)
+
+<img src="/images/40th_BE_logo2%20png.png" 
+     style="width:60%">
 
 The theme for our 40th Anniversary is **BElonging**, **BEnefitting Lives**, and **BElieving**.
 
