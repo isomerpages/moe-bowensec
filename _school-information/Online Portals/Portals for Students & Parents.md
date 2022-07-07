@@ -94,3 +94,19 @@ The free app will bring several benefits, including: 
 We **strongly encourage** all parents to **download and use the PG App** as it will bring significant benefits for parents, teachers and the school.
 
 [FAQ for Parent Gateway](/files/FAQ%20for%20Parent%20Gateway.pdf)
+
+### Step-by-Step Guide - Setting up the PG Mobile App
+-------------------------------------------------
+
+**Step 1 – Setup your SingPass and 2FA** 
+
+
+
+*   **SingPass** and **2-Factor Verification (2FA)** is required to access the PG App.
+    
+    SingPass is available to all Singapore Citizens and Singapore Permanent Resident parents. If you have not yet registered for SingPass, or 2FA, please visit the [SingPass website](https://www.singpass.gov.sg/) to do so. If you are not a Singapore Citizen or Singapore Permanent Resident (PR), you may also visit the SingPass website to find out if you are eligible for SingPass.
+        
+* You may also scan the QR codes below to access the respective portals
+    
+![](/images/QR.png)
+   
