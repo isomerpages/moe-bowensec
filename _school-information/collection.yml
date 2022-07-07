@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Contact Information/School Contact Information.md
       - Contact Information/.keep
       - School Matters/.keep
       - School Matters/News & Events.md
