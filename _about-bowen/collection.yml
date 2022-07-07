@@ -2,11 +2,11 @@ collections:
   about-bowen:
     output: true
     order:
-      - School Executive Committee.md
       - The Principal's Foreword.md
       - Bowen 40th Anniversary.md
       - Our Vision, Mission, Motto and Values.md
       - Our Heritage.md
       - Our School Song.md
+      - School Executive Committee.md
       - Subject Heads.md
       - Senior and Lead Teachers.md
