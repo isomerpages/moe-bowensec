@@ -62,3 +62,8 @@ you can download the document
 	Yes. You should inform the school of your travel plans if your family plans to bring you on a holiday out of Singapore during the school holidays. You should declare your travel plans via the **Parents Gateway (PG**) app.
 	
 	There is also a guide to assist you here. [Parents Guide (Travel\_Declaration)](/files/Parents_Guide_for_PG_Travel_Declaration_Update_Particulars_-_15_May_2019.pdf)
+	
+10. Where can I find general information about your school?
+
+	You can download the brochure here.
+	[2022_Bowen Experience_Fact Sheet.pdf](/files/2022_Bowen%20Experience_Fact%20Sheet.pdf)
