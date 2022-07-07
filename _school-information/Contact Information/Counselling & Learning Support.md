@@ -36,4 +36,5 @@ Having someone to talk may just ease the burden that is weighing heavily on his 
 
 VISIT US AT: [**https://go.gov.sg/bowenparents-reachout**](https://form.gov.sg/#!/5ee86f5f6348c100112e828b)
 
-![](/images/QR%20code%20reachout.jpg)
+<img src="/images/QR%20code%20reachout.jpg" 
+     style="width:40%">
