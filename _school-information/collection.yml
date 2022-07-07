@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Online Portals/.keep
-      - Student Learning Space.md
       - Level Matters/.keep
       - Level Matters/Secondary 1.md
       - Level Matters/Secondary 2.md
