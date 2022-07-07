@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Online Portals/Student Learning Space.md
       - Online Portals/.keep
       - Level Matters/.keep
       - Level Matters/Secondary 1.md
