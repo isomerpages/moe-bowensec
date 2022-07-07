@@ -30,3 +30,9 @@ description: ""
 <center><b>Mrs. Serene Goh <br> HOD / English Language and English Literature</b></center>
 <center><a href="serene_goh@schools.gov.sg">serene_goh@schools.gov.sg</a></center>
 
+<img src="/images/Ms-Chia-Choi-Queen.jpeg" 
+     style="width:20%">
+		 
+<center><b>Ms. Chia Choi Queen <br>HOD / Mother Tongue Languages</b></center>
+<center><a href="serene_goh@schools.gov.sg">serene_goh@schools.gov.sg</a></center>
+
