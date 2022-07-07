@@ -27,6 +27,8 @@ Email: [bowen\_ss@moe.edu.sg](mailto:bowen_ss@moe.edu.sg)
 * The school uniform is a key symbol of school identity. Students should wear the school uniform neatly and with pride. All students are to wear the prescribed school uniform and modifications to the uniform are not allowed.
 
 You can find detailed information about the school uniform in   
-[School Rules and Regulations here >>>](https://bowensec.moe.edu.sg/school-information/school-matters/care-and-discipline)  
+[School Rules and Regulations here >>>](https://moe-bowensec-staging.netlify.app/school-information/school-matters/care-and-discipline)  
 or  
 you can download the document
+
+[Care and Discipline - School Rules](/files/Discipline%20and%20Rules%20website%20updated%20as%20of%2019th%20January%202022.pdf)
