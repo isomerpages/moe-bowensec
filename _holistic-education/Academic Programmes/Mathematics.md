@@ -85,7 +85,7 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tojq{background-color:#ECECEC;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-580q{background-color:#ECECEC;color:#222;text-align:center;vertical-align:top}
 .tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
@@ -120,7 +120,7 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
     <td class="tg-fxx4"><span style="color:#222">padma_ramachandran@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Ong Ai Lingg</span></td>
+    <td class="tg-tojq"><span style="color:#222">Ms. Ong Ai Lingg</span></td>
     <td class="tg-fxx4"><span style="color:#222">SH / Maths</span></td>
     <td class="tg-fxx4"><span style="color:#222">ong_ai_lingg@schools.gov.sg</span></td>
   </tr>
@@ -180,27 +180,27 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
     <td class="tg-fxx4"><span style="color:#222">ang_ting_ting@schools.gov.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Eileen Ong</span></td>
+    <td class="tg-tojq"><span style="color:#222">Ms. Eileen Ong</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">eileen_ong@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Siow Wei Ling</span></td>
+    <td class="tg-tojq"><span style="color:#222">Ms. Siow Wei Ling</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">siow_wei_ling@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Chew Hui Jie</span></td>
+    <td class="tg-tojq"><span style="color:#222">Mr. Chew Hui Jie</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">chew_hui_jie@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-emg8">Mdm. Shameera</td>
+    <td class="tg-580q">Mdm. Shameera</td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">shameera_hadam_hussain@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-emg8">Mdm. Shafiqah </td>
+    <td class="tg-580q">Mdm. Shafiqah </td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">shafiqah_hadam_hussain@schools.gov.sg</span></td>
   </tr>
