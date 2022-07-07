@@ -249,7 +249,7 @@ Secondary 1  (2022 Academic Year)  <br>
   </tr>
   <tr>
     <td class="tg-y7qa">2022 Term Assessment 1 Letter to Parents</td>
-    <td class="tg-dpzh"><a href="/files/2022%20S1%20Letter%20to%20parents%20TA1.pdf)">2022 S1 Letter to parents TA1.pdf</a><br></td>
+    <td class="tg-dpzh"><a href="/files/2022%20S1%20Letter%20to%20parents%20TA1.pdf">2022 S1 Letter to parents TA1.pdf</a><br></td>
     <td class="tg-ii8k"> 18 January 2022</td>
   </tr>
   <tr>
