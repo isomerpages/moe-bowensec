@@ -7,7 +7,7 @@ third_nav_title: Level Matters
 ### Secondary 1 Year Heads (2022 Academic Year)
 
 <img src="/images/Ms-Estelle-Chong.jpeg" 
-     style="width:35%">
+     style="width:30%">
 		 
 <b>Ms. Estelle Chong</b><br>
 Year Head  <br>
