@@ -79,3 +79,13 @@ description: ""
 <center><b>Mr. Juraimy Abu Bakar<br>HOD / Student Well-Being</b></center>
 <center><a href="juraimy_abu_bakar@schools.gov.sg">juraimy_abu_bakar@schools.gov.sg</a></center>
 
+<img src="/images/Mr-Wilson-Goy.jpeg" 
+     style="width:20%">		 
+<center><b>Mr. Wilson Goy<br>Head / Discipline</b></center>
+<center><a href="goy_wee_seng@schools.gov.sg">goy_wee_seng@schools.gov.sg</a></center>
+
+
+<img src="/images/Mrs-Jermaine-Ng.jpeg" 
+     style="width:20%">		 
+<center><b>Mrs. Jermaine Ngy<br>School Staff Developer</b></center>
+<center><a href="lee_soo_sian_jermaine@schools.gov.sg">lee_soo_sian_jermaine@schools.gov.sg</a></center>
