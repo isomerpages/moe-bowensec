@@ -101,3 +101,14 @@ description: ""
      style="width:20%">		 
 <center><b>Mrs. Bernice Kuan<br>Year Head Secondary 2 (2022)</b></center>
 <center><a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
+
+<img src="/images/MRS-CHAN-SOO-YONG.jpeg" 
+     style="width:20%">		 
+<center><b>Mrs. Chan Soo Yong<br>Year Head Secondary 3 (2022)</b></center>
+<center><a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
+
+<img src="/images/Mrs-Normala-Chang.jpg" 
+     style="width:20%">		 
+<center><b>Mrs. Normala Chang<br> Head / Normal Course<br>Year Head (Covering) Secondary 3 (2022)</b></center>
+<center><a href="normala_mohamed_saleh_ma@schools.gov.sg">normala_mohamed_saleh_ma@schools.gov.sg</a></center>
+
