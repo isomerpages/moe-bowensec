@@ -87,3 +87,26 @@ For cheque payment, either post the cheque or submit it to our General Office. P
   
 **OPTION 3: CASH**  
 Alternatively, you may make cash payments at our General Office.
+
+3. What are the MOE financial schemes available?
+
+Singapore Citizens in Government and Government-aided schools can apply for assistance under the MOE Financial Assistance Scheme (FAS).  Application forms are available for collection in-person at the school's General Office. If you need further assistance, please do not hesitate to call the school's General Office to find out more.
+
+  
+
+To find out more about, you may click on the links below
+
+[FAS Application Information >>>](https://moe-bowensec-staging.netlify.app/school-information/school-matters/finance-matters)
+
+[MOE Website information on FAS scheme >>>](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))
+
+4. How can students under FAS go about redeeming Transport Subsidy?
+
+Students on FAS may redeem the evouchers via the Transitlink eVoucher System from the **28th of the current month to the 10th of the next month**.   
+  
+Evouchers can be redeemed at any **Transitlink Add Value Machines** or **Transit Link Ticket Offices** located at **selected stations** such as Hougang and Serangoon stations.  
+  
+
+To find out more about, you may click on the links below
+
+[Transport Subsidy Guide FAS](/files/Transport%20Subsidy%20Guide%20FAS.pdf)
