@@ -15,7 +15,7 @@ Secondary 3 (2022 Academic Year)  <br>
 <a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
 
 <img src="/images/Mrs-Normala-Chang.jpg" 
-     style="width:35%">
+     style="width:25%">
 
 <center><b>Mrs. Normala Chang</b><br>
 Head / Normal Course  <br>
