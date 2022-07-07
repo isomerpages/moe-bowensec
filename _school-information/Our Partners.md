@@ -10,3 +10,13 @@ description: ""
 ![](/images/SAC3.png)
 ![](/images/SAC4.png)
 ![](/images/SAC5.png)
+
+### Bowen ParentLink
+
+Parent volunteers play an important role in Bowen Secondary School and there are many volunteer opportunities during school hours. Be a part of Bowen Parent Link.
+
+**Contact us today! Be a Parent-Volunteer.**
+
+<img src="/images/instagram-png.png" 
+     style="width:25%">
+<a href="https://www.instagram.com/accounts/login/?next=/parentlinkbwss/"> <center>@parentlinkbwss</center> </a>
