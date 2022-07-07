@@ -109,4 +109,26 @@ We **strongly encourage** all parents to **download and use the PG App** as 
 * You may also scan the QR codes below to access the respective portals
     
 ![](/images/QR.png)
-   
+
+**Step 2 – Download the Parents Gateway Mobile App**
+
+1.  Open the [Apple App Store](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8) or [Google Play Store](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG) app on your mobile phone.   
+    
+2.  Search for the ‘Parents Gateway’ mobile app   
+    
+3.  Download and install the app onto your phone.   
+    
+4.  Enable **‘Allow Notifications’** to receive push notifications.  
+    _**Note: Supported OS Versions - Android 6.0 or later & iOS 9.1 or later**_
+
+* You may also scan the QR codes below to access the respective portals
+
+![](/images/QR%202.png)
+
+**Step 3 – One-Time On-boarding**
+
+![](/images/PG1.png)
+![](/images/PG%202.png)
+![](/images/PG3.png)
+![](/images/PG4.png)
+![](/images/PG5.png)
