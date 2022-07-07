@@ -35,3 +35,6 @@ Operating Hours <br>
 Mondays to Fridays: 9:00 am - 9:00 pm<br>
 Saturdays: 9:00 am - 3:00 pm<br>
 \*Closed on Sundays & Public Holidays
+
+### MOE Introduction to SLS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F0FTP2FveSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
