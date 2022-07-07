@@ -34,5 +34,4 @@ description: ""
      style="width:20%">
 		 
 <center><b>Ms. Chia Choi Queen <br>HOD / Mother Tongue Languages</b></center>
-<center><a href="serene_goh@schools.gov.sg">serene_goh@schools.gov.sg</a></center>
-
+<center><a href="chia_choi_queen@schools.gov.sg">chia_choi_queen@schools.gov.sg</a></center>
