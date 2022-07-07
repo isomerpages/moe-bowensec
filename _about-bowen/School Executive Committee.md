@@ -112,3 +112,8 @@ description: ""
 <center><b>Mrs. Normala Chang<br> Head / Normal Course<br>Year Head (Covering) Secondary 3 (2022)</b></center>
 <center><a href="normala_mohamed_saleh_ma@schools.gov.sg">normala_mohamed_saleh_ma@schools.gov.sg</a></center>
 
+<img src="/images/Ms-Sharifah-Kamelia.jpeg" 
+     style="width:20%">		 
+<center><b>Ms. Sharifah Kamelia<br>Year Head Secondary 4/5 (2022)</b></center>
+<center><a href="sharifah_kamelia_syed@schools.gov.sg">sharifah_kamelia_syed@schools.gov.sg</a></center>
+
