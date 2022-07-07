@@ -170,29 +170,25 @@ You may also download the instructions here.[User Guide for Online Purchase of U
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
+.tg .tg-y733{background-color:#EAEAEA;color:#0FB3DF;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Level / Stream</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Express</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Normal Academic</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Normal Technical</span></th>
+    <th class="tg-pll1"><span style="font-weight:inherit;font-style:inherit;color:#222;background-color:#B0B0B0">SEC 2 Exp</span></th>
+    <th class="tg-pll1"><span style="font-weight:inherit;font-style:inherit;color:#222;background-color:#B0B0B0">SEC 2 NA</span></th>
+    <th class="tg-pll1"><span style="font-weight:inherit;font-style:inherit;color:#222;background-color:#B0B0B0">SEC 2 NT</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 2</span></td>
-    <td class="tg-uxuj"><a href="/files/S2%20EXP_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S2 EXP_Booklist_2022.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="/files/S2%20NA_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S2 NA_Booklist_2022.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="/files/S2%20NT_Booklist_2022.pdf">S2 NT_Booklist_2022.pdf</a></td>
+    <td class="tg-y733"><a href="/files/S2%20EXP_Booklist_2022.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0FB3DF">S2 EXP_Booklist_2022.pdf</span></a><br></td>
+    <td class="tg-y733"><a href="/files/S2%20NA_Booklist_2022.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0FB3DF">S2 NA_Booklist_2022.pdf</span></a><br></td>
+    <td class="tg-y733"><a href="/files/S2%20NT_Booklist_2022.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0FB3DF">S2 NT_Booklist_2022.pdf</span></a></td>
   </tr>
 </tbody>
 </table>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -268,3 +264,5 @@ You may also download the instructions here.[User Guide for Online Purchase of U
   </tr>
 </tbody>
 </table>
+
+
