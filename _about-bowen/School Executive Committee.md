@@ -3,7 +3,7 @@ title: School Executive Committee
 permalink: /about-bowen/school-executive-committee
 description: ""
 ---
-### School Leader
+# School Leaders
 <img src="/images/principal.png" 
      style="width:20%">
 		 
@@ -21,3 +21,12 @@ description: ""
 		 
 <center><b> Mr. Melvin Tay <br> VICE-PRINCIPAL</b></center>
 <center><a href="tay_yong_seah_melvin@schools.gov.sg">tay_yong_seah_melvin@schools.gov.sg</a></center>
+
+# Department Heads
+
+<img src="/images/Mrs-Serene-Goh.jpeg" 
+     style="width:20%">
+		 
+<center><b>Mrs. Serene Goh <br> HOD / English Language and English Literature</b></center>
+<center><a href="serene_goh@schools.gov.sg">serene_goh@schools.gov.sg</a></center>
+
