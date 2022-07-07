@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Bowen Social Media.md
       - School Matters/.keep
       - School Matters/News & Events.md
       - School Matters/Care and Discipline.md
@@ -21,3 +20,4 @@ collections:
       - Online Portals/Portals for Students & Parents.md
       - Online Portals/Portals for Teachers.md
       - Our Partners.md
+      - Bowen Social Media.md
