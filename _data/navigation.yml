@@ -1,16 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
-  - title: Menu Title
-    collection: school-information
-  - title: Menu Title
+  - title: About Bowen
     collection: about-bowen
-  - title: Menu Title
-    collection: holistic-education
-  - title: Menu Title
-    collection: school-information
-  - title: Menu Title
+  - title: Signature Programme
     collection: signature-programmes
+  - title: School Information
+    collection: school-information
+  - title: Holistic Education
+    url: /holistic-education/the-desired-bowenian-1
+    sublinks: []
