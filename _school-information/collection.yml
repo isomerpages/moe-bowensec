@@ -2,10 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Contact Information/.keep
-      - Contact Information/School Contact Information.md
-      - Contact Information/Counselling & Learning Support.md
-      - Contact Information/Executive & Administrative Support Staff.md
       - School Matters/.keep
       - School Matters/News & Events.md
       - School Matters/Care and Discipline.md
@@ -24,4 +20,8 @@ collections:
       - Online Portals/Portals for Students & Parents.md
       - Online Portals/Portals for Teachers.md
       - Our Partners.md
+      - Contact Information/.keep
+      - Contact Information/School Contact Information.md
+      - Contact Information/Counselling & Learning Support.md
+      - Contact Information/Executive & Administrative Support Staff.md
       - Bowen Social Media.md
