@@ -74,3 +74,8 @@ description: ""
 <center><b>Mr. Tan Kok Boon<br>HOD / ICT</b></center>
 <center><a href="tan_kok_boon@schools.gov.sg">tan_kok_boon@schools.gov.sg</a></center>
 
+<img src="/images/Mr-Juriamy-Abu-Bakar.jpeg" 
+     style="width:20%">		 
+<center><b>Mr. Juraimy Abu Bakar<br>HOD / Student Well-Being</b></center>
+<center><a href="juraimy_abu_bakar@schools.gov.sg">juraimy_abu_bakar@schools.gov.sg</a></center>
+
