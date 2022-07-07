@@ -56,3 +56,9 @@ you can download the document
 8. When are the school holidays for 2022?<br>
 
 	[https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)
+	
+9. I am a student and I am travelling out of Singapore during the holidays. Must I disclose my travel plans?
+
+	Yes. You should inform the school of your travel plans if your family plans to bring you on a holiday out of Singapore during the school holidays. You should declare your travel plans via the **Parents Gateway (PG**) app.
+	
+	There is also a guide to assist you here. [Parents Guide (Travel\_Declaration)](/files/Parents_Guide_for_PG_Travel_Declaration_Update_Particulars_-_15_May_2019.pdf)
