@@ -9,10 +9,11 @@ third_nav_title: Level Matters
 <img src="/images/Ms-Sharifah-Kamelia.jpeg" 
      style="width:25%">
 		 	 
-<b>Ms. Sharifah Kamelia Syed</b><br> 
+<center><b>Ms. Sharifah Kamelia Syed</b><br> 
 Year Head  <br>
 Secondary 4 (2022 Academic Year)  <br>
-[sharifah\_kamelia\_syed@schools.gov.sg](mailto:sharifah_kamelia_syed@schools.gov.sg)
+<a href="sharifah_kamelia_syed@schools.gov.sg">sharifah_kamelia_syed@schools.gov.sg</a></center>
+
 
 ### 2022 Secondary 4 Classes
 
