@@ -7,21 +7,20 @@ third_nav_title: Level Matters
 ### Secondary 3 Year Head (2022 Academic Year)
 
 <img src="/images/MRS-CHAN-SOO-YONG.jpeg" 
-     style="width:35%">
+     style="width:25%">
 		 
-<b>Mrs. Chan Soo Yong</b><br>
+<center><b>Mrs. Chan Soo Yong</b><br>
 Year Head  <br>
 Secondary 3 (2022 Academic Year)  <br>
-[lim\_soo\_yong@schools.gov.sg](mailto:lim_soo_yong@schools.gov.sg)
+<a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
 
 <img src="/images/Mrs-Normala-Chang.jpg" 
      style="width:35%">
 
-<b>Mrs. Normala Chang</b><br>
+<center><b>Mrs. Normala Chang</b><br>
 Head / Normal Course  <br>
-(Covering) Year Head Secondary 3 (2022 Academic Year) <br> [normala\_mohamed\_saleh\_ma@schools.gov.sg](mailto:normala_mohamed_saleh_ma@schools.gov.sg)
-
-
+(Covering) Year Head Secondary 3 (2022 Academic Year) <br> 
+<a href="normala_mohamed_saleh_ma@schools.gov.sg">normala_mohamed_saleh_ma@schools.gov.sg</a></center>
 ### Sec 3 Cohort Theme
 
 <img src="/images/S3%20Cohort%20Theme.png" 
