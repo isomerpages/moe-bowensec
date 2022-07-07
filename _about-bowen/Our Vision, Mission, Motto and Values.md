@@ -3,8 +3,8 @@ title: Our Vision, Mission, Motto and Values
 permalink: /about-bowen/our-vision-mission-motto-and-values
 description: ""
 ---
-![](/images/sch-vision_800x600.jpeg)
-
+<img src="/images/sch-vision_800x600.jpeg" 
+     style="width:70%">
 # What drives us.
 
 
@@ -22,8 +22,8 @@ We believe that our students will fulfil their aspirations when they believe in 
 
 # Our Values
 
-![](/images/Sch-Values_800x600.jpeg)
-
+<img src="/images/Sch-Values_800x600.jpeg" 
+     style="width:70%">
 # The School Crest
 ![](/images/sch-crest_800x600.jpeg)
 
