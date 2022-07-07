@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Our Partners.md
       - School Matters/.keep
       - School Matters/Bowen eBrochure & Fact Sheets.md
       - School Matters/Travel Declaration.md
@@ -20,3 +19,4 @@ collections:
       - Online Portals/Student Learning Space.md
       - Online Portals/Portals for Students & Parents.md
       - Online Portals/Portals for Teachers.md
+      - Our Partners.md
