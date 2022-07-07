@@ -153,7 +153,7 @@ Do download the correct set as the cost for each set is different
 <tbody>
   <tr>
     <td class="tg-uihw"><a href="/files/S4%20NT_Booklist_2022.pdf"><span style="text-decoration:none;color:#0FB3DF">S4 NT_Booklist_2022.pdf</span></a>  <br></td>
-    <td class="tg-uihw"><a href="[](/files/S5%20NA_Booklist_2022.pdf)">S5 NA_Booklist_2022.pdf</a></td>
+    <td class="tg-uihw"><a href="/files/S5%20NA_Booklist_2022.pdf">S5 NA_Booklist_2022.pdf</a></td>
   </tr>
 </tbody>
 </table>
