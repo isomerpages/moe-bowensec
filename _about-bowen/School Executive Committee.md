@@ -54,3 +54,18 @@ description: ""
 <center><a href="karen_chia_hui_lyn@schools.gov.sg">karen_chia_hui_lyn@schools.gov.sg</a></center>
 
 
+<img src="/images/Mr-Jason-Yap.jpeg" 
+     style="width:20%">		 
+<center><b>Mr. Jason Yap <br>HOD / Craft & Technology</b></center>
+<center><a href="yap_chee_han@schools.gov.sg">yap_chee_han@schools.gov.sg</a></center>
+
+<img src="/images/Mr-Poon-Zi-Li.jpg" 
+     style="width:20%">		 
+<center><b>Mr. Poon Zi Li <br>HOD / PE & CCA</b></center>
+<center><a href="poon_zi_li@schools.gov.sg">poon_zi_li@schools.gov.sg</a></center>
+
+<img src="/images/MR-DOMINIC-GOH.jpeg" 
+     style="width:20%">		 
+<center><b>Mr. Dominic Goh<br>HOD / Character & Citizenship Education</b></center>
+<center><a href="dominic_goh_buan_chuan@schools.gov.sg">dominic_goh_buan_chuan@schools.gov.sg</a></center>
+
