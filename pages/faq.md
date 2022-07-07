@@ -195,3 +195,26 @@ Saturdays:  <br>
   
 **Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**  
 **Tel: (65) 6702 6513**
+
+**School Google Suite Accounts (@bws.edu.sg)** <br>
+Google Suite for Education allows students to collaborate using cloud-based tools. Applications include G-mail, Google Docs, Slides, Spreadsheet, Google Classroom etc.  
+  
+**Office Hours:** <br>
+Monday ― Friday:  <br>
+8am - 4pm  <br>
+**Tel: 63852042** (School-based Helpdesk)  
+      
+    
+**ACE-Learning**  <br>
+A Math on-line learning platform.  <br>
+**\- Consult individual Subject Teachers**  
+      
+    
+**SSOE-MIMS login (School-based WIFI networks)** <br> 
+This covers the login required on all SSOE devices that are on school-based networks,  
+Eg. Computers in computer lab, 
+
+**Office Hours:** <br>
+Monday ― Friday:  <br>
+8am - 4pm  <br>
+**Tel: 63852042** (School-based Helpdesk)
