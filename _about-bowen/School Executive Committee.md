@@ -46,3 +46,11 @@ description: ""
      style="width:20%">		 
 <center><b>Mrs. Julieanne Choy <br>HOD / Science</b></center>
 <center><a href="choy_wen_ju_julieanne@schools.gov.sg">choy_wen_ju_julieanne@schools.gov.sg</a></center>
+
+
+<img src="/images/MS-KAREN-CHIA-HOD-HUMANITIES.jpeg" 
+     style="width:20%">		 
+<center><b>Ms. Karen Chia Hui Lyn <br>HOD / Humanities</b></center>
+<center><a href="karen_chia_hui_lyn@schools.gov.sg">karen_chia_hui_lyn@schools.gov.sg</a></center>
+
+
