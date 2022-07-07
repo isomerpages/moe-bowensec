@@ -19,7 +19,7 @@ Secondary 2 ( 2022 Academic Year)  <br>
 ### 2022 Sec 2 Cohort Moto
 
 <img src="/images/2021%20Sec1%20Cohort%20Moto.jpg" 
-     style="width:55%">
+     style="width:40%">
 		 
 **G**row and **E**mbrace change to become a **M**asterpiece
 
