@@ -37,8 +37,12 @@ description: ""
 <center><a href="chia_choi_queen@schools.gov.sg">chia_choi_queen@schools.gov.sg</a></center>
 
 <img src="/images/Mdm-Mah-CP.jpeg" 
-     style="width:20%">
-		 
+     style="width:20%">		 
 <center><b>Mdm Mah Chwee Peng <br>HOD / Mathematics</b></center>
 <center><a href="mah_chwee_peng@schools.gov.sg">mah_chwee_peng@schools.gov.sg</a></center>
 
+
+<img src="/images/Mrs-Julieanne-Choy.jpeg" 
+     style="width:20%">		 
+<center><b>Mrs. Julieanne Choy <br>HOD / Science</b></center>
+<center><a href="choy_wen_ju_julieanne@schools.gov.sg">choy_wen_ju_julieanne@schools.gov.sg</a></center>
