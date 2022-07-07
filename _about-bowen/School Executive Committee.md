@@ -89,3 +89,11 @@ description: ""
      style="width:20%">		 
 <center><b>Mrs. Jermaine Ng<br>School Staff Developer</b></center>
 <center><a href="lee_soo_sian_jermaine@schools.gov.sg">lee_soo_sian_jermaine@schools.gov.sg</a></center>
+
+### Year Heads
+
+<img src="/images/Ms-Estelle-Chong.jpeg" 
+     style="width:20%">		 
+<center><b>Ms. Estelle Chong<br>Year Head Secondary 1 (2022)</b></center>
+<center><a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
+
