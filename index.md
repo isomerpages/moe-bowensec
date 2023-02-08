@@ -9,8 +9,4 @@ sections:
   - hero:
       title: Bowen Secondary School
       background: /images/GIF TEST.gif
-  - resources:
-      title: Secondary 2 Matters
-      subtitle: Secondary 1 Matters
-      button: Secondary 3 Matters
 ---
