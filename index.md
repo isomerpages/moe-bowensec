@@ -9,4 +9,12 @@ sections:
   - hero:
       title: Bowen Secondary School
       background: /images/GIF TEST.gif
+  - infopic:
+      title: Sec 1
+      subtitle: Sec 1 Matters
+      description: Infopic description
+      button: Sec 1 Matters
+      url: https://bowensec.moe.ed.sg
+      image: /images/The Bowen Experience BE Map.png
+      alt: Image alt text
 ---
