@@ -8,5 +8,5 @@ notification: ""
 sections:
   - hero:
       title: Bowen Secondary School
-      background: /images/hero-banner.png
+      background: /images/GIF TEST.gif
 ---
