@@ -1,6 +1,6 @@
 ---
 title: NCC (Land)(Boys)
-permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/ncc-land-boys
+permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/ncc-land-boys/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -26,7 +26,7 @@ third_nav_title: Uniformed Groups
 <tbody>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-vqm8">Mr Chen QingHua (C.O)<br>Mr Sheik Habib (2ND I/C)<br>Mr Alvis Tan<br>Mr Chong How Kiat</td>
+    <td class="tg-vqm8">Mr Chen QingHua (C.O)<br>Mr Sheik Habib (2ND I/C)<br>Mr Chong How Kiat</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
