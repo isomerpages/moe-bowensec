@@ -1,6 +1,6 @@
 ---
 title: Bowen Artists
-permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bowen-artists
+permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bowen-artists/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -25,7 +25,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-22b2"><span style="color:#222">Mrs. Sim Sook Fen (I/C)</span><br><span style="color:#222">Mrs. Woon Swee Keng</span></td>
+    <td class="tg-22b2"><span style="color:#222">Mrs. Sim Sook Fen (I/C)</span><br><span style="color:#222">Mrs. Woon Swee Keng</span><br>Ms. Ong Ai Lingg (Advisor)</td>
   </tr>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Training Schedule</span></td>
