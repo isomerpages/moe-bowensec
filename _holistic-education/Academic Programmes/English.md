@@ -1,9 +1,11 @@
 ---
 title: English
-permalink: /holistic-education/Academic-Programmes/english
+permalink: /holistic-education/Academic-Programmes/english/
 description: ""
 third_nav_title: Academic Programmes
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNnLN6XWfLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Language learning goes beyond mastering the mechanics of a language. It is the art of weaving the delicate threads of words and phrases to produce an elaborate tapestry of emotions, convictions and persuasion. 
 
 The objective of the department is to raise young individuals who are able to confidently and eloquently express their views and convictions. We hope that our young charges will not only be able to use their voice to find success in life but also lend their voice to the marginally challenged. Every year, our students step up to the challenge and seize the various opportunities open to them to hone their craft.
