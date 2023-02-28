@@ -1,6 +1,6 @@
 ---
 title: Football (Girls)
-permalink: /holistic-education/co-curricular-activities-ccas/sports/football-girls
+permalink: /holistic-education/co-curricular-activities-ccas/sports/football-girls/
 description: ""
 third_nav_title: Sports
 ---
@@ -25,7 +25,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-mbkz">Teachers-in-Charge</td>
-    <td class="tg-vqm8">Ms. Stacey Ang (i/c)<br>Ms. Anne Marie Chua (2nd i/c)<br>Ms. Angie Goh<br><br><br></td>
+    <td class="tg-vqm8">Ms. Stacey Ang (i/c)<br>Ms. Anne Marie Chua (2nd i/c)<br>Ms. Siti Norrulhuda<br></td>
   </tr>
   <tr>
     <td class="tg-mbkz">Training Schedule</td>
