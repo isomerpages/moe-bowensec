@@ -1,6 +1,6 @@
 ---
 title: Girl Guides
-permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/girl-guides
+permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -27,7 +27,7 @@ third_nav_title: Uniformed Groups
 <tbody>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Teachers-in charge</span></td>
-    <td class="tg-vqm8">Mrs. Janet Wee (I/C) <br>Ms. Eileen Ong (2nd I/C)<br>Ms. Suraiya Izharul<br>Ms Shafiqah Hadam<br></td>
+    <td class="tg-vqm8">Mrs. Janet Wee (I/C) <br>Ms. Eileen Ong (2nd I/C)<br>Ms. Suraiya Izharul<br>Ms Sim Sze Hwei<br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
