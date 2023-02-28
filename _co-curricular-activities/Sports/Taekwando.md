@@ -1,6 +1,6 @@
 ---
 title: Taekwando
-permalink: /holistic-education/co-curricular-activities-ccas/sports/taekwondo
+permalink: /holistic-education/co-curricular-activities-ccas/sports/taekwondo/
 description: ""
 third_nav_title: Sports
 ---
@@ -24,7 +24,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in charge</span></td>
-    <td class="tg-vqm8"><span style="color:#222">Mr. Justin Chong (i/c)</span><br><span style="color:#222">Mdm. Joyce Toh(2ᴺᴰ i/c)</span><br><span style="color:#222">Mdm. Shafiqah</span><br><span style="color:#222">Ms. Wirda Mardiana</span><br></td>
+    <td class="tg-vqm8"><span style="color:#222">Mr. Justin Chong (i/c)</span><br><span style="color:#222">Mdm. Joyce Toh(2ᴺᴰ i/c)</span><br><span style="color:#222">Mdm. Shafiqah</span><br><span style="color:#222">Dr. Banu</span><br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
@@ -32,7 +32,7 @@ third_nav_title: Sports
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">ISH Level 1</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Classroom @ Block E</span></td>
   </tr>
 </tbody>
 </table>
