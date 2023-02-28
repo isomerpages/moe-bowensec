@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - BowenExplore!.md
       - Bowen ChANgeMakers.md
       - Bowen Fiesta.md
       - AForte.md
