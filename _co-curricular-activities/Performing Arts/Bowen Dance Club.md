@@ -1,6 +1,6 @@
 ---
 title: Bowen Dance Club
-permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bowen-dance-club
+permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bowen-dance-club/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -25,15 +25,15 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ms. Clara Chan(i/c)|</span><br><span style="color:#222">Mdm. Noorlidiawati (2</span>nd<span style="color:#222"> I/C)</span><br><span style="color:#222">Mdm. Liang Ruishan</span><br><span style="color:#222">Mr. Ng Wah Kian</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs. Andrea Thoo(i/c)</span><br><span style="color:#222">Ms. Siti Hawa (2</span>nd<span style="color:#222"> I/C)</span><br><span style="color:#222">Mr. Paul Tan (Advisor)</span><br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Tuesdays: 3:15pm to 6pm</span><br><span style="color:#222">Fridays: 2:15pm to 5pm</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Tuesdays: 3:15pm to 6:15pm</span><br><span style="color:#222">Fridays: 2:15pm to 5:15pm</span></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span><span style="color:#222"> </span></td>
-    <td class="tg-vqm8"><br>Performer's Lab (Tuesdays)<br>Music Room or AVA Room (Fridays)</td>
+    <td class="tg-vqm8">Drama Room</td>
   </tr>
 </tbody>
 </table>
