@@ -1,6 +1,6 @@
 ---
 title: Basketball (Boys)
-permalink: /holistic-education/co-curricular-activities-ccas/sports/basketball-boys
+permalink: /holistic-education/co-curricular-activities-ccas/sports/basketball-boys/
 description: ""
 third_nav_title: Sports
 ---
@@ -27,12 +27,12 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-mbkz">Teachers-in-charge</td>
-    <td class="tg-vqm8" colspan="2">Mr. Chew Hui Jie (i/c) <br>Mdm. Ng Gek Hwa (2nd i/c)<br>Mrs. Irene Leong<br>Ms. Rachel Emily Wu</td>
+    <td class="tg-vqm8" colspan="2">Mdm. Ng Gek Hwa (2nd i/c)<br>Mr. Chew Hui Jie (2nd i/c) <br>Mrs. Irene Leong</td>
   </tr>
   <tr>
     <td class="tg-mbkz">Training Schedule</td>
     <td class="tg-lr6o"><span style="color:#222">C-Division</span></td>
-    <td class="tg-vqm8">Tuesdays: 3.00pm - 4.30pm<br>Fridays: 2.00pm - 4.00pm</td>
+    <td class="tg-vqm8">Tuesdays: 3.00pm - 4.30pm<br>Fridays: 2.30pm - 4.00pm</td>
   </tr>
   <tr>
     <td class="tg-22b2"><span style="color:#222"> </span></td>
