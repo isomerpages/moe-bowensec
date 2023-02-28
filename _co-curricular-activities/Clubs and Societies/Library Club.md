@@ -1,6 +1,6 @@
 ---
 title: Library Club
-permalink: /holistic-education/co-curricular-activities-ccas/clubs-and-societies/library-club
+permalink: /holistic-education/co-curricular-activities-ccas/clubs-and-societies/library-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -25,7 +25,7 @@ third_nav_title: Clubs and Societies
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-vqm8">Ms. Grace Wang (I/C)<br>Ms. Teo Jia Jia<br>Ms. Beena Rai</td>
+    <td class="tg-vqm8">Mr. Lim Kah Kiat (I/C)<br>Ms. Teo Jia Jia</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
