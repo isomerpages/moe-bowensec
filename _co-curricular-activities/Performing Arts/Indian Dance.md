@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/indian-dance
+permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -25,11 +25,11 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs. Sankar (i/c)</span><br><span style="color:#222">Ms. Shameera Hussain (2</span>nd <span style="color:#222">i/c)</span><br><span style="color:#222">Mdm. Padma</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms. Shameera Hussain (i/c)</span><br><span style="color:#222">Mrs. Shankar(2nd i/c)</span><br><span style="color:#222">Mdm. Padma</span></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Tuesdays: 3.00pm to 5.00 pm</span><br><span style="color:#222">Fridays: 1.30pm to 5.00pm</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Tuesdays: 3.15pm to 5.15 pm</span><br><span style="color:#222">Fridays: 1.15pm to 5.15pm</span></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span><span style="color:#222"> </span></td>
