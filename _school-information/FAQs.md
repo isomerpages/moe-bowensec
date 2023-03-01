@@ -81,3 +81,155 @@ There is also a guide to assist you here.
 You can download the brochure here.  
 [2022_Bowen Experience_Fact Sheet.pdf](/files/2022_Bowen%20Experience_Fact%20Sheet.pdf)
 
+### Finance Matters
+
+1. **How much are the current school fees?**
+
+All students will receive their bills for school, miscellaneous and autonomous fees by postal mail to their home address from MOE directly. You can find out detailed information about secondary school fees from the [MOE website here >>>](https://www.moe.gov.sg/education/secondary)
+
+2. **How can school fees payment be made?**
+
+**OPTION 1: GIRO**  
+
+Parents are encouraged to pay their children’s fees through GIRO so that the pupils do not have to bring large sums of cash to school. GIRO deduction will be made monthly from February to December. The deduction in February will include the fees for January. Deduction date is on 26th of every month. Eg: For March fees, the deduction date will be on 26th March.
+
+_(Please note that GIRO deductions will be suspended after two consecutive unsuccessful deductions due to insufficient funds. Students will then receive cash bills and will have to pay the outstanding amount in cash. GIRO deduction will be reinstated once all outstanding fees have been paid.)_  
+
+
+**OPTION 2: CHEQUE**
+
+For cheque payment, either post the cheque or submit it to our General Office. Please make cheques payable to "Bowen Secondary School".
+
+  
+**OPTION 3: CASH**  
+
+Alternatively, you may make cash payments at our General Office.
+
+3. **What are the MOE financial schemes available?**
+
+Singapore Citizens in Government and Government-aided schools can apply for assistance under the MOE Financial Assistance Scheme (FAS).  Application forms are available for collection in-person at the school's General Office. If you need further assistance, please do not hesitate to call the school's General Office to find out more.
+
+To find out more about, you may click on the links below
+
+[FAS Application Information >>>](/school-information/school-matters/financial-assistance-scheme)
+
+[MOE Website information on FAS scheme >>>](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))
+
+4. **How can students under FAS go about redeeming Transport Subsidy?**
+
+Students on FAS may redeem the evouchers via the Transitlink eVoucher System from the **28th of the current month to the 10th of the next month**.   
+  
+Evouchers can be redeemed at any **Transitlink Add Value Machines** or **Transit Link Ticket Offices** located at **selected stations** such as Hougang and Serangoon stations.  
+  
+
+To find out more about, you may click on the links below
+
+[Step-by-Step Guide to Redeem Transport Voucher >>>](/school-information/school-matters/financial-assistance-scheme)
+
+[Transport Subsidy Guide FAS.pdf >>>](/files/Transport%20Subsidy%20Guide%20FAS.pdf)
+
+### Personal Learning Device (PLD) Matters
+
+1. **When was the Personal Learning Device launched in Bowen Secondary School**
+
+On the 27 August 2021, Sec 1 to Sec 3 students will receive their Personal Learning Device. They are expected to bring their PLD (fully-charged) to school daily and to bring it home after school hours. They are not allowed to leave it in school.
+
+2. **My child's** **Personal Learning Device** **is experiencing some issues. Who should I contact for assistance?**
+
+Please encourage your child to first contact the school's ICT Service Desk first with the device when he or she is in school. We can then advice if it is necessary to contact the PLD service centre for further assistance. Otherwise, you may also contact the PLD service centre directly.  You can find information about PLD warranty, service centre and other information in the link below,
+
+[PLD Information Page >>>](/signature-programmes/learning-with-technology/personal-learning-device-pld-information)
+
+3. **Where is the Bowen ICT Service Desk located and what are the operating hours?**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-mbkz{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mbkz" colspan="2">Bowen ICT Service Desk<br><span style="background-color:transparent">Location : Block C, (C4-04) D&amp;T Block next to Student Council Room</span><br>Opening hours of ICT Service Desk</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mbkz" colspan="2">During School Term</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Monday – Friday (During recess/lunch)</td>
+    <td class="tg-vqm8">According to timetable</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Monday – Thursday (after school)</td>
+    <td class="tg-vqm8">2.30 pm – 4.30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Friday (after school)</td>
+    <td class="tg-vqm8">12.30 pm – 3.30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-mbkz" colspan="2">During School Holidays</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Monday – Friday</td>
+    <td class="tg-vqm8">9.00 am – 11.00 am<br>1.00 pm – 3.00 pm</td>
+  </tr>
+</tbody>
+</table>
+
+4. **Does the school have lockers for my child to secure his Personal Learning Device?**
+
+From 11 August 2021, our school provides each student with a locker for the academic year to secure his/her Personal Learning Device. The locker is equipped with a 4 digit combination lock which the student con configure by himself/herself. At the end of the academic year, students will return and clear their lockers. The school will reassign the lockers to students the following academic year. The school reserves the right to conduct spot-checks to ensure that the contents of the lockers adhere to the school rules.   
+  
+Students may refer to the [following link](https://youtu.be/vjhdo3pLJuw) on how to reset their combination lock.
+
+5. **My child has forgotten his passwords for his school-based learning platforms. How can I reset them?**
+
+The school uses several on-line platforms for e-learning and HBL. If students have forgotten their passwords and require assistance to reset their passwords, they should first proceed with the following self-help procedures. As a last resort, they may contact their Form Teachers for assistance.  
+
+**Student Learning Space (SLS)**  
+
+Students may get locked out of the system if there are too many failed attempts. SLS also require students to have a minimum of 12 character password. 
+
+Office Hours: (School-based Helpdesk)  <br>
+**Monday ― Friday:  8am - 4pm   <br>
+Tel: 63852042** 
+      
+**Non-Office Hours (SLS Helpdesk)**
+Monday ― Friday:  
+4:00 pm ― 9:00 pm (School Days)  
+9:00 am ― 9:00 pm (School Holidays)  
+      
+Saturdays:  
+9:00 am ― 3:00 pm  
+\*Closed on Sundays & Public Holidays  
+      
+**Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**  
+**Tel: (65) 6702 6513  
+      
+**School Google Suite Accounts (@bws.edu.sg)  
+    **Google Suite for Education allows students to collaborate using cloud-based tools. Applications include G-mail, Google Docs, Slides, Spreadsheet, Google Classroom etc.  
+      
+    **Office Hours:** Monday ― Friday:  
+    8am - 4pm  
+    **Tel: 63852042** (School-based Helpdesk)  
+      
+    
+3.  **ACE-Learning**  
+    A Math on-line learning platform.  
+    **\- Consult individual Subject Teachers**  
+      
+    
+4.  **SSOE-MIMS login (School-based WIFI networks)**  
+    This covers the login required on all SSOE devices that are on school-based networks,  
+    Eg. Computers in computer lab, 
+
+        **Office Hours:**     Monday ― Friday:  
+    8am - 4pm  
+    **Tel: 63852042** (School-based Helpdesk)
