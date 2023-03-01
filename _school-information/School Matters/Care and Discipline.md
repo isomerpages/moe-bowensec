@@ -72,11 +72,6 @@ If you have concerns about yourself or your family, or you are concerned for you
 </tbody>
 </table>
 
-The **Learning Support** **Team** provides support to students with special needs:
-
-*   Learning Support Educator: Ms Delina Swee
-*   Teachers: Ms Angie Goh, Ms Siti Hawa, Mr Chen Qinghua, Mdm Sim Sze Hwei, Mdm Padma, Mr Winston Chua, Mr Randy Low, Mdm Noorlidiawati, Mr Soo Sheng Lih, Mrs Sankar, Mr Mohd Farid
-
 If you would like to talk to other trained professionals, you can also call the following organisations:
 
 <style type="text/css">
@@ -124,4 +119,5 @@ If you would like to talk to other trained professionals, you can also call the 
 
 In Bowen, we strive to create a caring and vibrant learning environment for Bowenians to ‘Do Well and Do Good’. Our rules and regulations describe the standard of conduct and behaviour expected of our students at all times. Our end-goal is to guide our students to cultivate core values and habits and to become self-disciplined individuals of good character, which is integral for growth and maturity.
 
-[Care and Discipline School Rules Updated 2022.pdf](/files/Discipline%20and%20Rules%20website%20updated%20as%20of%2019th%20January%202022.pdf)
+[Care and Discipline School Rules Updated 2023.pdf](/files/2023%20Bowen%20School%20Rules.pdf)
+
