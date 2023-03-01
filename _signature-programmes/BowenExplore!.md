@@ -17,3 +17,21 @@ The key objective of BowenExplore! is to help our students to take ownership of 
 
 <img src="/images/Bowen%20Explore%20Concept%20Map.jpg" 
      style="width:60%">
+		 
+### BowenExplore! Categories
+
+In choosing their BowenExplore! topics and deciding their product of learning, students are given autonomy to decide with the broad domains of Heart, Body, Mind and Soul.
+
+<img src="/images/Bowen%20Explore%20Categories.jpg" 
+     style="width:60%">
+		 
+### How BowenExplore! is carried out
+
+Students will be guided to identify their interests and passions when deciding their BowenExplore! topics through SLS lessons, which students will access and learn on their own timing. 
+
+For each HBL day, 1 hour is dedicated to BowenExplore! for students to do their chosen topics. They will also be guided to reflect on their learning at the end of the HBL days. At the end of the learning, student will reflect on their overall learning and to share and celebrate their learning with each other. 
+
+This BowenExplore! journey is captured in the chart below:
+
+<img src="/images/Bowen%20Explore%20Process%20Flow.jpg" 
+     style="width:60%">
