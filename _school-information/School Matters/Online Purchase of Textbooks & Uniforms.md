@@ -53,3 +53,10 @@ You can download the 2o23 booklist from the table below.
 </tbody>
 </table>
 
+### Online Purchase of 2023 Textbooks and Uniforms
+
+Please spend some time going through the Online Purchase Guide if you are unfamiliar with the process.  
+[https://www.pacificbookstores.com](https://www.pacificbookstores.com/)  
+  
+You may also download the User Guide via the link below,  
+[Pacific Bookstores Online Purchase User Guide 2022.pdf](/files/Pacific%20Bookstores%20Online%20Purchase%20User%20Guide%202022.pdf)
