@@ -233,3 +233,13 @@ Eg. Computers in computer lab, 
 
 The school's SWN Wi-Fi network provides students who bring their own devices, a means to connect to the internet for learning purposes using their school IAMS account, <br>
 Please refer to the guide [**here**](/holistic-education/academic-programmes/information-n-communications-technology) on how to connect to the SWN network.
+
+### Miscellaneous
+
+1. **What is the Parent Gateway App?**
+
+The Parent Gateway(PG) Mobile App is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this app to stay updated on school’s programme and activities.  
+  
+To find out more about, you may click on the links below  
+[Parent Gateway Information >>>](/school-information/school-matters/online-portals/portals-for-students-n-parents/parent-gateway-mobile-app)  <br>
+[FAQs on Parent Gateway >>>](/files/FAQ%20for%20Parent%20Gateway.pdf)
