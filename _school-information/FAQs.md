@@ -201,35 +201,30 @@ Office Hours: (School-based Helpdesk)  <br>
 **Monday ― Friday:  8am - 4pm   <br>
 Tel: 63852042** 
       
-**Non-Office Hours (SLS Helpdesk)**
-Monday ― Friday:  
-4:00 pm ― 9:00 pm (School Days)  
+**Non-Office Hours (SLS Helpdesk)**  <br>
+Monday ― Friday:    <br>
+4:00 pm ― 9:00 pm (School Days)    <br>
 9:00 am ― 9:00 pm (School Holidays)  
       
-Saturdays:  
-9:00 am ― 3:00 pm  
+Saturdays:    <br>
+9:00 am ― 3:00 pm    <br>
 \*Closed on Sundays & Public Holidays  
       
-**Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**  
-**Tel: (65) 6702 6513  
+**Email:  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**    <br>
+**Tel: (65) 6702 6513**  
       
-**School Google Suite Accounts (@bws.edu.sg)  
-    **Google Suite for Education allows students to collaborate using cloud-based tools. Applications include G-mail, Google Docs, Slides, Spreadsheet, Google Classroom etc.  
+**School Google Suite Accounts (@bws.edu.sg)**    <br>
+Google Suite for Education allows students to collaborate using cloud-based tools. Applications include G-mail, Google Docs, Slides, Spreadsheet, Google Classroom etc.  
+**Office Hours:** Monday ― Friday:  8am - 4pm    <br>
+**Tel: 63852042** (School-based Helpdesk)  
       
-    **Office Hours:** Monday ― Friday:  
-    8am - 4pm  
-    **Tel: 63852042** (School-based Helpdesk)  
-      
-    
-3.  **ACE-Learning**  
-    A Math on-line learning platform.  
-    **\- Consult individual Subject Teachers**  
-      
-    
-4.  **SSOE-MIMS login (School-based WIFI networks)**  
-    This covers the login required on all SSOE devices that are on school-based networks,  
-    Eg. Computers in computer lab, 
+**ACE-Learning**    <br>
+A Math on-line learning platform.    <br>
+**- Consult individual Subject Teachers**  
 
-        **Office Hours:**     Monday ― Friday:  
-    8am - 4pm  
-    **Tel: 63852042** (School-based Helpdesk)
+**SSOE-MIMS login (School-based WIFI networks)**    <br>
+This covers the login required on all SSOE devices that are on school-based networks,    <br>
+Eg. Computers in computer lab, 
+
+**Office Hours:** Monday ― Friday:  8am - 4pm    <br>
+**Tel: 63852042** (School-based Helpdesk)
