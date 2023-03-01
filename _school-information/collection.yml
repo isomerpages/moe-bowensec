@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - FAQs.md
       - School Matters/.keep
       - School Matters/Library Services.md
       - School Matters/Care and Discipline.md
@@ -21,6 +20,7 @@ collections:
       - Online Portals/Student Learning Space.md
       - Online Portals/Portals for Students & Parents.md
       - Online Portals/Portals for Teachers.md
+      - FAQs.md
       - Our Partners.md
       - Contact Information/.keep
       - Contact Information/School Contact Information.md
