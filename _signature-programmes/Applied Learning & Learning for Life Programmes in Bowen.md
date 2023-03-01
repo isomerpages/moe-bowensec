@@ -7,7 +7,7 @@ Applied Learning refers to an approach that emphasizes authentic and practice-or
 
 ### Our Programme
 
-**Applied Learning Programme**  <br>N
+**Applied Learning Programme**  <br>
 The Applied Learning Programme in Bowen helps Bowenians appreciate the relevance and value of what they are learning in the academic curriculum to the real world, and develop stronger motivation and purpose to acquire knowledge and skills. The emphasis is on the application of thinking skills, integrating knowledge across subject disciplines, stretching the imagination and applying these in real-world settings in society and industries. In Bowen, one of the key areas of focus for our ALP is **Business and Entrepreneurship**.  
 
   
