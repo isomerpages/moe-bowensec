@@ -178,3 +178,7 @@ To be eligible for FAS, the student should be a **Singapore Citizen** and meet
 ### MOE 2023 FAS Pamphlet
 
 [2023 MOE FAS Pamphlet.pdf](/files/2023%20MOE%20FAS%20Pamphlet_2.pdf)
+
+### 2023 FAS Application Form
+
+[2023 MOE FAS Application Form](/files/2023%20MOE%20FAS%20Application%20Form.pdf)
