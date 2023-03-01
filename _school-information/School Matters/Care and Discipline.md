@@ -1,6 +1,6 @@
 ---
 title: Care and Discipline
-permalink: /school-information/School-Matters/care-and-discipline
+permalink: /school-information/School-Matters/care-and-discipline/
 description: ""
 third_nav_title: School Matters
 ---
@@ -17,52 +17,57 @@ If you have concerns about yourself or your family, or you are concerned for you
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h0om{background-color:#eaeaea;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-z5wu{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cjod{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
-.tg .tg-bd46{background-color:#EAEAEA;border-color:inherit;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-3jxu{background-color:#eaeaea;text-align:center;vertical-align:top}
+.tg .tg-g8v5{background-color:#eaeaea;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-z5wu"></th>
-    <th class="tg-z5wu">Year Heads</th>
-    <th class="tg-z5wu">Care Team</th>
-    <th class="tg-z5wu">Discipline Team</th>
-    <th class="tg-h0om" rowspan="2">Other relevant key personnel:</th>
+    <th class="tg-3jxu" rowspan="2"><span style="font-weight:bold;font-style:normal">Academic Year 2023</span></th>
+    <th class="tg-n4qt">Year Heads</th>
+    <th class="tg-n4qt">Level Care Teachers</th>
+    <th class="tg-n4qt">Level Learning Support Teachers </th>
+    <th class="tg-n4qt">Discipline Team</th>
   </tr>
   <tr>
-    <th class="tg-z5wu"> </th>
-    <th class="tg-z5wu"></th>
-    <th class="tg-z5wu">Head / SWB <br>Mr Juraimy Abu Bakar<br> <br>SWB 2nd I/C<br>Ms. Tan Shuming</th>
-    <th class="tg-z5wu">Head / Discipline<br>Mr. Wilson Goy<br>2nd I/C <br><br>Mr. Derrick Lim<br>Lower Secondary Team Leader<br><br>Mr. Alvis Tan<br>Upper Secondary Team Leader<br><br>Mrs. Irene Leong</th>
+    <th class="tg-g8v5"><span style="font-weight:400;font-style:normal">Mrs Bernice Kuan</span></th>
+    <th class="tg-3jxu"><span style="font-weight:bold;font-style:normal">I/C</span><br><span style="font-weight:400;font-style:normal">Mr Juraimy Abu Bakar (</span>HOD/ SWB)<br><br><span style="font-weight:bold;font-style:normal">2nd I/C</span><br><span style="font-weight:400;font-style:normal">Ms. Tan Shuming (SH/SWB)</span><br></th>
+    <th class="tg-3jxu"><span style="font-weight:bold;font-style:normal">I/C</span><br>Mr Juraimy Abu Bakar (<br>HOD/ SWB)<br><br><span style="font-weight:bold;font-style:normal">2nd I/C</span><br><span style="font-weight:400;font-style:normal">Mr Faris</span><br></th>
+    <th class="tg-3jxu"><span style="font-weight:bold">Head / Discipline</span><br>Mr. Wilson Goy<br>Mrs. Normala Chang<br><br><span style="font-weight:bold;font-style:normal">2nd I/C</span><br><span style="font-weight:400;font-style:normal">Mr. Derrick Lim</span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-z5wu">Sec 1<br>Level Team</td>
-    <td class="tg-cjod">Ms. Estelle Chong<br><br></td>
-    <td class="tg-cjod">Mr. Ainsley Liew<br>Ms Jean Cai<br> </td>
-    <td class="tg-cjod">Ms Siow Wei Ling<br>Mr Derrick Lim<br>Mr Habib</td>
-    <td class="tg-z5wu" rowspan="4">Head / Normal Course <br>Mrs Normala Chang<br> <br>Counsellor<br>Mrs Magdalene Lee</td>
+    <td class="tg-n4qt">Sec 1<br>Level Team</td>
+    <td class="tg-ii8k">Mdm. Sharifah Kamelia<br><br><br></td>
+    <td class="tg-ii8k">Ms Teo JiaJia (I/C)<br>Mr. Sheik Habib<br> </td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr. Chen Qinghua (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Ms. Kalaivani</span><br><span style="color:#222;background-color:#EAEAEA">Mdm Sim Sze Hwei</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Farid</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Faris</span><br></td>
+    <td class="tg-ii8k">Mdm. Uma<br>Mrs Irene Leong<br>Ms Eileen Ong</td>
   </tr>
   <tr>
-    <td class="tg-bd46">Sec 2<br>Level Team</td>
-    <td class="tg-cjod">Mrs Bernice Kuan</td>
-    <td class="tg-cjod">Mr. Mohd Farid<br>Ms. Teo Jia Jia</td>
-    <td class="tg-cjod">Mr. Alvis Tan<br>Mdm. Uma</td>
+    <td class="tg-uxuj"><span style="font-weight:bold;color:#333">Sec 2</span><br><span style="font-weight:bold;color:#333">Level Team</span></td>
+    <td class="tg-ii8k">Ms. Estelle Chong</td>
+    <td class="tg-ii8k">Ms. Jean Cai (I/C)<br>Mr. Ainsley Liew</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs. Sandra Lim (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Mdm. Angie Goh </span></td>
+    <td class="tg-ii8k">Ms Siow WeiLing<br>Mr. Francis</td>
   </tr>
   <tr>
-    <td class="tg-z5wu">Sec 3<br>Level Team</td>
-    <td class="tg-cjod">Mrs Normala Chang / Mrs. Chan Soo Yong</td>
-    <td class="tg-cjod">Mr. Hairil<br>Ms. Anne Marie Chua</td>
-    <td class="tg-cjod">Mrs. Irene Leong<br>Mr. Sean Clunies Ross<br> </td>
+    <td class="tg-n4qt">Sec 3<br>Level Team</td>
+    <td class="tg-ii8k">Mrs Bernice Kuan</td>
+    <td class="tg-ii8k">Mr. Farid (I/C)<br>Ms. Suraiya</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms. Siti Hawa (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Wilson Koh</span><br><span style="color:#222;background-color:#EAEAEA">Mrs. Sankar </span></td>
+    <td class="tg-ii8k">Mdm Zakiah<br>Ms. Nurulhudah<br> </td>
   </tr>
   <tr>
-    <td class="tg-z5wu">Sec 4/5<br>Level Team</td>
-    <td class="tg-cjod">Mdm. Sharifah Kamelia<br></td>
-    <td class="tg-cjod">Ms. Suraiya<br> Mrs. Jessica Yong<br>Ms. Monica Suan</td>
-    <td class="tg-cjod">Ms Zakiah<br>Ms. Eileen Ong<br> </td>
+    <td class="tg-n4qt">Sec 4/5<br>Level Team</td>
+    <td class="tg-ii8k">Mrs. Chan Soo Yong<br></td>
+    <td class="tg-ii8k">Mr. Hairil<br>Ms. Monica Suan (Term 1)<br>Ms. Tan Shuming</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms. Shafiqah (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Winston Chua</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ii8k">Mr. Derrick Lim<br>Mr. Sean Ross<br> </td>
   </tr>
 </tbody>
 </table>
