@@ -243,3 +243,13 @@ The Parent Gateway(PG) Mobile App is an initiative by MOE to enable parents to 
 To find out more about, you may click on the links below  
 [Parent Gateway Information >>>](/school-information/school-matters/online-portals/portals-for-students-n-parents/parent-gateway-mobile-app)  <br>
 [FAQs on Parent Gateway >>>](/files/FAQ%20for%20Parent%20Gateway.pdf)
+
+2. **Are students allowed to bring their Mobile Phones to school?**
+
+We want our students to be **responsible users** of their mobile devices. Students are expected to **lock** their mobile phones in their lockers **during curriculum time, CCAs and Learning Journeys** so as not to be a source of distraction. Students can use their mobile phones only in designated areas such as the canteen and foyer only after school hours.   
+  
+You can find detailed information in [School Rules and Regulations here >>>](/school-information/school-matters/care-and-discipline)
+
+3. **Photographs and videos of students and their legal guardians used in this website.**
+
+Photographs or video images of students or their legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels.
