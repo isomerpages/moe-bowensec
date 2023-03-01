@@ -14,3 +14,6 @@ BowenExplore! is a platform where dedicated time and space is provided for stude
 ### Objectives
 
 The key objective of BowenExplore! is to help our students to take ownership of their own learning and to develop self-directed learning through the following stages.
+
+<img src="/images/Bowen%20Explore%20Concept%20Map.jpg" 
+     style="width:60%">
