@@ -182,3 +182,15 @@ To be eligible for FAS, the student should be a **Singapore Citizen** and meet
 ### 2023 FAS Application Form
 
 [2023 MOE FAS Application Form](/files/2023%20MOE%20FAS%20Application%20Form.pdf)
+
+### FAS Application Procedures
+
+Parents are to complete the FAS application form (available at the General Office) and submit the completed form with relevant documents to the General Office.  Applications are accepted year-round.  
+
+  
+
+You may also find more information on MOE's website [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).   
+
+Please approach **Mdm. Filzah, Administration Manager**, at tel: **6385 9466** if you have any query with regard to financial assistance.
+
+* * * 
