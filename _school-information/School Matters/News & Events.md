@@ -140,22 +140,21 @@ Click to download the 2023 Term 1 letters
     
 *   [2023 Sec 4 and 5 Start of Term 1 Letter](/files/2023%20S4n5%20Start%20of%20Term%201%20Letter_final.pdf)
 
-Online Purchase of Textbooks 2023 and Uniforms 
------------------------------------------------
+### Online Purchase of Textbooks 2023 and Uniforms 
 
 The sales of textbooks 2023 and uniforms will be available for online purchase from the bookshop and uniform vendor’s website. Sales will be conducted online to manage the number of visitors to the school as we are transiting towards living with COVID-19 in a careful and controlled manner. \*Please note: the Bookshop & Uniform Vendor at school will not serve walk-in customers who have not placed online orders beforehand.  This is to provide them time to pre-pack the orders. If you have further queries, please contact the School General Office at 6385 9466. 
 
 For more detailed information, please refer to the following  
 
-*   [Pacific Bookstores Online Purchase User Guide 2022.pdf](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/Pacific%20Bookstores%20Online%20Purchase%20User%20Guide%202022.pdf)
-*   [2023 S1 Booklist.pdf](https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/2023%20S1%20Booklist.pdf)  
+*   [Pacific Bookstores Online Purchase User Guide 2022.pdf](/files/Pacific%20Bookstores%20Online%20Purchase%20User%20Guide%202022.pdf)
+*   [2023 S1 Booklist.pdf](/files/2023%20S1%20Booklist.pdf)  
     
-*   [2023 S2 Booklist.pdf](https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/2023%20S2%20Booklist.pdf)  
+*   [2023 S2 Booklist.pdf](/files/2023%20S2%20Booklist.pdf)  
     
-*   [2023 S3 Booklist (Updated 9 Dec.pdf](https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/2023%20S3%20Booklist%20Updated%209%20Dec.pdf))
-*   [2023 S4 Booklist.pdf](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/2023%20S4%20Booklist.pdf)  
+*   [2023 S3 Booklist (Updated 9 Dec.pdf](/files/2023%20S3%20Booklist%20Updated%209%20Dec.pdf)
+*   [2023 S4 Booklist.pdf](/files/2023%20S4%20Booklist.pdf)  
     
-*   [2023 S5 Booklist.pdf](https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/2023%20S5NA%20Booklist.pdf)  
+*   [2023 S5 Booklist.pdf](/files/2023%20S5NA%20Booklist.pdf)  
     
 
   
@@ -171,3 +170,18 @@ Visit the Bowen 40th anniversary Microsite and browse through a selection of ima
   
 
 [Visit the Bowen 40th Anniversary Microsite here >>>](https://sites.google.com/moe.edu.sg/bowensec40)
+
+### Choosing the Right School
+
+<img src="/images/Choose-Bowen-Secondary-Popup2.jpeg" 
+     style="width:70%">
+		 
+### Launch of Bowen PE Microsite
+
+Find out more about our PE curriculum from the Bowen PE microsite.  
+
+[Bowen PE microsite >>>](https://sites.google.com/bws.edu.sg/bowenpe)
+
+<img src="/images/Bowen%20PE%20microsite.png" 
+     style="width:70%">
+		 
