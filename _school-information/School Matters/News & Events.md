@@ -6,6 +6,7 @@ third_nav_title: School Matters
 ---
 ### 2023 Sem 1 Class Timetables (v3.5 updated wef 25 Jan)
 
+
 **2023 Sec 1 Semester 1 Class Timetables (v3.5 wef 25 Jan)**
 
 
@@ -77,3 +78,34 @@ third_nav_title: School Matters
 **2023 Sec 5 Semester 1 Class Timetables (v3.5 wef 25 Jan)**  
 
 *   [2023 SEM1 S5 Eudialyte TT V3.5](/files/2023%20SEM1%20S5E%20TT.pdf)
+
+### Term Assessment 1 (TA1) Schedule and Information
+
+The following are information regarding the Term 1 TA1 Schedule.  
+
+[2023 TA 1 Briefing to Students.pdf](/files/2023%20TA%201%20Briefing%20to%20Students.pdf)
+
+  
+
+TA1 Assessment Schedule
+
+1.  [2023 SEC 1 TA1 Assessment Schedule](/files/2023%20S1%20TA1%20TT.pdf)  
+    
+2.  [2023 SEC 2 TA1 Assessment Schedule](/files/2023%20S2%20TA1%20TT.pdf)  
+    
+3.  [2023 SEC 3 TA1 Assessment Schedule](/files/2023%20S3%20TA1%20TT.pdf)  
+    
+4.  [2023 SEC 4n5 TA1 Assessment Schedule](/files/2023%20S4n5%20TA1%20TT.pdf)  
+    
+
+  
+
+Parents's Letters:
+
+1.  [Letter to parents TA1 Sec 1 2023.pdf](/files/Letter%20to%20parents%20TA1%20Sec%201%202023.pdf)  
+    
+2.  [Letter to parents TA1 Sec 2 2023.pdf](/files/Letter%20to%20parents%20TA1%20Sec%202%202023.pdf)  
+    
+3.  [Letter to parents TA1 Sec 3 2023.pdf](/files/Letter%20to%20parents%20TA1%20Sec%203%202023.pdf)  
+    
+4.  [Letter to parents TA1 Sec 4\_5 2023.pdf](/files/Letter%20to%20parents%20TA1%20Sec%204_5%202023.pdf)
