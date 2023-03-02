@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Our Partners/2023 Bowen ParentLink Committee.md
       - Our Partners/Bowen ParentLink.md
       - Our Partners/Our Partners.md
       - Our Partners/.keep
