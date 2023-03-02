@@ -6,7 +6,6 @@ third_nav_title: School Matters
 ---
 ### 2023 Sem 1 Class Timetables (v3.5 updated wef 25 Jan)
 
-
 **2023 Sec 1 Semester 1 Class Timetables (v3.5 wef 25 Jan)**
 
 
@@ -109,3 +108,34 @@ Parents's Letters:
 3.  [Letter to parents TA1 Sec 3 2023.pdf](/files/Letter%20to%20parents%20TA1%20Sec%203%202023.pdf)  
     
 4.  [Letter to parents TA1 Sec 4\_5 2023.pdf](/files/Letter%20to%20parents%20TA1%20Sec%204_5%202023.pdf)
+
+### GCE O-Level Examination Results and 2023 Joint Admissions Exercise
+
+Congratulations to our Sec 4/5 Bowenian cohort who have received their GCE O-level results today. You can find the briefing slides and the information sheets for the respective Pre-U mother tongue electives in the links below.  
+
+*   [2022 Bowen O Level Briefing Slides](/files/2022%20Bowen%20O%20Level%20Briefing%20Slides.pdf)
+*   [Info-sheet Pre- U Chinese Lang Elective Programme](/files/Information%20Sheet%20on%20the%20Pre-U%20Chinese%20Language%20Elective%20Programme.pdf)  
+    
+*   [Info-sheet Pre- U Malay Lang Elective Programme](/files/Information%20Sheet%20on%20the%20Pre-U%20Malay%20Language%20Elective%20Programme.pdf)  
+    
+*   [Info-sheet Pre- U Tamil Lang Elective Programme](/files/Information%20Sheet%20on%20the%20Pre-%20U%20Tamil%20Language%20Elective%20Programme.pdf)
+
+Joint Admissions Exercise (JAE)  
+
+Students who wish to apply for admission to junior colleges (JC), Millennia Institute (MI), polytechnics, and the Institute of Technical Education (ITE) may do so via the Joint Admissions Exercise (JAE) using their GCE O-Level examination results .The JAE-IS will be accessible from **3.00pm on Thursday, 12 January 2023**, to **4.00pm on Tuesday, 17 January 2023** for students to submit their course choices through the JAE website at [www.moe.gov.sg/jae](http://www.moe.gov.sg/jae)..  
+  
+
+**[MOE Press Release >>>](https://www.moe.gov.sg/news/press-releases/20230105-release-of-2022-singapore-cambridge-gce-o-level-examination-results-and-2023-joint-admissions-exercise)**
+
+2023 Term 1 Letters
+-------------------
+
+Click to download the 2023 Term 1 letters
+
+*   [2023 Sec 1 Start of Term 1 Letter](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/LETTERS/2023%20Letters/Sec%201/2023%20S1%20Start%20of%20Term%201%20Letter.pdf)  
+    
+*   [2023 Sec 2 Start of Term 1 Letter](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/LETTERS/2023%20Letters/Sec%202/2023%20S2%20Start%20of%20Term%201%20Letter.pdf)  
+    
+*   [2023 Sec 3 Start of Term 1 Letter](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/LETTERS/2023%20Letters/Sec%203/2023%20S3%20Start%20of%20Term%201%20Letter%20final.pdf)  
+    
+*   [2023 Sec 4 and 5 Start of Term 1 Letter](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/LETTERS/2023%20Letters/Sec%204n5/2023%20S4n5%20Start%20of%20Term%201%20Letter_final.pdf)
