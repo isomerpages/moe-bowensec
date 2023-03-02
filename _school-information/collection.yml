@@ -2,11 +2,11 @@ collections:
   school-information:
     output: true
     order:
-      - Our Partners/Triple P Teens Seminar Series.md
-      - Our Partners/2023 Bowen ParentLink Committee.md
-      - Our Partners/Bowen ParentLink.md
-      - Our Partners/Our Partners.md
       - Our Partners/.keep
+      - Our Partners/Our Partners.md
+      - Our Partners/Bowen ParentLink.md
+      - Our Partners/2023 Bowen ParentLink Committee.md
+      - Our Partners/Triple P Teens Seminar Series.md
       - School Matters/.keep
       - School Matters/Library Services.md
       - School Matters/Care and Discipline.md
