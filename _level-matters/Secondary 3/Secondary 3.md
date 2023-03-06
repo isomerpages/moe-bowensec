@@ -4,25 +4,16 @@ permalink: /school-information/Level-Matters/secondary-3/
 description: ""
 third_nav_title: Secondary 3
 ---
-
-
 ### Secondary 3 Year Head (2022 Academic Year)
 
-<img src="/images/MRS-CHAN-SOO-YONG.jpeg" 
+<img src="/images/MS-BERNICE-TEY.jpeg" 
      style="width:25%">
-		 
-<center><b>Mrs. Chan Soo Yong</b><br>
+
+<center><b>Mrs. Bernice Kuan</b><br>
 Year Head  <br>
-Secondary 3 (2022 Academic Year)  <br>
-<a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
+Secondary 3 (2023 Academic Year)  <br>
+<a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
 
-<img src="/images/Mrs-Normala-Chang.jpg" 
-     style="width:25%">
-
-<center><b>Mrs. Normala Chang</b><br>
-Head / Normal Course  <br>
-(Covering) Year Head Secondary 3 (2022 Academic Year) <br> 
-<a href="normala_mohamed_saleh_ma@schools.gov.sg">normala_mohamed_saleh_ma@schools.gov.sg</a></center>
 
 ### Sec 3 Cohort Theme
 
