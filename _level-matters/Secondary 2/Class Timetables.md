@@ -8,6 +8,7 @@ third_nav_title: Secondary 2
 
 **V3.5 wef 25 Jan**
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,10 +29,10 @@ third_nav_title: Secondary 2
 </thead>
 <tbody>
   <tr>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2T%20TT%20V3.5.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2T TT V3.5.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2S%20TT%20V3.5.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2S TT V3.5.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2P%20TT%20V3.5.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2P TT V3.5.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2A%20TT%20V3.5.pdf">2023 SEM1 S2A TT V3.5.pdf</a></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2T%20TT.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2T TT V3.5.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2S%20TT.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2S TT V3.5.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2P.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2P TT V3.5.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2A%20TT.pdf">2023 SEM1 S2A TT V3.5.pdf</a></td>
   </tr>
   <tr>
     <td class="tg-pll1">S2 RUBY<br></td>
@@ -40,10 +41,10 @@ third_nav_title: Secondary 2
     <td class="tg-pll1">S2 EMERALD<br></td>
   </tr>
   <tr>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2R%20TT%20V3.5.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2R TT V3.5.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2K%20TT%20V3.5.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2K TT V3.5.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2L%20TT%20V3.5.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2L TT V3.5.pdf</span></a><br></td>
-    <td class="tg-uxuj"><a href="https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Class%20Timetables/2023%20Class%20Timetables/Sec%202/Sem1%20V3.5/2023%20SEM1%20S2E%20TT%20V3.5.pdf">2023 SEM1 S2E TT V3.5.pdf</a></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2R%20TT.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2R TT V3.5.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2K%20TT.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2K TT V3.5.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2L%20TT.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S2L TT V3.5.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S2E%20TT.pdf">2023 SEM1 S2E TT V3.5.pdf</a></td>
   </tr>
 </tbody>
 </table>
