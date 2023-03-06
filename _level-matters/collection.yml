@@ -2,6 +2,7 @@ collections:
   level-matters:
     output: true
     order:
+      - Secondary 1/Booklist and Online Purchase of Textbooks & Uniforms.md
       - Secondary 1/Assessment Schedules.md
       - Secondary 1/Cohort Letters.md
       - Secondary 1/Class Timetables.md
