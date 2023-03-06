@@ -2,6 +2,7 @@ collections:
   level-matters:
     output: true
     order:
+      - Secondary 4&5/Cohort Letters.md
       - Secondary 4&5/Class Timetables.md
       - Secondary 4&5/Secondary 4 & 5.md
       - Secondary 4&5/.keep
