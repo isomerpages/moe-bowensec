@@ -2,4 +2,5 @@ collections:
   level-matters:
     output: true
     order:
+      - Secondary 2.md
       - Secondary 1.md
