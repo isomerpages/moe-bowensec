@@ -3,10 +3,10 @@ title: 2023 Booklists
 permalink: /school-information/level-matters/2023-booklists/
 description: ""
 ---
-2023 Booklists
---------------
+### 2023 Booklists
 
-[](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/Pacific%20Bookstores%20Online%20Purchase%20User%20Guide%202022.pdf)T[he sales of textbooks 2023 and uniforms will be available for online purchase from the bookshop and uniform vendor’s website at](https://bowensec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/Essential%20Information/BookList/2023%20Uniform%20and%20Booklist/Pacific%20Bookstores%20Online%20Purchase%20User%20Guide%202022.pdf) [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)  
+The sales of textbooks 2023 and uniforms will be available for online purchase from the bookshop and uniform vendor’s website at https://www.pacificbookstores.com
+
   
 Sales will be conducted online to manage the number of visitors to the school as we are transiting towards living with COVID-19 in a careful and controlled manner. \*Please note: the Bookshop & Uniform Vendor at school will not serve walk-in customers who have not placed online orders beforehand. This is to provide them time to pre-pack the orders.  
   
@@ -54,4 +54,3 @@ You can download the 2o23 booklist from the table below.
   </tr>
 </tbody>
 </table>
-
