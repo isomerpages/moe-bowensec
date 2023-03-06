@@ -2,6 +2,7 @@ collections:
   level-matters:
     output: true
     order:
+      - Secondary 3/Assessment Schedules.md
       - Secondary 3/Cohort Letters.md
       - Secondary 3/Class Timetables.md
       - Secondary 3/Secondary 3.md
