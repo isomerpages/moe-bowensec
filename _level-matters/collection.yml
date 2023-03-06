@@ -2,24 +2,6 @@ collections:
   level-matters:
     output: true
     order:
-      - Secondary 4&5/.keep
-      - Secondary 4&5/Secondary 4 & 5.md
-      - Secondary 4&5/Class Timetables.md
-      - Secondary 4&5/Cohort Letters.md
-      - Secondary 4&5/Assessment Schedules.md
-      - Secondary 4&5/Secondary 4&5 Booklist.md
-      - Secondary 3/.keep
-      - Secondary 3/Secondary 3.md
-      - Secondary 3/Class Timetables.md
-      - Secondary 3/Cohort Letters.md
-      - Secondary 3/Assessment Schedules.md
-      - Secondary 3/Secondary 3 Booklist.md
-      - Secondary 2/.keep
-      - Secondary 2/Secondary 2.md
-      - Secondary 2/Class Timetables.md
-      - Secondary 2/Cohort Letters.md
-      - Secondary 2/Assessment Schedules.md
-      - Secondary 2/Secondary 2 Booklist.md
       - Secondary 1/.keep
       - Secondary 1/Secondary 1.md
       - Secondary 1/Class Timetables.md
@@ -28,4 +10,22 @@ collections:
       - Secondary 1/Booklist and Online Purchase of Textbooks & Uniforms.md
       - Secondary 1/Sec 1 E–Registration for 2023 Academic Year on Bowen
         Microsite.md
+      - Secondary 2/.keep
+      - Secondary 2/Secondary 2.md
+      - Secondary 2/Class Timetables.md
+      - Secondary 2/Cohort Letters.md
+      - Secondary 2/Assessment Schedules.md
+      - Secondary 2/Secondary 2 Booklist.md
+      - Secondary 3/.keep
+      - Secondary 3/Secondary 3.md
+      - Secondary 3/Class Timetables.md
+      - Secondary 3/Cohort Letters.md
+      - Secondary 3/Assessment Schedules.md
+      - Secondary 3/Secondary 3 Booklist.md
+      - Secondary 4&5/.keep
+      - Secondary 4&5/Secondary 4 & 5.md
+      - Secondary 4&5/Class Timetables.md
+      - Secondary 4&5/Cohort Letters.md
+      - Secondary 4&5/Assessment Schedules.md
+      - Secondary 4&5/Secondary 4&5 Booklist.md
       - 2022 Booklists.md
