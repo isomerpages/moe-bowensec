@@ -2,14 +2,14 @@ collections:
   level-matters:
     output: true
     order:
+      - Secondary 1/.keep
+      - Secondary 1/Secondary 1.md
+      - Secondary 1/Class Timetables.md
+      - Secondary 1/Cohort Letters.md
+      - Secondary 1/Assessment Schedules.md
+      - Secondary 1/Booklist and Online Purchase of Textbooks & Uniforms.md
       - Secondary 1/Sec 1 E–Registration for 2023 Academic Year on Bowen
         Microsite.md
-      - Secondary 1/Booklist and Online Purchase of Textbooks & Uniforms.md
-      - Secondary 1/Assessment Schedules.md
-      - Secondary 1/Cohort Letters.md
-      - Secondary 1/Class Timetables.md
-      - Secondary 1/Secondary 1.md
-      - Secondary 1/.keep
       - 2022 Booklists.md
       - Secondary 4 & 5.md
       - Secondary 3.md
