@@ -4,19 +4,16 @@ permalink: /school-information/Level-Matters/secondary-2/
 description: ""
 third_nav_title: Secondary 2
 ---
-
-
 ### Secondary 2 Year Head (2022 Academic Year)
 
 
-<img src="/images/MS-BERNICE-TEY.jpeg" 
+<img src="/images/Ms-Estelle-Chong.jpeg" 
      style="width:25%">
 		 
-<center><b>Mrs. Bernice Kuan</b><br>
+<center><b>Ms. Estelle Chong</b><br>
 Year Head  <br>
-Secondary 2 ( 2022 Academic Year)  <br>
-<a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
-
+Secondary 2  (2023 Academic Year)  <br>
+<a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
 
 ### 2022 Sec 2 Cohort Moto
 
