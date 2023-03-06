@@ -45,4 +45,4 @@ For all Sec 1 students:
 *   **_Request/Appeal for Transfer (In/Out)_**
 
 *   **_Serious medical conditions_** (MAE), filed in person **by Thursday, 22 Dec 2022, 12pm**(Please remember to bring all relevant medical documents) 
-*   For appeal to transfer in to Bowen please use [this link](https://go.gov.sg/bowensec1appeal) **by Tuesday, 23 December 2022, 5 pm** [https://go.gov.sg/bowensec1appeal](https://go.gov.sg/bowensec1appeal)
+*   For appeal to transfer in to Bowen please use [this link](https://go.gov.sg/bowensec1appeal) **by Tuesday, 23 December 2022, 5pm** [https://go.gov.sg/bowensec1appeal](https://go.gov.sg/bowensec1appeal)
