@@ -44,4 +44,3 @@ These letters have been issued via Parents Gateway and are available for downloa
   </tr>
 </tbody>
 </table>
-
