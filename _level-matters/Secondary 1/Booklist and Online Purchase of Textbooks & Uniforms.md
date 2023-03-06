@@ -109,4 +109,10 @@ Please spend some time going through the Online Purchase Guide if you are unfami
 You may also download the User Guide via the link below,  
 [2023 Sec 1 Online Purchase User Guide.pdf](/files/2023%20Sec%201%20Online%20Purchase%20User%20Guide.pdf)
 
+### School Uniform Pricelist
 
+![](/images/2022%20Uniform%20Pricelist.jpg)
+
+### School Uniform Size guide
+
+![](/images/Size%20guide.jpg)
