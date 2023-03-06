@@ -1,4 +1,5 @@
 collections:
   level-matters:
     output: true
-    order: []
+    order:
+      - Secondary 1.md
