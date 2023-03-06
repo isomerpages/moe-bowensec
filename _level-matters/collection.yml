@@ -2,12 +2,12 @@ collections:
   level-matters:
     output: true
     order:
-      - Secondary 2/Secondary 2 Booklist.md
-      - Secondary 2/Assessment Schedules.md
-      - Secondary 2/Cohort Letters.md
-      - Secondary 2/Class Timetables.md
-      - Secondary 2/Secondary 2.md
       - Secondary 2/.keep
+      - Secondary 2/Secondary 2.md
+      - Secondary 2/Class Timetables.md
+      - Secondary 2/Cohort Letters.md
+      - Secondary 2/Assessment Schedules.md
+      - Secondary 2/Secondary 2 Booklist.md
       - Secondary 1/.keep
       - Secondary 1/Secondary 1.md
       - Secondary 1/Class Timetables.md
