@@ -20,4 +20,19 @@ links:
   - title: Signature Programme
     collection: signature-programmes
   - title: School Information
-    collection: school-information
+    url: /school-information/school-matters/news-n-events/
+    sublinks:
+      - title: School Information
+        url: /school-information/school-matters/news-n-events/
+      - title: Level Matters
+        url: /school-information/Level-Matters/secondary-1/
+      - title: Online Portals
+        url: /school-information/School-Matters/online-portals/singapore-student-learning-space
+      - title: FAQs
+        url: /school-information/faqs/
+      - title: Our Partners
+        url: /school-information/our-partners/school-advisory-committee/
+      - title: Contact Information
+        url: /school-information/contact-information/school-contact-information
+      - title: Bowen Social Media
+        url: /school-information/school-information/bowen-social-media
