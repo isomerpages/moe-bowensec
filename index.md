@@ -19,4 +19,8 @@ sections:
         - title: Co-curricular Activities
           description: ""
           url: /holistic-education/co-curricular-activities-ccas
+  - infobar:
+      title: Level Matters
+      description: Click here to find out more about level matters
+      button: Button Text
 ---
