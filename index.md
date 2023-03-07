@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Bowen Secondary School
-      background: /images/GIF TEST.gif
+      background: /images/hero-banner.gif
       key_highlights:
         - title: Signature Programmes
           description: ""
