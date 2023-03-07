@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Bowen Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: Button Text
       url: /school-information/level-matters/secondary-1
 ---
+
