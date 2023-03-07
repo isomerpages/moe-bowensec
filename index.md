@@ -10,10 +10,13 @@ sections:
       title: Bowen Secondary School
       background: /images/GIF TEST.gif
       key_highlights:
-        - title: Sec1 Matters
-          description: Key Highlight description
-          url: bbc.com
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Signature Programmes
+          description: ""
+          url: /signature-programmes/bowen-changemakers
+        - title: Academic Programmes
+          description: ""
+          url: /holistic-education/academic-programmes/english
+        - title: Co-curricular Activities
+          description: ""
+          url: /holistic-education/co-curricular-activities-ccas
 ---
