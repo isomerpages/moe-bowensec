@@ -1,6 +1,6 @@
 ---
 title: Senior and Lead Teachers
-permalink: /about-bowen/senior-and-lead-teachers
+permalink: /about-bowen/senior-and-lead-teachers/
 description: ""
 ---
 <style type="text/css">

@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /holistic-education/Academic-Programmes/physical-education
+permalink: /holistic-education/academic-programmes/physical-education/
 description: ""
 third_nav_title: Academic Programmes
 ---

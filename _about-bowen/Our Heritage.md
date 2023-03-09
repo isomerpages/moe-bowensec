@@ -1,6 +1,6 @@
 ---
 title: Our Heritage
-permalink: /about-bowen/our-heritage
+permalink: /about-bowen/our-heritage/
 description: ""
 ---
 <img src="/images/old%20sch%20logo.png" 

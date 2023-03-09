@@ -1,6 +1,6 @@
 ---
 title: Bowen 40th Anniversary
-permalink: /about-bowen/bowen-40th-anniversary
+permalink: /about-bowen/bowen-40th-anniversary/
 description: ""
 ---
 <a href="https://sites.google.com/moe.edu.sg/bowensec40">

@@ -1,6 +1,6 @@
 ---
 title: Secondary 3
-permalink: /school-information/Level-Matters/secondary-3/
+permalink: /school-information/level-matters/secondary-3/
 description: ""
 third_nav_title: Secondary 3
 ---

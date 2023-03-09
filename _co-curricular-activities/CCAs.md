@@ -1,6 +1,6 @@
 ---
 title: CCAs
-permalink: /holistic-education/co-curricular-activities
+permalink: /holistic-education/co-curricular-activities/
 description: ""
 ---
 ### CCAs in Bowen

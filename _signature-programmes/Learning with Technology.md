@@ -1,6 +1,6 @@
 ---
 title: Learning with Technology
-permalink: /signature-programmes/learning-with-technology
+permalink: /signature-programmes/learning-with-technology/
 description: ""
 ---
 In Bowen, the Personalised Digital Learning Programme (PDLP) learning environment support students to learn with technology. PDLP is an enabling factor to promote learning for life and the joy of learning to complement strategic initiatives such as (a) CCE 2021  (b) FSBB (C) SIL/BL. This should in turn encourage our Bowenian to be developed as a Learner, a Leader and a Champion who learns actively, learns with others and learns by doing it right, with confidence and moral conviction.

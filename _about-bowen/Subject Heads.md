@@ -1,6 +1,6 @@
 ---
 title: Subject Heads
-permalink: /about-bowen/subject-heads
+permalink: /about-bowen/subject-heads/
 description: ""
 ---
 <style type="text/css">

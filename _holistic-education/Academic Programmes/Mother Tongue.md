@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /holistic-education/Academic-Programmes/Mother-Tongue
+permalink: /holistic-education/academic-programmes/mother-tongue/
 description: ""
 third_nav_title: Academic Programmes
 ---

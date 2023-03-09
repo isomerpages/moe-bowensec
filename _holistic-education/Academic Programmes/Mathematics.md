@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /holistic-education/Academic-Programmes/mathematics
+permalink: /holistic-education/academic-programmes/mathematics/
 description: ""
 third_nav_title: Academic Programmes
 ---

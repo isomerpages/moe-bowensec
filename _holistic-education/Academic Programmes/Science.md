@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /holistic-education/Academic-Programmes/science
+permalink: /holistic-education/academic-programmes/science/
 description: ""
 third_nav_title: Academic Programmes
 ---

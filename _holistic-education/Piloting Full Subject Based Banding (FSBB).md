@@ -1,6 +1,6 @@
 ---
 title: Piloting Full Subject Based Banding (FSBB)
-permalink: /holistic-education/piloting-full-subject-based-banding-fsbb
+permalink: /holistic-education/piloting-full-subject-based-banding-fsbb/
 description: ""
 ---
 In March 2019, then Minister for Education, Minister Ong Ye Kung announced that Streaming would be replaced by [Full Subject Based Banding (SBB)](https://www.straitstimes.com/singapore/education/streaming-into-normal-and-express-in-secondary-schools-to-stop-in-2024-to-be). He said, 

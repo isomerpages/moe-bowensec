@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /holistic-education/Academic-Programmes/english/
+permalink: /holistic-education/academic-programmes/english/
 description: ""
 third_nav_title: Academic Programmes
 ---

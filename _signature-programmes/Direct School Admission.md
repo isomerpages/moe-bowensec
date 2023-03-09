@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /signature-programmes/direct-school-admission-1
+permalink: /signature-programmes/direct-school-admission-1/
 description: ""
 ---
 The annual DSA-Sec Exercise allows Primary 6 students to seek admission to a participating secondary school based on their talents and achievements before the release of their PSLE results. Students may consider applying for a secondary school through DSA-Sec if they are able to identify a school that offers a talent development programme in their area of strength, as well as commit to developing their talents in the chosen DSA area, in that particular school.

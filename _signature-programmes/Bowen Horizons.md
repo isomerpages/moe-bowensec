@@ -1,6 +1,6 @@
 ---
 title: Bowen Horizons
-permalink: /signature-programmes/bowen-horizons
+permalink: /signature-programmes/bowen-horizons/
 description: ""
 ---
 ### Overseas Learning Journies and Culturing Immersion Programmes

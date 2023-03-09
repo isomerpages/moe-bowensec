@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space
-permalink: /school-information/School-Matters/online-portals/singapore-student-learning-space
+permalink: /school-information/school-matters/online-portals/singapore-student-learning-space/
 description: ""
 third_nav_title: Online Portals
 ---
