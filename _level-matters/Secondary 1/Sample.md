@@ -4,8 +4,6 @@ permalink: /level-matters/Secondary-1/permalink/
 description: ""
 third_nav_title: Secondary 1
 ---
-         
-
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid white .5pt;
  mso-border-themecolor:background1;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Grid5DarkAccent3"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes"><td style="width:150.25pt;border:solid white 1.0pt;
   mso-border-themecolor:background1;border-right:none;mso-border-top-alt:solid white .5pt;
