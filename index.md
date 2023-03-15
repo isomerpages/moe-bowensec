@@ -21,7 +21,7 @@ sections:
           url: /holistic-education/co-curricular-activities-ccas
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
-          url: https://moe-bowensec-staging.netlify.app/school-information/level-matters/secondary-1/
+          url: /school-information/level-matters/secondary-1/
   - infopic:
       title: Sec 1
       subtitle: Level Matters
