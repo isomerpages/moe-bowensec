@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Secondary 1/.keep
-      - Secondary 1/Sec 1 Cohort Theme & Form Teachers.md
+      - Secondary 1/Cohort Theme & Form Teachers.md
       - Secondary 1/Class Timetables.md
       - Secondary 1/Cohort Letters.md
       - Secondary 1/Assessment Schedules.md
