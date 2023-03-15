@@ -22,12 +22,4 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
-  - infopic:
-      title: Sec 1
-      subtitle: Level Matters
-      description: THis is some tet
-      button: Click here
-      alt: Image alt text
-      url: /school-information/level-matters/secondary-1/
-      image: /images/2021 Sec1 Cohort Moto.jpg
 ---
