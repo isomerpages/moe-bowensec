@@ -7,20 +7,20 @@ description: ""
 <img src="/images/Our%20People/Mr%20Loh%20Chih%20Hui.jpg" 
      style="width:20%">
 		 
-<center><b> Mr. Loh Chih Hui <br> PRINCIPAL</b></center>
-<center><a href="Loh_Chih_Hui@schools.gov.sg">Loh_Chih_Hui@schools.gov.sg</a></center>
+<center><b> Mr. Loh Chih Hui <br> PRINCIPAL</b>
+<br><a href="Loh_Chih_Hui@schools.gov.sg">Loh_Chih_Hui@schools.gov.sg</a></center>
 
 <img src="/images/Our%20People/Ms-LIM-GUIHAO.jpeg" 
      style="width:20%">
 		 
-<center><b> Ms. Lim GuiHao <br> VICE-PRINCIPAL</b></center>
-<center><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
+<center><b> Ms. Lim GuiHao <br> VICE-PRINCIPAL</b>
+,<br><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
 
 <img src="/images/Our%20People/MR-MELVIN-TAY.jpeg" 
      style="width:20%">
 		 
-<center><b> Mr. Melvin Tay <br> VICE-PRINCIPAL</b></center>
-<center><a href="tay_yong_seah_melvin@schools.gov.sg">tay_yong_seah_melvin@schools.gov.sg</a></center>
+<center><b> Mr. Melvin Tay <br> VICE-PRINCIPAL</b>
+<br><a href="tay_yong_seah_melvin@schools.gov.sg">tay_yong_seah_melvin@schools.gov.sg</a></center>
 
 # Department Heads
 
