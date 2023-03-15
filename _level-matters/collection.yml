@@ -2,7 +2,6 @@ collections:
   level-matters:
     output: true
     order:
-      - Secondary 1/Sample Page.md
       - Secondary 1/.keep
       - Secondary 1/Secondary 1.md
       - Secondary 1/Class Timetables.md
