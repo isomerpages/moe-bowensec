@@ -31,7 +31,7 @@ All these values we uphold.
 It is to you, Bowen,  <br>
 We pledge our loyalty,  <br>
 Your name we strive to glorify,  <br>
-With honour and dignity.
+With honour and dignity.<br>
 
 
 
