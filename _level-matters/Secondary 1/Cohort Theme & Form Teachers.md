@@ -4,7 +4,7 @@ permalink: /school-information/level-matters/secondary-1/
 description: ""
 third_nav_title: Secondary 1
 ---
-### Secondary 1 Year Heads (2022 Academic Year)
+### Secondary 1 Year Heads (2023 Academic Year)
 <img src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg" 
      style="width:25%">
 		 
