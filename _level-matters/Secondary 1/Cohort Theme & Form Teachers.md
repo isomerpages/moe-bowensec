@@ -23,6 +23,7 @@ Our cohort theme centres around the **Bowen Experience (B.E)** which correspon
 
 Through their academic and holistic journey in Bowen, each Bowenian will have the opportunity to be engaged in our signature programmes, CCAs and activities through experiential learning, exploring their strengths and interests and aspiring to be a Beac**ON** of light in making positive impact for self and others.
 
+
 ![](/images/Level%20Matters/S1/2023%20S1%20Cohort%20To%20Sparkle.jpg)
 		 
 The  classes are named after gems with the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way. 
