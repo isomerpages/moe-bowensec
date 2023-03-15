@@ -25,9 +25,11 @@ sections:
       button: Button Text
       url: /school-information/level-matters/secondary-1
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Sec 1
+      subtitle: Level Matters
+      description: THis is some tet
+      button: Click here
       alt: Image alt text
+      url: /level-matters/secondary-1
+      image: /images/2021 Sec1 Cohort Moto.jpg
 ---
