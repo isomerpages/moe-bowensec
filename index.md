@@ -19,7 +19,7 @@ sections:
         - title: Co-curricular Activities
           description: ""
           url: /holistic-education/co-curricular-activities-ccas
-        - title: SEC 1 Matters
+        - title: d
           description: ""
           url: ""
   - infobar:
