@@ -3,9 +3,8 @@ title: The Principal's Foreword
 permalink: /about-bowen/the-principals-foreword/
 description: ""
 ---
-
 <img src="/images/Principal%20foreward%202.jpg" 
-     style="width:50%">
+     style="width:100%">
 		 
 We now live in an age where the ways we live, learn and work are rapidly and continually being redefined. For many of us, the past few years have been **Rapid, Unpredictable, Paradoxical and Tangled**.   
 
