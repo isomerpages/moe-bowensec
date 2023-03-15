@@ -17,8 +17,7 @@ Secondary 1 (2023 Academic Year)<br>
 
 ### 2023 Sec 1 Cohort Theme
 
-<img src="/images/2023%20S1%20Cohort%20Theme.jpg" 
-     style="width:25%">
+
 		 
 Our cohort theme centres around the **Bowen Experience (B.E)** which corresponds to the lower secondary themes of **Explore** and **Embrace**. We aim to develop in our students a growth mindset, likened to a butterfly expanding its wings and developing life skills to **Connect**, **Collaborate** and **Create**. Our students will be able to work in teams and be the catalyst for positive change within themselves.   
 
