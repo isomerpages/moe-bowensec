@@ -22,4 +22,9 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
+  - infopic:
+      title: 41st Speech & Prize Presentation Day
+      subtitle: 28 April 2023
+      description: Guest of Honour, Mr. V. Vijaykumarr, Chairperson - SAC
+      alt: Image alt text
 ---
