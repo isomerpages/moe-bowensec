@@ -27,4 +27,5 @@ sections:
       subtitle: 28 April 2023
       description: Guest of Honour, Mr. V. Vijaykumarr, Chairperson - SAC
       alt: Image alt text
+      image: /images/School Events/2023/Speech Day Infopic Banner.jpg
 ---
