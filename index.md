@@ -24,4 +24,10 @@ sections:
       description: Click here to find out more about level matters
       button: Button Text
       url: /school-information/level-matters/secondary-1
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
