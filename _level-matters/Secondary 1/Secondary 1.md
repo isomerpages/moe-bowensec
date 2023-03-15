@@ -6,7 +6,7 @@ third_nav_title: Secondary 1
 ---
 ### Secondary 1 Year Heads (2022 Academic Year)
 <img src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg" 
-     style="width:50%">
+     style="width:25%">
 		 
 <center><b>Ms. Sharifah Kamelia Syed</b><br>
 Year Head<br>
