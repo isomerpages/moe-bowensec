@@ -19,9 +19,9 @@ sections:
         - title: Co-curricular Activities
           description: ""
           url: /holistic-education/co-curricular-activities-ccas
-        - title: SEC 1 MATTERS
+        - title: SEC 1 Matters
           description: ""
-          url: /level-matters/secondary-1
+          url: ""
   - infobar:
       title: Level Matters
       description: Click here to find out more about level matters
