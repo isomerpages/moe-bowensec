@@ -3,7 +3,7 @@ title: Our Heritage
 permalink: /about-bowen/our-heritage/
 description: ""
 ---
-<img src="/images/old%20sch%20logo.png" 
+<img src="/images/About%20Bowen/Our%20Heritage/old%20sch%20logo.png" 
      style="width:26%" align= left>
 <p>Bowen Secondary School started in <b>1982</b> in the growing new town of Ang Mo Kio.</p>
  
@@ -11,13 +11,13 @@ description: ""
  
 ### The Previous Campus in Ang Mo Kio New Town
 
-![](/images/prev%20campus.png)
+![](/images/About%20Bowen/Our%20Heritage//prev%20campus.png)
 
 -----------------------------
 
 ### Bowen Today
 
-<img src="/images/bowen.png" 
+<img src="/images/About%20Bowen/Our%20Heritage/bowen.png" 
      style="width:50%" align= center>
 In January 2000, Bowen Secondary School started the new millennium as a single session school with 1374 students. 
 
