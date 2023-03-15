@@ -2,13 +2,13 @@ title: Bowen Secondary School
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#3d85c6"
-  secondary-color: "#a64d79"
+  primary-color: "#01b2de"
+  secondary-color: "#6c419b"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#01b2de"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#6c419b"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
