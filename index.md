@@ -25,6 +25,6 @@ sections:
       description: THis is some tet
       button: Click here
       alt: Image alt text
-      url: /level-matters/secondary-1
+      url: /school-information/level-matters/secondary-1/
       image: /images/2021 Sec1 Cohort Moto.jpg
 ---
