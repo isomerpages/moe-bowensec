@@ -24,7 +24,6 @@ In January 2000, Bowen Secondary School started the new millennium as a single s
 The journey of Bowen Secondary School is made possible by the stewardship of the following school leaders.
 
 
-
 |  | Principals |  | Vice-Principals |
 | -------- | -------- | -------- | -------- |
 | 1982 - 1985 | Mr. T P Naidu | 1985 – 1989  | Mr. Dilbagh Singh     |
