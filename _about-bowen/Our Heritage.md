@@ -7,14 +7,14 @@ description: ""
      style="width:40%" align= left>
 <p>Bowen Secondary School started in <b>1982</b> in the growing new town of Ang Mo Kio.</p>
 On **4 December 1999**, Bowen made the historic move to our new premises at 2 Lorong Napiri.
- 
+ <p>
   <hr>
 
 ### The Previous Campus in Ang Mo Kio New Town
-![](/images/About%20Bowen/Our%20Heritage/Bowen%20Sec%20Ang%20Mo%20Kio%20Campus.jpg)
-![](/images/About%20Bowen/Our%20Heritage//prev%20campus.png)
+![](/images/About%20Bowen/Our%20Heritage/Bowen%20Ang%20Mo%20Kio%20Campus.jpg)
+![](/images/About%20Bowen/Our%20Heritage/Moving%20to%20Lor%20Napiri.jpg)
 
------------------------------
+<hr>
 
 ### Bowen Today
 <img src="/images/About%20Bowen/Bowen%20Secondary%20School.jpg" 
