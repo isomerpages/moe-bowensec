@@ -3,7 +3,6 @@ title: Our Heritage
 permalink: /about-bowen/our-heritage/
 description: ""
 ---
-
 <img src="/images/About%20Bowen/Our%20Heritage/old%20bowen%20school%20logo.jpg" 
      style="width:50%" align= center>
 <p>Bowen Secondary School started in <b>1982</b> in the growing new town of Ang Mo Kio.</p>
@@ -22,6 +21,21 @@ On **4 December 1999**, Bowen made the historic move to our new premises at 2 
 <img src="/images/About%20Bowen/Bowen%20Secondary%20School.jpg" 
      style="width:80%" align= center>
 In January 2000, Bowen Secondary School started the new millennium as a single session school with 1374 students. <br>Bowen strives to provide a holistic and value-added education for all Bowenians.
+
+The school logo was also refreshed and the current logo is shown below.
+
+<img src="/images/About%20Bowen/Our%20Heritage/Current%20bowen%20logo.jpg" 
+     style="width:50%" align= center>
+		 
+---------
+		 
+### Bowen 40th Anniversary	
+Bowen celebrated her 40<sup>th</sup>Anniversary in 2022. The school logo was updated for a year to commemorate the anniversary before reverting back in 2023.
+
+<img src="/images/About%20Bowen/Our%20Heritage/Current%20bowen%20logo.jpg" 
+     style="width:50%" align= center>
+		 
+The theme for our 40th Anniversary was **BElonging**, **BEnefitting** Lives, and **BElieving**. It reflects the three things that best represent the Bowen Experience from the time our school first opened its doors to students, as well as the collective aspirations of our Bowen family as we look to the future with hope and purpose.
 
 ---------
 
