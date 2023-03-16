@@ -30,7 +30,7 @@ Version 4.0 (Wef 20 Mar)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-uxuj"><a href="/files/Class%Timetables/2023/SEM%1/V4_0/2023%SEM1%S1A%TT%V4.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S1T TT V4.0.pdf</span></a><br></td>
+    <td class="tg-uxuj"><a href="/files/2023%SEM1%S1A%TT%V4.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S1T TT V4.0.pdf</span></a><br></td>
     <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S4O%20TT.pdf"><span style="text-decoration:none;color:#0FB3DF">2023 SEM1 S4O TT V3.5.pdf</span></a><br></td>
     <td class="tg-uxuj"><a href="/files/2023%20SEM1%20S4S%20TT.pdf">2023 SEM1 S4S TT V3.5.pdf</a></td>
   </tr>
