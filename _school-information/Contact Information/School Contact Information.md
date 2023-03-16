@@ -4,7 +4,9 @@ permalink: /school-information/contact-information/school-contact-information/
 description: ""
 third_nav_title: Contact Information
 ---
-![](/images/About%20Bowen/Bowen%20Secondary%20School.jpg)
+<img src="/images/About%20Bowen/Bowen%20Secondary%20School.jpg" 
+     style="width:70%" align= center>
+		 
 ### School Address
 **No. 2 Lorong Napiri Singapore 547529**  
 **Tel: 6385 9466**  
