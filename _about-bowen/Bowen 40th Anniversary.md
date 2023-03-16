@@ -8,7 +8,7 @@ description: ""
 </a>
 
 ### The Bowen 40th Anniversary Theme
-<img src="/images/About%20Bowen/40TH%20Anniversary/40th_BE_logo2%20.png" 
+<img src="/images/About%20Bowen/40TH%20Anniversary/BE%2040%20Anniversary%20Logo.jpg" 
      style="width:60%">
 
 In 2022, Bowen celebrated her 40<sup>th</sup> Annversary. 
