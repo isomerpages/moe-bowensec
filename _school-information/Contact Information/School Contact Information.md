@@ -5,16 +5,20 @@ description: ""
 third_nav_title: Contact Information
 ---
 ![](/images/About%20Bowen/Our%20Heritage/bowen.png)
+### School Address
 
-**Address : No. 2 Lorong Napiri Singapore 547529**   
-Tel: 6385 9466   
-Fax: 6385 6559
-Email: [bowen\_ss@moe.edu.sg
-(mailto:bowen_ss@moe.edu.sg)
+**No. 2 Lorong Napiri Singapore 547529**  
+**Tel: 6385 9466**  
+**Fax: 6385 6559**<br>
+**Email:&nbsp;bowen_ss@moe.edu.sg**
 
-### How to get to Bowen Secondary School
+### Map Location
+<iframe tabindex="0" aria-hidden="false" allowfullscreen="" style="border:0;" frameborder="0" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6776176326216!2d103.87546031419117!3d1.3701169990007291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17687b3e76c9%3A0x6d046fc63c2658ee!2sBowen%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1608700247269!5m2!1sen!2ssg"></iframe>
 
-Bowen Secondary School is situated in the Hougang Estate and is easily accessible by **public bus services** from MRT stations such as Ang Mo Kio MRT, Hougang MRT and Serangoon MRT.
+
+### Getting to Bowen Secondary School
+
+Bowen Secondary School is situated in the Hougang Estate and is easily accessible by&nbsp;**public bus services**&nbsp;from MRT stations such as Ang Mo Kio MRT, Hougang MRT and Serangoon MRT.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -57,3 +61,4 @@ Bowen Secondary School is situated in the Hougang Estate and is easily accessibl
   </tr>
 </tbody>
 </table>
+
