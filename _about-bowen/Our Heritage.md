@@ -10,18 +10,15 @@ description: ""
  On **4 December 1999**, Bowen made the historic move to our new premises at 2 Lorong Napiri.
  
 ### The Previous Campus in Ang Mo Kio New Town
-
+![](/images/About%20Bowen/Our%20Heritage/Bowen%20Sec%20Ang%20Mo%20Kio%20Campus.jpg)
 ![](/images/About%20Bowen/Our%20Heritage//prev%20campus.png)
 
 -----------------------------
 
 ### Bowen Today
-
-<img src="/images/About%20Bowen/Our%20Heritage/bowen.png" 
-     style="width:50%" align= center>
-In January 2000, Bowen Secondary School started the new millennium as a single session school with 1374 students. 
-
-Bowen strives to provide a holistic and value-added education for all Bowenians.
+<img src="/images/About%20Bowen/Bowen%20Secondary%20School.jpg" 
+     style="width:100%" align= center>
+In January 2000, Bowen Secondary School started the new millennium as a single session school with 1374 students. <br>Bowen strives to provide a holistic and value-added education for all Bowenians.
 
 ---------
 
