@@ -58,5 +58,5 @@ Version 4.0 (Wef 20 Mar)
 
 
 
-1. 1 Topaz - [2023 SEM1 S1T TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1T%20TT%20V4.pdf)
+1. 1 Topaz - [2023 SEM1 S1T TT V4](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1T%20TT%20V4.pdf)
 2.
