@@ -4,12 +4,11 @@ permalink: /about-bowen/bowen-40th-anniversary/
 description: ""
 ---
 <a href="https://sites.google.com/moe.edu.sg/bowensec40">
-<img src="/images/logo%20aimation%202.gif" >
+<img src="/images/About%20Bowen/40TH%20Anniversary/logo%20aimation%202.gif" >
 </a>
 
 ### The Bowen 40th Anniversary Theme
-
-<img src="/images/40th_BE_logo2%20png.png" 
+<img src="/images/About%20Bowen/40TH%20Anniversary/40th_BE_logo2%20.png" 
      style="width:60%">
 
 In 2022, Bowen celebrated her 40<sup>th</sup> Annversary. 
