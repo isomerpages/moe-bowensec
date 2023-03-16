@@ -30,7 +30,7 @@ The school logo was also refreshed and the current logo is shown below.
 ---------
 		 
 ### Bowen 40<sup>th</sup> Anniversary
-Bowen celebrated her 40<sup>th</sup>Anniversary in 2022. The school logo was updated for a year to commemorate the anniversary before reverting to the current logo in 2023.
+Bowen celebrated her 4**0<sup>th</sup>Anniversary in 2022**. The school logo was updated for a year to commemorate the anniversary before reverting to the current logo in 2023.
 
 <img src="/images/About%20Bowen/Our%20Heritage/bowen%2040%20anniversary%20logo.jpg" 
      style="width:60%" align= center>
