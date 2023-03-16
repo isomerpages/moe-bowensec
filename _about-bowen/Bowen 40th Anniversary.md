@@ -7,7 +7,7 @@ description: ""
 <img src="/images/About%20Bowen/40TH%20Anniversary/logo%20aimation%202.gif" >
 </a>
 
-### The Bowen 40th Anniversary Theme
+## Bowen celebrates 40 years!
 <img src="/images/About%20Bowen/40TH%20Anniversary/BE%2040%20Anniversary%20Logo.jpg" 
      style="width:60%">
 
@@ -16,6 +16,8 @@ In 2022, Bowen celebrated her 40<sup>th</sup> Annversary.
 The theme for our 40th Anniversary was **BElonging**, **BEnefitting Lives**, and **BElieving**.
 
 It reflects the three things that best represent the Bowen Experience from the time our school first opened its doors to students, as well as the collective aspirations of our Bowen family as we look to the future with hope and purpose.
+
+## The Bowen 40<sup>th</sup> Anniversary Theme
 
 ### BElonging
 
