@@ -6,7 +6,6 @@ third_nav_title: Contact Information
 ---
 ![](/images/About%20Bowen/Our%20Heritage/bowen.png)
 ### School Address
-
 **No. 2 Lorong Napiri Singapore 547529**  
 **Tel: 6385 9466**  
 **Fax: 6385 6559**<br>
