@@ -18,7 +18,7 @@ sections:
           url: /holistic-education/academic-programmes/english
         - title: Co-curricular Activities
           description: ""
-          url: /holistic-education/co-curricular-activities-ccas
+          url: /co-curricular-activities-ccas
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
