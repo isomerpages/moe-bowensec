@@ -19,7 +19,7 @@ On **4 December 1999**, Bowen made the historic move to our new premises at 2 
 
 ### Bowen Today
 <img src="/images/About%20Bowen/Bowen%20Secondary%20School.jpg" 
-     style="width:100%" align= center>
+     style="width:80%" align= center>
 In January 2000, Bowen Secondary School started the new millennium as a single session school with 1374 students. <br>Bowen strives to provide a holistic and value-added education for all Bowenians.
 
 ---------
