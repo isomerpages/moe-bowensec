@@ -9,6 +9,8 @@ description: ""
  
  On **4 December 1999**, Bowen made the historic move to our new premises at 2 Lorong Napiri.
  
+  <hr>
+
 ### The Previous Campus in Ang Mo Kio New Town
 ![](/images/About%20Bowen/Our%20Heritage/Bowen%20Sec%20Ang%20Mo%20Kio%20Campus.jpg)
 ![](/images/About%20Bowen/Our%20Heritage//prev%20campus.png)
