@@ -61,17 +61,17 @@ third_nav_title: CCE
     <td class="tg-y7qa" rowspan="3"><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety<br> <br> </td>
     <td class="tg-y7qa">1<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">2<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept<br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">3<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences.<br><br><br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)<br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
 </tbody>
 </table>
@@ -101,17 +101,17 @@ third_nav_title: CCE
     <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60  mins)</td>
     <td class="tg-ii8k"><br>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br><br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br><br>Understand what sexual orientation entails<br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">2A<br>(60 mins)</td>
     <td class="tg-ii8k"><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline<br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">2B<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online<br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
 </tbody>
 </table>
@@ -140,17 +140,17 @@ third_nav_title: CCE
     <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1A<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br><br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br><br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br><br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">1B<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br><br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">2<br>(60 mins)</td>
     <td class="tg-y7qa">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
 </tbody>
 </table>
@@ -180,23 +180,23 @@ third_nav_title: CCE
     <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br><br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">2<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br><br>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br><br>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br><br>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br><br><br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2- 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa">3<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions. <br><br><br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br><br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br><br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2- 3</td>
   </tr>
   <tr>
     <td class="tg-y7qa"> </td>
     <td class="tg-y7qa">4<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.<br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
 </tbody>
 </table>
@@ -226,7 +226,7 @@ third_nav_title: CCE
     <td class="tg-y7qa">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60 mins)</td>
     <td class="tg-ii8k" align="left">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
-    <td class="tg-y7qa">Terms 1 - 3</td>
+    <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
 </tbody>
 </table>
