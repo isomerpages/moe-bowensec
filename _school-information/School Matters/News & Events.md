@@ -14,18 +14,20 @@ Please click on the links to view the updated timetables.
 3. [Sec 3 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-3/class-timetables/)
 4. [Sec 4 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-4-5/class-timetables/)
 
+<hr>
+
+### 41st Speech and Prize Giving Day<br>28 April, Friday 3:30pm - 6:30pm
+ 
   
 
-* * *
-
+<hr>
   
-
 ### Choosing the Right School
 
 <img src="/images/Choose-Bowen-Secondary-Popup2.jpeg" 
      style="width:70%">
 		 
-### Launch of Bowen PE Microsite
+###  Bowen PE Microsite
 
 Find out more about our PE curriculum from the Bowen PE microsite.  
 
