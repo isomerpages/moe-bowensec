@@ -238,7 +238,7 @@ third_nav_title: CCE
 ### eTeens Programme
 
 8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
- 
+ <br><br>
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At Bowen Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
@@ -277,7 +277,7 @@ third_nav_title: CCE
 
 ### Information for Parents
 
-10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. .
+10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. <br><br>
 11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form (Annex A). This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Holistic%20Education/CCE/SED/Annex%20A%20SEd%20Parent%20Opt%20Out%20Form%202023.pdf). <br><br>The completed form is to be submitted by **31/01/2023.**<br>[Annex A SEd Parent Opt Out Form 2023](/files/Holistic%20Education/CCE/SED/Annex%20A%20SEd%20Parent%20Opt%20Out%20Form%202023.pdf)<br><br>
 
 12. Parents who wish to opt their children out of the** eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. <br>The completed form is to be submitted by **31/01/2023**.
