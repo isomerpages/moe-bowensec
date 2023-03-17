@@ -27,5 +27,5 @@ sections:
       description: 28 April 2023, 3:30pm - 6:30pm
       alt: Image alt text
       image: /images/School Events/2023/Speech Day Infopic Banner.jpg
-      subtitle: Bowen Secondary School
+      subtitle: UPCOMING EVENT
 ---
