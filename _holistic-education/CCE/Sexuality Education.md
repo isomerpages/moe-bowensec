@@ -29,56 +29,14 @@ third_nav_title: CCE
 
 
 ##### Sexuality Education Lessons
-##### 
-6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.&nbsp; Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.<p>
-<br><br>
-7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.&nbsp; Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+<br>
 	
-##### At Bowen Secondary School, the following Sexuality Education lessons will be taught in 2023
+7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
+	
+<br>**At Bowen Secondary School, the following Sexuality Education lessons will be taught in 2023**
 
 ### Secondary 1
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p">UNIT</th>
-    <th class="tg-rj1p">LESSONS / DURATION</th>
-    <th class="tg-rj1p">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-rj1p">TIME PERIOD<br> </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="3" class="tg-y7qa"><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety<br> <br> </td>
-    <td class="tg-y7qa">1<br>(60 mins)</td>
-    <td class="tg-y7qa"><br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
-    <td class="tg-y7qa">Terms 2 - 3</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">2<br>(60 mins)</td>
-    <td class="tg-y7qa"><br>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept<br></td>
-    <td class="tg-y7qa">Terms 2 - 3</td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">3<br>(60 mins)</td>
-    <td class="tg-y7qa"><br>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences.<br><br><br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)<br></td>
-    <td class="tg-y7qa">Terms 2 - 3</td>
-  </tr>
-</tbody>
-</table>
-
-<hr>
-
-        
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid white .5pt;
  mso-border-themecolor:background1;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Grid5DarkAccent3"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes"><td style="border:solid white 1.0pt;mso-border-themecolor:background1;
@@ -582,5 +540,3 @@ third_nav_title: CCE
 12. Parents who wish to opt their children out of the** eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Holistic%20Education/CCE/SED/Annex%20B%20eTeens%20Parents%20Opt-out%20Form%202023.pdf). <br><br>The completed form is to be submitted by **31/01/2023**.<br>[Annex B eTeens Parents Opt-out Form 2023](/files/Holistic%20Education/CCE/SED/Annex%20B%20eTeens%20Parents%20Opt-out%20Form%202023.pdf)
 <br><br>
 13. Parents can contact the school at&nbsp;**63859466**&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
-
-
