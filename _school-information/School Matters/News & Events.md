@@ -14,13 +14,12 @@ Please click on the links to view the updated timetables.
 3. [Sec 3 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-3/class-timetables/)
 4. [Sec 4 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-4-5/class-timetables/)
 
-<hr>
+
 
 ### 41st Speech and Prize Giving Day<br>28 April, Friday 3:30pm - 6:30pm
 ![](/images/School%20Events/2023/Speech%20Day%20Infopic%20Banner.jpg)
   
 
-<hr>
   
 ### Choosing the Right School
 
