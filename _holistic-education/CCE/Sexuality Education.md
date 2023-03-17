@@ -212,7 +212,7 @@ third_nav_title: CCE
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" >
 <thead>
   <tr>
     <th class="tg-rj1p">UNIT</th>
@@ -225,7 +225,7 @@ third_nav_title: CCE
   <tr>
     <td class="tg-y7qa">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60 mins)</td>
-    <td class="tg-ii8k"><br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td class="tg-ii8k" align="left">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
     <td class="tg-y7qa">Terms 1 - 3</td>
   </tr>
 </tbody>
