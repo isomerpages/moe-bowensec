@@ -37,7 +37,6 @@ third_nav_title: CCE
 <br>**At Bowen Secondary School, the following Sexuality Education lessons will be taught in 2023**
 
 ### Secondary 1
-
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid white .5pt;
  mso-border-themecolor:background1;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Grid5DarkAccent3"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes"><td style="border:solid white 1.0pt;mso-border-themecolor:background1;
   border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
@@ -45,107 +44,112 @@ third_nav_title: CCE
   background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
   background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
   0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:5" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Unit</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:solid white 1.0pt;mso-border-top-themecolor:
-  background1;border-left:none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:
-  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
-  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
-  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
-  0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Lesson Title / Duration</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:solid white 1.0pt;mso-border-top-themecolor:
-  background1;border-left:none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:
-  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
-  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
-  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
-  0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Lesson Overview</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:solid white 1.0pt;mso-border-top-themecolor:
-  background1;border-left:none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:
-  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
-  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
-  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
-  0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Lesson Objectives</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">At the end of the lesson, students will be able to:</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  line-height:16.8pt;mso-yfti-cnfc:5" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Unit</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></b></p></td><td style="border:solid white 1.0pt;mso-border-themecolor:background1;
+  EN-SG"></span></b></p></td><td style="border-top:solid white 1.0pt;mso-border-top-themecolor:
+  background1;border-left:none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:
+  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
+  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
+  0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Lesson Title / Duration</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:solid white 1.0pt;mso-border-top-themecolor:
+  background1;border-left:none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:
+  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
+  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
+  0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Lesson Overview</span></b><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:solid white 1.0pt;mso-border-top-themecolor:
+  background1;border-left:none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:
+  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
+  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
+  0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Lesson Objectives</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></b></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">At the end of the lesson, students will be able to:</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></b></p></td><td style="border:solid white 1.0pt;mso-border-themecolor:background1;
   border-left:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
   background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
   background1;mso-border-right-alt:solid white .5pt;mso-border-right-themecolor:
   background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
   0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Time Period</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:0"><td style="border:solid white 1.0pt;mso-border-themecolor:
+  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Time Period</span></b><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></b></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:0"><td style="border:solid white 1.0pt;mso-border-themecolor:
   background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
   background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
   background:#A5A5A5;mso-background-themecolor:accent3;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="3"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Respectful Relationships &amp; Safety</span></b></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  line-height:16.8pt;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">Respectful Relationships &amp; Safety</span></b></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></b></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Steady or Not</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Lesson 1</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">(60 mins)</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Steady or Not</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Lesson 1</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">(60 mins)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:16.8pt;mso-yfti-cnfc:
-  64" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  64" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and&nbsp;understand how to build healthy and supportive relationships, both online and offline.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and&nbsp;understand how to build healthy and supportive relationships, both online and offline.</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
@@ -153,88 +157,74 @@ third_nav_title: CCE
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
-  color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principle</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222;
+  mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principle</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
-  color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">recognise that there are different forms of love (e.g. familial, platonic, romantic love)</span><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222;
+  mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">recognise that there are different forms of love (e.g. familial, platonic, romantic love)</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
-  color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222;
+  mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">recognise the importance and understand what builds healthy and supportive relationships, both online and offline</span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">recognise the importance and understand what builds healthy and supportive relationships, both online and offline</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  EN-SG"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
-  color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">understand what dating is, and recognise that the readiness and interest in dating vary among individuals</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222;
+  mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">understand what dating is, and recognise that the readiness and interest in dating vary among individuals</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Terms 2 - 3</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Terms 2 - 3</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
   accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-GB" lang="EN-GB">Being Aware, Being Safe</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-GB" lang="EN-GB">Being Aware, Being Safe</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-GB" lang="EN-GB">Lesson 2</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-GB" lang="EN-GB">Lesson 2</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-GB" lang="EN-GB">(60 mins)</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-GB" lang="EN-GB">(60 mins)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
-  accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:16.8pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</span></p><p style="margin-bottom:0cm;line-height:16.8pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p><p style="margin-bottom:0cm;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p><p style="margin-bottom:0cm;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  EN-GB" lang="EN-GB">&nbsp;</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
@@ -242,64 +232,53 @@ third_nav_title: CCE
   mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
   accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
-  normal;mso-list:l1 level1 lfo2" class="MsoListParagraph"><span style="font-size:
-  12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  normal;mso-list:l1 level1 lfo2" class="MsoListParagraph"><span style="font-family:
+  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222;
+  mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
   accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-GB" lang="EN-GB">Terms 2 - 3</span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-GB" lang="EN-GB">Terms 2 - 3</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">More than Meets the Eye</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Lesson 3</span><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">More than Meets the Eye</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#222222;mso-ansi-language:EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">(60 mins)</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Lesson 3</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">(60 mins)</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;line-height:16.8pt;mso-yfti-cnfc:
-  64" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p><p style="margin-bottom:0cm;line-height:16.8pt;mso-yfti-cnfc:
-  64" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p><p style="margin-bottom:0cm;line-height:16.8pt;mso-yfti-cnfc:
-  64" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  64" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</span></p><p style="margin-bottom:0cm;line-height:16.8pt;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
@@ -307,33 +286,28 @@ third_nav_title: CCE
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;line-height:
-  normal;mso-list:l1 level1 lfo2;mso-yfti-cnfc:64" class="MsoListParagraph"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  normal;mso-list:l1 level1 lfo2;mso-yfti-cnfc:64" class="MsoListParagraph"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
   EN-SG"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo2;
-  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
-  color:#222222;mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-GB" lang="EN-GB">recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-yfti-cnfc:64" class="MsoNormal"><span style="font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222;
+  mso-ansi-language:EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
   mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
   mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
   accent3;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top"><p style="margin-bottom:0cm;text-align:center;
-  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-GB" lang="EN-GB">Terms 2 - 3</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
-</p>
-
-
-
+  line-height:16.8pt;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-GB" lang="EN-GB">Terms 2 - 3</span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG"></span></p></td></tr></tbody></table>
 
 ### Secondary 2
 <style type="text/css">
@@ -357,7 +331,7 @@ third_nav_title: CCE
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-y7qa">Respectful Relationships &amp; Safety</td>
+    <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60  mins)</td>
     <td class="tg-ii8k"><br>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br><br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br><br>Understand what sexual orientation entails<br></td>
     <td class="tg-y7qa">Terms 2 - 3</td>
@@ -396,7 +370,7 @@ third_nav_title: CCE
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-y7qa">Respectful Relationships &amp; Safety</td>
+    <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1A<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br><br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br><br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br><br></td>
     <td class="tg-y7qa">Terms 2 - 3</td>
@@ -436,7 +410,7 @@ third_nav_title: CCE
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-y7qa">Respectful Relationships &amp; Safety</td>
+    <td class="tg-y7qa" rowspan="3">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60 mins)</td>
     <td class="tg-y7qa"><br>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br><br></td>
     <td class="tg-y7qa">Terms 2 - 3</td>
@@ -484,7 +458,7 @@ third_nav_title: CCE
   <tr>
     <td class="tg-y7qa">Respectful Relationships &amp; Safety</td>
     <td class="tg-y7qa">1<br>(60 mins)</td>
-    <td align="left" class="tg-ii8k">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td class="tg-ii8k" align="left">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
     <td class="tg-y7qa">Terms 2 - 3</td>
   </tr>
 </tbody>
