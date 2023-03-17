@@ -2,10 +2,10 @@ collections:
   school-information:
     output: true
     order:
-      - School Matters/Counselling & Learning Support.md
       - School Matters/.keep
       - School Matters/News & Events.md
       - School Matters/Care and Discipline.md
+      - School Matters/Counselling & Learning Support.md
       - School Matters/Finance Matters.md
       - School Matters/Library Services.md
       - School Matters/Online Purchase of Textbooks & Uniforms.md
