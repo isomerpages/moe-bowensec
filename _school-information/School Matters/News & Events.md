@@ -5,6 +5,12 @@ description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
+### 41st Speech and Prize Giving Day<br>28 April, Friday 3:30pm - 6:30pm
+
+<img src="/images/School%20Events/2023/Speech%20Day%20Infopic%20Banner.jpg" 
+     style="width:70%">
+  
+<hr>
 
 ### 2023 Sem 1 Class Timetables <br>(Version 4  w.e.f 20<sup>th</sup> March)
 Please click on the links to view the updated timetables.
@@ -13,13 +19,6 @@ Please click on the links to view the updated timetables.
 2.  [Sec 2 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-2/class-timetables/)
 3.  [Sec 3 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-3/class-timetables/)
 4.  [Sec 4 and 5 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-4-5/class-timetables/)
-
-<hr>
-
-### 41st Speech and Prize Giving Day<br>28 April, Friday 3:30pm - 6:30pm
-
-<img src="/images/School%20Events/2023/Speech%20Day%20Infopic%20Banner.jpg" 
-     style="width:70%">
   
 <hr>
   
