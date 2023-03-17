@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
-### 41st Speech and Prize Giving Day<br>28 April, Friday 3:30pm - 6:30pm
+### 41<sup>st</sup> Speech and Prize Giving Day<br>28 April, Friday 3:30pm - 6:30pm
 
 <img src="/images/School%20Events/2023/Speech%20Day%20Infopic%20Banner.jpg" 
      style="width:70%">
