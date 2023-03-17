@@ -262,7 +262,7 @@ third_nav_title: CCE
 <tbody>
   <tr>
     <td class="tg-ii8k">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-y7qa" >- Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV <br></td>
+    <td class="tg-y7qa" >- Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV <br></td>
     <td class="tg-y7qa">Terms 3 - 4 </td>
   </tr>
   <tr>
