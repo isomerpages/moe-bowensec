@@ -237,11 +237,11 @@ third_nav_title: CCE
 
 ### eTeens Programme
 
-7. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
  
-8. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Bowen Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At Bowen Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -277,18 +277,9 @@ third_nav_title: CCE
 
 ### Information for Parents
 
-9. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. .
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form (Annex A). This form will be distributed to parents at the start of the year and is also downloadable here. <br>The completed form is to be submitted by **31/01/2023.**
 
-10. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below. The completed form is to be submitted **by 04/02/2022**
+12. Parents who wish to opt their children out of the** eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. <br>The completed form is to be submitted by **31/01/2023**.
 
-[ANNEX A SEd Parent Opt Out Form 2022](/files/ANNEX%20A%20SEd%20Parent%20Opt%20Out%20Form%202022.pdf)
-
-11. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form.  
-  
-This form will be distributed to parents at the start of the year and is also downloadable in the link below. The completed form is to be submitted **by 28/02/2022.**
-
-[ANNEX B eTeens Parents Opt-out Form 2022](/files/ANNEX%20B%20eTeens%20Parents%20Opt-out%20Form%202022.pdf)
-
-12. Parents can contact the school at **63859466** for discussion or to seek clarification about the school’s sexuality education programme.
-
-13. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+13. Parents can contact the school at **63859466** for discussion or to seek clarification about the school’s sexuality education programme.
