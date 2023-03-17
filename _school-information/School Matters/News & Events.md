@@ -17,7 +17,7 @@ Please click on the links to view the updated timetables.
 <hr>
 
 ### 41st Speech and Prize Giving Day<br>28 April, Friday 3:30pm - 6:30pm
- 
+![](/images/School%20Events/2023/Speech%20Day%20Infopic%20Banner.jpg)
   
 
 <hr>
