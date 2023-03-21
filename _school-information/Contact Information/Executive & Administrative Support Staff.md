@@ -4,13 +4,11 @@ permalink: /school-information/contact-information/executive-n-administrative-su
 description: ""
 third_nav_title: Contact Information
 ---
-![](/images/eas-dep.jpeg)
+## General Office
 
-**General Office**
+#### Telephone: 6385 9466
 
-**Telephone: 6385 9466**
-
-**Fax: 6385 6559**
+#### Fax: 6385 6559
 
 ### EAS Team
 
@@ -58,11 +56,7 @@ third_nav_title: Contact Information
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
     <td class="tg-fxx4"><span style="color:#222">lim_yali@schools.gov.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-emg8">Mdm. Linda Sim</td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">sim_poh_buay_linda@schools.gov.sg </span></td>
-  </tr>
+
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm. Sabariah</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
@@ -104,7 +98,7 @@ third_nav_title: Contact Information
     <td class="tg-fxx4"><span style="color:#222"> nur_khalidah_jasmani@schools.gov.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. June Goh</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. David</span></td>
     <td class="tg-fxx4"><span style="color:#222">Admin Support Assistant (Printing)</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
   </tr>
@@ -124,14 +118,19 @@ third_nav_title: Contact Information
     <td class="tg-fxx4"><span style="color:#222">wang_liyang_jake@schools.gov.sg </span></td>
   </tr>
   <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Faizan</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
+    <td class="tg-fxx4"><span style="color:#222"></span></td>
+  </tr>
+	<tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Phay Jun Le, Jay</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">g-ncs3043sde@ncs.com.sg</span></td>
+    <td class="tg-fxx4"><span style="color:#222"></span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Nama Ganesh</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Farhan</span></td>
     <td class="tg-fxx4"><span style="color:#222">ICT Trainer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">bwss_ittrainer@bws.edu.sg</span></td>
+    <td class="tg-fxx4"><span style="color:#222"></span></td>
   </tr>
 </tbody>
 </table>
