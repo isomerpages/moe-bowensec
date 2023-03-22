@@ -4,10 +4,9 @@ permalink: /school-information/level-matters/secondary-4-5/
 description: ""
 third_nav_title: Secondary 4&5
 ---
-
 ### Secondary 4/5 Year Head (2022 Academic Year)
 
-<img src="/images/MRS-CHAN-SOO-YONG.jpeg" 
+<img src="/images/Our%20People/MRS-CHAN-SOO-YONG.jpeg" 
      style="width:25%">
 		 	 
 <center><b>Mrs. Chan Soo Yong       </b><br> 

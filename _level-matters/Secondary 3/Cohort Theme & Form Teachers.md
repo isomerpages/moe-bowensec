@@ -4,10 +4,9 @@ permalink: /school-information/level-matters/secondary-3/
 description: ""
 third_nav_title: Secondary 3
 ---
-
 ### Secondary 3 Year Head (2022 Academic Year)
 
-<img src="/images/MS-BERNICE-TEY.jpeg" 
+<img src="/images/Our%20People/MS-BERNICE-TEY.jpeg" 
      style="width:25%">
 
 <center><b>Mrs. Bernice Kuan</b><br>

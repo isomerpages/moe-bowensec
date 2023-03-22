@@ -24,7 +24,8 @@ We encourage parents/guardians to contact the General Office when trying to get 
 
 4. **Where can I find the the school booklists?**
 
-You can find the school booklists on this page: [2023 Booklists](/school-information/level-matters/2023-booklists)
+You can find the school booklists on this page: 
+[2023 Booklist](/school-information/level-matters/2023-booklists/)
 
 5. **What time does the school start?**
 
