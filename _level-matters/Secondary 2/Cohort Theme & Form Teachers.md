@@ -4,11 +4,9 @@ permalink: /school-information/level-matters/secondary-2/
 description: ""
 third_nav_title: Secondary 2
 ---
-
 ### Secondary 2 Year Head (2022 Academic Year)
 
-
-<img src="/images/Ms-Estelle-Chong.jpeg" 
+<img src="/images/Our%20People/Ms-Estelle-Chong.jpeg" 
      style="width:25%">
 		 
 <center><b>Ms. Estelle Chong</b><br>
@@ -159,4 +157,3 @@ Our Sec 1 classes are named after gems. These gems are: **Topaz, Sapphire, Peri
   </tr>
 </tbody>
 </table>
-
