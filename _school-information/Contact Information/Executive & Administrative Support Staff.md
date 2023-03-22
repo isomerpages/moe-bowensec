@@ -137,9 +137,9 @@ third_nav_title: Contact Information
     <td class="tg-fxx4">phay.jun.le@ncs.com.sg<span style="color:#222"></span></td>
   </tr>
   	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Phay Jun Le, Jay</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
-    <td class="tg-fxx4">phay.jun.le@ncs.com.sg<span style="color:#222"></span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Rosniza Mohd Alwie</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
+    <td class="tg-fxx4">rosniza_mohamad_alwie@schools.gov.sg<span style="color:#222"></span></td>
   </tr>
 </tbody>
 </table>
