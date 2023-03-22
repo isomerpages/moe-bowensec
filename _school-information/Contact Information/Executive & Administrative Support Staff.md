@@ -119,18 +119,18 @@ third_nav_title: Contact Information
     
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Faizan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
+    <td class="tg-fxx4">mf.bz@ncs.com.sg<span style="color:#222">Desktop Engineer</span></td>
     <td class="tg-fxx4"><span style="color:#222"></span></td>
   </tr>
 	<tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Phay Jun Le, Jay</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"></span></td>
+    <td class="tg-fxx4">phay.jun.le@ncs.com.sg<span style="color:#222"></span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Farhan</span></td>
     <td class="tg-fxx4"><span style="color:#222">ICT Trainer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"></span></td>
+    <td class="tg-fxx4">muhammad_farhan_dollah@schools.gov.sg<span style="color:#222"></span></td>
   </tr>
 </tbody>
 </table>
