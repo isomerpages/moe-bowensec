@@ -67,7 +67,31 @@ third_nav_title: Contact Information
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
     <td class="tg-fxx4"><span style="color:#222">suhaila_abu_bakar@schools.gov.sg</span></td>
   </tr>
+	<tr>
+    <td class="tg-emg8">Mr. Muhammad Hafiz Bin Rosli</td>
+    <td class="tg-fxx4"><span style="color:#222">ICT Associate</span></td>
+    <td class="tg-fxx4">muhammad_hafiz_rosli@schools.gov.sg<span style="color:#222"> </span></td>
+  </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Ng Yew Hian</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (D&amp;T)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">ng_yew_hian@schools.gov.sg </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Freddy Tan</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (D&amp;T)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"> tan_hock_nang_freddy@schools.gov.sg </span></td>
+  </tr>
   <tr>
+		<td class="tg-fxx4"><span style="color:#222">Mr. Jake Wang</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (Lab)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">wang_liyang_jake@schools.gov.sg </span></td>
+  </tr>
+		 <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Nurhafiza Bte Abdul Rahim</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Admin Support </span>Assistant</td>
+    <td class="tg-fxx4"><span style="color:#222"> nur_khalidah_jasmani@schools.gov.sg </span></td>
+  </tr>
     <td class="tg-emg8">Mdm. Foo Tee Koon</td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
@@ -88,35 +112,11 @@ third_nav_title: Contact Information
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Soobah </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Nur Khalidah</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Admin Support </span>Assistant</td>
-    <td class="tg-fxx4"><span style="color:#222"> nur_khalidah_jasmani@schools.gov.sg </span></td>
-  </tr>
-  <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. David</span></td>
     <td class="tg-fxx4"><span style="color:#222">Admin Support Assistant (Printing)</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Freddy Tan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (D&amp;T)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"> tan_hock_nang_freddy@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Ng Yew Hian</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (D&amp;T)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">ng_yew_hian@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Jake Wang</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (Lab)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">wang_liyang_jake@schools.gov.sg </span></td>
-  </tr>
+	</tr>
+    
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Faizan</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
