@@ -19,8 +19,7 @@ third_nav_title: Contact Information
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
+.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}</style>
 <table class="tg">
 <thead>
     <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
@@ -132,12 +131,12 @@ third_nav_title: Contact Information
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Faizan</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
-    <td class="tg-fxx4">mf.bz@ncs.com.sg<span style="color:#222"></span></td>
+    <td class="tg-fxx4"><span style="color:#222"></span></td>
   </tr>
 	<tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Phay Jun Le, Jay</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
-    <td class="tg-fxx4">phay.jun.le@ncs.com.sg<span style="color:#222"></span></td>
+    <td class="tg-fxx4"><span style="color:#222"></span></td>
   </tr>
   	<tr>
     <td class="tg-fxx4"><span style="color:#222">Ms. Rosniza Mohd Alwie</span></td>
