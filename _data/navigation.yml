@@ -1,13 +1,36 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Bowenlogo_transparent.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About Bowen
+    collection: about-bowen
+  - title: Holistic Education
+    url: /holistic-education/the-desired-bowenian-1
+    sublinks:
+      - title: The Desired Bowenian
+        url: /holistic-education/the-desired-bowenian-1
+      - title: Student Leadership
+        url: /holistic-education/student-leadership
+      - title: Full Subject-Based Banding
+        url: /holistic-education/piloting-full-subject-based-banding-fsbb
+      - title: Academic Programmes
+        url: /holistic-education/academic-programmes/english
+      - title: CCE
+        url: /holistic-education/cce/character-and-citizenship-education
+      - title: CCAs
+        url: /holistic-education/co-curricular-activities
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: School Information
+    url: /school-information/school-matters/news-n-events/
+    sublinks:
+      - title: School Matters
+        url: /school-information/school-matters/news-n-events/
+      - title: Level Matters
+        url: /school-information/level-matters/secondary-1/
+      - title: School Advisory Committee
+        url: /school-information/school-advisory-committee/
+      - title: Bowen ParentLink
+        url: /school-information/bowen-parentlink/bowen-parentlink/
+      - title: Online Portals
+        url: /school-information/school-matters/online-portals/singapore-student-learning-space
+      - title: Contact Information
+        url: /school-information/contact-information/school-contact-information

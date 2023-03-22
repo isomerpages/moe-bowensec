@@ -1,36 +1,31 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Bowen Secondary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Bowen Secondary School
+      background: /images/hero-banner.gif
+      key_highlights:
+        - title: Signature Programmes
+          description: ""
+          url: /signature-programmes/bowen-changemakers
+        - title: Academic Programmes
+          description: ""
+          url: /holistic-education/academic-programmes/english
+        - title: Co-curricular Activities
+          description: ""
+          url: holistic-education/co-curricular-activities/
+        - title: Level Matters
+          description: Sec 1, 2, 3, 4/5
+          url: /school-information/level-matters/secondary-1/
+  - infopic:
+      title: 41st Speech & Prize Presentation Day
+      description: 28 April 2023, 3:30pm - 6:30pm
+      alt: Image alt text
+      image: /images/School Events/2023/Speech Day Infopic Banner.jpg
+      subtitle: UPCOMING EVENT
 ---
-

@@ -1,0 +1,30 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - CCAs.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC (Land)(Boys).md
+      - Uniformed Groups/NCDCC.md
+      - Uniformed Groups/NPCC.md
+      - Performing Arts/.keep
+      - Performing Arts/Bowen Band (Display & Marching).md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Bowen Dance Club.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Bowen Chorale.md
+      - Performing Arts/Bowen Artists.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball (Boys).md
+      - Sports/Football (Boys).md
+      - Sports/Football (Girls).md
+      - Sports/Netball.md
+      - Sports/Table Tennis.md
+      - Sports/Taekwando.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/AIMS Club.md
+      - Clubs and Societies/Library Club.md
