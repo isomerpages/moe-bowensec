@@ -23,7 +23,6 @@ third_nav_title: Contact Information
 </style>
 <table class="tg">
 <thead>
-  <tr>
     <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
     <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Designation</span></th>
     <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
