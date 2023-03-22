@@ -94,7 +94,7 @@ third_nav_title: Contact Information
 		 <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms. Nurhafiza Bte Abdul Rahim</span></td>
     <td class="tg-fxx4"><span style="color:#222">Admin Support </span>Assistant</td>
-    <td class="tg-fxx4"><span style="color:#222"> nur_khalidah_jasmani@schools.gov.sg </span></td>
+    <td class="tg-fxx4"><span style="color:#222"> nurhafiza_abdul_rahim@schools.gov.sg </span></td>
   </tr>
     <td class="tg-emg8">Mdm. Foo Tee Koon</td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
