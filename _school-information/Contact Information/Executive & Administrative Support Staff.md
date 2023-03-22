@@ -6,142 +6,515 @@ third_nav_title: Contact Information
 ---
 ## General Office
 
-#### Telephone: 6385 9466
-
-#### Fax: 6385 6559
-
+#### Telephone: 6385 9466<br>
+#### Fax: 6385 6559<br><br>
 ### EAS Team
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}</style>
-<table class="tg">
-<thead>
-    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
-    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Designation</span></th>
-    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Faridah Bte Abdullah</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Administration Manager</span></td>
-    <td class="tg-fxx4"><span style="color:#222">faridah_abdullah@schools.gov.sg  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Filzah Abdul Hadi</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Administration Manager</span></td>
-    <td class="tg-fxx4"><span style="color:#222">filzah_abdul_hadi@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Soh Eng Chong</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Manager</span></td>
-    <td class="tg-fxx4"><span style="color:#222">soh_eng_chong@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Nurul Iwani</span> </td>
-    <td class="tg-fxx4"><span style="color:#222">Administrative Executive</span></td>
-    <td class="tg-fxx4"><span style="color:#222">nurul_iwani_ismail@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Lim Yali</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">lim_yali@schools.gov.sg </span></td>
-  </tr>
-
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Sabariah</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">sabariah_mohamad_harith@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Suhaila</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">suhaila_abu_bakar@schools.gov.sg</span></td>
-  </tr>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Lim Alice</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lim_alice@schools.gov.sg</span></td>
-  </tr>
-	<tr>
-    <td class="tg-emg8">Mr. Muhammad Hafiz Bin Rosli</td>
-    <td class="tg-fxx4"><span style="color:#222">ICT Associate</span></td>
-    <td class="tg-fxx4">muhammad_hafiz_rosli@schools.gov.sg<span style="color:#222"> </span></td>
-  </tr>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Ng Yew Hian</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (D&amp;T)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">ng_yew_hian@schools.gov.sg </span></td>
-  </tr>
-	 <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Freddy Tan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (D&amp;T)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"> tan_hock_nang_freddy@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-		<td class="tg-fxx4"><span style="color:#222">Mr. Jake Wang</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Technical Support Officer (Lab)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">wang_liyang_jake@schools.gov.sg </span></td>
-  </tr>
-		 <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Nurhafiza Bte Abdul Rahim</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Admin Support </span>Assistant</td>
-    <td class="tg-fxx4"><span style="color:#222"> nurhafiza_abdul_rahim@schools.gov.sg </span></td>
-  </tr>
-    <td class="tg-emg8">Mdm. Foo Tee Koon</td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Yeow Bee Geok</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Kwan Way Yeng</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Logambal</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-  </tr>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Nancy Low</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. David</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Admin Support Assistant (Printing)</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-	</tr>
-    <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Farhan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">ICT Trainer</span></td>
-    <td class="tg-fxx4">muhammad_farhan_dollah@schools.gov.sg<span style="color:#222"></span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Faizan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"></span></td>
-  </tr>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Phay Jun Le, Jay</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
-    <td class="tg-fxx4"><span style="color:#222"></span></td>
-  </tr>
-  	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Rosniza Mohd Alwie</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
-    <td class="tg-fxx4">rosniza_mohamad_alwie@schools.gov.sg<span style="color:#222"></span></td>
-  </tr>
-</tbody>
-</table>
+<table style="width:467.7pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid white .5pt;mso-border-themecolor:background1;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="624" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Grid5DarkAccent3"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-right:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-bottom-alt:solid white .5pt;
+  mso-border-bottom-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  5" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Officer</span><b><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white"></span></b></p></td><td style="width:113.5pt;border-top:solid white 1.0pt;
+  mso-border-top-themecolor:background1;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:none;mso-border-top-alt:
+  solid white .5pt;mso-border-top-themecolor:background1;mso-border-bottom-alt:
+  solid white .5pt;mso-border-bottom-themecolor:background1;background:#A5A5A5;
+  mso-background-themecolor:accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  1" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Designation</span><b><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white"></span></b></p></td><td style="border:solid white 1.0pt;mso-border-themecolor:background1;
+  border-left:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
+  background1;mso-border-right-alt:solid white .5pt;mso-border-right-themecolor:
+  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
+  0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  1" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Email Contact</span><b><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white"></span></b></p></td></tr><tr style="mso-yfti-irow:0"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Faridah Bte Abdullah</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Administration Manager</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">faridah_abdullah@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Filzah Abdul Hadi</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Administration Manager</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">filzah_abdul_hadi@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Soh Eng Chong</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Operations Manager</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">soh_eng_chong@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ms. Nurul Iwani</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Administration Executive</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">nurul_iwani_ismail@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ms. Lim Yali</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Corporate Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">lim_yali@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Sabariah</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Corporate Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">sabariah_mohamad_harith@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Suhaila</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Corporate Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">suhaila_abu_bakar@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ms. Lim Alice</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Corporate Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Lim_alice@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. David Ng</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Administration Support Assistant (Printing)</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Ng Yew Hian</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Technical Support Officer (D&amp;T)</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">ng_yew_hian@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Freddy Tan</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Technical Support Officer (D&amp;T)</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">tan_hock_nang_freddy@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Jake Wang</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Technical Support Officer (Lab)</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">wang_liyang_jake@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ms. Nurhafiza Bte Abdul Rahim</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Technical Support Officer (Lab)</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">nurhafiza_abdul_rahim@schools.gov.sg</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Muhammad Hafiz Bin Rosli</span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">ICT Associate</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">muhammad_hafiz_rosli@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Farhan</span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">ICT Trainer</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">muhammad_farhan_dollah@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:15"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Faizan</span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Desktop Engineer</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:16"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mr. Phay Jun Le, Jay</span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Desktop Engineer</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:17"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ms Rosniza Mohd Alwie</span><span style="color:white;mso-themecolor:background1"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;color:#222222;
+  background:#ECECEC">Librarian</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">rosniza_mohamad_alwie@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:18"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Foo Tee Koon</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Operations Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"></td></tr><tr style="mso-yfti-irow:19"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Yeow Bee Geok</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Operations Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"></td></tr><tr style="mso-yfti-irow:20"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Kwan Way Yeng</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Operations Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"></td></tr><tr style="mso-yfti-irow:21"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Logambal</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Operations Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top"></td></tr><tr style="mso-yfti-irow:22;mso-yfti-lastrow:yes"><td style="width:140.05pt;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0in 5.4pt 0in 5.4pt" valign="top" width="187"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#222222">Mdm. Nancy Low</span></p></td><td style="width:113.5pt;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="151"><p style="margin-bottom:0in;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Operations Support Officer</span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:solid white 1.0pt;
+  mso-border-right-themecolor:background1;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#DBDBDB;mso-background-themecolor:
+  accent3;mso-background-themetint:102;padding:0in 5.4pt 0in 5.4pt" valign="top"></td></tr></tbody></table>
