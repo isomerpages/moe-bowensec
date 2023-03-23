@@ -148,15 +148,19 @@ Please remember to **logout** from SWN at **[http://portal.swn.moe.edu.sg](h
     <td class="tg-fxx4"><span style="color:#222">muhammad_hafiz_rosli@schools.gov.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Nama Ganesh</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Farhan</span></td>
     <td class="tg-fxx4"><span style="color:#222">ICT Trainer</span></td>
-    <td class="tg-fxx4"><span style="color:#222">nama_ganesh@schools.gov.sg</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">muhammad_farhan_dollah@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Jay Phay Jun Le</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
     <td class="tg-emg8"></td>
+		<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr Faizan</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer</span></td>
+    <td class="tg-emg8"></td>
+  </tr>
   </tr>
 </tbody>
 </table>
-
