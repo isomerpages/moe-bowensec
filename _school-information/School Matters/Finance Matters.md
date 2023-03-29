@@ -204,7 +204,7 @@ Students on FAS can download and refer to the step-by-step guide below to redeem
 
 * * *
 
-### Student Lockers for 2022
+### Student Lockers
 
 Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school. 
 
