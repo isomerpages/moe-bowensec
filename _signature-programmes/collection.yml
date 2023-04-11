@@ -2,12 +2,12 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Personal Learning Device (PLD) Information.md
       - Bowen ChANgeMakers.md
       - BowenExplore!.md
       - Bowen Fiesta.md
       - AForte Applied–Learning Programme.md
       - Bowen Horizons.md
       - Learning with Technology.md
+      - Personal Learning Device (PLD) Information.md
       - Applied Learning & Learning for Life Programmes in Bowen.md
       - Direct School Admission.md
