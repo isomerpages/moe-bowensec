@@ -138,7 +138,7 @@ On the 27 August 2021, Sec 1 to Sec 3 students will receive their Personal Learn
 
 Please encourage your child to first contact the school's ICT Service Desk first with the device when he or she is in school. We can then advice if it is necessary to contact the PLD service centre for further assistance.&nbsp;Otherwise, you may also contact the PLD service centre directly.&nbsp; You can find information about PLD warranty, service centre and other information in the link below,
 
-[PLD Information Page &gt;&gt;&gt;&gt;](/signature-programmes/permalink/)
+[PLD Information Page &gt;&gt;&gt;&gt;](/signature-programmes/personallearningldevice/)
 
 3. **Where is the Bowen ICT Service Desk located and what are the operating hours?**
 
