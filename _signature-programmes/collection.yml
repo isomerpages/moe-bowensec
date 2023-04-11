@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Personal Learning Device (PLD) Information.md
       - Bowen ChANgeMakers.md
       - BowenExplore!.md
       - Bowen Fiesta.md
