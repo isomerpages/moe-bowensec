@@ -20,6 +20,6 @@ third_nav_title: Secondary 3
 
 3 Kunzite - [2023 SEM1 S3K TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S3K%20TT%20V4.pdf)
 
-3 Larimar - [2023 SEM1 S3E TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S3E%20TT%20V4.pdf)
+3 Larimar - [2023 SEM1 S3L TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S3L%20TT%20V4.pdf)
 
 3 Emerald - [2023 SEM1 S3E TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S3E%20TT%20V4.pdf)

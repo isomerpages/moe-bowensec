@@ -11,7 +11,7 @@ third_nav_title: Secondary 2
 
 2 Topaz - [2023 SEM1 S2T TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S2T%20TT%20V4.pdf)
 
-2 Sapphire - [2023 SEM1 S2P TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S2P%20TT%20V4.pdf)
+2 Sapphire - [2023 SEM1 S2S TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S2S%20TT%20V4.pdf)
 
 2 Peridot - [2023 SEM1 S2P TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S2P%20TT%20V4.pdf)
 
