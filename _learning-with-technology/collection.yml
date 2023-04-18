@@ -2,5 +2,6 @@ collections:
   learning-with-technology:
     output: true
     order:
+      - Information & Communications Technology.md
       - Personal Learning Device (PLD) Information.md
       - Learning with Technology.md
