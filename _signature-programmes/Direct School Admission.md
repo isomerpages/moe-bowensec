@@ -100,17 +100,14 @@ The programme aims to develop students’ talents and potentials in the various 
 </tbody>
 </table>
 
-----
 ### Centralised DSA-Sec Application Process
----------------------------------------
-
   
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal.  
   
   
-&nbsp;For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+&nbsp;For more information on DSA-Sec, please refer to the [MOE Website](https://www.moe.gov.sg/dsa-sec)  
  
- -----
+
  ### Selection Process and Key Dates
 
-![](/images/DSA%20Schedule.jpeg)
+To be announced
