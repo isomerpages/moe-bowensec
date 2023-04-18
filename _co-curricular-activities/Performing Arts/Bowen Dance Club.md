@@ -40,10 +40,10 @@ third_nav_title: Performing Arts
 
 ### About Bowen Modern Dance
 
-<img src="/images/modern-dance2.jpeg" style="width:70%">
+<img src="/images/modern-dance2.jpeg">
 		 
-Dance is a form of art and it is also a creative expression of the ideas and feelings of individuals. It allows students to express their ideas about the world around them through a nonverbal means of communication. The Bowen Dance Club has over the years introduced &amp; exposed students to different genres of dance e.g. Hip Hop, Street Jazz, Modern Dance, Wacking, BBoying etc. We have a comprehensive and structured dance programme to help students learn dance in a fun and easy way.&nbsp;
+Dance is a form of art and it is also a creative expression of the ideas and feelings of individuals. It allows students to express their ideas about the world around them through a nonverbal means of communication. The Bowen Dance Club has over the years introduced &amp; exposed students to different genres of dance e.g. Hip Hop, Street Jazz, Modern Dance, Wacking, BBoying etc. We have a comprehensive and structured dance programme to help students learn dance in a fun and easy way.
 
-  
+During our weekly dance sessions, our experienced and dedicated instructors train students in dance techniques and prepare them for competitions and performances. Bowen Dance Club has participated in various competitions namely, Singapore Youth Festival, SUPER 24!, Danceworks!, Let’s Work It Challenge!, FUYO BBoy Battle and achieved several awards making the school proud. Every student has the opportunity to perform on stage and showcase their talent during our public performances and various school events. 
 
-During our weekly dance sessions, our experienced and dedicated instructors train students in dance techniques and prepare them for competitions and performances. Bowen Dance Club has participated in various competitions namely, Singapore Youth Festival, SUPER 24!, Danceworks!, Let’s Work It Challenge!, FUYO BBoy Battle and achieved several awards making the school proud. Every student has the opportunity to perform on stage and showcase their talent during our public performances and various school events. We aim to provide a fruitful and meaningful experience for each student and help build their confidence, increase their self-esteem and perseverance through dance.
+We aim to provide a fruitful and meaningful experience for each student and help build their confidence, increase their self-esteem and perseverance through dance.
