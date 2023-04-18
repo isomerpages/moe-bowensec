@@ -21,51 +21,184 @@ There are several on-line login platforms available for Bowenians. &nbsp;Every s
 
 These tables list the various login platforms available for students.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-pll1">#</th>
-    <th class="tg-pll1">Platforms</th>
-    <th class="tg-pll1">User ID</th>
-    <th class="tg-pll1">Description</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k" rowspan="2">1</td>
-    <td class="tg-ii8k">Student Icon<br>(MOE Google Mail and workspace for students)</td>
-    <td class="tg-ii8k">Student Icon Email Address<br> </td>
-    <td class="tg-y7qa"><br>Login to Personal Learning Device (PLD) and Laptops in Computer Labs/ Mobile Carts<br><br><br>Login to check Student Icon Email<br><br><br>Login to access Google Suite for Education in Student Icon<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">SWN Wireless Network</td>
-    <td class="tg-ii8k">NRIC/BC/FIN number<br>Eg. T0123456A<br> </td>
-    <td class="tg-y7qa">Non-SSOE devices connecting wirelessly to school network such as own mobile devices</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">2</td>
-    <td class="tg-ii8k">Online Learning/Admin Portals<br>·        Student Learning Space (SLS)<br>·        Ace-Learning (Maths)</td>
-    <td class="tg-ii8k">Hybrid Name and NRIC/BC/FIN number<br> <br>Eg. AMYLI3456A</td>
-    <td class="tg-y7qa">Online learning platforms – SLS and Ace-learning<br> <br>Online booking of parent-teacher meeting session – MConline</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">3</td>
-    <td class="tg-ii8k">Bowen GSuite Account (only for current Sec 2 to 5 students)<br> <br>Important: Bowen GSuite will not be available from January 2023</td>
-    <td class="tg-ii8k">Hybrid Name and NRIC/BC/FIN number@bws.edu.sg<br> <br>Eg. AMYLI3456A@bws.edu.sg</td>
-    <td class="tg-y7qa">Google Suite for Education</td>
-  </tr>
-</tbody>
-</table>
+
+  <table class="MsoTable15Grid5DarkAccent3" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;
+ mso-border-alt:solid white .5pt;mso-border-themecolor:background1;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes"><td width="5%" valign="top" style="width:5.28%;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-right:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-left-alt:solid white .5pt;
+  mso-border-left-themecolor:background1;mso-border-bottom-alt:solid white .5pt;
+  mso-border-bottom-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:5"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">#</span></b></p></td><td width="28%" valign="top" style="width:28.82%;border-top:solid white 1.0pt;
+  mso-border-top-themecolor:background1;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:none;mso-border-top-alt:
+  solid white .5pt;mso-border-top-themecolor:background1;mso-border-bottom-alt:
+  solid white .5pt;mso-border-bottom-themecolor:background1;background:#A5A5A5;
+  mso-background-themecolor:accent3;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:1"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Platforms</span></b></p></td><td width="31%" valign="top" style="width:31.84%;border-top:solid white 1.0pt;
+  mso-border-top-themecolor:background1;border-left:none;border-bottom:solid white 1.0pt;
+  mso-border-bottom-themecolor:background1;border-right:none;mso-border-top-alt:
+  solid white .5pt;mso-border-top-themecolor:background1;mso-border-bottom-alt:
+  solid white .5pt;mso-border-bottom-themecolor:background1;background:#A5A5A5;
+  mso-background-themecolor:accent3;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:1"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">User ID</span></b></p></td><td width="34%" valign="top" style="width:34.06%;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-left:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-bottom-alt:solid white .5pt;
+  mso-border-bottom-themecolor:background1;mso-border-right-alt:solid white .5pt;
+  mso-border-right-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:1"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Description</span></b></p></td></tr><tr style="mso-yfti-irow:0"><td width="5%" valign="top" style="width:5.28%;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">1</span></b></p></td><td width="28%" valign="top" style="width:28.82%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Student Icon</span><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;color:#222222;mso-ansi-language:
+  EN-SG"><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">(MOE Google Mail and workspace for students)</span></p></td><td width="31%" valign="top" style="width:31.84%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Student Icon Email Address</span></p></td><td width="34%" valign="top" style="width:34.06%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">Login to Personal Learning Device (PLD) and Laptops in Computer Labs/ Mobile Carts</span><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;color:#222222;mso-ansi-language:
+  EN-SG"><br><br><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">Login to check Student Icon Email</span><span style="font-size:10.5pt;
+  font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Arial;color:#222222;mso-ansi-language:EN-SG"><br><br><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">Login to access Google Suite for Education in Student Icon</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="5%" valign="top" style="width:5.28%;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">2</span></b></p></td><td width="28%" valign="top" style="width:28.82%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">SWN Wireless Network</span></p></td><td width="31%" valign="top" style="width:31.84%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">NRIC/BC/FIN number</span><span style="font-size:10.5pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Arial;color:#222222;mso-ansi-language:EN-SG"><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">Eg. T0123456A</span></p></td><td width="34%" valign="top" style="width:34.06%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #EDEDED;mso-background-themecolor:accent3;mso-background-themetint:51;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">Non-SSOE devices connecting wirelessly to school network such as own mobile devices</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td width="5%" valign="top" style="width:5.28%;border:solid white 1.0pt;
+  mso-border-themecolor:background1;border-top:none;mso-border-top-alt:solid white .5pt;
+  mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
+  mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
+  accent3;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">3</span></p></td><td width="28%" valign="top" style="width:28.82%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Online Learning/Admin Portals</span><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;color:#222222;mso-ansi-language:
+  EN-SG"><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">· Student Learning Space (SLS)</span><span style="font-size:10.5pt;
+  font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Arial;color:#222222;mso-ansi-language:EN-SG"><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">· Ace-Learning (Maths)</span></p></td><td width="31%" valign="top" style="width:31.84%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Hybrid Name and NRIC/BC/FIN number</span><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;color:#222222;mso-ansi-language:
+  EN-SG"><br><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">Eg. AMYLI3456A</span></p></td><td width="34%" valign="top" style="width:34.06%;border-top:none;border-left:
+  none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:102;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">Online learning platforms – SLS and Ace-learning</span><span style="font-size:10.5pt;
+  font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Arial;color:#222222;mso-ansi-language:EN-SG"><br><br></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">Online booking of parent-teacher meeting session – MConline</span></p></td></tr></tbody></table>
+
+
+
 
 *   SSOE-devices and SWN Wireless Student User ID In order to access school-based devices and the wireless network, students will be using their NRIC/BC/FIN number as the user ID.  
       
