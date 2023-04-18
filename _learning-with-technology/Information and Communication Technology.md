@@ -3,7 +3,7 @@ title: Information and Communication Technology
 permalink: /learning-with-technology/permalink/
 description: ""
 ---
-Every Bowenian a Future-Ready and Responsible Digital Learner. 
+## Every Bowenian a Future-Ready and Responsible Digital Learner. 
 
 The Bowen ICT Department aims to enhance our students’ learning experience through&nbsp;meaningful&nbsp;and impactful infusion of ICT into our structured programmes and curriculum. Bowenians have to stay current&nbsp;to&nbsp;the&nbsp;fast paced&nbsp;technological changes and&nbsp;21st&nbsp;century&nbsp;skills should be developed in every Bowenian.
 
