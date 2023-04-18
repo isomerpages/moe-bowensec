@@ -26,7 +26,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs. Lee Su Ping (i/c)</span><br><span style="color:#222">Ms. Angie Goh (2<sup>nd</sup> IC)</span><br><span style="color:#222">Ms. Siti Norrulhuda</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs. Lee Su Ping (I/C)</span><br><span style="color:#222">Ms. Angie Goh (2<sup>nd</sup> IC)</span><br><span style="color:#222">Ms. Siti Norrulhuda</span></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
