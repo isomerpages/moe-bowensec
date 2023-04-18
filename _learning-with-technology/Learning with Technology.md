@@ -148,9 +148,9 @@ These tables list the various login platforms available for students.
   mso-border-top-themecolor:background1;mso-border-alt:solid white .5pt;
   mso-border-themecolor:background1;background:#A5A5A5;mso-background-themecolor:
   accent3;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="5%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-size:10.5pt;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">3</span></p></td><td style="width:28.82%;border-top:none;border-left:
+	color:#222222;mso-ansi-language:EN-SG">3</span></b></p></td><td style="width:28.82%;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
   border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
   mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
