@@ -39,8 +39,10 @@ third_nav_title: Sports
 ### About Bowen Table-Tennis
 Table Tennis started as a recreational CCA to Bowen Secondary School students but since 2006, Bowenians have competed yearly in the North Zone Interschool Table Tennis Team Championships. 
 
-Table Tennis demands quick reaction from a player and concentration. A skilful player can impart many varieties of spin to a ball to alter the ball’s trajectory (path or route the ball takes) and to limit an opponent’s options to one’s advantage.&nbsp;
+Table Tennis demands quick reaction from a player and concentration. A skilful player can impart many varieties of spin to a ball to alter the ball’s trajectory (path or route the ball takes) and to limit an opponent’s options to one’s advantage.&nbsp; If you’re looking at learning not just the basic strokes but also the advanced strokes: The Loop, The Chop, The Flip, The Lob, Advanced Service Techniques and more, come join our Bowen Table Tennis CCA! Besides skills training, students will learn core values such as responsibility, respect, resilience, teamwork, excellence and compassion as you train and bond with your team members. 
 
-If you’re looking at learning not just the basic strokes but also the advanced strokes: The Loop, The Chop, The Flip, The Lob, Advanced Service Techniques and more, come join our Bowen Table Tennis CCA! Besides skills training, students will learn core values such as responsibility, respect, resilience, teamwork, excellence and compassion as you train and bond with your team members. 
+![](/images/CCAs/Sports/Table%20Tennis/table%20tennis.jpg)
 
-Students with leadership potential will be groomed to take on the leadership positions in the CCA as well as nominated as student councillors via the CCA route. If you’re Interested in a fast-playing indoor sport and have the aptitude and attitude, do opt for Table Tennis as your first choice for your CCA!
+Students with leadership potential will be groomed to take on the leadership positions in the CCA as well as nominated as student councillors via the CCA route. 
+
+If you’re Interested in a fast-playing indoor sport and have the aptitude and attitude, do opt for Table Tennis as your first choice for your CCA!
