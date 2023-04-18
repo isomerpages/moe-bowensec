@@ -33,7 +33,7 @@ The&nbsp;**ChANgeMakers**&nbsp;programme aims to nurture Bowenians to advocate s
     (School returning volunteer programme)
 *   **Workshops**  
     (Example: Design Thinking)
------
+
 ### DSA (Performing Arts / Sports and Games)
 
 We offer DSA for Boys and Girls in:
@@ -105,9 +105,8 @@ The programme aims to develop students’ talents and potentials in the various 
 ---------------------------------------
 
   
-For 2022, application for DSA-Sec can be submitted through the online DSA-Sec Portal.  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal.  
   
-The application is free-of-charge and will be open&nbsp;**from 5th May 2022**.  
   
 &nbsp;For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
  
