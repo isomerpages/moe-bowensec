@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Information and Communication Technology.md
-      - Learning with Technology.md
+      - Personal Learning Device (PLD).md
       - Personal Learning Device (PLD)/.keep
       - Personal Learning Device (PLD)/Personal Learning Device (PLD) Service
         Centre.md
