@@ -27,4 +27,11 @@ sections:
       subtitle: UPCOMING EVENT
       description: "28 April 2023 (Friday), 3:30pm - 6:30pm, Guest-of-Honour: Mr V.
         Vijaykumarr"
+  - infopic:
+      title: 41st Speech & Prize Presentation Day
+      subtitle: UPCOMING EVENT
+      description: "28 April 2023 (Friday), 3:30pm - 6:30pm, Guest-of-Honour: Mr V.
+        Vijaykumarr"
+      button: Button Text
+      alt: Image alt text
 ---
