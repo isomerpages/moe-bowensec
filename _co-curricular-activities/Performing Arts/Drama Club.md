@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/dra
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/Preparing%20for%20their%20SYF%20performance%20showcase.jpeg)
+![](/images/CCAs/Performing%20Arts/Drama%20Club/drama%20club%20main%20pic.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
