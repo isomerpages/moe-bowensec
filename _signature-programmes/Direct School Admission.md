@@ -7,7 +7,7 @@ The annual DSA-Sec Exercise allows Primary 6 students to seek admission to a par
 
 Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the pace of learning and overall range of programmes offered by the schools. Finding a good fit will help students enjoy their learning at an appropriate pace and benefit the school’s programmes.
 
--------
+
 ### Direct School Admission (DSA) to Bowen
 
 Bowen welcomes students who are currently in Primary 6 (or the equivalent) to apply under DSA for entry to Sec 1 in Bowen. Bowen is committed to developing students to their fullest potential in both their areas of talent and their studies.
