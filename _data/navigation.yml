@@ -17,8 +17,6 @@ links:
         url: /holistic-education/cce/character-and-citizenship-education
       - title: CCAs
         url: /holistic-education/co-curricular-activities
-  - title: Signature Programmes (old)
-    collection: signature-programmes
   - title: Signature Programmes
     url: /signature-programmes/
     sublinks:
@@ -36,6 +34,8 @@ links:
         url: /signature-programmes/applied-learning-n-learning-for-life-programmes-in-bowen/
       - title: Direct School Admission
         url: /signature-programmes/direct-school-admission-1/
+  - title: Signature Programmes (old)
+    collection: signature-programmes
   - title: School Information
     url: /school-information/school-matters/news-n-events/
     sublinks:
