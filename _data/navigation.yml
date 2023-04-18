@@ -18,7 +18,24 @@ links:
       - title: CCAs
         url: /holistic-education/co-curricular-activities
   - title: Signature Programmes
-    collection: signature-programmes
+    url: /signature-programmes/applied-learning-n-learning-for-life-programmes-in-bowen/
+    sublinks:
+      - title: Bowen ALP and LLP
+        url: /signature-programmes/applied-learning-n-learning-for-life-programmes-in-bowen/
+      - title: Bowen ChANgeMakers
+        url: /signature-programmes/bowen-changemakers/
+      - title: BowenExplore!
+        url: /signature-programmes/bowenexplore/
+      - title: Bowen FIETSA
+        url: /signature-programmes/bowen-fiesta/
+      - title: Aforte ALP
+        url: /signature-programmes/aforte-applied-learning-programme/
+      - title: Learning With Technology
+        url: /signature-programmes/learning-with-technology/
+      - title: Bowen Horizons
+        url: /signature-programmes/bowen-horizons/
+      - title: Direct School Admission
+        url: /signature-programmes/direct-school-admission-1/
   - title: School Information
     url: /school-information/school-matters/news-n-events/
     sublinks:

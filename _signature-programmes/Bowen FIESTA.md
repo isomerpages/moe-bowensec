@@ -1,22 +1,22 @@
 ---
-title: Bowen Fiesta
+title: Bowen FIESTA
 permalink: /signature-programmes/bowen-fiesta/
 description: ""
 ---
-The **Bowen FIESTA** is a series of customised programmes specially designed for Bowenians and the school. The word _‘fiesta’_ has Latin origins and it represents a series of festivities or activities to celebrate an occasion.  Our **Bowen FIESTA** adds colour and vibrancy to the school life and the collective experience helps define our Bowen culture and identity.
+The&nbsp;**Bowen FIESTA**&nbsp;is a series of customised programmes specially designed for Bowenians and the school. The word&nbsp;_‘fiesta’_&nbsp;has Latin origins and it represents a series of festivities or activities to celebrate an occasion.&nbsp;&nbsp;Our&nbsp;**Bowen FIESTA**&nbsp;adds colour and vibrancy to the school life and the collective experience helps define our Bowen culture and identity.
 
 -----
 
 ### What is the BOWEN FIESTA?
 
-In Bowen, **FIESTA** stands for
-* **F**un, 
-* **I**nteresting, 
-* **E**ngaging & 
-* **S**truc**T**ured **A**ctivities <br>
+In Bowen,&nbsp;**FIESTA**&nbsp;stands for
+* **F**un,&nbsp;
+* **I**nteresting,&nbsp;
+* **E**ngaging &amp;&nbsp;
+* **S**truc**T**ured&nbsp;**A**ctivities <br>
 (FIESTA), where activities are tailored to nurture the students’ holistic development.
 
-The **Bowen FIESTA** (Fun, Interactive, Educational STructured Activities) is a series of customised programmes specially designed for Bowenians.
+The&nbsp;**Bowen FIESTA**&nbsp;(Fun, Interactive, Educational STructured Activities) is a series of customised programmes specially designed for Bowenians.
 
 *   It adds colour and vibrancy to school life and the collective experience helps define our Bowen culture and identity.  
       

@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/dra
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/Preparing%20for%20their%20SYF%20performance%20showcase.jpeg)
+![](/images/CCAs/Performing%20Arts/Drama%20Club/drama%20club%20main%20pic.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -40,11 +40,9 @@ third_nav_title: Performing Arts
 
 ### About Bowen Drama Club
 
-<img src="/images/Performance%20day%20at%20Esplanade%20theatre.jpeg" style="width:70%">
+![](/images/CCAs/Performing%20Arts/Drama%20Club/drama%20club%20pic%202.png)
+The Bowen Drama club has showcased the performing flair of its members in numerous school and public performances since 1999. The Club seeks to nurture budding talents and have them to grow and mature as stage actors. 
 
-The Bowen Drama club has showcased the performing flair of its members in numerous school and public performances since 1999. The Club seeks to nurture budding talents and have them to grow and mature as stage actors.&nbsp;
+Through these platforms, Drama Club members are given the opportunity not only to showcase their talents, but also to be able to further hone their skills and hold their own on stage.
 
-Through these platforms, Drama Club members are given the opportunity not only to showcase their&nbsp;talents,&nbsp;but also to be able to further hone their skills and hold their own on stage.
-<img src="/images/Dramarians%20in%20costume%20promoting%20Drama%20at%20CCA%20carnival.jpeg" style="width:70%">
-		 
-Besides being groomed for stage performances, members&nbsp;also gain exposure in managing the backstage work in ensuring an effective production including,&nbsp;makeup&nbsp;skills and light and sound management skills.
+Besides being groomed for stage performances, members also gain exposure in managing the backstage work in ensuring an effective production including, makeup skills and light and sound management skills.
