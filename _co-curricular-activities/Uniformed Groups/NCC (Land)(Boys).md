@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/nc
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/NCC_groupphoto.jpeg)
+![](/images/CCAs/Uniform%20Groups/NCC/ncc1.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,24 +40,23 @@ third_nav_title: Uniformed Groups
 </table>
 
 ### About Bowen National Cadet Corps (NCC) Land
-<img src="/images/ncc1.jpeg" 
-     style="width:70%">
+![](/images/CCAs/Uniform%20Groups/NCC/ncc%20pic%203.jpg)
 
-Guided by the Cadet Strong framework form HQ NCC: **Strong Body**, **Resilient Mind** and **Committed Heart,** 
+Guided by the Cadet Strong framework form HQ NCC:&nbsp;**Strong Body**, **Resilient Mind**&nbsp;and&nbsp;**Committed Heart,**&nbsp;
 
-Bowen NCC Land inspires to instill pride in its members through teamwork, discipline, and physical fitness. The CCA aims to provide cadets with a diverse range of challenging, enriching, and fun activities.
+Bowen NCC Land inspires to&nbsp;instill&nbsp;pride in its members through teamwork, discipline, and physical fitness. The CCA aims to provide cadets with a diverse range of challenging, enriching, and fun activities.
 
 ### Training Objectives 
 
-The 5 broad objectives of our training are: 
+The 5 broad objectives of our training are:&nbsp;
 
-*   Character Building, 
-*   Military Awareness, 
+*   Character Building,&nbsp;
+*   Military Awareness,&nbsp;
 *   National Education,
-*   Adventurous & "Can Do" Spirit, and 
-*   Leadership. 
+*   Adventurous &amp; "Can Do" Spirit, and&nbsp;
+*   Leadership.&nbsp;
 
-Weekly activities include foot & arms drills, CrossFit Challenge, orienteering, physical training (running & gym sessions), individual field craft and weapon handling. Other interesting activities that are also organised include route marching, rock climbing, C-130 Hercules flying experience & Navy Frigate visit, unarmed combat program like Muay Thai, abseiling etc.  
+Weekly activities include foot &amp; arms drills, CrossFit Challenge, orienteering, physical training (running &amp; gym sessions), individual field craft and weapon handling. Other interesting activities that are also organised include route marching, rock climbing, C-130 Hercules flying experience &amp; Navy Frigate visit, unarmed combat program like Muay Thai, abseiling etc.  
 
   
 
@@ -65,4 +64,4 @@ Cadets at each level will undergo different activities and deserving cadets will
 
   
 
-[More information about the National Cadet Corps (NCC) can be found here >>>](https://www.facebook.com/sgncc.hq/)
+[More information about the National Cadet Corps (NCC) can be found here &gt;&gt;&gt;](https://www.facebook.com/sgncc.hq/)
