@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/gi
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/girlguides-1.jpeg)
+![](/images/CCAs/Uniform%20Groups/Girl%20Guides/girl%20guides%20main%20pic.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -42,7 +42,7 @@ third_nav_title: Uniformed Groups
 
 ### About Bowen Girl Guides
 
-<img src="/images/girlguides-2.jpeg" style="width:70%">
+![](/images/CCAs/Uniform%20Groups/Girl%20Guides/girl%20guides%20pic%202.jpg)
 		 
 Girl Guides provides an education in life skills which encourages each girl to be a responsible citizen and to lead a useful life. The activities carried out are part of the 5 Point Programme which includes activities like volunteering in welfare organisations, outdoor cooking and camping. GG members can look forward to attaining skills and knowledge badges like SANA (Singapore Anti-Narcotics Association), Crime Prevention, Civil Defence, Total Defence, Cook’s Badge, Artist, Craft, Thrift, WAGGGS interest Badges and many more.
 
