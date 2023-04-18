@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/sports/basketball-b
 description: ""
 third_nav_title: Sports
 ---
-![](/images/Basketball-team.jpeg)
+![](/images/CCAs/Sports/Basketball/basketball%20cca%20main.jpg)
 
        
 
