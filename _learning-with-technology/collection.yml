@@ -4,6 +4,5 @@ collections:
     order:
       - Information and Communication Technology.md
       - Personal Learning Device (PLD).md
-      - Personal Learning Device (PLD)/.keep
-      - Personal Learning Device (PLD)/Personal Learning Device (PLD) Service
-        Centre.md
+      - Learning with Technology/.keep
+      - Learning with Technology/Personal Learning Device (PLD) Service Centre.md
