@@ -25,7 +25,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs. Andrea Too (I/C)</span><br><span style="color:#222">Ms. Siti Hawa (2ᴺᴰ I/C)</span><br><span style="color:#222">Mr. Lim Kah Kiat</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs. Andrea Too (I/C)</span><br><span style="color:#222">Ms. Siti Hawa (2ᴺᴰ I/C)</span><br><span style="color:#222">Mr. Paul Lim Keng Soon (Advisor)</span></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
@@ -40,13 +40,11 @@ third_nav_title: Performing Arts
 
 ### About Bowen Drama Club
 
-<img src="/images/Performance%20day%20at%20Esplanade%20theatre.jpeg" 
-     style="width:70%">
+<img src="/images/Performance%20day%20at%20Esplanade%20theatre.jpeg" style="width:70%">
 
-The Bowen Drama club has showcased the performing flair of its members in numerous school and public performances since 1999. The Club seeks to nurture budding talents and have them to grow and mature as stage actors. 
+The Bowen Drama club has showcased the performing flair of its members in numerous school and public performances since 1999. The Club seeks to nurture budding talents and have them to grow and mature as stage actors.&nbsp;
 
-Through these platforms, Drama Club members are given the opportunity not only to showcase their talents, but also to be able to further hone their skills and hold their own on stage.
-<img src="/images/Dramarians%20in%20costume%20promoting%20Drama%20at%20CCA%20carnival.jpeg" 
-     style="width:70%">
+Through these platforms, Drama Club members are given the opportunity not only to showcase their&nbsp;talents,&nbsp;but also to be able to further hone their skills and hold their own on stage.
+<img src="/images/Dramarians%20in%20costume%20promoting%20Drama%20at%20CCA%20carnival.jpeg" style="width:70%">
 		 
-Besides being groomed for stage performances, members also gain exposure in managing the backstage work in ensuring an effective production including, makeup skills and light and sound management skills.
+Besides being groomed for stage performances, members&nbsp;also gain exposure in managing the backstage work in ensuring an effective production including,&nbsp;makeup&nbsp;skills and light and sound management skills.
