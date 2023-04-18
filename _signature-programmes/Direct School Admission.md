@@ -14,22 +14,21 @@ Bowen welcomes students who are currently in Primary 6 (or the equivalent) to ap
 
 Bowen strongly encourages those with outstanding talents in the following areas to apply for admission:
 
-### DSA (Entrepreneurship & Innovation / Leadership & Uniformed Groups)
+### DSA (Entrepreneurship &amp; Innovation / Leadership &amp; Uniformed Groups)
   
 We offer DSA for Boys and Girls in:
 
 *   **Entrepreneurship**
 *   **Community Youth Leadership**
 
-These tap on Bowen’s flagship [ChANgeMakers Programme](https://moe-bowensec-staging.netlify.app//signature-programmes/bowen-changemakers).
+These tap on Bowen’s flagship&nbsp;[ChANgeMakers Programme](https://moe-bowensec-staging.netlify.app//signature-programmes/bowen-changemakers).
 
 
-<img src="/images/Changemakers-small-banner.jpeg" 
-     style="width:75%">
+<img src="/images/Changemakers-small-banner.jpeg" style="width:75%">
 
-The **ChANgeMakers** programme aims to nurture Bowenians to advocate social causes and become value creators for Singapore through:  
+The&nbsp;**ChANgeMakers**&nbsp;programme aims to nurture Bowenians to advocate social causes and become value creators for Singapore through:  
 
-*   **A structured 4-year programme** which involves them in authentic and relevant social needs in the community
+*   **A structured 4-year programme**&nbsp;which involves them in authentic and relevant social needs in the community
 *   **Opportunities to lead and serve at school and community level.**  
     (School returning volunteer programme)
 *   **Workshops**  
@@ -50,7 +49,7 @@ The programme aims to develop students’ talents and potentials in the various 
 *   **Extensive range of competitions**
 *   **Workshops for student-athletes**
 
------ 
+
 ### Selection Criteria
 *   Exemplary conduct in primary school and,
 
@@ -108,9 +107,9 @@ The programme aims to develop students’ talents and potentials in the various 
   
 For 2022, application for DSA-Sec can be submitted through the online DSA-Sec Portal.  
   
-The application is free-of-charge and will be open **from 5th May 2022**.  
+The application is free-of-charge and will be open&nbsp;**from 5th May 2022**.  
   
- For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+&nbsp;For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
  
  -----
  ### Selection Process and Key Dates
