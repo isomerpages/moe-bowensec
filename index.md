@@ -35,9 +35,4 @@ sections:
         upcoming TA2 Examination Timetables
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
-  - infobar:
-      subtitle: TA2 SCHEDULE AVAILABLE NOW
-      description: Visit the News & Events page OR the respective Sec 1 - 4 Level
-        pages to access the upcoming TA2 Examination Timetables
-      url: /school-information/school-matters/news-n-events/
 ---
