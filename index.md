@@ -29,4 +29,10 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/School Events/2023/2023 speechday banner.png
+  - infobar:
+      subtitle: Term Assessment 2 Schedule
+      description: Visit the respective Sec 1 to Sec 4 Level pages to access the
+        upcoming TA2 Examination Timetables
+      button: News & EVENTS PAGE
+      url: /school-information/school-matters/news-n-events/
 ---
