@@ -5,9 +5,8 @@ description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
-![](/images/School%20Events/2023/2023%20speechday%20banner.png)
 ### 41<sup>st</sup> Speech and Prize Presentation Day<br>28 April, Friday 3:30pm - 6:30pm
-
+![](/images/School%20Events/2023/2023%20speechday%20banner.png)
 <hr>
 
 ### 2023 Sem 1 Class Timetables <br>(Version 4  w.e.f 20<sup>th</sup> March)
