@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/sports/netball/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/Netball_main.jpeg)
+![](/images/CCAs/Sports/Netball/netball%20main%20pic.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,7 +41,7 @@ third_nav_title: Sports
 
 Netball is a popular and enjoyable team game that has been played competitively in Bowen for many years. Training sessions are geared towards learning to play strategically as a team, developing ball-handling skills, improving agility, flexibility and stamina. Netball also effectively promotes the physical and social development of each individual.&nbsp;
 
-  
+  ![](/images/CCAs/Sports/Netball/netball%20pic%201.jpg)
 
 We have 2 girls teams (B and C Division) that participates regularly in the North Zone Inter-Schools competitions and friendly games with other schools and carnivals. Selected netballers are also sent for the Sports Umpire Award workshops to develop their leadership potential. These girls will then be given the opportunity to&nbsp;organise&nbsp;netball activities such as Bowen Netball Carnival for Primary and Secondary Schools. We also hold annual camps to promote team bonding and leadership skills. They also take part in volunteer work to assist in Nations Cup, Netball Super League&nbsp;and&nbsp;other Netball Singapore events.
-![](/images/netball.png)
+![](/images/CCAs/Sports/Netball/netball%20pic%202.jpg)
