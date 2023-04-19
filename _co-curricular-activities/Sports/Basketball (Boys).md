@@ -43,7 +43,7 @@ third_nav_title: Sports
   &quot;Times New Roman&quot;;color:#222222"></span></p></td></tr></tbody></table>
 
 ### About Bowen Basketball 
-<img style="width:70%" src="/images/Bowen-Basketball-team2.jpeg">
+![](/images/CCAs/Sports/Basketball/Bowen-Basketball-team2.jpeg)
 		 
 Bowen’s basketball CCA started out as a recreation sport in 2002 with members who were passionate about the game. The CCA continues to attract such enthusiastic pupils and have since developed 2 school teams to compete in the North Zone Inter-Schools Competition (B &amp; C Div Boys). The teams also participate in other basketball programmes and competitions organised by external organisations throughout the year. 
 
