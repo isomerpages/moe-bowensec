@@ -6,11 +6,7 @@ third_nav_title: Secondary 2
 ---
 **Term Assessments and Examination Timetables**
 
-### 2023 Sec 2 Term Assessment 1 (TA1) Schedule
+### 2023 Sec 2 Term Assessment 2 (TA2) Schedule
 
-Briefing Slides for Students  
-[2023 TA 1 Briefing to Students.pdf](/files/2023%20TA%201%20Briefing%20to%20Students.pdf)  
-  
-Assessment Schedule  
-[2023 S2 TA1 TT.pdf](https://bowensec.moe.edu.sg/qql/slot/u181/Essential%20Information/Examination%20Timetables/2023%20Assessments/TA1/2023%20S2%20TA1%20TT.pdf)
-
+1. [2023 S2 TA2 Briefing Slides](/files/Level%20Matters/S2/2023/2023_%20letter%20to%20parents%20ta2%20sec%202.pdf)
+2. [2023 S2 TA2 Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20s2%20ta2%20tt.pdf)
