@@ -6,10 +6,9 @@ third_nav_title: Secondary 1
 ---
 **Term Assessments and Examination Timetables**
 
-### 2023 Term Assessment 1 (TA1) Schedule
+### 2023 Term Assessment 2 (TA2) Schedule
 
-Briefing Slides for Students  
-[2023 TA 1 Briefing to Students.pdf](/files/2023%20TA%201%20Briefing%20to%20Students.pdf)  
-  
-Assessment Schedule  
-[2023 S1 TA1 TT.pdf](/files/2023%20S1%20TA1%20TT.pdf)
+1. [2023 TA2 Sec 1 Briefing Slides](/files/Level%20Matters/S1/2023/2023_%20letter%20to%20parents%20ta2%20sec%201.pdf)
+
+
+2. [2023 TA2 Sec 1 Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20s1%20ta2%20tt.pdf)
