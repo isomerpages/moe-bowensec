@@ -17,4 +17,6 @@ While learning requires one to be self-responsible and accountable, it can also 
 
 The use of technology is a leverage to help students acquire skills to create meaningful content, share and negotiate differing perspectives and manage social interactions. The R-E-A-D-Y BE\*! learning routines developed should assist students to navigate the 21st century world both online and offline with a measure of savviness that is founded on sound pro-social values.&nbsp;**_‘Doing Right’_**&nbsp;&nbsp;is an essential aspect of learning in the PDLP environment as one ‘Do the Right Thing’ (CCE) and ‘Be an Upstander’ (PSR).
 
-Parents and students can learn more about Bowen’s PDLP from our student microsite at&nbsp;[https://go.gov.sg/pdlp-studentmicrosite](https://go.gov.sg/pdlp-studentmicrosite)
+Parents and students can learn more about Bowen’s PDLP from our student microsite at
+
+[https://go.gov.sg/pdlp-studentmicrosite](https://go.gov.sg/pdlp-studentmicrosite)
