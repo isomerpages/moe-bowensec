@@ -9,6 +9,8 @@ third_nav_title: PLD Information
 
 
 ### Lenovo Service Centre Information
-![](/images/PLD%201.jpeg)
+![](/images/Signature%20Programmes/Learning%20With%20Technology/PLD%201.jpeg)
+
+
 ### Acer Service Centre Information
-![](/images/PLD%202.jpeg)
+![](/images/Signature%20Programmes/Learning%20With%20Technology/PLD%202.jpeg)
