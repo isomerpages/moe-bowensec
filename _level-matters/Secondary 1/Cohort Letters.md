@@ -39,7 +39,7 @@ These letters have been issued via Parents Gateway and are available for downloa
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
   51;padding:0cm 5.4pt 0cm 5.4pt;height:13.6pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
   68"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">2023 S1 Welcome Pack</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"><a target="_blank" href="/files/Level%20Matters/S1/2023/2023%20S1%20Welcome%20Package.pdf">2023 S1 Welcome Pack</a></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -120,6 +120,3 @@ These letters have been issued via Parents Gateway and are available for downloa
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 April 2023</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
-
-	
-	
