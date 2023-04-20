@@ -4,7 +4,7 @@ permalink: /school-information/level-matters/secondary-1/cohort-letters/
 description: ""
 third_nav_title: Secondary 1
 ---
-These letters have been issued via Parents Gateway and are available for download as a PDF copy. Also available are selected cohort level information slides.
+These letters have been issued via Parents Gateway and are available for download as a PDF copy. 
 
 ### 2023 Sec 1 Cohort Letters
 <table class="MsoTable15Grid4Accent3" border="1" cellspacing="0" cellpadding="0" width="511" style="width:382.95pt;border-collapse:collapse;border:none;
