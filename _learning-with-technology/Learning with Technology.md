@@ -237,7 +237,7 @@ Please remember to&nbsp;**logout**&nbsp;from SWN&nbsp;at&nbsp;**[http://portal.s
 -----
 
 ### Guide for Student Password Recovery
-[Guide for Student Password Reset](/files/Learning%20With%20Technology/Reseting%20password%20in%20Bowen%20updated%202022%20-%201.pdf)
+[Guide for Student Password Reset](/files/Learning%20With%20Technology/guide%20for%20student%20password%20reset%202023.pdf)
 
 
 -----
