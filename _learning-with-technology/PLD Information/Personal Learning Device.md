@@ -19,5 +19,4 @@ The use of technology is a leverage to help students acquire skills to create me
 
 Parents and students can learn more about Bowen’s PDLP from the [Bowen PDLP microsite.](https://go.gov.sg/pdlp-studentmicrosite)
 
-<a href="https://go.gov.sg/pdlp-studentmicrosite"><img src="/images/Signature%20Programmes/Learning%20With%20Technology/pld%20microsite.jpg"></a>
-
+<a href="https://go.gov.sg/pdlp-studentmicrosite"><img src="/images/Signature%20Programmes/Learning%20With%20Technology/pld%20microsite.jpg" width="70%"></a>
