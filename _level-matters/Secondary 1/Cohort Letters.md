@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Secondary 1
 ---
 These letters have been issued via Parents Gateway and are available for download as a PDF copy. Also available are selected cohort level information slides.
-<a href="/files/Level%20Matters/S1/2023/2023%20S1%20Welcome%20Package.pdf" target="_blank">sdsds</a>
-
-
-
-[2023 S1 Start of Term 1 Letter](/files/Level%20Matters/S1/2023/2023%20S1%20Start%20of%20Term%201%20Letter.pdf)
-
 
 ### 2023 Sec 1 Cohort Letters
 <table class="MsoTable15Grid4Accent3" border="1" cellspacing="0" cellpadding="0" width="511" style="width:382.95pt;border-collapse:collapse;border:none;
@@ -57,7 +51,7 @@ These letters have been issued via Parents Gateway and are available for downloa
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   padding:0cm 5.4pt 0cm 5.4pt;height:13.6pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
   4"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">2023 S1 Start of Term 1 Letter</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"><a href="/files/Level%20Matters/S1/2023/2023%20S1%20Start%20of%20Term%201%20Letter.pdf" target="_blank">2023 S1 Start of Term 1 Letter</a></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -73,7 +67,7 @@ These letters have been issued via Parents Gateway and are available for downloa
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
   51;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
   68"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">2023 S1 TA1 Letter</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"><a href="/files/Level%20Matters/S1/2023/Letter%20to%20parents%20TA1%20Sec%201%202023.pdf" target="_blank">2023 S1 TA1 Letter</a></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -91,7 +85,7 @@ These letters have been issued via Parents Gateway and are available for downloa
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
   4"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">2023 S1 Start of Term 2 Letter</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"><a href="/files/Level%20Matters/S1/2023/2023%20S1%20Start%20of%20Term%201%20Letter.pdf" target="_blank">2023 S1 Start of Term 2 Letter</a></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -107,7 +101,7 @@ These letters have been issued via Parents Gateway and are available for downloa
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
   51;padding:0cm 5.4pt 0cm 5.4pt;height:16.55pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
   68"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">2023 S1 TA2 Letter</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG"><a href="/files/Level%20Matters/S1/2023/2023%20sec%201%20ta2%20letter.pdf" target="_blank">2023 S1 TA2 Letter</a></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
