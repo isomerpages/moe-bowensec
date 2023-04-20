@@ -8,10 +8,10 @@ In Bowen, the Personalised Digital Learning Programme (PDLP) learning environmen
 ![](/images/Signature%20Programmes/Learning%20With%20Technology/Learning%20with%20technology%201.png)
 		 
 As “Active Learners”, Bowenians seek to actively make sense of the materials used in learning and deepen one’s knowledge, by leveraging on the use of the PDLP learning environment.&nbsp;Self-management is integral to being an active learner, and in the PDLP environment, one should take advantage of a suite of applications by Google and other software providers to be productive in one’s learning for example:  <br>
-a. Students Learning Space (SLS)  <br>
-b) Google Productivity tools (Docs, Slides, Sheets, etc.)  <br>
-c) Google Classroom  <br>
-d) Google Calendar
+* Students Learning Space (SLS)  <br>
+* Google Productivity tools (Docs, Slides, Sheets, etc.)  <br>
+* Google Classroom  <br>
+* Google Calendar
 
 While learning requires one to be self-responsible and accountable, it can also be a social experience. One learns with others, with students and teachers and progress as a result as a team because learning becomes deep when done collaboratively.
 
