@@ -41,11 +41,12 @@ third_nav_title: Uniformed Groups
 </table>
 
 ### About Bowen Girl Guides
-
-![](/images/CCAs/Uniform%20Groups/Girl%20Guides/girl%20guides%20pic%202.jpg)
+![](/images/CCAs/Uniform%20Groups/Girl%20Guides/girlguides-3.jpeg)
 		 
 Girl Guides provides an education in life skills which encourages each girl to be a responsible citizen and to lead a useful life. The activities carried out are part of the 5 Point Programme which includes activities like volunteering in welfare organisations, outdoor cooking and camping. GG members can look forward to attaining skills and knowledge badges like SANA (Singapore Anti-Narcotics Association), Crime Prevention, Civil Defence, Total Defence, Cook’s Badge, Artist, Craft, Thrift, WAGGGS interest Badges and many more.
 
 In the Girl Guides, we are committed to the development of our girls into confident leaders. Guides will be given the opportunity to develop their potential as leaders through various leadership courses organised by Girl Guides Headquarters. Our Girl Guides had also represented in the school National Day Parade. Girl Guides believe in giving back to the society. Guides organised our termly visits to Sree Narayana Mission Home and also assisted Girl Guides Headquarters in fundraising through the selling of Girl Guides cookies annually. 
+
+![](/images/CCAs/Uniform%20Groups/Girl%20Guides/girl%20guides%20pic%202.jpg)
 
 In June 2022, 2 of our Guides participated in the International Camp conducted Girl Guides Headquarters. This camp helped to develop the girls’ cross-cultural competencies and global awareness. Bowen Girl Guides has achieved various levels for the Puan Noor Aishah Award (PNA) over the years, in recognition for the girls’ commitment and guiding spirit.
