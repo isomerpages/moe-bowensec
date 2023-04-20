@@ -209,7 +209,7 @@ These tables list the various login platforms available for students.
 
 ### Student Accounts and School Technical Support Information
 
-[Student Icon Quick Reference Guide](/files/Student%20Icon%20Quick%20Reference%20Guide.pdf)
+[Student Icon Quick Reference Guide](/files/Learning%20With%20Technology/Student%20Icon%20Quick%20Reference%20Guide.pdf)
 
 -----
 
@@ -236,8 +236,8 @@ Please remember to&nbsp;**logout**&nbsp;from SWN&nbsp;at&nbsp;**[http://portal.s
 
 -----
 
-### Password Recovery
-[Reseting password in Bowen updated 2022](/files/Reseting%20password%20in%20Bowen%20updated%202022%20-%201.pdf)
+### Guide for Student Password Recovery
+[Guide for Student Password Reset](/files/Learning%20With%20Technology/Reseting%20password%20in%20Bowen%20updated%202022%20-%201.pdf)
 
 
 -----
