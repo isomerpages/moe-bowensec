@@ -40,7 +40,7 @@ third_nav_title: Performing Arts
 
 ### About Bowen Chorale
 
-<img src="/images/Choir-02.jpeg">
+![](/images/CCAs/Performing%20Arts/Choir/Choir-02.jpeg)
 
 The Bowen Chorale provides an opportunity for students with a passion in singing to further hone their abilities and techniques in voice.&nbsp; It provides potential singers with an opportunity to develop and improve their musicianship, whether in theory or practical. Students will also be given the opportunity to perform on stage and gain self-confidence with every performance.&nbsp;
 
