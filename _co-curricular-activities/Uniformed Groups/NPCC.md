@@ -4,6 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/np
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/CCAs/Uniform%20Groups/NPCC/npcc%20main.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -39,7 +40,7 @@ third_nav_title: Uniformed Groups
 </table>
 
 ### About Bowen National Police Cadet Corps (NPCC)
-
+![](/images/CCAs/Uniform%20Groups/NPCC/npcc%20group.jpg)
 Bowen NPCC aims to complement our cadets’ academic education by providing them with a diverse range of activities which caters to their physical and social needs. These activities have been curated to progressively develop our cadets’ resilience, leadership and communication skills from Sec 1 to Sec 5. 
 
 Various NPCC activities include:
