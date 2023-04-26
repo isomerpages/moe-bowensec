@@ -31,10 +31,7 @@ third_nav_title: Clubs and Societies
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
     <td class="tg-vqm8"><span style="color:#222">Fridays: 2pm to 4pm</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-mbkz">Library Duty</td>
-    <td class="tg-lr6o"><span style="color:#222">Mondays – Thursdays</span><br><span style="color:#222">7.00am - 8.00am/2.00pm to 5.00 pm</span><br></td>
-  </tr>
+ 
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span> </td>
     <td class="tg-vqm8"><span style="color:#222">Library</span></td>
@@ -44,7 +41,7 @@ third_nav_title: Clubs and Societies
 
 ### About Bowen Library Club
 
-The student librarians help the school operate and maintain the school library as a place for knowledge building and active learning. Specifically, members assist the school librarian in providing students access to a variety of print and non-print resources. Besides carrying out their regular duties, student librarians are always actively providing service to the school in trying to innovate ways to promote a love for reading and staying curious among their schoolmates. 
+The student librarians help the school operate and maintain the school library as a place for knowledge building and active learning. Specifically, members assist the school librarian in providing students access to a variety of print and non-print resources. Besides carrying out their regular duties, student librarians are always actively providing service to the school in trying to innovate ways to promote a love for reading and staying curious among their schoolmates.&nbsp;
 
   
 
