@@ -45,10 +45,7 @@ The Military Band is about respect, responsibility and resilience. It’s also a
 
 The success of the Bowen Military Band is not only a reflection of the strong school culture and rich nurturing environment in the Performing Arts but also a reflection of the school’s strong beliefs in a rigorous and innovative values-based holistic education. This educational experience will shape students’ beliefs so that they will be ready to serve their communities, the Singapore society and fellow human beings in this globalised world.
 
-
-**
 <img src="/images/Bowen-Band-SYF-04.jpeg" style="width:70%">
 
 
 <img src="/images/Bowen-Band-SYF-03.jpeg" style="width:70%">
-		 
