@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bow
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/CCAs/Performing%20Arts/Choir/picture26.jpg)
+![](/images/CCAs/Performing%20Arts/Choir/choir%20syf.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -40,7 +40,7 @@ third_nav_title: Performing Arts
 
 ### About Bowen Chorale
 
-![](/images/CCAs/Performing%20Arts/Choir/Choir-02.jpeg)
+![](/images/CCAs/Performing%20Arts/Choir/choir%20main.jpg)
 
 The Bowen Chorale provides an opportunity for students with a passion in singing to further hone their abilities and techniques in voice.&nbsp; It provides potential singers with an opportunity to develop and improve their musicianship, whether in theory or practical. Students will also be given the opportunity to perform on stage and gain self-confidence with every performance.&nbsp;
 
