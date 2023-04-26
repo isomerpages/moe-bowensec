@@ -187,4 +187,5 @@ Various NPCC activities include:
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
   mso-bidi-font-family:Lato;color:#484848">- Visits to Police Organisations such as Criminal Investigation Department (CID), Police Heritage Centre, Home Team Gallery and Police K-9 unit.</span></p></td></tr></tbody></table>
 
-[You can find out more about NPCC here &gt;&gt;&gt;](https://www.npcc.org.sg/)
+You can find out more about NPCC
+<a target="\_blank" rel="noopener" href="https://www.npcc.org.sg/">here</a>
