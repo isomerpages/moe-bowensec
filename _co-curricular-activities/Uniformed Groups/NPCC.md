@@ -19,7 +19,7 @@ third_nav_title: Uniformed Groups
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-u05r">Key CCA Information</th>
+    <th class="tg-u05r" colspan="2">Key CCA Information</th>
   </tr>
 </thead>
 <tbody>
@@ -44,121 +44,110 @@ Bowen NPCC aims to complement our cadets’ academic education by providing them
 
 Various NPCC activities include:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Lato; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-520092929 1342237951 33 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; mso-add-space:auto; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="639" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
- mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
-  background:#EFEFEF;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.95pt"><td width="160" valign="top" style="width:119.85pt;border:solid black 1.0pt;
+  background:#EFEFEF;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:12.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;mso-bidi-font-family:
-  Lato;color:#484848">Sec 1</span></b></p></td><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
+  Lato;color:#484848">Sec 1</span></b></p></td><td width="160" valign="top" style="width:119.85pt;border:solid black 1.0pt;
   border-left:none;mso-border-left-alt:solid black 1.0pt;background:#EFEFEF;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:12.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;mso-bidi-font-family:
-  Lato;color:#484848">Sec 2</span></b></p></td><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
+  Lato;color:#484848">Sec 2</span></b></p></td><td width="160" valign="top" style="width:119.85pt;border:solid black 1.0pt;
   border-left:none;mso-border-left-alt:solid black 1.0pt;background:#EFEFEF;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:12.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;mso-bidi-font-family:
-  Lato;color:#484848">Sec 3</span></b></p></td><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
+  Lato;color:#484848">Sec 3</span></b></p></td><td width="160" valign="top" style="width:119.85pt;border:solid black 1.0pt;
   border-left:none;mso-border-left-alt:solid black 1.0pt;background:#EFEFEF;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:12.95pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;mso-bidi-font-family:
-  Lato;color:#484848">Sec 4 and 5</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:29.65pt"><td width="624" colspan="4" valign="top" style="width:468.0pt;border:solid black 1.0pt;
+  Lato;color:#484848">Sec 4 and 5</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:28.45pt"><td width="639" colspan="4" valign="top" style="width:479.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.65pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  height:28.45pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">Drills (Foot and Rifle)</span></p></td></tr><tr style="mso-yfti-irow:2;height:28.15pt"><td width="624" colspan="4" valign="top" style="width:468.0pt;border:solid black 1.0pt;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">Drills (Foot and Rifle)</span></p></td></tr><tr style="mso-yfti-irow:2;height:27.0pt"><td width="639" colspan="4" valign="top" style="width:479.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:28.15pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  height:27.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">Campcraft</span></p></td></tr><tr style="mso-yfti-irow:3;height:28.9pt"><td width="624" colspan="4" valign="top" style="width:468.0pt;border:solid black 1.0pt;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">Campcraft</span></p></td></tr><tr style="mso-yfti-irow:3;height:27.75pt"><td width="639" colspan="4" valign="top" style="width:479.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:28.9pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">Unit Camp in Bowen</span></p></td></tr><tr style="mso-yfti-irow:4;height:10.0cm"><td width="156" valign="top" style="width:117.0pt;border:solid black 1.0pt;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">Unit Camp in Bowen</span></p></td></tr><tr style="mso-yfti-irow:4;height:272.35pt"><td width="160" valign="top" style="width:119.85pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:10.0cm"><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  height:272.35pt"><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Total Defence (Bronze)</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Total Defence (Bronze)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Police Knowledge 1 (PK1), Police Procedures</span></p><p class="MsoNormal" style="margin-left:36.0pt;line-height:normal;mso-pagination:
-  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Police Knowledge 1 (PK1), Police Procedures<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Crime Prevention</span></p><p class="MsoNormal" style="margin-left:36.0pt;line-height:normal;mso-pagination:
-  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Crime Prevention<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Anti Corruption</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Anti Corruption<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Road Safety</span></p><p class="MsoNormal" style="margin-left:36.0pt;line-height:normal;mso-pagination:
-  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-SG Secure</span></p><p class="MsoNormal" style="margin-left:36.0pt;line-height:normal;mso-pagination:
-  none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Crime Scene Investigation (CSI)</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Games Day and Swearing in</span></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:10.0cm"><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Total Defence</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">(Silver)</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Police Knowledge 2 (PK2), Basic Law</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Anti Narcotics (SANA)<br><br>-Civil Defence<br><br>-Community Safety &amp; Security Programme (CSSP)<br style="mso-special-character:
+  mso-bidi-font-family:Lato;color:#484848">- Road Safety<br style="mso-special-character:
   line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">- Adventure Training Camp (ATC) at Pulau Ubin</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- SG Secure<br style="mso-special-character:
+  line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-0.22 Revolver Practice shoot</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
+  mso-bidi-font-family:Lato;color:#484848">- Crime Scene Investigation (CSI)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Games Day and Swearing in</span></p></td><td width="160" valign="top" style="width:119.85pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:10.0cm"><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:272.35pt"><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Total Defence (Gold)<br><br>-Home Front Security<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Total Defence (Silver)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Cyber Crime Prevention</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Police Knowledge 2 (PK2), Basic Law<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Anti Narcotics (SANA)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Conversation with Corrupt Practices Investigation Bureau (CPIB) Officer<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Civil Defence<br style="mso-special-character:
+  line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-Leadership and Mentoring Course (LMSC)</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Community Safety &amp; Security Programme (CSSP)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848"><br>-Police Youth Ambassador (PYA)</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-bidi-font-family:Lato;color:#484848">- Adventure Training Camp (ATC) at Pulau Ubin<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">-0.22 Revolver Classification shoot</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
+  mso-bidi-font-family:Lato;color:#484848">- 0.22 Revolver Practice shoot</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p></td><td width="160" valign="top" style="width:119.85pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:10.0cm"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:272.35pt"><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Total Defence (Gold)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Home Front Security<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Cyber Crime Prevention<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Conversation with Corrupt Practices Investigation Bureau (CPIB) Officer</span></p><p class="MsoListParagraph" style="margin-left:18.0pt;mso-add-space:auto;
+  line-height:normal;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Leadership and Mentoring Course (LMSC)</span></p><p class="MsoListParagraph"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Police Youth Ambassador (PYA)</span></p><p class="MsoListParagraph"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- 0.22 Revolver Classification shoot</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p></td><td width="160" valign="top" style="width:119.85pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:272.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
   mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
@@ -186,25 +175,17 @@ Various NPCC activities include:
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
   mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
   mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
-  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:123.75pt"><td width="624" colspan="4" valign="top" style="width:468.0pt;border:solid black 1.0pt;
+  mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:102.9pt"><td width="639" colspan="4" valign="top" style="width:479.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:123.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
-  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">Other various opportunities such as:</span></p><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
-  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
-  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">-NPCC Annual Parade (NPAP), National Day Parade (NDP) and Police Day Parade<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
-  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">-Shooting and Crime Scene Investigation (CSI) Competitions</span></p><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
-  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
-  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:Lato;mso-bidi-font-family:Lato;color:#484848">-Visits to Police Organisations such as Criminal Investigation Department (CID), Police Heritage Centre, Home Team Gallery and Police K-9 unit</span></p></td></tr></tbody></table>
+  height:102.9pt"><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">Other various opportunities such as:<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- NPCC Annual Parade (NPAP), National Day Parade (NDP) and Police Day Parade<br style="mso-special-character:
+  line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Shooting and Crime Scene Investigation (CSI) Competitions<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p class="MsoNormal" style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span lang="EN" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;
+  mso-bidi-font-family:Lato;color:#484848">- Visits to Police Organisations such as Criminal Investigation Department (CID), Police Heritage Centre, Home Team Gallery and Police K-9 unit.</span></p></td></tr></tbody></table>
+
 [You can find out more about NPCC here &gt;&gt;&gt;](https://www.npcc.org.sg/)
