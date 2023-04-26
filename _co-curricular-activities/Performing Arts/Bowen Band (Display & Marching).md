@@ -45,4 +45,3 @@ third_nav_title: Performing Arts
 The Military Band is about respect, responsibility and resilience. It’s also about drive, determination and creativity. It is a manifestation of the school’s vision of shaping self-belief and aspirations. Our strive for excellence have driven us to achieve remarkable results in SYF Arts Presentation for Band (Marching) since 1991.
 
 The success of the Bowen Military Band is not only a reflection of the strong school culture and rich nurturing environment in the Performing Arts but also a reflection of the school’s strong beliefs in a rigorous and innovative values-based holistic education. This educational experience will shape students’ beliefs so that they will be ready to serve their communities, the Singapore society and fellow human beings in this globalised world.
-
