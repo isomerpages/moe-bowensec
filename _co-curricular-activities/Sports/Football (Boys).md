@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/sports/football-boy
 description: ""
 third_nav_title: Sports
 ---
-![](/images/Bowen-Boys-Soccer-Team.jpeg)
+![](/images/CCAs/Sports/Soccer%20Boys/football%20boys%20main.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -39,13 +39,12 @@ third_nav_title: Sports
 </tbody>
 </table>
 
-Football is one of the more popular sports in Bowen. Through the training sessions and matches, students learn to play competitive football and cultivate important life values like resilience, teamwork and respect. The boys receive professional coaching from head coach Mr Lim Queen Cher who monitors the team's progress as well as partners the team of football CCA teachers in building the students’ character.  To ensure that all CCA members get a chance to represent the school in football, they are also regularly entered to participate in other external competitions (Street soccer, FUTSAL) organised by organisations like FAS, NTUC, S-League Clubs and welfare homes.  
+![](/images/CCAs/Sports/Soccer%20Boys/football%20boys%20collage.jpg)
+Football is one of the more popular sports in Bowen. Through the training sessions and matches, students learn to play competitive football and cultivate important life values like resilience, teamwork and respect. The boys receive professional coaching from head coach Mr Lim Queen Cher who monitors the team's progress as well as partners the team of football CCA teachers in building the students’ character.&nbsp; To ensure that all CCA members get a chance to represent the school in football, they are also regularly entered to participate in other external competitions (Street soccer, FUTSAL) organised by organisations like FAS, NTUC, S-League Clubs and welfare homes.  
 
   
 
-Members identified to lead the CCA are provided leadership training by the Bowen Council Board and Outward Bound School; they are also afforded various opportunities to apply what they learn as camp facilitators, team captains and event coordinators. The Boys Football CCA also initiates Value-in-action projects that has benefitted special needs children, the elderly and various charity organisations. 
+Members identified to lead the CCA are provided leadership training by the Bowen Council Board and Outward Bound School; they are also afforded various opportunities to apply what they learn as camp facilitators, team captains and event coordinators. The Boys Football CCA also initiates Value-in-action projects that has benefitted special needs children, the elderly and various charity organisations.&nbsp;
 
 
-Some of the boys’ and girls’ footballing adventures are chronicled in our blog here: [https://bowenbullets.blogspot.sg](https://bowenbullets.blogspot.sg/)
-
-![](/images/football%201.png)
+Some of the boys’ and girls’ footballing adventures are chronicled in our blog here:&nbsp;[https://bowenbullets.blogspot.sg](https://bowenbullets.blogspot.sg/)

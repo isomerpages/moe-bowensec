@@ -4,6 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/clubs-and-societies
 description: ""
 third_nav_title: Clubs and Societies
 ---
+![](/images/CCAs/Clubs%20&amp;%20Societies/Library/library%20main.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -31,10 +32,7 @@ third_nav_title: Clubs and Societies
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
     <td class="tg-vqm8"><span style="color:#222">Fridays: 2pm to 4pm</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-mbkz">Library Duty</td>
-    <td class="tg-lr6o"><span style="color:#222">Mondays – Thursdays</span><br><span style="color:#222">7.00am - 8.00am/2.00pm to 5.00 pm</span><br></td>
-  </tr>
+ 
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span> </td>
     <td class="tg-vqm8"><span style="color:#222">Library</span></td>
@@ -43,9 +41,9 @@ third_nav_title: Clubs and Societies
 </table>
 
 ### About Bowen Library Club
+![](/images/CCAs/Clubs%20&amp;%20Societies/Library/library%20activities.jpg)
+The student librarians help the school operate and maintain the school library as a place for knowledge building and active learning. Specifically, members assist the school librarian in providing students access to a variety of print and non-print resources. Besides carrying out their regular duties, student librarians are always actively providing service to the school in trying to innovate ways to promote a love for reading and staying curious among their schoolmates.&nbsp;
 
-The student librarians help the school operate and maintain the school library as a place for knowledge building and active learning. Specifically, members assist the school librarian in providing students access to a variety of print and non-print resources. Besides carrying out their regular duties, student librarians are always actively providing service to the school in trying to innovate ways to promote a love for reading and staying curious among their schoolmates. 
-
-  
+ ![](/images/CCAs/Clubs%20&amp;%20Societies/Library/library%202.jpg)
 
 The library holds a collection of print and non-print materials which include books, magazines, newspapers, and multimedia resources. Members of the club are given exclusive privileges to these services and are taught the basics of operating a library system. Members not only hone their leadership qualities through assuming positions such as Head Librarian, Secretary and Level leaders in the library committee but also reap the benefits of learning to work as a team through their engagement in the varied activities organised for them throughout the year.
