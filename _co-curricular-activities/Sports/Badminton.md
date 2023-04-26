@@ -46,7 +46,7 @@ Badminton is a highly physical and competitive sport. Students need strength, st
 ![](/images/CCAs/Sports/Badminton/badminton%20winners.jpg)
 **2022**
 
-* 2022 North Zone Inter-School Badminton Competition B Boys (3 rd Runner-Up)
+* 2022 North Zone Inter-School Badminton Competition B Boys (1 st Runner-Up)
 * 2022 North Zone Inter-School Badminton Competition B Girls (3 rd Runner-Up)
 * 2022 North Zone Inter-School Badminton Competition C Boys (3 rd Runner-Up)
 
