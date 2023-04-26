@@ -42,10 +42,14 @@ third_nav_title: Sports
 Badminton is a highly physical and competitive sport. Students need strength, stamina and resilience to overcome challenges and strong opponents. Hence, during training, players are taught badminton techniques and are constantly put through various drills to reinforce their strokes for the technical aspect of the game. They are also put through various training regime to build up their physical strength. Trainings span around 3 to 4 hours per session. With character development as our priority, high discipline is reinforced through the trainings and students will also go through an exciting school camp and VIA program.
 
 ### Our Achievements
+**2022**
+
+* 2022 North Zone Inter-School Badminton Competition B Boys (3 rd Runner-Up)
+* 2022 North Zone Inter-School Badminton Competition B Girls (3 rd Runner-Up)
+* 2022 North Zone Inter-School Badminton Competition C Boys (3 rd Runner-Up)
 
 
 **2021**
-
 * 2021 North Zone Inter-School Badminton Competition B Boys (3 rd Runner-Up)
 * 2021 North Zone Inter-School Badminton Competition B Girls (3 rd Runner-Up)
 
@@ -63,29 +67,24 @@ Badminton is a highly physical and competitive sport. Students need strength, st
  
 **2017**
 
-* 2017  National Inter-School Badminton Competition B Boys (2 nd Runner-up)
+* 2017&nbsp; National Inter-School Badminton Competition B Boys (2 nd Runner-up)
 
-* 2017  North Zone Inter-School Badminton Competition B Boys (1 st Runner-Up)
+* 2017&nbsp; North Zone Inter-School Badminton Competition B Boys (1 st Runner-Up)
 
-* 2017  North Zone Inter-School Badminton Competition C Boys (1 st Runner-Up)
+* 2017&nbsp; North Zone Inter-School Badminton Competition C Boys (1 st Runner-Up)
 
 
 
-**2016** 
+**2016**&nbsp;
 
-* 2016 National Inter-School Badminton Competition B Boys (3 rd Runner-up)  
+* 2016 National Inter-School Badminton Competition&nbsp;B Boys&nbsp;(3 rd Runner-up)  
 
 * 2016 National Inter-School Badminton Competition B Boys (3 rd Runner-up)
-
-* 2015 North Zone Inter-School Badminton Competition B Boys (1 st Runner-Up)
-
-* 2015 North Zone Inter-School Badminton Competition C Boys (3 rd Runner-up)
-
   
 
-**2015** 
+**2015**&nbsp;
 
-* 2015 National Inter-School Badminton Competition B Boys (1 st Runner-Up / Finals)  
+* 2015 National Inter-School Badminton Competition&nbsp;B Boys&nbsp;(1 st Runner-Up / Finals)  
 
 * 2015 North Zone Inter-School Badminton Competition B Boys (Champions)
 
@@ -103,6 +102,6 @@ Badminton is a highly physical and competitive sport. Students need strength, st
 
 * 2014 North Zone Inter-school Badminton Competition C Girls 3rd Runner-up
 
-* 2014 Pilot Pen National Age Group U17 Boys Singles (Joint 2nd  Runner-up)
+* 2014 Pilot Pen National Age Group U17 Boys Singles (Joint 2nd&nbsp; Runner-up)
 
-* 2014 Pilot Pen National Age Group U15 Boys Singles (1 st  Runner-up)
+* 2014 Pilot Pen National Age Group U15 Boys Singles (1 st&nbsp; Runner-up)
