@@ -42,6 +42,7 @@ third_nav_title: Sports
 Badminton is a highly physical and competitive sport. Students need strength, stamina and resilience to overcome challenges and strong opponents. Hence, during training, players are taught badminton techniques and are constantly put through various drills to reinforce their strokes for the technical aspect of the game. They are also put through various training regime to build up their physical strength. Trainings span around 3 to 4 hours per session. With character development as our priority, high discipline is reinforced through the trainings and students will also go through an exciting school camp and VIA program.
 
 ### Our Achievements
+![](/images/CCAs/Sports/Badminton/badminton%20wonners.jpg)
 **2022**
 
 * 2022 North Zone Inter-School Badminton Competition B Boys (3 rd Runner-Up)
