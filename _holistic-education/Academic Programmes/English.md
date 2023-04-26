@@ -4,9 +4,9 @@ permalink: /holistic-education/academic-programmes/english/
 description: ""
 third_nav_title: Academic Programmes
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NNnLN6XWfLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNnLN6XWfLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Language learning goes beyond mastering the mechanics of a language. It is the art of weaving the delicate threads of words and phrases to produce an elaborate tapestry of emotions, convictions and persuasion. 
+Language learning goes beyond mastering the mechanics of a language. It is the art of weaving the delicate threads of words and phrases to produce an elaborate tapestry of emotions, convictions and persuasion.&nbsp;
 
 The objective of the department is to raise young individuals who are able to confidently and eloquently express their views and convictions. We hope that our young charges will not only be able to use their voice to find success in life but also lend their voice to the marginally challenged. Every year, our students step up to the challenge and seize the various opportunities open to them to hone their craft.
 
@@ -19,39 +19,34 @@ Held annually, Bowen’s English Week is a dedicated week-long celebration of th
 ### Oratorical Presentations during Morning Assembly
 
 
-<img src="/images/EL1.png" 
-     style="width:45%">
+<img src="/images/EL1.png" style="width:45%">
 		 
-The oratorical presentations during morning assembly is a platform designed specifically to help students gain confidence in speaking publicly to a large audience. 
+The oratorical presentations during morning assembly is a platform designed specifically to help students gain confidence in speaking publicly to a large audience.&nbsp;
 
 Various classes take turns to give a short presentation on topics ranging from idiomatic expressions to word etymology, during morning assemblies to encourage their peers to widen their vocabulary.
 
 ### E-mazing Race
-<img src="/images/EL2.png" 
-     style="width:45%">
+<img src="/images/EL2.png" style="width:45%">
 
-A perennial favorite, the E(English)-mazing Race is a post-examination activity held during Bowen Fiesta for Secondary Two students. 
+A perennial favorite, the E(English)-mazing Race is a post-examination activity held during Bowen Fiesta for Secondary Two students.&nbsp;
 
 Students race one another in groups around the school to take part in language learning activities at various designated stations.
 
 ### Literature Learning Journeys
-<img src="/images/EL3.png" 
-     style="width:45%">
+<img src="/images/EL3.png" style="width:45%">
 		 
-Literature Learning Journeys provide students with authentic experiences of how literature can come alive. By experiencing the magic and the richness of stage performances, students learn to better connect with the text that they are reading. 
+Literature Learning Journeys provide students with authentic experiences of how literature can come alive. By experiencing the magic and the richness of stage performances, students learn to better connect with the text that they are reading.&nbsp;
  
 Whenever possible, students will have the opportunity to experience literature on the stage such as Animal Farm, Forbidden City and Peer Pleasure.
 
 ### Inter-School Competitions
 
-<img src="/images/EL4.png" 
-     style="width:45%">
+<img src="/images/EL4.png" style="width:45%">
 		 
 Bowen actively trains and sends our students from different streams and levels, to participate in various inter-school oratorical competitions, and events. In recent years, our students have done well in their respective competitions and events.
 
 Our Bowenians won the National Public Speaking Competition in 2016 and also clinched the 2nd runner-up (upper secondary) and top 16 (lower secondary) at the national-level Plain English Speaking Award (PESA) in 2017.
-<img src="/images/EL5.png" 
-     style="width:45%">
+<img src="/images/EL5.png" style="width:45%">
 		 
 At the National Schools Literature Festival, our team of Secondary 2 Normal (Academic) and Normal (Technical) students choreographed their own presentation for the Choral Reading competition. Our Secondary 3 Literature students took part in the Literature debates, with one team winning the Unseen Poetry debate.
 
@@ -214,11 +209,7 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">cai_junting@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Wirda</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">wirda_mardiana_sanif@schools.gov.sg</span></td>
-  </tr>
+ 
 </tbody>
 </table>
 

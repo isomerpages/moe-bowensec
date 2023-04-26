@@ -1,5 +1,5 @@
 ---
-title: Taekwando
+title: Taekwondo
 permalink: /holistic-education/co-curricular-activities-ccas/sports/taekwondo/
 description: ""
 third_nav_title: Sports
@@ -37,11 +37,11 @@ third_nav_title: Sports
 </tbody>
 </table>
 
-Bowen Taekwondo Club (BTC) started in 2000 as a full-fledged CCA. The Korean martial art form, Taekwondo, emphasizes leg techniques and gravity defying aerial kicks. Therefore, BTC’s training revolved around two main activities: Poom Sae demonstration (Taeguk/Patterns Mastery or Mastery of martial art forms) and Sparring (Hand-to-Hand Combat/Unarmed Combat Mastery). Junior members start off with learning basic punches, kicks, blocks and stances and progress to unarmed combat. Advanced skills like jumping sidekick, jumping backthrust and the 360 degree kick are taught in upper-secondary level where members may also train for tournaments. 
+Bowen Taekwondo Club (BTC) started in 2000 as a full-fledged CCA. The Korean martial art form, Taekwondo, emphasizes leg techniques and gravity defying aerial kicks. Therefore, BTC’s training revolved around two main activities: Poom Sae demonstration (Taeguk/Patterns Mastery or Mastery of martial art forms) and Sparring (Hand-to-Hand Combat/Unarmed Combat Mastery). Junior members start off with learning basic punches, kicks, blocks and stances and progress to unarmed combat. Advanced skills like jumping sidekick, jumping backthrust and the 360 degree kick are taught in upper-secondary level where members may also train for tournaments.&nbsp;
 
   
 
-By the end of 4/5 years, members who have attained black belt level could become junior instructors or mentors to junior members. Besides coaching our students to attain perfection in Taekwondo skills, we aim to inculcate values such as respect, responsibility, care, self-control and resilience in our students. We also aim to foster team spirit and develop leadership qualities in them. 
+By the end of 4/5 years, members who have attained black belt level could become junior instructors or mentors to junior members. Besides coaching our students to attain perfection in Taekwondo skills, we aim to inculcate values such as respect, responsibility, care, self-control and resilience in our students. We also aim to foster team spirit and develop leadership qualities in them.&nbsp;
 
   
 
