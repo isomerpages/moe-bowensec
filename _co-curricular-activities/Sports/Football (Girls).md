@@ -39,4 +39,3 @@ third_nav_title: Sports
 </table>
 
 The Bullets Girls have been playing The Beautiful Game (joga bonito!) in the National C and B girls' competitions since 2009.. Both B and C Divisions have been doing well for the past years, maintaining in the top 4 position during the National School Games(NSG). Apart from the NSG, the girls take part in various enrichment and character building activities such as team building camps, the FAS Referee Introductory Course, futsal competitions, basketball, rugby, and rock climbing.
-
