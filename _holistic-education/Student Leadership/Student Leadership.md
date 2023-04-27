@@ -40,7 +40,7 @@ With the six core values and four E-xperiences guiding our leadership curriculum
 # Leadership Development
 Leadership development in Bowen takes a three-tiered approach. Each tier highlight different types of leadership involved and programs for each Bowenians.
 
-<img src="/images/Holistic%20Education/Student%20Leadership/the%20leadership%20lighthouse.jpg" style="width:70%">
+<img src="/images/Holistic%20Education/Student%20Leadership/the%20leadership%20lighthouse.jpg" style="width:60%">
 
 
 ### Tier 1 (Self-Leadership) 
