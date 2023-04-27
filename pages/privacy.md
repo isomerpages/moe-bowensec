@@ -4,9 +4,6 @@ permalink: /privacy/
 ---
 ### **Bowen Secondary School Privacy Statement**
 
-1. This is the website of Bowen Secondary School (BWSS). Thank you for reviewing our privacy statement.
-2. If you are only browsing this website, we do not capture data that allows us to identify you individually.
-3. If you choose to make an application or send us an email for which you provide us with personally identifiable data, we may share necessary data within this website, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by the Constitution. We will NOT share your personal data with external parties, except where such entities have been authorised to carry out related services.
-4. To safeguard your personal data, all electronic storage and transmission of personal data are secure with appropriate security technologies.
-5. This site may link to other sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
-6. If you have any queries in relation to our collection, use, disclose and/or process of your data or on the matters set out in this document, please email us at bowen_ss@moe.edu.sg
+1. This is a Government of Singapore digital service.
+2. Thank you for visiting this Website (“The Website”). The Website, is maintained by Bowen Secondary School and, is owned and part of the Ministry of Education, Singapore (hereinafter “MOE”).
+3. information about this website's privacy statement can be found in the following link <a target="_blank" href="https://www.moe.gov.sg/privacy-statement">https://www.moe.gov.sg/privacy-statement</a>
