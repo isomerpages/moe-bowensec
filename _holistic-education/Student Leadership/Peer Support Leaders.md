@@ -4,9 +4,10 @@ permalink: /holistic-education/student-leadership/peer-support-leaders/
 description: ""
 third_nav_title: Student Leadership
 ---
-![](/images/PSL.jpg)
+![](/images/Holistic%20Education/Student%20Leadership/PSL.jpg)
 
-### “Passion, Service, Leadership - To Uplift and Support Bowenians”
+### Passion, Service, Leadership 
+*To Uplift and Support Bowenians*
 
   
 Peer Support Leaders (PSLs) in Bowen Secondary School are trained to listen actively and respond with empathy to promote positive mental wellbeing in school.  
