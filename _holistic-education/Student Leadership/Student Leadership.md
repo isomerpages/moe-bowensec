@@ -34,7 +34,6 @@ All our programs are designed with 4 E-xperiences:
 * Elevate
 
 Through the programs, Bowenians will explore and discover more about themselves and different leadership experiences. They will learn to embrace their every trait and differences with others to reach their fullest potential. They will also be empowered with skills and opportunities to plan, lead, and execute class and school wide events. Ultimately, elevating their leadership skills to take up bigger responsibilities in future.
-
 # Mission
 With the six core values and four E-xperiences guiding our leadership curriculum, our Bowenians are always working towards our mission continually through their years with us. Being inspired to serve others. Develop their character by stepping out of their comfort zone with unwavering courage. Nurture their own learning by acquiring a mindset of life-long learning.
 
