@@ -28,21 +28,19 @@ third_nav_title: Sports
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
-    <td class="tg-u05r">Mondays (Competitions only)<br><span style="color:#222">3:15pm to 6pm</span><br><br>Tuesdays<br><span style="color:#222">3:15pm to 6pm</span><br><br>Fridays<br><span style="color:#222">3pm to 6pm</span><br><br></td>
+    <td class="tg-u05r">Mondays (Competitions only)<br><span style="color:#222">3:15pm to 6pm</span><br><br>Tuesdays<br><span style="color:#222">3:15pm to 6pm</span><br><br>Fridays<br><span style="color:#222">2pm to 5pm</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Classroom @ Block E</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Classrooms @ Block E</span></td>
   </tr>
 </tbody>
 </table>
 
-Bowen Taekwondo Club (BTC) started in 2000 as a full-fledged CCA. The Korean martial art form, Taekwondo, emphasizes leg techniques and gravity defying aerial kicks. Therefore, BTC’s training revolved around two main activities: Poom Sae demonstration (Taeguk/Patterns Mastery or Mastery of martial art forms) and Sparring (Hand-to-Hand Combat/Unarmed Combat Mastery). Junior members start off with learning basic punches, kicks, blocks and stances and progress to unarmed combat. Advanced skills like jumping sidekick, jumping backthrust and the 360 degree kick are taught in upper-secondary level where members may also train for tournaments.&nbsp;
+# About Bowen Taekwondo Club (BTC)
 
-  
+Bowen Taekwondo Club (BTC) started in 2000. The Korean martial art, Taekwondo, emphasizes leg techniques and gravity defying aerial kicks. Therefore, BTC’s trainings revolve around two main activities: Poom Sae demonstration (Taeguk/Patterns Mastery or Mastery of martial art forms) and Sparring (Hand-to-Hand Combat/Unarmed Combat Mastery). 
 
-By the end of 4/5 years, members who have attained black belt level could become junior instructors or mentors to junior members. Besides coaching our students to attain perfection in Taekwondo skills, we aim to inculcate values such as respect, responsibility, care, self-control and resilience in our students. We also aim to foster team spirit and develop leadership qualities in them.&nbsp;
+Junior members start off with learning basic punches, kicks, blocks/stances and progress to unarmed combat. Advanced skills such as jumping sidekick, jumping backthrust and 360 degree kick are taught at later phases. Gradings are conducted 2-4 times a year so that members who pass will be able to progress to their next skill level. Members are also given opportunity to train and take part in the annual National School Games Taekwondo Championships. 
 
-  
-
-To achieve these aims, Bowen Taekwondo Club is actively involved in school performances and service learning. In 2016 and 2014, we held a Values-In-Action (VIA) at SunLove Home. In 2015, we had a VIA at Sheng Hong Welfare and Services. We look forward to you joining our CCA
+Bowen Taekwondo Club (BTC) aims to toughen our members physically and mentally, while prioritising on the development of one's character and values of respect, responsibility, self-control and resilience.
