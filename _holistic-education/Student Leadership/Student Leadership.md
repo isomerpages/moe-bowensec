@@ -4,7 +4,7 @@ permalink: /holistic-education/student-leadership/
 description: ""
 third_nav_title: Student Leadership
 ---
-![](/images/Signature%20Programmes/Student%20Leadership/bowen%20student%20leaders%20montage.png)
+![](/images/Holistic%20Education/Student%20Leadership/bowen%20student%20leaders%20montage.png)
 
 # Platforms
 In Bowen, there are 6 main groups of student leaders – 
@@ -17,7 +17,7 @@ In Bowen, there are 6 main groups of student leaders –
 
 We believe everyone has the potential to lead. Hence, Bowenians will be exposed to a diverse opportunities and platforms to be groomed and grow.
 
-![](/images/Signature%20Programmes/Student%20Leadership/student%20leadership%20framework.png)
+![](/images/Holistic%20Education/Student%20Leadership/student%20leadership%20framework.png)
 # Vision
  In line with our school vision of Every Bowenian A Leader, we aim to develop confident and selfless student leaders with strong sense of agency.
  
@@ -38,7 +38,7 @@ Through the programs, Bowenians will explore and discover more about themselves 
 With the six core values and four E-xperiences guiding our leadership curriculum, our Bowenians are always working towards our mission continually through their years with us. Being inspired to serve others. Develop their character by stepping out of their comfort zone with unwavering courage. Nurture their own learning by acquiring a mindset of life-long learning.
 
 # Leadership Development
-![](/images/Signature%20Programmes/Student%20Leadership/the%20leadership%20lighthouse.jpg)
+![](/images/Holistic%20Education/Student%20Leadership/the%20leadership%20lighthouse.jpg)
 
 Leadership development in Bowen takes a three-tiered approach. Each tier highlight different types of leadership involved and programs for each Bowenians.
 
