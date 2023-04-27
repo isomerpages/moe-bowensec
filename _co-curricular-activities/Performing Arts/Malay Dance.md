@@ -40,7 +40,9 @@ third_nav_title: Performing Arts
 </table>
 
 ### About Bowen Malay Dance
+Malay dance is a vibrant and expressive form of dance that has its roots in the traditional cultures of Malaysia, Indonesia, and Singapore. It is a highly stylized and graceful dance form that tells stories through intricate hand gestures, footwork, and body movements. 
 
-The Bowen Malay Dance provides an opportunity for students to showcase their dance through school and public performances. It provides students with the opportunity to gain stage and self-confidence with every performance. Through the dance club, students are able to learn the various forms of Malay dances. In the recent Singapore Youth Festival Central Judging, Malay Dance has attained Certificate of Distinction for the year 2017. 
+The Bowen Malay Dance, lesTARI, provides an opportunity for students to showcase their dance through school and public performances. It provides students with the opportunity to gain stage and self-confidence with every performance. Through the dance club, students are able to learn the various forms of Malay dances. In the recent Singapore Youth Festival Central Judging, Malay Dance has attained Certificate of Accomplishment for the year 2021. 
 
-Apart from performances in school, in 2017, Malay Dance has also participated in Malay Dance Festival, Muara Festival organized by Era Dance Theatre, held at the Esplanade Outdoor Theatre.
+Malay dance is a beautiful and culturally significant dance form that continues to thrive and evolve with the changing times. Whether performed as part of traditional ceremonies or on the modern stage, it remains a beloved form of expression and entertainment for many.
+
