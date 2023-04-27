@@ -12,8 +12,8 @@ In Bowen, there are 6 main groups of student leaders –
 * Peer Support Leaders
 * CCA Leaders
 * Class Leaders
-* CCE Ambassadors
 * Tech Champions
+* CCE Ambassadors
 
 We believe everyone has the potential to lead. Hence, Bowenians will be exposed to a diverse opportunities and platforms to be groomed and grow.
 
