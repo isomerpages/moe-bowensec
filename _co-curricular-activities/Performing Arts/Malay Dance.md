@@ -45,4 +45,3 @@ Malay dance is a vibrant and expressive form of dance that has its roots in the 
 The Bowen Malay Dance, lesTARI, provides an opportunity for students to showcase their dance through school and public performances. It provides students with the opportunity to gain stage and self-confidence with every performance. Through the dance club, students are able to learn the various forms of Malay dances. In the recent Singapore Youth Festival Central Judging, Malay Dance has attained Certificate of Accomplishment for the year 2021. 
 
 Malay dance is a beautiful and culturally significant dance form that continues to thrive and evolve with the changing times. Whether performed as part of traditional ceremonies or on the modern stage, it remains a beloved form of expression and entertainment for many.
-
