@@ -8,10 +8,10 @@ third_nav_title: Student Leadership
 
 # Platforms
 In Bowen, there are 6 main groups of student leaders – 
-* Student Councillors, 
-* Peer Support Leaders, 
-* CCA Leaders, 
-* Class Leaders, 
+* Student Councillors
+* Peer Support Leaders
+* CCA Leaders
+* Class Leaders
 * CCE Ambassadors
 * Tech Champions
 
@@ -27,10 +27,10 @@ The six core values of Bowen act as a strong foundation and guiding compass for 
 
 ### The 4 E-xperiences
 All our programs are designed with 4 E-xperiences: 
-* Explore, 
-* Embrace, 
-* Empower and
-*  Elevate
+* Explore
+* Embrace
+* Empower 
+* Elevate
 
 Through the programs, Bowenians will explore and discover more about themselves and different leadership experiences. They will learn to embrace their every trait and differences with others to reach their fullest potential. They will also be empowered with skills and opportunities to plan, lead, and execute class and school wide events. Ultimately, elevating their leadership skills to take up bigger responsibilities in future.
 
