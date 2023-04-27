@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/bo
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/boys-brigade-unit.jpeg)
+![](/images/CCAs/Uniform%20Groups/Boys%20Brigade/bb%20main.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,14 +40,14 @@ third_nav_title: Uniformed Groups
 
 ### About Bowen Boys Brigade (BB)
 
-<img src="/images/Boys-Brigade.jpeg" 
-     style="width:70%">
+We seek to nurture boys based on values through a well-balanced programme, effective leadership of NCOs and officers, fostering close relationships amongst members, their parents, the church and the school. The Boys’ Brigade sets itself apart from the other uniformed groups by focusing on Social, Physical, Spiritual &amp; Educational development. This has given our members an all-rounded personality. BB Boys will gain leadership skills as one progresses through the ranks.
 
-We seek to nurture boys based on values through a well-balanced programme, effective leadership of NCOs and officers, fostering close relationships amongst members, their parents, the church and the school. The Boys’ Brigade sets itself apart from the other uniformed groups by focusing on Social, Physical, Spiritual & Educational development. This has given our members an all-rounded personality. BB Boys will gain leadership skills as one progresses through the ranks.
+![](/images/CCAs/Uniform%20Groups/Boys%20Brigade/bb%20pic%202.jpg)
 
-<img src="/images/boys-brigade-archery.jpeg" 
-     style="width:70%">
-		 
-A typical BB Boy can expect to stand as a Sergeant with glittering badges on a set of crisp blue uniforms, leading a Company of Boys on parade.   
+A typical BB Boy can expect to stand as a Sergeant with glittering badges on a set of crisp blue uniforms, leading a Company of Boys on parade.&nbsp;  
 
-As a member of the BB, one will learn new skills, go on outdoor expeditions, archery sessions, biking expeditions and adventure, make new friends and develop confidence and challenges to their creative thinking skills. Members may also join our Archery Team which will compete in the National Competitions. The Company was awarded the JM Fraser Award for Excellence (Silver).
+As a member of the BB, one will learn new skills, go on outdoor expeditions, archery sessions, biking expeditions and adventure, make new friends and develop confidence and challenges to their creative thinking skills. 
+
+![](/images/CCAs/Uniform%20Groups/Boys%20Brigade/boys-brigade-archery.jpeg)
+
+Members may also join our Archery Team which will compete in the National Competitions. The Company was awarded the JM Fraser Award for Excellence (Silver).
