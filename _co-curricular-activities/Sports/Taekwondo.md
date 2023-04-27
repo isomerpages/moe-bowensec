@@ -28,11 +28,11 @@ third_nav_title: Sports
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
-    <td class="tg-u05r">Mondays (Competitions only)<br><span style="color:#222">3:15pm to 6pm</span><br><br>Tuesdays<br><span style="color:#222">3:15pm to 6pm</span><br><br>Fridays<br><span style="color:#222">3pm to 6pm</span><br><br></td>
+    <td class="tg-u05r">Mondays (Competitions only)<br><span style="color:#222">3:15pm to 6pm</span><br><br>Tuesdays<br><span style="color:#222">3:15pm to 6pm</span><br><br>Fridays<br><span style="color:#222">2pm to 5pm</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Classroom @ Block E</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Classrooms @ Block E</span></td>
   </tr>
 </tbody>
 </table>
@@ -43,5 +43,4 @@ Bowen Taekwondo Club (BTC) started in 2000. The Korean martial art, Taekwondo, e
 
 Junior members start off with learning basic punches, kicks, blocks/stances and progress to unarmed combat. Advanced skills such as jumping sidekick, jumping backthrust and 360 degree kick are taught at later phases. Gradings are conducted 2-4 times a year so that members who pass will be able to progress to their next skill level. Members are also given opportunity to train and take part in the annual National School Games Taekwondo Championships. 
 
-Bowen Taekwondo Club (BTC) aims to toughen our members physically and mentally, while prioritising on the development of one's character and values of respect, responsibility, self-control and resilience. 
-
+Bowen Taekwondo Club (BTC) aims to toughen our members physically and mentally, while prioritising on the development of one's character and values of respect, responsibility, self-control and resilience.
