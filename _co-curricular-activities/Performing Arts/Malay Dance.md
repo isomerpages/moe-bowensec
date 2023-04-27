@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/mal
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/Malay-dance.jpeg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
