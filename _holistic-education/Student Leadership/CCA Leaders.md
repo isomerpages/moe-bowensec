@@ -4,7 +4,7 @@ permalink: /holistic-education/student-leadership/cca-leaders/
 description: ""
 third_nav_title: Student Leadership
 ---
-![](/images/Holistic%20Education/Student%20Leadership/CCA%20leaders.jpg)
+![](/images/Holistic%20Education/Student%20Leadership/cca%20leaders.jpg)
 
 ## CCA Leaders
 #### *Shining Bright, Expanding Realities*
