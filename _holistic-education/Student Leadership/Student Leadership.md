@@ -17,7 +17,7 @@ In Bowen, there are 6 main groups of student leaders –
 
 We believe everyone has the potential to lead. Hence, Bowenians will be exposed to a diverse opportunities and platforms to be groomed and grow.
 
-![](/images/Holistic%20Education/Student%20Leadership/student%20leadership%20framework.png)
+<img src="/images/Holistic%20Education/Student%20Leadership/student%20leadership%20framework.png" style="width:70%">
 # Vision
  In line with our school vision of Every Bowenian A Leader, we aim to develop confident and selfless student leaders with strong sense of agency.
  
