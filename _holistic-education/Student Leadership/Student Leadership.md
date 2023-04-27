@@ -40,7 +40,7 @@ With the six core values and four E-xperiences guiding our leadership curriculum
 # Leadership Development
 Leadership development in Bowen takes a three-tiered approach. Each tier highlight different types of leadership involved and programs for each Bowenians.
 
-<img src="/images/Holistic%20Education/Student%20Leadership/the%20leadership%20lighthouse.jpg" style="width:70%">
+<img src="/images/Holistic%20Education/Student%20Leadership/the%20leadership%20lighthouse.jpg" style="width:60%">
 
 
 ### Tier 1 (Self-Leadership) 
@@ -49,7 +49,7 @@ Leadership development in Bowen takes a three-tiered approach. Each tier highlig
 Secondary 1 to 3 Bowenians heed the call and undergo various selection and training processes to take up specialised leadership roles, such as Student Council, Peer Support Leaders (PSL), CCA Leaders, Class Leaders (CL), Tech Champions (TC) and CCE Ambassadors. Each leadership roles are closely guided and empowered at their various specialised areas to hone their leadership skills they have gained, by organising classes and school-wide events. Elevating their level of leadership, Secondary 3 Leaders will step up to start mentoring their juniors on their leadership journey through close guiding of their duties and frequent reflection sessions.
 
 ### Tier 3 (School Leadership) 
-The **APEX** of the Bowen Leadership are the** EXCOs** of the each leadership: Student Council, PSL, CCA Leaders, CL and TC. These students have been carefully selected by teachers in-charge and the school leaders. 
+The **APEX** of the Bowen Leadership are the **EXCOs** of the each leadership: Student Council, PSL, CCA Leaders, CL and TC. These students have been carefully selected by teachers in-charge and the school leaders. 
 
 Our EXCOs are expected to be highly responsible are expected to lead their respective leaderships into different initiatives while they work closely together with the teachers. 
 

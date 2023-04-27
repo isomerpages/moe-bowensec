@@ -4,6 +4,9 @@ permalink: /holistic-education/student-leadership/class-leaders/
 description: ""
 third_nav_title: Student Leadership
 ---
+
+![](/images/Holistic%20Education/Student%20Leadership/class%20leaders.jfif)
+
 ## Class Leaders 
 #### *Dream, Believe and Achieve*
 
