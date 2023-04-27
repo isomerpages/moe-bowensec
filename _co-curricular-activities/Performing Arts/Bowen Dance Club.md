@@ -38,7 +38,7 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-## About Bowen Dance Club
+### About Bowen Dance Club
 
 ![](/images/CCAs/Performing%20Arts/Bowen%20Dance%20Club/dance%20club%20pic%202.jpg)
 Dance is a form of art and it is also a creative expression of the ideas and feelings of individuals. It allows students to express their ideas about the world around them through a nonverbal means of communication. The Bowen Dance Club has over the years introduced and exposed students to different genres of dance e.g. Hip Hop, Street Jazz, Modern Dance, Wacking, BBoying etc. We have a comprehensive and structured dance programme to help students learn dance in a fun and easy way.
