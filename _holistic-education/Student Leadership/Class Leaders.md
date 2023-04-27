@@ -4,10 +4,11 @@ permalink: /holistic-education/student-leadership/class-leaders/
 description: ""
 third_nav_title: Student Leadership
 ---
-## Class Leaders 
-#### *Dream, Believe and Achieve*
 
 ![](/images/Holistic%20Education/Student%20Leadership/class%20leaders.jfif)
+
+## Class Leaders 
+#### *Dream, Believe and Achieve*
 
 Class Leaders form an essential wing of Bowen Student Leadership. They support their form teachers and peers in managing administrative duties pertaining to their classes. Good rapport with their classmates help to ensure that the classroom is conducive for learning. 
 
