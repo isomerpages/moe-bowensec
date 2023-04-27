@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 ---
 ![](/images/Holistic%20Education/Student%20Leadership/tech%20champs.jpg)
 
-## Tech Champions 
+## About Bowen Tech Champions 
 #### *Innovate & Inspire*
 
 Tech Champions act as ignitors in influencing and advocating on the effective and good habits in use of technology in enhancing learning in Bowen. Students are identified for their tech savvy skills. Students are appointed at Secondary 1 or 2 and thereafter at Secondary 3 as a Senior Tech Champion.
