@@ -3,7 +3,6 @@ title: Subject Heads & Senior and Lead Teachers
 permalink: /about-bowen/subject-heads/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -130,14 +129,9 @@ description: ""
     <td class="tg-fxx4"><span style="color:#222">ST / Maths</span></td>
     <td class="tg-fxx4"><span style="color:#222">padma_ramachandran@schools.gov.sg</span></td>
   </tr>
+
   <tr>
     <td class="tg-fxx4"><span style="color:#222">7</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Sankar Thilahavathi</span></td>
-    <td class="tg-fxx4"><span style="color:#222">ST / TL &amp; ML</span></td>
-    <td class="tg-fxx4"><span style="color:#222">sankar_thilahavathi@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">8</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Monica Suan</span></td>
     <td class="tg-fxx4"><span style="color:#222">LT</span></td>
     <td class="tg-fxx4"><span style="color:#222">suan_ching_yeah_monica@schools.gov.sg</span></td>
