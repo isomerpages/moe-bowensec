@@ -51,7 +51,7 @@ The programme aims to develop students’ talents and potentials in the various 
 
 ### Selection Criteria
 * Exemplary conduct in primary school and,
-
+![](/images/Signature%20Programmes/DSA/dsa%20selection%20criteria.jpg)
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="1285" style="width:963.65pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.25pt"><td width="267" style="width:200.2pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;background:#5B9BD5;mso-background-themecolor:accent1;
