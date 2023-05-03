@@ -186,7 +186,7 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
   &quot;Times New Roman&quot;;color:#222222">Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</span></i></b><b><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#252525"></span></b></p></td></tr></tbody></table>
 
-**Centralised DSA-Sec Application Process**
+### Centralised DSA-Sec Application Process
 
 For 2023, application for DSA-Sec can be submitted through the online DSA-Sec Portal\*. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm.
 
@@ -194,5 +194,4 @@ For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-se
 
 _\*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal._ _For more details, please refer to MOE website –_ [_https://go.gov.sg/nmsdsa-sec-application_](https://go.gov.sg/nmsdsa-sec-application)
 
-Selection Process and Key Dates
--------------------------------
+### Selection Process and Key Dates
