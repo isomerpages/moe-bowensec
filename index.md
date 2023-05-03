@@ -22,14 +22,16 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
+  - infopic:
+      title: DIRECT SCHOOL ADMISSION
+      description: DSA Information for  2024 Cohort
+      button: Button Text
+      url: /signature-programmes/direct-school-admission-1/
+      alt: Image alt text
   - infobar:
       subtitle: Term Assessment 2 Schedule
       description: Visit the respective Sec 1 to Sec 4 Level pages to access the
         upcoming TA2 Examination Timetables
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
-  - resources:
-      title: Resources Section Title
-      subtitle: Direct School asmissin
-      button: Resources Button Name
 ---
