@@ -49,8 +49,6 @@ The programme aims to develop students’ talents and potentials in the various 
 *   **Extensive range of competitions**
 *   **Workshops for student-athletes**
 
-For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
-
 ### Selection Criteria
 * Exemplary conduct in primary school and,
 
@@ -190,8 +188,13 @@ For more information on DSA-Sec, please refer to the MOE website at [https://www
 
 For 2023, application for DSA-Sec can be submitted through the online DSA-Sec Portal\*. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm.
 
-For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+For more details, please refer to MOE website – 
+<a target="_blank" href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a>
 
-_\*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal._ _For more details, please refer to MOE website –_ [_https://go.gov.sg/nmsdsa-sec-application_](https://go.gov.sg/nmsdsa-sec-application)
+
+*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal._ _For more details, please refer to MOE website –_
+<a target="_blank" href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a>
+
 
 ### Selection Process and Key Dates
+![](/images/Signature%20Programmes/DSA/dsa%20timeline%20updated.jpg)
