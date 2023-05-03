@@ -34,4 +34,9 @@ sections:
         upcoming TA2 Examination Timetables
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
+  - infobar:
+      title: DIRECT SCHOOL ADMISSION
+      description: DSA Information for 2024 Cohort
+      button: Find OUT MORE
+      url: /signature-programmes/direct-school-admission-1/
 ---
