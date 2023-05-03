@@ -23,14 +23,14 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infobar:
-      title: DIRECT SCHOOL ADMISSION
-      description: DSA Information for 2024 Cohort
-      button: Find OUT MORE
-      url: /signature-programmes/direct-school-admission-1/
-  - infobar:
-      subtitle: Term Assessment 2 Schedule
       description: Visit the respective Sec 1 to Sec 4 Level pages to access the
         upcoming TA2 Examination Timetables
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
+      title: Term Assessment 2 Schedule
+  - infobar:
+      title: Interested to DSA to Bowen?
+      description: DSA Information for 2024 Cohort
+      button: Find OUT MORE
+      url: /signature-programmes/direct-school-admission-1/
 ---
