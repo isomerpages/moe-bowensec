@@ -51,9 +51,8 @@ The programme aims to develop students’ talents and potentials in the various 
 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
-**Selection Criteria**
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exemplary conduct in primary school&nbsp;and,
+### Selection Criteria
+* Exemplary conduct in primary school and,
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="1285" style="width:963.65pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:48.25pt"><td width="267" style="width:200.2pt;border:solid windowtext 1.0pt;mso-border-alt:
