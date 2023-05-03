@@ -28,4 +28,8 @@ sections:
         upcoming TA2 Examination Timetables
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
+  - resources:
+      title: Resources Section Title
+      subtitle: Direct School asmissin
+      button: Resources Button Name
 ---
