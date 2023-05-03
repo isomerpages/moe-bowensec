@@ -30,7 +30,7 @@ sections:
       title: Term Assessment 2 Schedule
   - infobar:
       title: Interested to DSA to Bowen?
-      description: DSA Information for 2024 Cohort
+      description: Direct School Admission Information (2024 Cohort)
       button: Find OUT MORE
       url: /signature-programmes/direct-school-admission-1/
 ---
