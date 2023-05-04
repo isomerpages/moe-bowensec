@@ -29,8 +29,9 @@ sections:
       url: /school-information/school-matters/news-n-events/
       title: Term Assessment 2 Schedule
   - infobar:
-      title: Interested to DSA to Bowen?
-      description: Direct School Admission Information (2024 Cohort)
+      title: Direct School Admission for 2024
+      description: Application from 4 May (11am)  -  31 May 2023, (3pm)
       button: Find OUT MORE
       url: /signature-programmes/direct-school-admission-1/
+      subtitle: Interested to DSA to Bowen?
 ---
