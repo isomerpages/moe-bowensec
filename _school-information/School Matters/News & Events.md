@@ -20,7 +20,7 @@ Bowen welcomes students who are currently in Primary 6 (or the equivalent) to ap
 * <b>Badminton</b>
 * <b>Football</b>
 
-<a href="https://www.bowensec.moe.edu.sg/signature-programmes/direct-school-admission-1/" target="_blank">FIND OUT MORE HERE &gt;&gt;</a>
+<a href="https://www.bowensec.moe.edu.sg/signature-programmes/direct-school-admission-1/">FIND OUT MORE HERE &gt;&gt;</a>
 
 <hr>
 
