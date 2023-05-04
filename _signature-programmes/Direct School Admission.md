@@ -181,7 +181,9 @@ The programme aims to develop students’ talents and potentials in the various 
 ### Centralised DSA-Sec Application Process
 
 For 2023, application for DSA-Sec can be submitted through the . 
-<a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" target="_blank">online DSA-Sec Portal - https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant</a>
+<a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" target="_blank">online DSA-Sec Portal</a>
+
+<a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" target="_blank">https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant</a>
 
 
 
