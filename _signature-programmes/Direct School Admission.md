@@ -191,4 +191,4 @@ For more details, please refer to MOE website –
 
 
 ### Selection Process and Key Dates
-![](/images/Signature%20Programmes/DSA/dsa%20timeline%20updated.jpg)
+![](/images/Signature%20Programmes/DSA/dsa%20timeline.jpg)
