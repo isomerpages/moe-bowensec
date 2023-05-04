@@ -180,7 +180,14 @@ The programme aims to develop students’ talents and potentials in the various 
 
 ### Centralised DSA-Sec Application Process
 
-For 2023, application for DSA-Sec can be submitted through the online DSA-Sec Portal\*. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm.
+For 2023, application for DSA-Sec can be submitted through the . 
+<a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" target="_blank">online DSA-Sec Portal</a>
+
+<a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" target="_blank">https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant</a>
+
+
+
+The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm.
 
 For more details, please refer to MOE website – 
 <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
