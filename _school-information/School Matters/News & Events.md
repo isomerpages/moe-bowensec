@@ -1,12 +1,27 @@
 ---
-title: News &amp; Events
+title: News & Events
 permalink: /school-information/school-matters/news-n-events/
 description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
-### 41<sup>st</sup> Speech and Prize Presentation Day<br>28 April, Friday 3:30pm - 6:30pm
-![](/images/School%20Events/2023/2023%20speechday%20banner.png)
+### Direct School Admission (DSA) to Bowen in 2024
+Application for DSA-Sec is now open from **4 May 2023, 11am to 31 May 2023, 3pm.**
+
+Bowen welcomes students who are currently in Primary 6 (or the equivalent) to apply under DSA for entry to Sec 1 in Bowen in 2024.  We offer DSA for both Boys and Girls and strongly encourage those with outstanding talents in the following areas to apply for admission:
+
+##### DSA (Entrepreneurship &amp; Innovation / Leadership &amp; Uniformed Groups)
+* <b>Entrepreneurship</b>
+* <b>Community Youth Leadership</b>
+
+##### DSA (Performing Arts / Sports and Games)
+
+* <b> Marching Band</b>
+* <b>Badminton</b>
+* <b>Football</b>
+
+<a href="/signature-programmes/direct-school-admission-1/" target="_blank">FIND OUT MORE HERE &gt;&gt;</a>
+
 <hr>
 
 ### 2023 Term Assessment 2 (TA2)  Briefing Slides &amp; Assessment Schedule
@@ -18,6 +33,10 @@ third_nav_title: School Matters
 5. [2023 TA2 S3 Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20s3%20ta2%20tt.pdf)
 6. [2023 TA2 S4n5 Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20s4n5%20ta2%20tt.pdf)
 
+<hr>
+
+### 41<sup>st</sup> Speech and Prize Presentation Day<br>28 April, Friday 3:30pm - 6:30pm
+![](/images/School%20Events/2023/2023%20speechday%20banner.png)
 <hr>
 
 
