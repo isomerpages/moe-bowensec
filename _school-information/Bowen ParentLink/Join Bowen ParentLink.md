@@ -32,16 +32,12 @@ Contact us :[parentlinkbwss@gmail.com](mailto:parentlinkbwss@gmail.com)
 
 ### Our Success Story
 
-Bowen ParentLink was commended by Dr. Maliki Osman, Second Minister for Education, in his speech on 18th Sept 2022. (Reference:&nbsp;[Click here](https://www.moe.gov.sg/news/speeches/20220918-speech-by-dr-maliki-osman-second-minister-for-education-for-bapa-sepanjang-hayat-dads-role-in-education-forum-at-lifelong-learning-institute)).
+Bowen ParentLink was commended by Dr. Maliki Osman, Second Minister for Education, in his speech on 18th Sept 2022. (Reference) 
+<a target="_blank" href="https://www.moe.gov.sg/news/speeches/20220918-speech-by-dr-maliki-osman-second-minister-for-education-for-bapa-sepanjang-hayat-dads-role-in-education-forum-at-lifelong-learning-institute">Click here</a>
 
-Below is the extract:
+#### Extract 1
+![](/images/School%20Information/Bowen%20ParentLink/quote%201.png)
 
-&gt; _“This philosophy guides our thinking at the Ministry of Education, and it is why we encourage Parent Support Groups, or PSGs, to work hand-in-hand with our schools in their parenting journey. And if you are not already members of PSGs in your children's schools, please be one.”_
-&gt; 
-&gt; _“__The advantages are two-fold: On one hand, parents can pick up tips and insights from each other and better guide their children. On the other hand, positive school-home partnerships can help our children develop self-management skills, have ownership over their learning, develop a sense of purpose and build resilience. Our schools and parents can also work closely to support our children in pursuing their strengths and interests, and impart good values and attitudes."_
-&gt; 
-&gt; _“I will give a few examples of the good work done by some of our PSGs.._&nbsp;
+#### Extract 2
+![](/images/School%20Information/Bowen%20ParentLink/quote%202.png)
 
-&gt; _Bowen Secondary School's PSG has also worked closely with the school to support their parents. They have a mentoring programme where fellow parents share useful tips and resources with one another. The PSG also helms a "For Parents by Parents" segment during the school's Meet-the-Parents sessions and holds Zoom sessions to engage parents in leading topics such as ways to build positive relationships with their children_
-
-&gt; _“To support all PSGs, MOE launched a Mental Well-being Resource Guide earlier this year with tips on how parents can be peer and resource supporters for each other. You can check our website for this Well-being Resource Guide. This guide is complemented by an online PSG repository that provides the most up-to-date resources that PSGs can refer to for their ongoing efforts to promote mental well-being among children.”_
