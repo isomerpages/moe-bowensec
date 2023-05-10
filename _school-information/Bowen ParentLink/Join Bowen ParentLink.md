@@ -34,7 +34,7 @@ Contact us :[parentlinkbwss@gmail.com](mailto:parentlinkbwss@gmail.com)
 
 Bowen ParentLink was commended by Dr. Maliki Osman, Second Minister for Education, in his speech on 18th Sept 2022. (Reference:&nbsp;[Click here](https://www.moe.gov.sg/news/speeches/20220918-speech-by-dr-maliki-osman-second-minister-for-education-for-bapa-sepanjang-hayat-dads-role-in-education-forum-at-lifelong-learning-institute)).
 
-Below is the extract;
+Below is the extract:
 
 &gt; _“This philosophy guides our thinking at the Ministry of Education, and it is why we encourage Parent Support Groups, or PSGs, to work hand-in-hand with our schools in their parenting journey. And if you are not already members of PSGs in your children's schools, please be one.”_
 &gt; 
