@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Canteen.md
       - School Matters/.keep
       - School Matters/News & Events.md
       - School Matters/Care and Discipline.md
