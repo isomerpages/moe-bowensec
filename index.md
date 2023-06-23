@@ -23,15 +23,9 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infobar:
-      description: Visit the respective Sec 1 to Sec 4 Level pages to access the
-        upcoming TA2 Examination Timetables
+      description: Visit the respective Sec 1 to Sec 4 Level pages to access Semester
+        2 Class Timetables
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
-      title: Term Assessment 2 Schedule
-  - infobar:
-      title: Direct School Admission for 2024
-      description: Application from 4 May (11am)  -  31 May 2023, (3pm)
-      button: Find OUT MORE
-      url: /signature-programmes/direct-school-admission-1/
-      subtitle: Interested to DSA to Bowen?
+      title: Semester 2 Class Timetables
 ---
