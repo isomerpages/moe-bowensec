@@ -14,7 +14,7 @@ description: ""
 <center><b>&nbsp;Ms. Lim GuiHao <br>VICE-PRINCIPAL</b><br><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
 <hr>	
 
-<img src="/images/Our%20People/mr-chen-zaokai-benjamin.jpg" style="width:20%">
+<img src="/images/Our%20People/mr%20benjamin%20chen.jpg" style="width:20%">
 <center><b>&nbsp;Mr. Chen Zaokai Benjamin <br>VICE-PRINCIPAL</b><br><a href="Chen_Zaokai_Benjamin@schools.gov.sg">Chen_Zaokai_Benjamin@schools.gov.sg</a></center>
 <hr>	
 
