@@ -8,11 +8,11 @@ third_nav_title: Secondary 2
 
 #### Version 1.2 (w.e.f. 26 June)
 
-1. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2t%20tt%20v1_2.pdf" target="_blank"> 2 Topaz (Sem 2 Timetable V1.2)</a>
-2. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2s%20tt%20v1_2.pdf" target="_blank"> 2 Sapphire (Sem 2 Timetable V1.2)</a>
-3. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2p%20tt%20v1_2.pdf" target="_blank"> 2 Peridot (Sem 2 Timetable V1.2)</a>
-4. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2a%20tt%20v1_2.pdf" target="_blank"> 2 Amethyst (Sem 2 Timetable V1.2)</a>
-5. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2r%20tt%20v1_2.pdf" target="_blank"> 2 Ruby (Sem 2 Timetable V1.2)</a>
-6. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2k%20tt%20v1_2.pdf" target="_blank"> 2 Kunzite (Sem 2 Timetable V1.2)</a>
-7. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2l%20tt%20v1_2.pdf" target="_blank"> 2 Larimar (Sem 2 Timetable V1.2)</a>
-8. <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2e%20tt%20v1_2.pdf" target="_blank"> 2 Emerald (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2t%20tt%20v1_2.pdf" target="_blank"> 2 Topaz (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2s%20tt%20v1_2.pdf" target="_blank"> 2 Sapphire (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2p%20tt%20v1_2.pdf" target="_blank"> 2 Peridot (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2a%20tt%20v1_2.pdf" target="_blank"> 2 Amethyst (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2r%20tt%20v1_2.pdf" target="_blank"> 2 Ruby (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2k%20tt%20v1_2.pdf" target="_blank"> 2 Kunzite (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2l%20tt%20v1_2.pdf" target="_blank"> 2 Larimar (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s2e%20tt%20v1_2.pdf" target="_blank"> 2 Emerald (Sem 2 Timetable V1.2)</a>
