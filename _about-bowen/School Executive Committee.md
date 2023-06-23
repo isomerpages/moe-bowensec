@@ -14,6 +14,10 @@ description: ""
 <center><b>&nbsp;Ms. Lim GuiHao <br>VICE-PRINCIPAL</b><br><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
 <hr>	
 
+<img src="/images/Our%20People/Ms-LIM-GUIHAO.jpeg" style="width:20%">
+<center><b>&nbsp;Mr. Chen Zaokai Benjamin <br>VICE-PRINCIPAL</b><br><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
+<hr>	
+
 
 ## Department Heads
 
