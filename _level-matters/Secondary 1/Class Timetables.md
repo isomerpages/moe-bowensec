@@ -8,21 +8,20 @@ third_nav_title: Secondary 1
 
 #### Version 1.2 (W.e.f. 26 June)
 
+1.   <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1t%20tt%20v1_2.pdf" target="_blank"> 1 Topaz (Sem 2 Timetable V1.2)</a>
+2.    <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1s%20tt%20v1_2.pdf" target="_blank"> 1 Sapphire (Sem 2 Timetable V1.2)</a>
+3.    <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1p%20tt%20v1_2.pdf" target="_blank"> 1 Peridot (Sem 2 Timetable V1.2)</a>
 
-1 Topaz - [2023 1 Topaz Sem 2 Timetable V1.2](/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1t%20tt%20v1_2.pdf)
+1 Sapphire
 
+1 Peridot - 
 
+1 Amethyst - 
 
-1 Sapphire - 
+1 Ruby - 
 
-1 Peridot - [2023 SEM1 S1P TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1P%20TT%20V4.pdf)
+1 Kunzite - 
 
-1 Amethyst - [2023 SEM1 S1A TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1A%20TT%20V4.pdf)
+1 Larimar - 
 
-1 Ruby - [2023 SEM1 S1R TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1R%20TT%20V4.pdf)
-
-1 Kunzite - [2023 SEM1 S1K TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1K%20TT%20V4.pdf)
-
-1 Larimar - [2023 SEM1 S1L TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1L%20TT%20V4.pdf)
-
-1 Emerald - [2023 SEM1 S1E TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S1E%20TT%20V4.pdf)
+1 Emerald - 
