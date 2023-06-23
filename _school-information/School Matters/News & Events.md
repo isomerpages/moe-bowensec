@@ -8,10 +8,10 @@ third_nav_title: School Matters
 ### 2023 Sem 2 Class Timetables <br>(Version 1.2  w.e.f 26<sup>th</sup> June)
 Please click on the links to view the updated timetables.
 
-1.  [Sec 1 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-1/class-timetables/)
-2.  [Sec 2 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-2/class-timetables/)
-3.  [Sec 3 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-3/class-timetables/)
-4.  [Sec 4 and 5 Class Timetables (Ver 4.0 wef 20 March)](/school-information/level-matters/secondary-4-5/class-timetables/)
+1.  [Sec 1 Sem 2 Class Timetables (Ver 1.2 wef 26 June)](/school-information/level-matters/secondary-1/class-timetables/)
+2.  [Sec 2 Sem 2 Class Timetables (Ver 1.2 wef 26 June)](/school-information/level-matters/secondary-2/class-timetables/)
+3.  [Sec Sem 2 3 Class Timetables (Ver 1.2 wef 26 June)](/school-information/level-matters/secondary-3/class-timetables/)
+4.  [Sec Sem 2 4 and 5 Class Timetables (Ver 1.2 wef 26 June)](/school-information/level-matters/secondary-4-5/class-timetables/)
   
 <hr>
 
