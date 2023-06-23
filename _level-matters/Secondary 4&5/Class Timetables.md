@@ -4,26 +4,18 @@ permalink: /school-information/level-matters/secondary-4-5/class-timetables/
 description: ""
 third_nav_title: Secondary 4&5
 ---
-### 2023 Sec 4 Semester 1 Class Timetables
+## 2023 Sec 4 and Sec 5 Semester 1 Timetables
 
-**V4.0 wef 30 Mar**
+#### Version 1.2 (w.e.f. 26 June)
 
-4 Topaz -[2023 SEM1 S4O TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4O%20TT%20V4.pdf)
 
-4 Opal - [2023 SEM1 S4O TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4O%20TT%20V4.pdf)
-
-4 Sapphire - [2023 SEM1 S4S TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4S%20TT%20V4.pdf)
-
-4 Peridot - [2023 SEM1 S4P TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4P%20TT%20V4.pdf)
-
-4 Amethyst - [2023 SEM1 S4A TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4A%20TT%20V4.pdf)
-
-4 Ruby - [2023 SEM1 S4R TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4R%20TT%20V4.pdf)
-
-4 Kunzite - [2023 SEM1 S4K TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4K%20TT%20V4.pdf)
-
-4 Larimar - [2023 SEM1 S4L TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4L%20TT%20V4.pdf)
-
-4 Emerald - [2023 SEM1 S4E TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S4E%20TT%20V4.pdf)
-
-5 Eudialyte - [2023 SEM1 S5E TT V4.pdf](/files/Class%20Timetables/2023/Sem%201/V4_0/2023%20SEM1%20S5E%20TT%20V4.pdf)
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4t%20tt%20v1_2.pdf" target="_blank"> 4 Topaz (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4o%20tt%20v1_2.pdf" target="_blank"> 4 Opal (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s3s%20tt%20v1_2.pdf" target="_blank"> 3 Sapphire (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4p%20tt%20v1_2.pdf" target="_blank"> 4 Peridot (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4a%20tt%20v1_2.pdf" target="_blank"> 4 Amethyst (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4r%20tt%20v1_2.pdf" target="_blank"> 4 Ruby (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4k%20tt%20v1_2.pdf" target="_blank"> 4 Kunzite (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4l%20tt%20v1_2.pdf" target="_blank"> 4 Larimar (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4e%20tt%20v1_2.pdf" target="_blank"> 4 Emerald (Sem 2 Timetable V1.2)</a>
+ * <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s5e%20tt%20v1_2.pdf" target="_blank"> 5 Eudialyte (Sem 2 Timetable V1.2)</a>
