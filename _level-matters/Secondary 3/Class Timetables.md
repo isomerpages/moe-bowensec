@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Secondary 3
 ---
 ## 2023 Sec 3 Semester 1 Timetables
-
 #### Version 1.2 (w.e.f. 26 June)
-
 
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s3t%20tt%20v1_2.pdf" target="_blank"> 3 Topaz (Sem 2 Timetable V1.2)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s3s%20tt%20v1_2.pdf" target="_blank"> 3 Sapphire (Sem 2 Timetable V1.2)</a>
