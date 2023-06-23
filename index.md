@@ -28,10 +28,4 @@ sections:
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
       title: Semester 2 Class Timetables
-  - infobar:
-      title: Direct School Admission for 2024
-      description: Application from 4 May (11am)  -  31 May 2023, (3pm)
-      button: Find OUT MORE
-      url: /signature-programmes/direct-school-admission-1/
-      subtitle: Interested to DSA to Bowen?
 ---
