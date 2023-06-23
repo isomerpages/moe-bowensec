@@ -11,8 +11,7 @@ third_nav_title: Secondary 4&5
 
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4t%20tt%20v1_2.pdf" target="_blank"> 4 Topaz (Sem 2 Timetable V1.2)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4o%20tt%20v1_2.pdf" target="_blank"> 4 Opal (Sem 2 Timetable V1.2)</a>
-*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s3s%20tt%20v1_2.pdf" target="_blank"> 3 Sapphire (Sem 2 Timetable V1.2)</a>
-*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4p%20tt%20v1_2.pdf" target="_blank"> 4 Peridot (Sem 2 Timetable V1.2)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s3s%20tt%20v1_2.pdf" target="_blank">  4 Peridot (Sem 2 Timetable V1.2)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4a%20tt%20v1_2.pdf" target="_blank"> 4 Amethyst (Sem 2 Timetable V1.2)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4r%20tt%20v1_2.pdf" target="_blank"> 4 Ruby (Sem 2 Timetable V1.2)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4k%20tt%20v1_2.pdf" target="_blank"> 4 Kunzite (Sem 2 Timetable V1.2)</a>
