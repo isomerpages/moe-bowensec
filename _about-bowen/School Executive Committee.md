@@ -15,7 +15,7 @@ description: ""
 <hr>	
 
 <img src="/images/Our%20People/mr%20benjamin%20chen.jpg" style="width:20%">
-<center><b>&nbsp;Mr. Chen Zhaokai Benjamin <br>VICE-PRINCIPAL</b><br><a href="Chen_Zhaokai_Benjamin@schools.gov.sg">Chen_Zaokai_Benjamin@schools.gov.sg</a></center>
+<center><b>&nbsp;Mr. Chen Zhaokai Benjamin <br>VICE-PRINCIPAL</b><br><a href="Chen_Zhaokai_Benjamin@schools.gov.sg">Chen_Zhaokai_Benjamin@schools.gov.sg</a></center>
 <hr>	
 
 
