@@ -6,7 +6,7 @@ third_nav_title: Secondary 4&5
 ---
 ## 2023 Sec 4 and Sec 5 Semester 1 Timetables
 
-#### Version 1.2 (w.e.f. 26 June)
+#### Version 1.4 (w.e.f. 4 July)
 
 
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s4t%20tt%20v1_2.pdf" target="_blank"> 4 Topaz (Sem 2 Timetable V1.2)</a>
