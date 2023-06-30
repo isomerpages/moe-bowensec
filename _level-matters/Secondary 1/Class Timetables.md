@@ -8,7 +8,7 @@ third_nav_title: Secondary 1
 
 #### Version 1.2 (W.e.f. 26 June)
 
-*    <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1t%20tt%20v1_2.pdf" target="_blank"> 1 Topaz (Sem 2 Timetable V1.2)</a>
+*    <a href="/files/Class%20Timetables/2023/Sem%202/V1_4/2023%20sem2%20s1t%20tt%20v1_4.pdf" target="_blank"> 1 Topaz (Sem 2 Timetable V1.4)</a>
 *   <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1s%20tt%20v1_2.pdf" target="_blank"> 1 Sapphire (Sem 2 Timetable V1.2)</a>
 *   <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1p%20tt%20v1_2.pdf" target="_blank"> 1 Peridot (Sem 2 Timetable V1.2)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_2/2023%20sem2%20s1a%20tt%20v1_2.pdf" target="_blank"> 1 Amethyst (Sem 2 Timetable V1.2)</a>
