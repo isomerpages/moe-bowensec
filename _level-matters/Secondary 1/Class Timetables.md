@@ -14,4 +14,4 @@ third_nav_title: Secondary 1
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_5/2023%20sem2%20s1r%20tt%20v1_5.pdf" target="_blank"> 1 Ruby (Sem 2 Timetable V1.5)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_5/2023%20sem2%20s1k%20tt%20v1_5.pdf" target="_blank"> 1 Kunzite (Sem 2 Timetable V1.5)</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_5/2023%20sem2%20s1l%20tt%20v1_5.pdf" target="_blank"> 1 Larimar (Sem 2 Timetable V1.5)</a>
-*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_5/2023%20sem2%20s1e%20tt%20v1_5.pdf" target="_blank"> 1 emerald (Sem 2 Timetable V1.5)</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/V1_5/2023%20sem2%20s1e%20tt%20v1_5.pdf" target="_blank"> 1 Emerald (Sem 2 Timetable V1.5)</a>
