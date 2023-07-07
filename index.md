@@ -28,4 +28,5 @@ sections:
       button: News & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
       title: Semester 2 Class Timetables
+      subtitle: Version 1.5 (wef 10 July)
 ---
