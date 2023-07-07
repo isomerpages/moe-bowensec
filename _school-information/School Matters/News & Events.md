@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
-### 2023 Sem 2 Class Timetables <br>(Version 1.2  w.e.f. 26<sup>th</sup> June)
+### 2023 Sem 2 Class Timetables <br>(Version 1.5  w.e.f. 10<sup>th</sup> July)
 Please click on the links to view the updated timetables.
 
 1.  [Sec 1: Sem 2 Class Timetables](/school-information/level-matters/secondary-1/class-timetables/)
