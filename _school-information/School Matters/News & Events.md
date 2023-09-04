@@ -5,6 +5,18 @@ description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
+### 2023 End-of-Year Examination / Prelims Schedule
+Please click on the links to view the updated End-of-year Examination schedule for S1 - S3
+
+1.  [2023 Sec 1 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s1%20eoy%20tt.pdf)
+2.  [2023 Sec 2 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s2%20eoy%20tt.pdf)
+3.  [2023 Sec 3 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s3%20eoy%20tt.pdf)
+4.  [2023 O Prelims Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
+  
+<hr>
+
+
+
 ### 2023 Sem 2 Class Timetables <br>(Version 1.5  w.e.f. 10<sup>th</sup> July)
 Please click on the links to view the updated timetables.
 
