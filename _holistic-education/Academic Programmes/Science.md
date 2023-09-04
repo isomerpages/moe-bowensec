@@ -8,21 +8,19 @@ third_nav_title: Academic Programmes
 
 <b><i>~ Carl Strong</i></b>
 
-The Bowen Science Department aims to equip students not just with scientific knowledge and skills but also a scientific way of thinking so that students will be able to make informed decisions about emerging science-related issues which are important to self and society. 
+The Bowen Science Department aims to equip students not just with scientific knowledge and skills but also a scientific way of thinking so that students will be able to make informed decisions about emerging science-related issues which are important to self and society.&nbsp;
 
-This is achieved through the use of the Inquiry Based approach for lessons and activities. The conduct of inquiry is founded on three integral domains of   
+This is achieved through the use of the Inquiry Based approach for lessons and activities. The conduct of inquiry is founded on three integral domains of&nbsp;  
 
 a. Knowledge, Understanding and Application,<br>
 b) Skills and Processes and<br>
 c) Ethics and Attitudes.<br>
 
-<img src="/images/sci%201.png" 
-     style="width:60%">
+<img src="/images/sci%201.png" style="width:60%">
 
 The curriculum design seeks to enable students to view the pursuit of science as meaningful and relevant to real life.
 
-<img src="/images/sci%202.png" 
-     style="width:60%">
+<img src="/images/sci%202.png" style="width:60%">
 		 
 ### Lower Secondary Science
 <style type="text/css">
@@ -199,12 +197,7 @@ Beyond classroom lessons and laboratory practicals, Science teachers plan enrich
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">lim_hui_yi_cheryl@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Liang Ruishan</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">liang_ruishan@schools.gov.sg</span></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm. Shafiqah</span><br></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">shafiqah_hadam_hussain@schools.gov.sg</span></td>
@@ -224,22 +217,7 @@ Beyond classroom lessons and laboratory practicals, Science teachers plan enrich
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">liew_chee_liang@schools.gov.sg </span><br></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Wilson Koh</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">yeh_jie_wilson_koh@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Alvis Mazon Tan</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">alvis_mazon_tan@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Beena Rai</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">beena_rai@schools.gov.sg</span></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Nur Hafiza</span></td>
     <td class="tg-fxx4"><span style="color:#222">Technical Support Officer  </span></td>
     <td class="tg-fxx4"><span style="color:#222">nurhafiza_abdul_rahim@schools.gov.sg</span></td>
