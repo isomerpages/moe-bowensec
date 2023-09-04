@@ -28,7 +28,8 @@ sections:
       id: infobar
       description: Visit the respective Sec 1 to Sec 3 Level pages to access
         End-of-Year Examination Timetables
-      button: Button Text
+      button: NEWS & EVENTS PAGE
+      url: /school-information/school-matters/news-n-events/
   - infobar:
       description: Visit the respective Sec 1 to Sec 4 Level pages to access Semester
         2 Class Timetables
