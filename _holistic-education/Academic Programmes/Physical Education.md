@@ -4,7 +4,7 @@ permalink: /holistic-education/academic-programmes/physical-education/
 description: ""
 third_nav_title: Academic Programmes
 ---
-Our goal is to develop students physically, intellectually, socially and emotionally through physical activity.      
+Our goal is to develop students physically, intellectually, socially and emotionally through physical activity.&nbsp; &nbsp;   
 
 A cognitively and physically educated person is one who has necessary skills and knowledge in sports and games appropriate values and desirable social habits the required level of physical fitness that would lead to
 
@@ -14,30 +14,30 @@ A cognitively and physically educated person is one who has necessary skills and
 
 ### OUR PE CURRICULUM
 
-Over the 4-5 years in Bowen, our students will learn how to play a variety of sports and games, and maintain physical fitness. A cognitive approach is taken to enable our students to appreciate and understand the different sports. Through concept-based lessons, students are encouraged to think critically and creatively devising strategies for game play. It is also our aim to develop purposeful and stimulating lessons and activities that will strengthen our students’ affective and social skills, foster character building and cultivate the desirable qualities of sportsmanship.      
+Over the 4-5 years in Bowen, our students will learn how to play a variety of sports and games, and maintain physical fitness. A cognitive approach is taken to enable our students to appreciate and understand the different sports. Through concept-based lessons, students are encouraged to think critically and creatively devising strategies for game play. It is also our aim to develop purposeful and stimulating lessons and activities that will strengthen our students’ affective and social skills, foster character building and cultivate the desirable qualities of sportsmanship.&nbsp; &nbsp;&nbsp;  
 
-Besides the games & sports and outdoor education lessons, our students also go through a series of Physical Health and Fitness lessons that are designed to equip them with the relevant sports-related knowledge which will serve as a good foundation if they wish to take up Exercise & Sports Science (ESS) as a GCE ‘O’ Level subject in Upper Secondary.
+Besides the games &amp; sports and outdoor education lessons, our students also go through a series of Physical Health and Fitness lessons that are designed to equip them with the relevant sports-related knowledge which will serve as a good foundation if they wish to take up Exercise &amp; Sports Science (ESS) as a GCE ‘O’ Level subject in Upper Secondary.
 
 ------
 
 ### Bowen PE Microsite
 
 You may go to the Bowen PE microsite to look in detail at the school's PE programme across all levels.  
-[Bowen PE Microsite >>>](https://sites.google.com/bws.edu.sg/bowenpe)
+[Bowen PE Microsite &gt;&gt;&gt;](https://sites.google.com/bws.edu.sg/bowenpe)
 ![](/images/Bowen%20PE%20microsite.png)
 
 ------
 
 ### ASSESSMENT
 
-Our students undergo continuous assessment of their level of competency in understanding and application of game skills and concepts, fitness level and their capacity to demonstrate sportsmanship and good values. 
+Our students undergo continuous assessment of their level of competency in understanding and application of game skills and concepts, fitness level and their capacity to demonstrate sportsmanship and good values.&nbsp;
 
 
 All our students are encouraged to achieve a good PE grade based on the following components:
 
 *   Game Skills and Concepts  
     
-*   Physical Health & Fitness  
+*   Physical Health &amp; Fitness  
     
 *   Outdoor Education Skills  
     
@@ -45,12 +45,11 @@ All our students are encouraged to achieve a good PE grade based on the followin
 
 ------
 ### Exercise and Sports Science (ESS)
-<img src="/images/PE%201.png" 
-     style="width:60%">
+<img src="/images/PE%201.png" style="width:60%">
 
 Exercise and Sports Science (ESS) is a new subject that will look at various aspects of sports science, including exercise physiology, biomechanics, sports psychology, sports sociology and motor learning. Students will also apply the concepts behind these disciplines to perform physical activities and find ways to improve performance.
 
-Students entering Secondary 3 can opt for the subject and offer it as an O-level subject. They will have an extra three hours of PE classes weekly, on top of the two hours of lessons for all students. This move provides students with another option to pursue their interests and engage their strengths.
+Students entering Secondary 3 can opt for the subject and offer it as an O-level subject. They will have an extra three hours of PE classes weekly, on top of the two hours of lessons for all students.&nbsp;This move provides students with another option to pursue their interests and engage their strengths.
 
 # Physical Education Team
 ### Physical Education Teachers
@@ -115,10 +114,6 @@ Students entering Secondary 3 can opt for the subject and offer it as an O-level
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">anne_marie_chua@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Nurhaqimah</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">nurhaqimah_mohd_khamin@schools.gov.sg</span></td>
-  </tr>
+
 </tbody>
 </table>
