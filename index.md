@@ -23,6 +23,13 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infobar:
+      title: End-Of-Year Exam Schedule
+      subtitle: Sec 1  - Sec 3
+      id: infobar
+      description: Visit the respective Sec 1 to Sec 3 Level pages to access
+        End-of-Year Examination Timetables
+      button: Button Text
+  - infobar:
       description: Visit the respective Sec 1 to Sec 4 Level pages to access Semester
         2 Class Timetables
       button: News & EVENTS PAGE
