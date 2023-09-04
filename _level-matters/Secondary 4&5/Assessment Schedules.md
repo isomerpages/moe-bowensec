@@ -8,4 +8,5 @@ third_nav_title: Secondary 4&5
 
 ### 2023 Prelim Examination Schedule
 
-1. [2023 O Level Preliminary Examinations Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
+1. [2023 N Level Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20n%20prelims%20tt.pdf)
+2. [2023 O Level Preliminary Examinations Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
