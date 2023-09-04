@@ -19,7 +19,8 @@ Please click on the links to view the updated End-of-year Examination schedule f
 ### 2023 GCE N &amp; O Level Examination Schedule
 Please click on the links to view the GCE N and O Level Examination schedule
 
-1.  [s
+1.  [2023 GCE N Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20n%20exam%20tt.pdf)
+2.  [2023 GCE O Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20o%20exam%20tt.pdf)
 
 <hr>
 
