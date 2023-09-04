@@ -170,11 +170,6 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222">goh_yi_cheng@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Ida Lim</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">ida_lim@schools.gov.sg</span></td>
-  </tr>
-  <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm. Ng Gek Hwa</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">ng_gek_hwa@schools.gov.sg</span></td>
@@ -183,11 +178,6 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222">Mdm. Siti Hawa</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">siti_hawa_abdul_hadi@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Rachel Emily Wu</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">wu_shi_min_rachel@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Ken Foo</span></td>
