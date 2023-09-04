@@ -6,7 +6,6 @@ third_nav_title: Secondary 4&5
 ---
 **Term Assessments and Examination Timetables**  
 
-### 2023 Term Assessment 2 (TA2) Schedule
+### 2023 Prelim Examination Schedule
 
-1. [2023 S4n5 TA2 Briefing Slides](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20ta2%20briefing%20slides%20s4_5.pdf)
-2. [2023 S4n5 TA2 Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20s4n5%20ta2%20tt.pdf)
+1. [2023 O Level Preliminary Examinations Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
