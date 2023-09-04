@@ -5,6 +5,25 @@ description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
+### 2023 End-of-Year Examination / Prelims Schedule
+Please click on the links to view the updated End-of-year Examination schedule for S1 - S3
+
+1.  [2023 Sec 1 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s1%20eoy%20tt.pdf)
+2.  [2023 Sec 2 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s2%20eoy%20tt.pdf)
+3.  [2023 Sec 3 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s3%20eoy%20tt.pdf)
+4.  [2023 O Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
+5.  [2023 N Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20n%20prelims%20tt.pdf)
+  
+<hr>
+
+### 2023 SINGAPORE/CAMBRIDGE GCE N &amp; O Level Examination Schedule
+Please click on the links to view the GCE N and O Level Examination schedule
+
+1.  [2023 GCE N Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20n%20exam%20tt.pdf)
+2.  [2023 GCE O Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20o%20exam%20tt.pdf)
+
+<hr>
+
 ### 2023 Sem 2 Class Timetables <br>(Version 1.5  w.e.f. 10<sup>th</sup> July)
 Please click on the links to view the updated timetables.
 

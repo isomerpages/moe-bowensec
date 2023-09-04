@@ -4,7 +4,7 @@ permalink: /school-information/level-matters/secondary-4-5/class-timetables/
 description: ""
 third_nav_title: Secondary 4&5
 ---
-## 2023 Sec 4 and Sec 5 Semester 1 Timetables
+## 2023 Sec 4 and Sec 5 Semester 2 Timetables
 
 #### Version 1.5 (w.e.f. 10 July)
 

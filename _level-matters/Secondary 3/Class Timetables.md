@@ -4,7 +4,7 @@ permalink: /school-information/level-matters/secondary-3/class-timetables/
 description: ""
 third_nav_title: Secondary 3
 ---
-## 2023 Sec 3 Semester 1 Timetables
+## 2023 Sec 3 Semester 2 Timetables
 #### Version 1.5 (w.e.f. 10 July)
 
 *  <a href="/files/Class%20Timetables/2023/Sem%202/V1_5/2023%20sem2%20s3t%20tt%20v1_5.pdf" target="_blank"> 3 Topaz (Sem 2 Timetable V1.5)</a>

@@ -6,8 +6,7 @@ third_nav_title: Secondary 3
 ---
 ### Secondary 3 Year Head (2022 Academic Year)
 
-<img src="/images/Our%20People/MS-BERNICE-TEY.jpeg" 
-     style="width:25%">
+<img src="/images/Our%20People/MS-BERNICE-TEY.jpeg" style="width:25%">
 
 <center><b>Mrs. Bernice Kuan</b><br>
 Year Head  <br>
@@ -17,23 +16,22 @@ Secondary 3 (2023 Academic Year)  <br>
 
 ### Sec 3 Cohort Theme
 
-<img src="/images/2021%20Sec1%20Cohort%20Moto.jpg" 
-     style="width:40%">
+<img src="/images/2021%20Sec1%20Cohort%20Moto.jpg" style="width:40%">
 <center><b>G</b>row and <b>E</b>mbrace change to become a <b>M</b>asterpiece</center>
 		 
-We strongly believe that each student is unique and is able to shine in his/her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece. As such, we would like to introduce our class names, cohort motto and theme for the Sec 1s of 2021. 
+We strongly believe that each student is unique and is able to shine in his/her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece. As such, we would like to introduce our class names, cohort motto and theme for the Sec 1s of 2021.&nbsp;
 
   
 
-The classes will be named after gems with the acronym **“To SPARKLE”** as we believe each class is a gem of its own and will sparkle in its unique way.
+The classes will be named after gems with the acronym&nbsp;**“To SPARKLE”**&nbsp;as we believe each class is a gem of its own and will sparkle in its unique way.
 
   
 
-These gems are: 
+These gems are:&nbsp;
 
 **Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar and Emerald.**
 
-The cohort theme will be based on our reinterpretation of the novel 'Wizard of Oz' written by L. Frank Baum: we envision our students, whom we will affectionately call “GEMies” in the “Land of Bowen”. 
+The cohort theme will be based on our reinterpretation of the novel 'Wizard of Oz' written by L. Frank Baum: we envision our students, whom we will affectionately call “GEMies” in the “Land of Bowen”.&nbsp;
 
 With the support of their guardians, their Form Teachers, and a pair of Ruby shoes – a Growth Mindset - our GEMies will be empowered to reach their final destination – Emerald City.
 
@@ -124,14 +122,10 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">K</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Wilson Koh</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">yeh_jie_wilson_koh@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs. Sim Sook Fen </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Sim Sook Fen</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">loh_sook_fen@schools.gov.sg</span></td>
   </tr>
+  
   <tr>
     <td class="tg-b4br">3 Larimar</td>
     <td class="tg-fxx4"><span style="color:#222">Mr Randy Low </span></td>

@@ -4,7 +4,7 @@ permalink: /school-information/level-matters/secondary-2/class-timetables/
 description: ""
 third_nav_title: Secondary 2
 ---
-## 2023 Sec 2 Semester 1 Timetables
+## 2023 Sec 2 Semester 2 Timetables
 
 #### Version 1.5 (w.e.f. 10 July)
 

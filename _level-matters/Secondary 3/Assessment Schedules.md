@@ -6,8 +6,6 @@ third_nav_title: Secondary 3
 ---
 **Term Assessments and Examination Timetables**
 
-### 2023 Sec 3 Term Assessment 2 (TA2) Schedule
+### 2023 Sec 3 End-of-Year Examination Schedule Schedule
 
-1. [2023 TA2 Briefing Slides for Sec 1 - 3](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20ta2%20briefing%20slides%20s1_2_3.pdf)
-
-2. [2023 S3 TA2 Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/TA2/2023%20s3%20ta2%20tt.pdf)
+1. [2023 Sec 3 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s3%20eoy%20tt.pdf)
