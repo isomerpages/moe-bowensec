@@ -11,7 +11,8 @@ Please click on the links to view the updated End-of-year Examination schedule f
 1.  [2023 Sec 1 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s1%20eoy%20tt.pdf)
 2.  [2023 Sec 2 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s2%20eoy%20tt.pdf)
 3.  [2023 Sec 3 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s3%20eoy%20tt.pdf)
-4.  [2023 O Prelims Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
+4.  [2023 O Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
+5.  [2023 N Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20n%20prelims%20tt.pdf)
   
 <hr>
 
