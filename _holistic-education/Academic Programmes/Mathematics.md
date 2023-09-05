@@ -109,12 +109,7 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
     <td class="tg-fxx4"><span style="color:#222">HOD / CCE</span></td>
     <td class="tg-fxx4"><span style="color:#222">dominic_goh_buan_chuan@schools.gov.sg</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-580q">Mr. Wilson Goy<br></td>
-    <td class="tg-fxx4"><span style="color:#222">HOD / Discipline</span></td>
-    <td class="tg-fxx4"><span style="color:#222">goy_wee_seng@schools.gov.sg</span></td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-580q">Mdm. Padma<br></td>
     <td class="tg-fxx4"><span style="color:#222">ST / Maths</span></td>
     <td class="tg-fxx4"><span style="color:#222">padma_ramachandran@schools.gov.sg</span></td>

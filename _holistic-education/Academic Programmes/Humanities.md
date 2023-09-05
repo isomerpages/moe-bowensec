@@ -10,13 +10,12 @@ The department strives to develop a creative and inquiring mind; one who is able
 
 ### Inquiry-based Learning
 
-<img src="/images/humanities%201.png" 
-     style="width:40%">
+<img src="/images/humanities%201.png" style="width:40%">
 		 
-Opportunities for outdoor learning make learning the Humanities exciting! They engage in experiential learning which helps students develop critical thinking skills, gain deeper appreciation of the humanities and develop interpersonal skills. 
+Opportunities for outdoor learning make learning the Humanities exciting! They engage in experiential learning which helps students develop critical thinking skills, gain deeper appreciation of the humanities and develop interpersonal skills.&nbsp;
 
  
-Students become actively involved in the learning process as they: 
+Students become actively involved in the learning process as they:&nbsp;
 
 *   act upon their curiosity and interests;  
     
@@ -32,9 +31,8 @@ Students become actively involved in the learning process as they: 
     
 *   draw inferences and generate possible solutions.
 
-### Historical & Social Studies Investigations 
-<img src="/images/humanities%202.png" 
-     style="width:50%">
+### Historical &amp; Social Studies Investigations&nbsp;
+<img src="/images/humanities%202.png" style="width:50%">
 In Historical Investigations, students explore a range of authentic sources to glean perspectives of the lives of people in the past.
 
   
@@ -43,17 +41,17 @@ Students also navigate through various historical sites in Singapore and encount
 
   
 
-*   Secondary 1 -  Fort Canning, National Museum of Singapore  
+*   Secondary 1 -&nbsp; Fort Canning, National Museum of Singapore  
     
 *   Secondary 2 - National Museum of Singapore  
     
-*   Secondary 4 & 5 - Internal Security Department, Heritage Gallery
+*   Secondary 4 &amp; 5 - Internal Security Department, Heritage Gallery
 
 ### Geographical Investigations
 
 Lower Secondary students tested the water for turbidity, dissolved oxygen and pH values at Bishan-AMK Park to better appreciate the clean waters in Singapore. They also traced the development of public housing at HDB Hub and investigated special places in their neighborhoods.
 
-Upper Secondary students investigated the micro-climate in school as well as surveyed tourists to research on their impact on Chinatown. Pure Geography students also saw geography come to life at East Coast Park while investigating beach profile and longshore drift, tasks that help them connect textbook theories to real-life occurrences.
+Upper Secondary students investigated the micro-climate in school as well as surveyed tourists to research on their impact on Chinatown.&nbsp;Pure Geography students also saw geography come to life at East Coast Park while investigating beach profile and longshore drift, tasks that help them connect textbook theories to real-life occurrences.
 
 ![](/images/humanities%203.png)
 
@@ -128,12 +126,7 @@ Upper Secondary students investigated the micro-climate in school as well as sur
     <td class="tg-fxx4"><span style="color:#222">SH / Humanities </span></td>
     <td class="tg-fxx4"><span style="color:#222">khairul_anwar_ali@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Ida Lim</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">ida_lim@schools.gov.sg</span></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mrs. Sandra Lim</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">teo_cai_ling_sandra@schools.gov.sg </span></td>
@@ -166,7 +159,7 @@ Upper Secondary students investigated the micro-climate in school as well as sur
 </tbody>
 </table>
 
-### History & Social Studies Teachers
+### History &amp; Social Studies Teachers
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
