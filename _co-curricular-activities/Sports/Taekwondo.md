@@ -37,10 +37,10 @@ third_nav_title: Sports
 </tbody>
 </table>
 
-# About Bowen Taekwondo Club (BTC)
+## About Bowen Taekwondo Club (BTC)
 
 Bowen Taekwondo Club (BTC) started in 2000. The Korean martial art, Taekwondo, emphasizes leg techniques and gravity defying aerial kicks. Therefore, BTC’s trainings revolve around two main activities: Poom Sae demonstration (Taeguk/Patterns Mastery or Mastery of martial art forms) and Sparring (Hand-to-Hand Combat/Unarmed Combat Mastery). 
 
 Junior members start off with learning basic punches, kicks, blocks/stances and progress to unarmed combat. Advanced skills such as jumping sidekick, jumping backthrust and 360 degree kick are taught at later phases. Gradings are conducted 2-4 times a year so that members who pass will be able to progress to their next skill level. Members are also given opportunity to train and take part in the annual National School Games Taekwondo Championships. 
 
-Bowen Taekwondo Club (BTC) aims to toughen our members physically and mentally, while prioritising on the development of one's character and values of respect, responsibility, self-control and resilience. 
+Bowen Taekwondo Club (BTC) aims to toughen our members physically and mentally, while prioritising on the development of one's character and values of respect, responsibility, self-control and resilience.
