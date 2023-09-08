@@ -45,7 +45,7 @@ third_nav_title: Clubs and Societies
 
 ### About Bowen AIMS Club
 
-<img src="/images/AVA-Boys-at-he-control-Room.jpeg" style="width:70%">
+![](/images/CCAs/Clubs%20&amp;%20Societies/AIMS%20Club/aims%20club%20montage.jpg)
 		 
 Get ready to unleash your creativity and show off your technical skills! The AIMS Club is here to take your media and audio-visual (AVA) skills to the next level. With a focus on media skills and AVA skills, you'll learn how to work with state-of-the-art sound, lighting and projection systems to put on stunning displays for all school events/functions.
 
