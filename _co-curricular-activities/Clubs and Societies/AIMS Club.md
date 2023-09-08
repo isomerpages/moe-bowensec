@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/clubs-and-societies
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/aims-club-members.jpeg)
+![](/images/CCAs/Clubs%20&amp;%20Societies/AIMS%20Club/aims%20club%20group%20photo.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -45,11 +45,12 @@ third_nav_title: Clubs and Societies
 
 ### About Bowen AIMS Club
 
-<img src="/images/AVA-Boys-at-he-control-Room.jpeg" 
-     style="width:70%">
+![](/images/CCAs/Clubs%20&amp;%20Societies/AIMS%20Club/aims%20club%20montage.jpg)
 		 
-The AIMS club’s programme focuses on two areas namely the media skills and the audio-visual aid (AVA) skills. Students will go through a structured training in sound, lighting and projection system to effectively carry out AVA duties for all school events/functions. 
+Get ready to unleash your creativity and show off your technical skills! The AIMS Club is here to take your media and audio-visual (AVA) skills to the next level. With a focus on media skills and AVA skills, you'll learn how to work with state-of-the-art sound, lighting and projection systems to put on stunning displays for all school events/functions.
 
-  
+But that's not all - the AIMS Club is also about empowering you with the essential skills needed to create impressive publications and video presentations. Imagine being able to produce high-quality videos and create visually captivating graphics and designs that engages your audience.
 
-Besides training students to carry out AVA duties, the club also aims to equip its members with essential and relevant skills that would enable them to develop publications and video presentations.
+Additionally, the AIMS Club also offers opportunities for students to learn about coding and programming courses organized by IMDA, which will further enhance their technical skills and understanding of digital media. AIMS Club students can broaden their knowledge and develop valuable skills that will benefit them even after graduation.
+
+Whether you have a passion for photography, videography, or just want to sharpen your audio/visual technical skills, the AIMS Club has got you covered!
