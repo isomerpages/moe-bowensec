@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-ccas/clubs-and-societies
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/aims-club-members.jpeg)
+![](/images/CCAs/Clubs%20&amp;%20Societies/AIMS%20Club/aims%20club%20group%20photo.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
