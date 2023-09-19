@@ -28,7 +28,7 @@ third_nav_title: Sports
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
-    <td class="tg-u05r">Mondays (Competitions only)<br><span style="color:#222">3:15pm to 6pm</span><br><br>Tuesdays<br><span style="color:#222">3:15pm to 6pm</span><br><br>Fridays<br><span style="color:#222">2pm to 5pm</span><br><br></td>
+    <td class="tg-u05r">Tuesdays<br><span style="color:#222">3:15pm to 6pm</span><br><br>Fridays<br><span style="color:#222">2pm to 5pm</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Venue</span><span style="color:#222"> </span></td>
@@ -37,7 +37,7 @@ third_nav_title: Sports
 </tbody>
 </table>
 
-# About Bowen Taekwondo Club (BTC)
+## About Bowen Taekwondo Club (BTC)
 
 Bowen Taekwondo Club (BTC) started in 2000. The Korean martial art, Taekwondo, emphasizes leg techniques and gravity defying aerial kicks. Therefore, BTC’s trainings revolve around two main activities: Poom Sae demonstration (Taeguk/Patterns Mastery or Mastery of martial art forms) and Sparring (Hand-to-Hand Combat/Unarmed Combat Mastery). 
 
