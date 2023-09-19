@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Secondary 1
 ---
 ### Secondary 1 Year Heads (2023 Academic Year)
-<img src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg" 
-     style="width:25%">
+<img src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg" style="width:25%">
 		 
 <center><b>Ms. Sharifah Kamelia Syed</b><br>
 Year Head<br>
@@ -17,20 +16,20 @@ Secondary 1 (2023 Academic Year)<br>
 ### 2023 Sec 1 Cohort Theme
 
 ![](/images/Level%20Matters/S1/2023%20S1%20Cohort%20Theme.jpg)	 
-Our cohort theme centres around the **Bowen Experience (B.E)** which corresponds to the lower secondary themes of **Explore** and **Embrace**. We aim to develop in our students a growth mindset, likened to a butterfly expanding its wings and developing life skills to **Connect**, **Collaborate** and **Create**. Our students will be able to work in teams and be the catalyst for positive change within themselves.   
+Our cohort theme centres around the&nbsp;**Bowen Experience (B.E)**&nbsp;which corresponds to the lower secondary themes of&nbsp;**Explore**&nbsp;and&nbsp;**Embrace**. We aim to develop in our students a growth mindset, likened to a butterfly expanding its wings and developing life skills to&nbsp;**Connect**,&nbsp;**Collaborate**&nbsp;and&nbsp;**Create**. Our students will be able to work in teams and be the catalyst for positive change within themselves.&nbsp;  
 
   
 
-Through their academic and holistic journey in Bowen, each Bowenian will have the opportunity to be engaged in our signature programmes, CCAs and activities through experiential learning, exploring their strengths and interests and aspiring to be a Beac**ON** of light in making positive impact for self and others.
+Through their academic and holistic journey in Bowen, each Bowenian will have the opportunity to be engaged in our signature programmes, CCAs and activities through experiential learning, exploring their strengths and interests and aspiring to be a Beac**ON**&nbsp;of light in making positive impact for self and others.
 
 
 ![](/images/Level%20Matters/S1/2023%20S1%20Cohort%20To%20Sparkle.jpg)
 		 
-The  classes are named after gems with the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way. 
+The&nbsp; classes are named after gems with the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.&nbsp;
 
   
 
-The gems are: **Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar** and **Emerald.**
+The gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald.**
 
 ### 2023 Secondary 1 Form Teachers
 
@@ -64,11 +63,7 @@ The gems are: **Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar** a
     <td class="tg-emg8"><span style="color:#222">Mrs. Irene Leong</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">low_wai_wan@schools.gov.sg</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-emg8"><span style="color:#222">Ms. Ong Ai Lingg</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">ong_ai_lingg@schools.gov.sg</span><br></td>
-  </tr>
+
   <tr>
     <td class="tg-b4br">1 Sapphire</td>
     <td class="tg-fxx4"><span style="color:#222">Mr. Sheik Habib</span><br></td>
