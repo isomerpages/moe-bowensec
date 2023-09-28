@@ -16,3 +16,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 6. [2023 Sec 1 Start of Term 3 Letter (dated 26 Jun 2023)](/files/Level%20Matters/S1/2023/2023%20term%203%20letter_%20sec%201.pdf)
 7. [2023 Sec 1 TA3 Letter (dated 17Jul 2023)](/files/Level%20Matters/S1/2023/2023_%20letter%20to%20parents%20ta3%20sec%201.pdf)
 8. [2023 Sec 1 End-Of-Year Examinations Letter (dated 21 Aug 2023)](/files/Level%20Matters/S1/2023/2023_letter%20to%20parents_eoy_sec1.pdf)
+9. [2023 Sec 1 Start of Term 4 Letter (dated 12 Sep 2023)](/files/Level%20Matters/S1/2023/2023%20term%204%20letter_%20sec%201.pdf)
