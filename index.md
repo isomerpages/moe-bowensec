@@ -37,4 +37,12 @@ sections:
       url: /school-information/school-matters/news-n-events/
       title: Semester 2 Class Timetables
       subtitle: Version 1.5 (wef 10 July)
+  - infopic:
+      title: OPEN HOUSE
+      subtitle: Visit us! The Bowen Experience
+      id: infopic
+      description: |-
+        18 November 2023 Saturday
+        9am - 12pm
+      alt: Image alt text
 ---
