@@ -22,21 +22,6 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
-  - infobar:
-      title: End-Of-Year Exam Schedule
-      subtitle: Sec 1  - Sec 3
-      id: infobar
-      description: Visit the respective Sec 1 to Sec 3 Level pages to access
-        End-of-Year Examination Timetables
-      button: NEWS & EVENTS PAGE
-      url: /school-information/school-matters/news-n-events/
-  - infobar:
-      description: Visit the respective Sec 1 to Sec 4 Level pages to access Semester
-        2 Class Timetables
-      button: News & EVENTS PAGE
-      url: /school-information/school-matters/news-n-events/
-      title: Semester 2 Class Timetables
-      subtitle: Version 1.5 (wef 10 July)
   - infopic:
       title: OPEN HOUSE
       subtitle: Visit us! The Bowen Experience
@@ -45,4 +30,12 @@ sections:
         18 November 2023 Saturday
         9am - 12pm
       alt: Image alt text
+  - infobar:
+      title: End-Of-Year Exam Schedule
+      subtitle: Sec 1  - Sec 3
+      id: infobar
+      description: Visit the respective Sec 1 to Sec 3 Level pages to access
+        End-of-Year Examination Timetables
+      button: NEWS & EVENTS PAGE
+      url: /school-information/school-matters/news-n-events/
 ---
