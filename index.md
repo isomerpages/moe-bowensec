@@ -30,6 +30,7 @@ sections:
         18 November 2023 Saturday
         9am - 12pm
       alt: Image alt text
+      image: /images/School Events/2023/infopic bowen experience.jpg
   - infobar:
       title: End-Of-Year Exam Schedule
       subtitle: Sec 1  - Sec 3
