@@ -15,4 +15,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 5. [S2 Start of Term 3 Letter (dated 26 Jun 2023)](/files/Level%20Matters/S2/2023/2023%20term%203%20letter_%20sec%202.pdf)
 6. [S2 TA3 Letter (dated 17 Jul 2023)](/files/Level%20Matters/S2/2023/2023_%20letter%20to%20parents%20ta3%20sec%202.pdf)
 7. [S2 EOY Letter -revised (dated 28 Aug 2023)](/files/Level%20Matters/S2/2023/2023_letter%20to%20parents_eoy_sec2_revised.pdf)
-8. [2023 Sec 2 Start of Term 4 Letter (dated 12 Sep 2023)](/files/Level%20Matters/S2/2023/2023%20term%204%20letter_%20sec%202.pdf)
+8. [S2 Start of Term 4 Letter (dated 12 Sep 2023)](/files/Level%20Matters/S2/2023/2023%20term%204%20letter_%20sec%202.pdf)
