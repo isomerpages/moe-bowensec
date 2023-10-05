@@ -5,6 +5,11 @@ description: ""
 third_nav_title: School Matters
 ---
 # Latest News and Events
+
+### The Bowen Experience [OPEN HOUSE 18 Nov]
+![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
+
+
 ### 2023 End-of-Year Examination / Prelims Schedule
 Please click on the links to view the updated End-of-year Examination schedule for S1 - S3
 
