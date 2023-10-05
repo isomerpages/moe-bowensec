@@ -8,4 +8,4 @@ third_nav_title: Secondary 2
 
 ### 2023 Sec 2 End-of-Year Examination Schedule
 
-1. [2023 Sec 2 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s2%20eoy%20tt.pdf)
+1. [2023 Sec 2 EOY Timetable (Updated 4/9)](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20sec%202%20eoy%20timetable%20updated%204%20sep.pdf)
