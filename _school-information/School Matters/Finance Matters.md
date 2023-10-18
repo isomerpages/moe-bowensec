@@ -166,7 +166,10 @@ To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;
 
 
 ### MOE 2024 FAS Pamphlet
-
+1. [2024 MOE FAS Pamphlet English](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20english.pdf)
+2. [2024 MOE FAS Pamphlet Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20chinese.pdf)
+3. [2024 MOE FAS Pamphlet Malay](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20malay.pdf)
+4. [2024 MOE FAS Pamphlet Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20tamil.pdf)
 
 
 ### 2024 FAS Application Form
