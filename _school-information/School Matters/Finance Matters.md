@@ -76,8 +76,8 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
 </table>
 
 MOE Links  
-* [School Fees @ MOE website >>>](https://www.moe.gov.sg/financial-matters/fees)   
-* [Merit based awards and scholarships >>>](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2Ffinancial-matters%2Fawards-scholarships&sa=D&sntz=1&usg=AFQjCNEsIwWKSrQSXjk3_oiRvC63swkjcg)
+* [School Fees @ MOE website &gt;&gt;&gt;](https://www.moe.gov.sg/financial-matters/fees)&nbsp;  
+* [Merit based awards and scholarships &gt;&gt;&gt;](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2Ffinancial-matters%2Fawards-scholarships&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEsIwWKSrQSXjk3_oiRvC63swkjcg)
 
 ### Payment Mode for School Fees
 
@@ -85,7 +85,7 @@ Parents can choose to pay the monthly school fees by the various methods:
   
 
 *   **eGIRO**  
-    Parents who are account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO. 
+    Parents who are account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO.&nbsp;
 
 *   Bank of China (BOC)
 *   DBS Bank or POSB
@@ -95,7 +95,7 @@ Parents can choose to pay the monthly school fees by the various methods:
 *   Hongkong and Shanghai Banking Corporation Limited(HSBC)
 *   United Overseas Bank (UOB)
 
-To sign up, please follow the instructions at the following MOE portal : 
+To sign up, please follow the instructions at the following MOE portal :&nbsp;
 [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
   
@@ -154,59 +154,56 @@ There is no deduction in January as the fees for January and February are combin
  
 There will still be deductions in November and December as the fees payable are calculated on an annual basis and spread out over a period of 12 months, including school holidays.
 
-### Financial Assistance Scheme (FAS)
-
-Students who require financial support for school fees, textbooks, uniforms or meals are strongly encouraged to apply for support through  
-  
-MOE financial assistance schemes (FAS) or  
-school-based financial assistance schemes (FAS)  
 
 # Financial Assistance Scheme (FAS)
 
 Students who require financial support for school fees, textbooks, uniforms or meals are strongly encouraged to apply for support through  
 
-*   MOE financial assistance schemes (FAS) **or** 
+*   MOE financial assistance schemes (FAS)&nbsp;**or**&nbsp;
 *   school-based financial assistance schemes (FAS).
 
-To be eligible for FAS, the student should be a **Singapore Citizen** and meet the following criteria:
+To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;and meet the following criteria:
 
-### MOE FAS 2023 Brochure (4 Languages)
+### MOE FAS 2024 Brochure (4 Languages)
 
 
-[2023 MOE FAS Brochure.pdf](/files/2023%20MOE%20FAS%20Brochure.pdf)
 
-### MOE 2023 FAS Pamphlet
+### MOE 2024 FAS Pamphlet
 
-[2023 MOE FAS Pamphlet.pdf](/files/2023%20MOE%20FAS%20Pamphlet_2.pdf)
 
-### 2023 FAS Application Form
 
-[2023 MOE FAS Application Form](/files/2023%20MOE%20FAS%20Application%20Form.pdf)
+### 2024 FAS Application Form
+
+
 
 ### FAS Application Procedures
 
-Parents are to complete the FAS application form (available at the General Office) and submit the completed form with relevant documents to the General Office.  Applications are accepted year-round.  
-
   
+Parents are to apply for MOE FAS by completing the FAS application form on **hardcopy** (available at the General Office) or **online** using the e-FAS form which is available on Parents Gateway (under ‘Services’ tab – Financial Assistance) or through the e-FAS link/ QR code below, via Singpass login.&nbsp;
 
-You may also find more information on MOE's website [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).   
+Parents can also visit MOE website at 
+for the FAS FAQs and the Income Family Micro-Insurance Scheme (IFMIS), a free insurance scheme provided to MOE FAS recipients by NTUC Income.
 
-Please approach **Mdm. Filzah, Administration Manager**, at tel: **6385 9466** if you have any query with regard to financial assistance.
+Link: [_https://www.moe.gov.sg/financial-matters/financial-assistance_](https://www.moe.gov.sg/financial-matters/financial-assistance) 
 
-* * *
+If you have any query with regards to financial assistance, please contact: 
+
+**Mdm Filzah A Hadi <br> 
+Administration Manager<br>
+Tel : 6385 9466**
 
 ### Transport Subsidy
 
 Students on FAS can download and refer to the step-by-step guide below to redeem transport vouchers on a monthly basis.  
   
 
-[Transport Subsidy Guide FAS.pdf](/files/Transport%20Subsidy%20Guide%20FAS.pdf) 
+[Transport Subsidy Guide FAS.pdf](/files/Transport%20Subsidy%20Guide%20FAS.pdf)&nbsp;
 
 * * *
 
 ### Student Lockers
 
-Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school. 
+Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school.&nbsp;
 
   
 
