@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Secondary 3
 ---
 ## 2023 Sec 3 NEC Timetables
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/nec%20info%202023.pdf" target="_blank"> NEC Information Slides</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3t.pdf" target="_blank"> 3 Topaz NEC Timetable</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3s.pdf" target="_blank"> 3 Sapphire NEC Timetable</a>
 *  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3p.pdf" target="_blank"> 3 Peridot NEC Timetable</a>
