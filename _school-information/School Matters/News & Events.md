@@ -9,15 +9,19 @@ third_nav_title: School Matters
 ### The Bowen Experience [OPEN HOUSE 18 Nov]
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
 
+### 2023 November Extended Curriculum
+Please click on the links to view the NEC Timetable by class.
 
-### 2023 End-of-Year Examination / Prelims Schedule
-Please click on the links to view the updated End-of-year Examination schedule for S1 - S3
-
-1.  [2023 Sec 1 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s1%20eoy%20tt.pdf)
-2.  [2023 Sec 2 EOY Timetable (Updated 4/9)](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20sec%202%20eoy%20timetable%20updated%204%20sep.pdf)
-3.  [2023 Sec 3 End-of-Year Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20s3%20eoy%20tt.pdf)
-4.  [2023 O Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
-5.  [2023 N Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20n%20prelims%20tt.pdf)
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/nec%20info%202023.pdf" target="_blank"> NEC Information Slides</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3t.pdf" target="_blank"> 3 Topaz NEC Timetable</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3s.pdf" target="_blank"> 3 Sapphire NEC Timetable</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3p.pdf" target="_blank"> 3 Peridot NEC Timetable</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3a.pdf" target="_blank"> 3 Amethyst NEC Timetable</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3r.pdf" target="_blank"> 3 Ruby NEC Timetable</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3k.pdf" target="_blank"> 3 Kunzite NEC Timetable</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3l.pdf" target="_blank"> 3 Larimar NEC Timetable</a>
+*  <a href="/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3e.pdf" target="_blank"> 3 Emerald NEC Timetable</a>
+<br>
   
 <hr>
 

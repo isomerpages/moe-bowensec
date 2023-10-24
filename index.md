@@ -32,11 +32,10 @@ sections:
       alt: Image alt text
       image: /images/School Events/2023/infopic bowen experience.jpg
   - infobar:
-      title: End-Of-Year Exam Schedule
-      subtitle: Sec 1  - Sec 3
+      title: NEC Timetable
+      subtitle: Sec 3
       id: infobar
-      description: Visit the respective Sec 1 to Sec 3 Level pages to access
-        End-of-Year Examination Timetables
+      description: November Extended Curriculum Timetables by class
       button: NEWS & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
 ---
