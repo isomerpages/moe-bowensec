@@ -12,14 +12,15 @@ third_nav_title: School Matters
 ### 2023 November Extended Curriculum
 Please click on the links to view the NEC Timetable by class.
 
-1.  [ 3 Topaz NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3t.pdf)
-2.  [ 3 Sapphire NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3s.pdf)
-3.  [ 3 Peridot NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3p.pdf)
-4.  [ 3 Amethyst NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3a.pdf)
-5.  [ 3 Ruby NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3r.pdf)
-6.  [ 3 Kunzite NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3k.pdf)
-7.  [ 3 Larimar NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3l.pdf)
-8.  [ 3 Emerald NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3e.pdf)
+1.  [NEC Information Slides](/files/Class%20Timetables/2023/Sem%202/NEC/nec%20info%202023.pdf)
+2.  [ 3 Topaz NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3t.pdf)
+3.  [ 3 Sapphire NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3s.pdf)
+4.  [ 3 Peridot NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3p.pdf)
+5.  [ 3 Amethyst NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3a.pdf)
+6.  [ 3 Ruby NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3r.pdf)
+7.  [ 3 Kunzite NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3k.pdf)
+8.  [ 3 Larimar NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3l.pdf)
+9.  [ 3 Emerald NEC Timetable](/files/Class%20Timetables/2023/Sem%202/NEC/2023%20sec%203%20nec%20class%20timetables%20_3e.pdf)
   
 <hr>
 
