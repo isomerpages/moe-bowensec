@@ -3,24 +3,24 @@ title: Mother Tongue
 permalink: /holistic-education/academic-programmes/mother-tongue/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
-The Mother Tongue Department aims to empower Bowenians to succeed in the 21st Century by: 
+The Mother Tongue Department aims to empower Bowenians to succeed in the 21st Century by:&nbsp;
 
-1.  Developing their proficiency and ability to communicate in the Mother Tongue Languages (MTL) 
+1.  Developing their proficiency and ability to communicate in the Mother Tongue Languages (MTL)&nbsp;
     
-    - a valuable skill for life and work, which gives our students a competitive edge. 
-2.  Cultivating deeper appreciation of culture, history and values through learning of Mother Tongue Languages, 
+    - a valuable skill for life and work, which gives our students a competitive edge.&nbsp;
+2.  Cultivating&nbsp;deeper&nbsp;appreciation of culture,&nbsp;history&nbsp;and&nbsp;values through learning of Mother Tongue Languages,&nbsp;
     
-    - and hence retain our Asian roots and values while embracing globalisation.
+    - and hence retain our Asian roots and values while embracing&nbsp;globalisation.
      
-<img src="/images/MT1.png" 
-     style="width:40%">
+<img src="/images/MT1.png" style="width:40%">
 		 
-With this in mind, the MTL Department strives to keep MTL effective and relevant with the changing language environment landscape. The MTL department organizes several activities for our students as we aim to create a conducive environment to promote MTL usage and learning outside the classrooms.   
+With this in mind, the MTL Department strives to keep MTL effective and relevant&nbsp;with&nbsp;the changing language environment landscape. The MTL department organizes several activities for our students as we aim to create a conducive environment to promote MTL usage and learning outside the classrooms.&nbsp; &nbsp;
 
   
 
-We see MTL as living language, and we nurture active learners who can use their MTL to communicate proficiently in everyday life, developing their awareness of cultural identity, and cultivate an appreciation of their cultural roots. This enables our students to connect with communities across Asia and the people who speak that language or share that culture.
+We see MTL as living language, and we nurture active learners who can use their MTL to communicate proficiently in everyday life, developing their awareness of cultural identity, and cultivate an appreciation of their cultural roots.&nbsp;This enables our students to connect with communities across Asia and the people who speak that language or share that culture.
 
 ![](/images/MT2.png)
 
@@ -79,11 +79,7 @@ We see MTL as living language, and we nurture active learners who can use their 
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">chen_qinghua@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">Ms. Teo Jia Jia</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">teo_jia_jia@schools.gov.sg</span></td>
-  </tr>
+
   <tr>
     <td class="tg-tojq"><span style="color:#222">Ms. Shi Mengchen</span><br></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
@@ -131,11 +127,7 @@ We see MTL as living language, and we nurture active learners who can use their 
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">uma_thiruselvam@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Zakiah</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">zakiah_musa@schools.gov.sg</span></td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -232,6 +224,6 @@ Student correspondents in Singapore submit articles to ZaoBao Comma on-line edit
 ### 2020年联合学生通讯员俱乐部招生名单公布
 
 
-17 April 2020, 联合早报
+17 April 2020,&nbsp;联合早报
 
 ![](/images/Newspaper%20cutting%202.png)
