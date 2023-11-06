@@ -2,6 +2,7 @@
 title: School Executive Committee
 permalink: /about-bowen/school-executive-committee/
 description: ""
+variant: markdown
 ---
 ## School Leaders
 <img src="/images/Our%20People/Mr%20Loh%20Chih%20Hui.jpg" style="width:20%">
@@ -74,13 +75,9 @@ description: ""
 <br><a href="juraimy_abu_bakar@schools.gov.sg">juraimy_abu_bakar@schools.gov.sg</a></center>
 <hr>	
 
-<img src="/images/Our%20People/Mr-Wilson-Goy.jpeg" style="width:20%">		 
-<center><b>Mr. Wilson Goy<br>Head / Discipline</b>
-<br><a href="goy_wee_seng@schools.gov.sg">goy_wee_seng@schools.gov.sg</a></center>
-<hr>	
-
 <img src="/images/Our%20People/Mrs-Normala-Chang.jpg" style="width:20%">		 
-<center><b>Mrs. Normala Chang<br>Head / Normal Course</b>
+<center><b>Mrs. Normala Chang<br>Head / Normal Course</b><br>
+	<b>Head / Discipline</b>
 <br><a href="normala_mohamed_saleh_ma@schools.gov.sg">normala_mohamed_saleh_ma@schools.gov.sg</a></center>
 <hr>	
 
