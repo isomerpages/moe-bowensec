@@ -10,7 +10,7 @@ variant: markdown
 <img style="width:25%" src="/images/Our%20People/Ms-Estelle-Chong.jpeg">
 		 
 <center><b>Ms. Estelle Chong</b><br>
-Year Head  <br>
+Year Head <br>
 Secondary 2&nbsp; (2023 Academic Year)  <br>
 <a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
 
