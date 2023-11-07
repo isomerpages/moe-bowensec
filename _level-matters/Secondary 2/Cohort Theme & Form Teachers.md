@@ -3,8 +3,9 @@ title: Cohort Theme & Form Teachers
 permalink: /school-information/level-matters/secondary-2/
 description: ""
 third_nav_title: Secondary 2
+variant: markdown
 ---
-### Secondary 2 Year Head (2022 Academic Year)
+### Secondary 2 Year Head (2023 Academic Year)
 
 <img style="width:25%" src="/images/Our%20People/Ms-Estelle-Chong.jpeg">
 		 
