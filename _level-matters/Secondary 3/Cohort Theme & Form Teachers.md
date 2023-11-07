@@ -10,8 +10,8 @@ variant: markdown
 <img style="width:25%" src="/images/Our%20People/MS-BERNICE-TEY.jpeg">
 
 <center><b>Mrs. Bernice Kuan</b><br>
-Year Head  <br>
-Secondary 3 (2023 Academic Year)  <br>
+Year Head <br>
+Secondary 3 (2023 Academic Year)<br>
 <a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
 
 
