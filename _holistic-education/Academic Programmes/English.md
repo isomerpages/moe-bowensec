@@ -3,6 +3,7 @@ title: English
 permalink: /holistic-education/academic-programmes/english/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NNnLN6XWfLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
@@ -187,8 +188,15 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Lim Kah Kiat</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">lim_kah_kiat@schools.gov.sg</span></td>
+    <td class="tg-fxx4"><span style="color:#222">lim_kah_kiat@schools.gov.sg</span></td>  </tr><tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Francis Neo</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">francis_gideon_neo_en@schools.gov.sg</span></td>
   </tr>
+  
+	
+	
+	
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Sean Ross Clunies</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
