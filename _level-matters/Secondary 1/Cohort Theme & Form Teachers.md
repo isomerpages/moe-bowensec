@@ -3,7 +3,18 @@ title: Cohort Theme & Form Teachers
 permalink: /school-information/level-matters/secondary-1/
 description: ""
 third_nav_title: Secondary 1
+variant: markdown
 ---
+### Secondary 1 Year Head (2024 Academic Year)
+
+<img src="/images/Our%20People/MRS-CHAN-SOO-YONG.jpeg" style="width:25%">
+		 	 
+<center><b>Mrs. Chan Soo Yong       </b><br> 
+Year Head  <br>
+Secondary 1 (2024 Academic Year)  <br>
+<a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
+<hr>
+
 ### Secondary 1 Year Heads (2023 Academic Year)
 <img style="width:25%" src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg">
 		 
