@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Secondary 3
 variant: markdown
 ---
+### 2024 Secondary 3 Booklist
+You can download the 2024 booklist below  
+[2024 S3 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver061123.pdf) (Updated 6 Nov 2023)
 
 
 ### 2023 Secondary 3 Booklist
