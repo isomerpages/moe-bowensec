@@ -3,7 +3,10 @@ title: Secondary 3 Booklist
 permalink: /school-information/level-matters/secondary-3/secondary-3-booklist/
 description: ""
 third_nav_title: Secondary 3
+variant: markdown
 ---
+
+
 ### 2023 Secondary 3 Booklist
 
 From **Monday, 14 Nov 2022**, the sales of textbooks 2023 and uniforms will be available for online purchase from the bookshop and uniform vendor’s website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)  
@@ -12,7 +15,7 @@ Sales will be conducted online to manage the number of visitors to the school as
   
 If you have further queries, please contact the School General Office at 6385 9466.  
   
-You can download the 2o23 booklist below  
+You can download the 2023 booklist below  
 [2023 S3 Booklist](/files/2023%20S3%20Booklist%20Updated%209%20Dec.pdf) (Updated 9 Dec)
 
 ### Online Purchase of 2023 Textbooks and Uniforms
