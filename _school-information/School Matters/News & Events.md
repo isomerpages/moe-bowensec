@@ -49,11 +49,3 @@ Bowen welcomes students who are currently in Primary 6 (or the equivalent) to ap
 <img src="/images/Choose-Bowen-Secondary-Popup2.jpeg" style="width:70%">
 
 <hr>
-
-###  Bowen PE Microsite
-
-Find out more about our PE curriculum from the Bowen PE microsite.  
-
-[Bowen PE microsite &gt;&gt;&gt;](https://sites.google.com/bws.edu.sg/bowenpe)
-
-<img src="/images/Bowen%20PE%20microsite.png" style="width:70%">
