@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Secondary 3
 variant: markdown
 ---
+### Secondary 3 Year Head (2024 Academic Year)
+
+<img style="width:25%" src="/images/Our%20People/Ms-Estelle-Chong.jpeg">
+		 
+<center><b>Ms. Estelle Chong</b><br>
+Year Head <br>
+Secondary 3&nbsp; (2024 Academic Year)  <br>
+<a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
+
+<hr>
+
 ### Secondary 3 Year Head (2023 Academic Year)
 
 <img style="width:25%" src="/images/Our%20People/MS-BERNICE-TEY.jpeg">
