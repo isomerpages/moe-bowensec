@@ -7,6 +7,7 @@ variant: markdown
 ---
 ### 2024 Secondary 2 Booklist
 You can download the 2024 booklist below  
+[2024 Sec 2 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf) (Updated 6 Nov 2023)
 
 
 
