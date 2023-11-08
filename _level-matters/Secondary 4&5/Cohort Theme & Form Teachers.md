@@ -3,8 +3,20 @@ title: Cohort Theme & Form Teachers
 permalink: /school-information/level-matters/secondary-4-5/
 description: ""
 third_nav_title: Secondary 4&5
+variant: markdown
 ---
-### Secondary 4/5 Year Head (2022 Academic Year)
+### Secondary 4/5 Year Head (2024 Academic Year)
+
+<img style="width:25%" src="/images/Our%20People/MS-BERNICE-TEY.jpeg">
+
+<center><b>Mrs. Bernice Kuan</b><br>
+Year Head <br>
+Secondary 4/5 (2024 Academic Year)<br>
+<a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
+
+<hr>
+
+### Secondary 4/5 Year Head (2023 Academic Year)
 
 <img src="/images/Our%20People/MRS-CHAN-SOO-YONG.jpeg" style="width:25%">
 		 	 
