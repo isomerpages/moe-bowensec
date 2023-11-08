@@ -32,10 +32,9 @@ sections:
       alt: Image alt text
       image: /images/School Events/2023/infopic bowen experience.jpg
   - infobar:
-      title: NEC Timetable
-      subtitle: Sec 3
+      title: 2024 Booklists
       id: infobar
-      description: November Extended Curriculum Timetables by class
+      description: Sec 2, 3 and 4 available now
       button: NEWS & EVENTS PAGE
       url: /school-information/school-matters/news-n-events/
 ---

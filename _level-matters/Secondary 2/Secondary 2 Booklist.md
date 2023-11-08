@@ -3,7 +3,14 @@ title: Secondary 2 Booklist
 permalink: /school-information/level-matters/secondary-2/secondary-2-booklist/
 description: ""
 third_nav_title: Secondary 2
+variant: markdown
 ---
+### 2024 Secondary 2 Booklist
+You can download the 2024 booklist below  
+[2024 Sec 2 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf) (Updated 6 Nov 2023)
+
+
+
 ### 2023 Secondary 2 Booklist
 
 From **Monday, 14 Nov 2022**, the sales of textbooks 2023 and uniforms will be available for online purchase from the bookshop and uniform vendor’s website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)  
@@ -12,7 +19,7 @@ Sales will be conducted online to manage the number of visitors to the school as
   
 If you have further queries, please contact the School General Office at 6385 9466.  
   
-You can download the 2o23 booklist below  
+You can download the 2023 booklist below  
 [2023 S2 Booklist.pdf](/files/2023%20S2%20Booklist.pdf)
 
 ### Uniform Pricing and Size Guides
