@@ -44,8 +44,3 @@ Bowen welcomes students who are currently in Primary 6 (or the equivalent) to ap
 
 <hr>
  
-### Choosing the Right School
-
-<img src="/images/Choose-Bowen-Secondary-Popup2.jpeg" style="width:70%">
-
-<hr>
