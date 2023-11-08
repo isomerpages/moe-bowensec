@@ -5,6 +5,16 @@ description: ""
 third_nav_title: Secondary 2
 variant: markdown
 ---
+### Secondary 2 Year Heads (2024 Academic Year)
+<img style="width:25%" src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg">
+		 
+<center><b>Ms. Sharifah Kamelia Syed</b><br>
+Year Head<br>
+Secondary 1 (2024 Academic Year)<br>
+<a href="sharifah_kamelia_syed@schools.gov.sg">sharifah_kamelia_syed@schools.gov.sg</a></center>
+
+<hr>
+
 ### Secondary 2 Year Head (2023 Academic Year)
 
 <img style="width:25%" src="/images/Our%20People/Ms-Estelle-Chong.jpeg">
