@@ -20,7 +20,7 @@ The following booklist will be available for download in the links below
 <hr>
 
 ### 2023 SINGAPORE/CAMBRIDGE GCE O Level Examination Schedule
-Please click on the links to view the GCE N and O Level Examination schedule
+Please click on the links to view the GCE O Level Examination schedule
 
 1.  [2023 GCE O Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20o%20exam%20tt.pdf)
   
