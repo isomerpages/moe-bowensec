@@ -10,30 +10,29 @@ variant: markdown
 ### The Bowen Experience [OPEN HOUSE 18 Nov]
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
 
-### 2024 Booklist
-The following booklist will be available for download in the links below
+### Online Purchase of 2024 Textbooks and Uniforms for Sec 2, 3 and 4 students
+For a safe and smooth customer experience, the sale of 2024 textbooks and uniforms will be conducted online. <br>
 
-*  [2024 Sec 2 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
-*  [2024 Sec 3 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver061123.pdf)
-*  [2024 Sec 4 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
+From **Tuesday, 14 Nov 2023**, you may begin to make online purchase from the bookshop and uniform supplier’s website. <br>
+
+To ensure that every student is able to obtain the required textbooks/uniforms and other related learning materials before the start of the new academic year, there will be a window period for purchasing or ordering them from the school supplier. <br>
+
+Orders for textbooks/uniforms and other related learning materials should be submitted to the school supplier **between 14 Nov and 15 Dec 2023.** The school supplier will fulfil all orders placed during the window period. However, any orders placed outside the window period or with other suppliers cannot be guaranteed.<br>
+
+*Please note: the Bookshop &amp; Uniform Supplier at school will not be able to serve walk-in customers who have not placed online orders beforehand. This is to provide them time to pre-pack the orders*.
+
+The following 2024 booklist are available for download in the links below
+
+*  [2024 Sec 2 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
+*  [2024 Sec 3 Booklist (Updated 9 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver091123.pdf)
+*  [2024 Sec 4 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
   
 <hr>
 
-### 2023 SINGAPORE/CAMBRIDGE GCE N &amp; O Level Examination Schedule
-Please click on the links to view the GCE N and O Level Examination schedule
+### 2023 SINGAPORE/CAMBRIDGE GCE O Level Examination Schedule
+Please click on the links to view the GCE O Level Examination schedule
 
-1.  [2023 GCE N Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20n%20exam%20tt.pdf)
-2.  [2023 GCE O Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20o%20exam%20tt.pdf)
-
-<hr>
-
-### 2023 Sem 2 Class Timetables <br>(Version 1.5  w.e.f. 10<sup>th</sup> July)
-Please click on the links to view the updated timetables.
-
-1.  [Sec 1: Sem 2 Class Timetables](/school-information/level-matters/secondary-1/class-timetables/)
-2.  [Sec 2: Sem 2 Class Timetables](/school-information/level-matters/secondary-2/class-timetables/)
-3.  [Sec 3: Sem 2 Class Timetables](/school-information/level-matters/secondary-3/class-timetables/)
-4.  [Sec 4 and 5: Sem 2 Class Timetables](/school-information/level-matters/secondary-4-5/class-timetables/)
+1.  [2023 GCE O Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20o%20exam%20tt.pdf)
   
 <hr>
 
@@ -54,17 +53,3 @@ Bowen welcomes students who are currently in Primary 6 (or the equivalent) to ap
 <a href="https://www.bowensec.moe.edu.sg/signature-programmes/direct-school-admission-1/">FIND OUT MORE HERE &gt;&gt;</a>
 
 <hr>
- 
-### Choosing the Right School
-
-<img src="/images/Choose-Bowen-Secondary-Popup2.jpeg" style="width:70%">
-
-<hr>
-
-###  Bowen PE Microsite
-
-Find out more about our PE curriculum from the Bowen PE microsite.  
-
-[Bowen PE microsite &gt;&gt;&gt;](https://sites.google.com/bws.edu.sg/bowenpe)
-
-<img src="/images/Bowen%20PE%20microsite.png" style="width:70%">
