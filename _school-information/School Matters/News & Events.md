@@ -11,15 +11,20 @@ variant: markdown
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
 
 ### Online Purchase of 2024 Textbooks and Uniforms for Sec 2, 3 and 4 students
-For a safe and smooth customer experience, the sale of 2024 textbooks and uniforms will be conducted online. <br>
+To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
 
-From **Tuesday, 14 Nov 2023**, you may begin to make online purchase from the bookshop and uniform supplier’s website. <br>
+The supplier’s website for ordering the textbooks and uniforms will begin taking orders <u>**from Tue, 14 Nov 2023.** </u>
 
-To ensure that every student is able to obtain the required textbooks/uniforms and other related learning materials before the start of the new academic year, there will be a window period for purchasing or ordering them from the school supplier. <br>
+Please access the supplier's website to:
+* Order textbooks / uniforms and make payment through e-payment modes.
+* Choose to <u>self-collect</u> the books / uniforms at the Bookshop at the chosen date / time. Self-Collection at school starts from <u><b>Mon, 20 Nov 2023</b></u> (please refer to stipulated dates given on website).
+* Or, get the <u>items delivered</u> to your house at a cost.  Indicate date and time as per the Vendor’s website.
 
-Orders for textbooks/uniforms and other related learning materials should be submitted to the school supplier **between 14 Nov and 15 Dec 2023.** The school supplier will fulfil all orders placed during the window period. However, any orders placed outside the window period or with other suppliers cannot be guaranteed.<br>
+Please note: the Bookshop &amp; Uniform Supplier at school <b>will <u>not be able to </u>serve walk-in customers</b> who have not placed online orders beforehand.  This is to provide them time to pre-pack the orders. 
 
-*Please note: the Bookshop &amp; Uniform Supplier at school will not be able to serve walk-in customers who have not placed online orders beforehand. This is to provide them time to pre-pack the orders*.
+Please refer to the information below. Please <b>create a user account</b> using your own choice of email address and password (there is no preset user ID or Password).
+
+For students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
 
 The following 2024 booklist are available for download in the links below
 
