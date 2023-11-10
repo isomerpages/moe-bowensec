@@ -13,9 +13,9 @@ variant: markdown
 ### 2024 Booklist
 The following booklist will be available for download in the links below
 
-*  [2024 Sec 2 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
-*  [2024 Sec 3 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver061123.pdf)
-*  [2024 Sec 4 Booklist](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
+*  [2024 Sec 2 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
+*  [2024 Sec 3 Booklist (Updated 9 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver091123.pdf)
+*  [2024 Sec 4 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
   
 <hr>
 
@@ -43,4 +43,3 @@ Bowen welcomes students who are currently in Primary 6 (or the equivalent) to ap
 <a href="https://www.bowensec.moe.edu.sg/signature-programmes/direct-school-admission-1/">FIND OUT MORE HERE &gt;&gt;</a>
 
 <hr>
- 
