@@ -22,7 +22,7 @@ Please access the supplier's website to:
 
 Please note: the Bookshop &amp; Uniform Supplier at school <b>will <u>not be able to </u>serve walk-in customers</b> who have not placed online orders beforehand.  This is to provide them time to pre-pack the orders. 
 
-Please refer to the information below. Please <b>create a user account</b> using your own choice of email address and password (there is no preset user ID or Password).
+Please refer to the information below. Please <b>create a user account[2024 Sec 2 to Sec 4 Textbook Purchase Guide](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)</b> using your own choice of email address and password (there is no preset user ID or Password).
 
 <table style="width:512.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 0cm 0cm 0cm" width="683" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.2pt"><td style="width:512.5pt;border:solid windowtext 1.0pt;
@@ -81,8 +81,10 @@ Please refer to the information below. Please <b>create a user account</b> using
 
 For students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
 
-The following 2024 booklist are available for download in the links below
+The following 2024 Purchase Guide and Booklist are available for download in the links below
 
+
+* [2024 Textbook Purchase Guide for Sec 2 to Sec 4](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)
 *  [2024 Sec 2 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
 *  [2024 Sec 3 Booklist (Updated 9 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver091123.pdf)
 *  [2024 Sec 4 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
