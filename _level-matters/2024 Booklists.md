@@ -1,11 +1,10 @@
 ---
-title: Secondary 3 Booklist
-permalink: /school-information/level-matters/secondary-3/secondary-3-booklist/
+title: 2024 Booklists
+permalink: /school-information/level-matters/2024-booklists/
 description: ""
-third_nav_title: Secondary 3
 variant: markdown
 ---
-### Online Purchase of 2024 Textbooks and Uniforms for Sec 3
+### Online Purchase of 2024 Textbooks and Uniforms for Sec 2, 3 and 4 students
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
 
 The supplier’s website for ordering the textbooks and uniforms will begin taking orders <u>**from Tue, 14 Nov 2023.** </u>
@@ -19,8 +18,8 @@ Please note: the Bookshop &amp; Uniform Supplier at school <b>will <u>not be abl
 
 Please <b>create a user account[2024 Sec 2 to Sec 4 Textbook Purchase Guide](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)</b> using your own choice of email address and password (there is no preset user ID or Password).
 
-Please refer to the information below. 
-
+Please refer to the information below.
+  
 <table style="width:512.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 0cm 0cm 0cm" width="683" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:28.55pt"><td style="width:512.5pt;border:solid windowtext 1.0pt;
   background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:28.55pt" colspan="2" width="683"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
@@ -86,17 +85,13 @@ Please refer to the information below.
   text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
   Symbol;mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">The General Office (GO) will contact you to collect the ‘Approval of FAS for 2024 Letter’ i.e do not come to school until you are contacted by GO. &nbsp;The letter will have details of the collection of textbooks and uniforms.</span></p></td></tr></tbody></table>
-	
+
 For students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
 
 The following 2024 Purchase Guide and Booklist are available for download in the links below
 
 
 * [2024 Textbook Purchase Guide for Sec 2 to Sec 4](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)
+*  [2024 Sec 2 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
 *  [2024 Sec 3 Booklist (Updated 9 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver091123.pdf)
-
-
-
-### Uniform Pricelist and Size Guide
-![](/images/School%20Information/Booklist%20and%20Uniform/2024_Uniform_PriceList.jpg)
-![](/images/Size%20guide.jpg)
+*  [2024 Sec 4 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
