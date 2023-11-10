@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary 3
 variant: markdown
 ---
-### Online Purchase of 2024 Textbooks and Uniforms for Sec 2, 3 and 4 students
+### Online Purchase of 2024 Textbooks and Uniforms for Sec 3
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
 
 The supplier’s website for ordering the textbooks and uniforms will begin taking orders <u>**from Tue, 14 Nov 2023.** </u>
