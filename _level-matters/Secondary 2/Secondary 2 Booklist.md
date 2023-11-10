@@ -17,7 +17,9 @@ Please access the supplier's website to:
 
 Please note: the Bookshop &amp; Uniform Supplier at school <b>will <u>not be able to </u>serve walk-in customers</b> who have not placed online orders beforehand.  This is to provide them time to pre-pack the orders. 
 
-Please refer to the information below. Please <b>create a user account[2024 Sec 2 to Sec 4 Textbook Purchase Guide](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)</b> using your own choice of email address and password (there is no preset user ID or Password).
+Please <b>create a user account[2024 Sec 2 to Sec 4 Textbook Purchase Guide](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)</b> using your own choice of email address and password (there is no preset user ID or Password).
+
+Please refer to the information below. 
 
 <table style="width:512.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 0cm 0cm 0cm" width="683" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:28.55pt"><td style="width:512.5pt;border:solid windowtext 1.0pt;
