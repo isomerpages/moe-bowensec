@@ -96,5 +96,5 @@ The following 2024 Purchase Guide and Booklist are available for download in the
 
 
 ### Uniform Pricing and Size Guides
-![](/images/2022%20Uniform%20Pricelist.jpg)
+![](/images/School%20Information/Booklist%20and%20Uniform/2024_Uniform_PriceList.jpg)
 ![](/images/Size%20guide.jpg)
