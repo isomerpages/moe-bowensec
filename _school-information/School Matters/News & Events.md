@@ -10,8 +10,9 @@ variant: markdown
 ### The Bowen Experience [OPEN HOUSE 18 Nov]
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
 
-### 2024 Booklist
-The following booklist will be available for download in the links below
+### Online Purchase of 2024 Textbooks and Uniforms
+
+The following 2024 booklist are available for download in the links below
 
 *  [2024 Sec 2 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
 *  [2024 Sec 3 Booklist (Updated 9 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver091123.pdf)
