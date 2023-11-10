@@ -79,7 +79,6 @@ Please refer to the information below. Please <b>create a user account</b> using
   Symbol;mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
   font-family:&quot;Calibri&quot;,sans-serif" lang="EN-US">The General Office (GO) will contact you to collect the ‘Approval of FAS for 2024 Letter’ i.e do not come to school until you are contacted by GO. &nbsp;The letter will have details of the collection of textbooks and uniforms.</span></p></td></tr></tbody></table>
 
-
 For students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
 
 The following 2024 booklist are available for download in the links below
