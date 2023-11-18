@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: Find out more about us on our E-Open House Microsite
       alt: Image alt text
-      image: /images/School Events/2023/infopic bowen experience.jpg
+      image: /images/School Events/2023/BE_eopenhouse_banner.jpg
       url: https://sites.google.com/bws.edu.sg/bowen-experience-2023/welcome-to-bowen-e-open-house
       button: Visit our E-Open House!
   - infobar:
