@@ -8,7 +8,7 @@ variant: markdown
 ### Online Purchase of 2024 Textbooks and Uniforms for Sec 4 students
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
 
-The supplier’s website for ordering the textbooks and uniforms will begin taking orders <u>**from Tue, 14 Nov 2023.** </u>
+The supplier’s website for ordering the textbooks and uniforms will begin taking orders <u><b>from Tue, 14 Nov 2023.</b></u>
 
 Please access the supplier's website to:
 * Order textbooks / uniforms and make payment through e-payment modes.
