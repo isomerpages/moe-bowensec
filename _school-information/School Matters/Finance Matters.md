@@ -61,11 +61,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
   9.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;
-  mso-bidi-theme-font:minor-latin;color:black" lang="EN-GB">Total Fees Payable (Monthly)</span></b></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-size:
-  9.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;
-  mso-bidi-theme-font:minor-latin;color:black" lang="EN-GB">i.e. School Fees + Miscellaneous Fees</span></b></p></td></tr><tr style="mso-yfti-irow:0;height:17.35pt"><td style="width:34.4pt;border:solid white 1.5pt;mso-border-themecolor:
+  mso-bidi-theme-font:minor-latin;color:black" lang="EN-GB">Total Fees Payable (Monthly)<br>i.e. School Fees + Miscellaneous Fees</span></b></p></td></tr><tr style="mso-yfti-irow:0;height:17.35pt"><td style="width:34.4pt;border:solid white 1.5pt;mso-border-themecolor:
   background1;border-top:none;mso-border-top-alt:solid white 1.5pt;mso-border-top-themecolor:
   background1;background:#DBDBDB;mso-background-themecolor:accent3;mso-background-themetint:
   102;padding:0cm 5.4pt 0cm 5.4pt;height:17.35pt" width="46"><p style="margin-bottom:0cm;text-align:center;
