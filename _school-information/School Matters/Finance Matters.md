@@ -10,9 +10,11 @@ Here you can find information about School Fees, Financial Assistance Scheme (FA
 
 ### School Fees
 
-Bowen Secondary School (BWSS) is a government school. As such the monthly fees in Bowen for Singapore Citizens, Permanent Residents or international students are shown in the table below:
+The Ministry of Education (MOE) will be increasing school fees for Singapore permanent residents (PR) and international students (IS) in Government and Government-Aided schools over the next three years (i.e. 2024 – 2026). 
 
-Please note that the Ministry of Education (MOE) will be increasing school fees for Singapore permanent residents (PR) and international students (IS) in Government and Government-Aided schools over the next three years (i.e. 2024 – 2026). [Read the MOE Press Release here &gt;&gt;&gt;](https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026)
+[Read the MOE Press Release here &gt;&gt;&gt;](https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026)
+
+Bowen Secondary School (BWSS) is a government school. As such the monthly fees in Bowen for Singapore Citizens, Permanent Residents or international students are shown in the table below:
 
 <table style="margin-left:1.5pt;border-collapse:collapse;mso-table-layout-alt:
  fixed;border:none;mso-border-alt:solid white 1.5pt;mso-border-themecolor:background1;
