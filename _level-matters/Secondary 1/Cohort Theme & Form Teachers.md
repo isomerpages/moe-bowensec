@@ -18,9 +18,9 @@ Secondary 1 (2024 Academic Year)  <br>
 
 ### 2023 Sec 1 Cohort Theme
 
+<img src="/images/Level%20Matters/S1/2024_Sec1_Cohort_Theme.jpg" style="width:50%">
 
 ##### Mosaic of Life
-![](/images/Level%20Matters/S1/2024_Sec1_Cohort_Theme.jpg)
 
 In Bowen, our students will learn to embrace individuals from various walks of life and challenges that lie ahead of them. They will explore opportunities to uncover and expand their strengths.&nbsp;
 
@@ -34,8 +34,8 @@ The water droplet’s adaptability mirrors that of our students, who can navigat
 
 Finally, positivity serves as the mortar that binds the mosaic pieces together, epitomizing inclusivity and uniting our students as they move forward together towards excellence.
 
-
 ##### TO SPARKLE
+![](/images/Level%20Matters/S1/2024_To_Sparkle_text.jpg)
 		 
 Bowen’s motto, ***‘I Believe, Therefore I Am’***, reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.
 
