@@ -15,32 +15,31 @@ Secondary 1 (2024 Academic Year)  <br>
 <a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
 <hr>
 
-### Secondary 1 Year Heads (2023 Academic Year)
-<img style="width:25%" src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg">
-		 
-<center><b>Ms. Sharifah Kamelia Syed</b><br>
-Year Head<br>
-Secondary 1 (2023 Academic Year)<br>
-<a href="sharifah_kamelia_syed@schools.gov.sg">sharifah_kamelia_syed@schools.gov.sg</a></center>
-
 
 ### 2023 Sec 1 Cohort Theme
 
-![](/images/Level%20Matters/S1/2023%20S1%20Cohort%20Theme.jpg)	 
-Our cohort theme centres around the&nbsp;**Bowen Experience (B.E)**&nbsp;which corresponds to the lower secondary themes of&nbsp;**Explore**&nbsp;and&nbsp;**Embrace**. We aim to develop in our students a growth mindset, likened to a butterfly expanding its wings and developing life skills to&nbsp;**Connect**,&nbsp;**Collaborate**&nbsp;and&nbsp;**Create**. Our students will be able to work in teams and be the catalyst for positive change within themselves.&nbsp;  
+<img src="/images/Level%20Matters/S1/2024_Sec1_Cohort_Theme.jpg" style="width:50%">
 
-  
+##### Mosaic of Life
 
-Through their academic and holistic journey in Bowen, each Bowenian will have the opportunity to be engaged in our signature programmes, CCAs and activities through experiential learning, exploring their strengths and interests and aspiring to be a Beac**ON**&nbsp;of light in making positive impact for self and others.
+In Bowen, our students will learn to embrace individuals from various walks of life and challenges that lie ahead of them. They will explore opportunities to uncover and expand their strengths.&nbsp;
 
+Through this exploration, they will empower themselves with diverse skill sets, aiming to elevate their capabilities and readiness for the journey of life.
 
-![](/images/Level%20Matters/S1/2023%20S1%20Cohort%20To%20Sparkle.jpg)
+Every individual piece of the mosaic symbolises the diverse experiences and strengths that each student brings. The water droplet embodies the essence of ‘Life’.
+
+Just as each student, like a water droplet, originates from different sources and carries a unique journey, they will converge and intertwine their stories into a seamless tapestry, illustrating their interconnectedness.
+
+The water droplet’s adaptability mirrors that of our students, who can navigate their way around obstacles and draw strength from adversity, forging their own paths through the mosaic of experiences.
+
+Finally, positivity serves as the mortar that binds the mosaic pieces together, epitomizing inclusivity and uniting our students as they move forward together towards excellence.
+
+##### TO SPARKLE
+![](/images/Level%20Matters/S1/2024_To_Sparkle_text.jpg)
 		 
-The&nbsp; classes are named after gems with the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.&nbsp;
+Bowen’s motto, ***‘I Believe, Therefore I Am’***, reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.
 
-  
-
-The gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald.**
+Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald.**
 
 ### 2023 Secondary 1 Form Teachers
 
