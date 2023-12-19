@@ -23,6 +23,16 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
+      title: 2024 Sec 1 E-Registration
+      subtitle: Thur 21 Dec  2023, 8am -1pm
+      id: infopic
+      description: Students need not report to school for S1 registration. Please
+        complete the E-registration by 1pm, Thursday 21 Dec using the
+        E-registration microsite.
+      button: Go to E-Registration Microsite
+      url: https://www.bowensec.moe.edu.sg/
+      alt: Image alt text
+  - infopic:
       title: OPEN HOUSE
       subtitle: Visit us! The Bowen Experience
       id: infopic
