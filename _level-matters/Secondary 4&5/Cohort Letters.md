@@ -3,6 +3,7 @@ title: Cohort Letters
 permalink: /school-information/level-matters/secondary-4-5/cohort-letters/
 description: ""
 third_nav_title: Secondary 4&5
+variant: markdown
 ---
 These letters have been issued via Parents Gateway and are available for download as a PDF copy. Also available are selected cohort level information slides.  
   
@@ -20,3 +21,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 7. [S4/5 O Prelims Letter (dated 17 Jul 2023)](/files/Level%20Matters/S4n5/2023/2023%20letter%20to%20parents%20o%20level%20prelim.pdf)
 8. [S4E5N Start of Term 4 Letter (dated 12 Sep 2023)](/files/Level%20Matters/S4n5/2023/2023%20term%204%20letter_%20sec%204e5n.pdf)
 9. [S4N Start of Term 4 Letter (dated 12 Sep 2023)](/files/Level%20Matters/S4n5/2023/2023%20term%204%20letter_%20sec%204n.pdf)
+10. [Sec 4 N-level Results and Information Slides with key deadlines](/files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf)
