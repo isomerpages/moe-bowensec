@@ -31,10 +31,22 @@ sections:
       image: /images/School Events/2023/BE_eopenhouse_banner.jpg
       url: https://sites.google.com/bws.edu.sg/bowen-experience-2023/welcome-to-bowen-e-open-house
       button: Visit our E-Open House!
-  - infobar:
-      title: 2024 Booklists
-      id: infobar
-      description: Sec 2, 3 and 4 available now
-      button: NEWS & EVENTS PAGE
-      url: /school-information/school-matters/news-n-events/
+  - textcards:
+      title: Quick Links
+      id: textcards
+      cards:
+        - title: N-Level Results & Information Slides
+          description: The N-level results was released 18 Dec  Review key info and
+            deadlines here.
+          linktext: Learn more
+          url: /files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf
+        - title: 2024 Booklists
+          description: S2-4 are available for download. S1 only available after
+            e-registration.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
+        - title: Bowen E-Open House 2023
+          description: Find out more about us on our E-Open House Microsite
+          linktext: Learn more
+          url: https://sites.google.com/bws.edu.sg/bowen-experience-2023/welcome-to-bowen-e-open-house
 ---
