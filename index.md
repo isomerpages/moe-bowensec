@@ -44,8 +44,7 @@ sections:
           linktext: Learn more
           url: /files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf
         - title: Appeal to Transfer In (2024 Sec 1 only)
-          description: Please click on the link to submit the application [20 - 22 Dec
-            2023, by 5pm]
+          description: Non-Medical Applicants only [20 - 22 Dec 2023, by 5pm]
           linktext: E-Application Link
           url: https://go.gov.sg/2024sec1appealin
         - title: 2024 Booklists
