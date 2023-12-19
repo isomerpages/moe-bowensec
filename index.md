@@ -29,7 +29,7 @@ sections:
       description: Students need not report to school for S1 registration. Please
         complete the E-registration by 1pm, Thursday 21 Dec using the
         E-registration microsite.
-      button: Starts only from 21/12 8am
+      button: Available only from 21/12 8am
       url: https://www.bowensec.moe.edu.sg/
       alt: Go to E-Registration Microsite
       image: /images/Home Page/2023 Homepage
