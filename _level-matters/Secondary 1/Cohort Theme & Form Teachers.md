@@ -20,7 +20,7 @@ Secondary 1 (2024 Academic Year)  <br>
 
 
 ##### Mosaic of Life
-
+![](/images/Level%20Matters/S1/2024_Sec1_Cohort_Theme.jpg)
 
 In Bowen, our students will learn to embrace individuals from various walks of life and challenges that lie ahead of them. They will explore opportunities to uncover and expand their strengths.&nbsp;
 
