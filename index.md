@@ -34,15 +34,6 @@ sections:
       alt: Go to E-Registration Microsite
       image: /images/Home Page/2023 Homepage
         Images/2024_Sec_1_registration_thumbnail.jpg
-  - infopic:
-      title: OPEN HOUSE
-      subtitle: Visit us! The Bowen Experience
-      id: infopic
-      description: Find out more about us on our E-Open House Microsite
-      alt: Image alt text
-      image: /images/School Events/2023/BE_eopenhouse_banner.jpg
-      url: https://sites.google.com/bws.edu.sg/bowen-experience-2023/welcome-to-bowen-e-open-house
-      button: Visit our E-Open House!
   - textcards:
       title: Quick Links
       id: textcards
@@ -52,6 +43,11 @@ sections:
             deadlines here.
           linktext: Learn more
           url: /files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf
+        - title: Appeal to Transfer In (2024 Sec 1 only)
+          description: Please click on the link to submit the application [20 - 22 Dec
+            2023, by 5pm]
+          linktext: E-Application Link
+          url: https://go.gov.sg/2024sec1appealin
         - title: 2024 Booklists
           description: S2-4 are available for download. S1 only available after
             e-registration.
