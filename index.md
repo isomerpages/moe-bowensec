@@ -31,7 +31,9 @@ sections:
         E-registration microsite.
       button: Go to E-Registration Microsite
       url: https://sites.google.com/bws.edu.sg/ secondary-1-registration-2024
-      alt: Image alt text
+      alt: Go to E-Registration Microsite
+      image: /images/Home Page/2023 Homepage
+        Images/2024_Sec_1_registration_thumbnail.jpg
   - infopic:
       title: OPEN HOUSE
       subtitle: Visit us! The Bowen Experience
