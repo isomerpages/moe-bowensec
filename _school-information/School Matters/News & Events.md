@@ -6,6 +6,13 @@ third_nav_title: School Matters
 variant: markdown
 ---
 # Latest News and Events
+### 2023 N-Level Results Release
+The results of the 2023 Singapore-Cambridge General Certificate of Education N-Level Examinations was released on Monday, 18 December 2023, 2.00pm. 
+
+Please click on the following link to review key information and important deadlines.
+[2023 N-Level Results and Key Information](/files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf)
+
+<hr>
 
 ### The Bowen Experience [OPEN HOUSE 18 Nov]
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
