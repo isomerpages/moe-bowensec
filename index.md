@@ -45,4 +45,8 @@ sections:
             e-registration.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
+        - title: Bowen E-Open House 2023
+          description: Find out more about us on our E-Open House Microsite
+          linktext: Learn more
+          url: https://sites.google.com/bws.edu.sg/bowen-experience-2023/welcome-to-bowen-e-open-house
 ---
