@@ -34,10 +34,10 @@ sections:
   - textcards:
       title: Quick Links
       id: textcards
-      description: Click on these quick links to access key information
       cards:
         - title: N-Level Results & Information Slides
-          description: Click the link below to review key info and deadlines.
+          description: The N-level results was released 18 Dec  Review key info and
+            deadlines here.
           linktext: Learn more
           url: /files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf
         - title: 2024 Booklists
