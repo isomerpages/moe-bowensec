@@ -16,14 +16,7 @@ Secondary 4/5 (2024 Academic Year)<br>
 
 <hr>
 
-### Secondary 4/5 Year Head (2023 Academic Year)
 
-<img src="/images/Our%20People/MRS-CHAN-SOO-YONG.jpeg" style="width:25%">
-		 	 
-<center><b>Mrs. Chan Soo Yong       </b><br> 
-Year Head  <br>
-Secondary 4/5 (2023 Academic Year)  <br>
-<a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
 
 ### Cohort Theme
 
