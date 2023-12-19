@@ -19,19 +19,15 @@ Secondary 3&nbsp; (2024 Academic Year)  <br>
 
 ### Sec 3 Cohort Theme
 
-<img style="width:40%" src="/images/2022%20S1%20Cohort%20Theme.jpg">
+![](/images/Level%20Matters/S3/2024%20s3%20cohort%20theme.jpg)
 		 
 Our cohort theme is&nbsp;**‘B.E.E - Bowen Explore &amp; Embrace’.**&nbsp;Anchored by this theme, our programmes and activities provide our young Bowenians with a sense of purpose and progress.
 
-  
-
-Through these experiences, Bowenians can discover their interests, learn new things and feel a sense of belonging with fellow schoolmates.
-
-  
+Through these experiences, Bowenians can discover their interests, learn new things and feel a sense of belonging with fellow schoolmates. 
 
 Bowen’s motto, ‘I Believe, Therefore I Am’, reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.
 
-<img style="width:40%" src="/images/To%20Sparkle%202.png">
+![](/images/Level%20Matters/S3/2024%20s3%20to%20sparkle%20motto.png)
 		 
 Our Sec 1 classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald**. They form the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.
 
@@ -502,4 +498,3 @@ Our Sec 1 classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, 
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
   mso-ansi-language:EN-SG">chua_shi_hui@schools.gov.sg</span></p></td></tr></tbody></table>
-
