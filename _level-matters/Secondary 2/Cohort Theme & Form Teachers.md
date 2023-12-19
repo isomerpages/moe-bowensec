@@ -15,14 +15,6 @@ Secondary 2 (2024 Academic Year)<br>
 
 <hr>
 
-### Secondary 2 Year Head (2023 Academic Year)
-
-<img style="width:25%" src="/images/Our%20People/Ms-Estelle-Chong.jpeg">
-		 
-<center><b>Ms. Estelle Chong</b><br>
-Year Head <br>
-Secondary 2&nbsp; (2023 Academic Year)  <br>
-<a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
 
 ### Sec 2 Cohort Theme
 
