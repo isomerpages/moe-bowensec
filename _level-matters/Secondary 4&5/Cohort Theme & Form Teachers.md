@@ -16,9 +16,11 @@ Secondary 4/5 (2024 Academic Year)<br>
 
 <hr>
 
-### Sec 4 Cohort Theme
+### Sec 4 and 5  Cohort Theme
 
-<img style="width:40%" src="/images/2021%20Sec1%20Cohort%20Moto.jpg">
+![](/images/Level%20Matters/S4n5/2024%20sec4n5%20cohort%20moto.jpg)
+
+
 <center><b>G</b>row and <b>E</b>mbrace change to become a <b>M</b>asterpiece</center>
 		 
 We strongly believe that each student is unique and is able to shine in his/her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece. As such, we would like to introduce our class names, cohort motto and theme for the Sec 1s of 2021.&nbsp;
@@ -489,4 +491,3 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.2pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
   64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#222222;mso-ansi-language:EN-SG">siti_norrulhudha_sonny@schools.gov.sg</span></p></td></tr></tbody></table>
-
