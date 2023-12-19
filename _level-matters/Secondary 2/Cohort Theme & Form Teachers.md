@@ -18,15 +18,14 @@ Secondary 2 (2024 Academic Year)<br>
 
 ### 2024 Sec 2 Cohort Theme
 
-![](/images/Level%20Matters/S1/2023%20S1%20Cohort%20Theme.jpg)	 
+![](/images/Level%20Matters/S2/2024%20s2%20cohort%20theme.jpg)![]
 Our cohort theme centres around the&nbsp;**Bowen Experience (B.E)**&nbsp;which corresponds to the lower secondary themes of&nbsp;**Explore**&nbsp;and&nbsp;**Embrace**. We aim to develop in our students a growth mindset, likened to a butterfly expanding its wings and developing life skills to&nbsp;**Connect**,&nbsp;**Collaborate**&nbsp;and&nbsp;**Create**. Our students will be able to work in teams and be the catalyst for positive change within themselves.&nbsp;  
 
   
 
 Through their academic and holistic journey in Bowen, each Bowenian will have the opportunity to be engaged in our signature programmes, CCAs and activities through experiential learning, exploring their strengths and interests and aspiring to be a Beac**ON**&nbsp;of light in making positive impact for self and others.
 
-
-![](/images/Level%20Matters/S1/2023%20S1%20Cohort%20To%20Sparkle.jpg)
+![](/images/Level%20Matters/S2/2024%20s2%20cohort%20to%20sparkle.jpg)
 		 
 The&nbsp; classes are named after gems with the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.&nbsp;
 
