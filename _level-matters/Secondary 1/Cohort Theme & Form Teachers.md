@@ -16,7 +16,7 @@ Secondary 1 (2024 Academic Year)  <br>
 <hr>
 
 
-### 2023 Sec 1 Cohort Theme
+### 2024 Sec 1 Cohort Theme
 
 <img src="/images/Level%20Matters/S1/2024_Sec1_Cohort_Theme.jpg" style="width:50%">
 
@@ -41,7 +41,7 @@ Bowen’s motto, ***‘I Believe, Therefore I Am’***, reflects our belief that
 
 Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald.**
 
-### 2023 Secondary 1 Form Teachers
+### 2024 Secondary 1 Form Teachers
 
 <table class="MsoTable15Grid4Accent3" border="1" cellspacing="0" cellpadding="0" width="621" style="width:465.5pt;border-collapse:collapse;border:none;
  mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:
