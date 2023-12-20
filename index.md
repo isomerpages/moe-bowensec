@@ -24,16 +24,16 @@ sections:
           url: /school-information/level-matters/secondary-1/
   - infopic:
       title: 2024 Sec 1 E-Registration
-      subtitle: Available on 21 Dec
       id: infopic
-      description: Students need not report to school for S1 registration. Please
-        complete the E-registration by 1pm, Thursday 21 Dec using the
-        E-registration microsite.
-      button: Available only from 21/12 8am
-      url: https://www.bowensec.moe.edu.sg/
+      description: No need to come to school for S1 registration. Please E-register by
+        1pm, Thurs, 21 Dec using the E-registration microsite, only after
+        receiving PG from FTs.
+      button: Go to E-Registration Microsite
+      url: https://sites.google.com/bws.edu.sg/ secondary-1-registration-2024
       alt: Go to E-Registration Microsite
       image: /images/Home Page/2023 Homepage
         Images/2024_Sec_1_registration_thumbnail.jpg
+      subtitle: 21 Dec from 9am - 1pm
   - textcards:
       title: Quick Links
       id: textcards
