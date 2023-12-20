@@ -91,14 +91,7 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
 .tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<p>
-	
-
-	
-
-	
-	
-</p><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
@@ -192,4 +185,11 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">sheik_habib_noor@schools.gov.sg</span></td>
   </tr>
-</tbody></table>
+</tbody>
+	
+
+	
+
+	
+	
+</table>
