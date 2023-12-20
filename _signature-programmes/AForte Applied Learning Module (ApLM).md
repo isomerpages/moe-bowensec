@@ -1,9 +1,9 @@
 ---
-title: AForte Applied–Learning Programme
+title: AForte Applied Learning Module (ApLM)
 permalink: /signature-programmes/aforte-applied-learning-programme/
 description: ""
+variant: tiptap
 ---
-
 **AForte** is a Bowen signature programme designed to cater to the holistic development of students from the Normal stream.
 
 ### Objectives

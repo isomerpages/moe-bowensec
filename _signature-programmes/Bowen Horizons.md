@@ -2,8 +2,9 @@
 title: Bowen Horizons
 permalink: /signature-programmes/bowen-horizons/
 description: ""
+variant: markdown
 ---
-### Overseas Learning Journies and Culturing Immersion Programmes
+### Overseas Learning Journies and Cultural Immersion Programmes
 
 The Bowen Horizons provides experiential learning experiences for our students through carefully planned Overseas Learning journeys and cultural immersion programmes. 
 

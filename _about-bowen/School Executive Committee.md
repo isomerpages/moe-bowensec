@@ -11,12 +11,16 @@ variant: markdown
 <br><a href="Loh_Chih_Hui@schools.gov.sg">Loh_Chih_Hui@schools.gov.sg</a></center>
 <hr>	
 
-<img src="/images/Our%20People/Ms-LIM-GUIHAO.jpeg" style="width:20%">
+<br><img src="/images/Our%20People/Ms-LIM-GUIHAO.jpeg" style="width:20%">
 <center><b>&nbsp;Ms. Lim GuiHao <br>VICE-PRINCIPAL</b><br><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
 <hr>	
 
-<img src="/images/Our%20People/mr%20benjamin%20chen.jpg" style="width:20%">
+<br><img src="/images/Our%20People/mr%20benjamin%20chen.jpg" style="width:20%">
 <center><b>&nbsp;Mr. Chen Zhaokai Benjamin <br>VICE-PRINCIPAL</b><br><a href="Chen_Zhaokai_Benjamin@schools.gov.sg">Chen_Zhaokai_Benjamin@schools.gov.sg</a></center>
+<hr>	
+
+<br>
+<center><b>&nbsp;Mr. Goh Kee Yong <br>VICE-PRINCIPAL</b><br><a href="goh_kee_yong@schools.gov.sg">Goh_Kee_Yong@schools.gov.sg</a></center>
 <hr>	
 
 
@@ -76,8 +80,7 @@ variant: markdown
 <hr>	
 
 <img src="/images/Our%20People/Mrs-Normala-Chang.jpg" style="width:20%">		 
-<center><b>Mrs. Normala Chang<br>Head / Normal Course</b><br>
-	<b>Head / Discipline</b>
+<center><b>Head / Discipline</b>
 <br><a href="normala_mohamed_saleh_ma@schools.gov.sg">normala_mohamed_saleh_ma@schools.gov.sg</a></center>
 <hr>	
 

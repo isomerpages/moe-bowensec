@@ -145,21 +145,13 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">suraiya_izharul@schools.gov.sg </span><br></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Grace Wang</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">wang_yahui_grace@schools.gov.sg</span></td>
-  </tr>
+
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mrs. Andrea Thoo</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">kan_sok_may_andrea@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mrs. Kalaivani Pookays</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">kalaivani_pookays@schools.gov.sg</span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mrs. Adeline Lee</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
@@ -188,14 +180,7 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Lim Kah Kiat</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">lim_kah_kiat@schools.gov.sg</span></td>  </tr><tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Francis Neo</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">francis_gideon_neo_en@schools.gov.sg</span></td>
-  </tr>
-  
-	
-	
+    <td class="tg-fxx4"><span style="color:#222">lim_kah_kiat@schools.gov.sg</span></td>  </tr>
 	
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Sean Ross Clunies</span></td>
@@ -241,11 +226,7 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">suraiya_izharul@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Grace Wang</span>             <br></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">wang_yahui_grace@schools.gov.sg</span></td>
-  </tr>
+
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Mohamad Irsyad</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>

@@ -3,10 +3,13 @@ title: Craft and Technology
 permalink: /holistic-education/academic-programmes/craft-and-technology/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 In line with the 21st&nbsp;CC competencies, the Craft and Technology Department aims to develop a child to be a creative and inventive thinker. They learn to solve problems and create products using various mediums, be it food, wood, steel or art.
 
-As part of their learning process, students identify problems, generate ideas and test their ideas. Students are encouraged to marry function with fashion, to be pragmatic and aesthetic. We hope for our students to be able to carry these skills through life and apply their knowledge and learning to real-world problems and situations.
+As part of their learning process, students identify problems, generate ideas and test their ideas. Students are encouraged to marry function with fashion, to be pragmatic and aesthetic. 
+
+We hope for our students to be able to carry these skills through life and apply their knowledge and learning to real-world problems and situations.
 
 ### Design and Technology (DNT)
 
@@ -110,6 +113,12 @@ Art assessment for&nbsp;lower&nbsp;secondary level is based on class assignments
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">ng_chip_khiang_jackson@schools.gov.sg</span></td>
   </tr>
+	  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Lau Chee Seng</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">lau_chee_seng@schools.gov.sg</span></td>
+  </tr>
+	
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Freddy Tan</span></td>
     <td class="tg-fxx4"><span style="color:#222">Technical Support Officer</span></td>
@@ -196,11 +205,7 @@ Art assessment for&nbsp;lower&nbsp;secondary level is based on class assignments
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">chong_how_kiat@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Joyce Toh</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">toh_lin_lee_joyce@schools.gov.sg</span></td>
-  </tr>
+
 </tbody>
 </table>
 

@@ -24,7 +24,7 @@ sections:
           url: /school-information/level-matters/secondary-1/
   - infopic:
       title: 2024 Sec 1 E-Registration
-      subtitle: Only Available on 21 Dec
+      subtitle: Available on 21 Dec
       id: infopic
       description: Students need not report to school for S1 registration. Please
         complete the E-registration by 1pm, Thursday 21 Dec using the
