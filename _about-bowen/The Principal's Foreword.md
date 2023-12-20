@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/About%20Bowen/Principal%20foreward%202.jpg)
+##### The Principal's Foreward 2024
 
 The recently released Forward SG Report laid out a new Singapore vision, one that embraces wider definitions of success. What does a broader definition of success mean? It is not just about shifting from academic to non-academic, personal achievements. More crucially, it is about giving greater recognition to collective contributions over personal achievements. This can help us become a much more heartwarming and cohesive society, one where everyone feels respected and valued.
 
