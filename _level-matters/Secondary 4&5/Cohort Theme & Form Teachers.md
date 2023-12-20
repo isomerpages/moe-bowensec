@@ -18,17 +18,21 @@ Secondary 4/5 (2024 Academic Year)<br>
 
 ### Sec 4 and 5  Cohort Theme
 
-![](/images/Level%20Matters/S4n5/2024%20sec4n5%20cohort%20moto.jpg)
+#### Grow and Embrace Change to become a Masterpiece
 
+
+<img style="width:70%" src="/images/Level%20Matters/S4n5/2024%20sec4n5%20cohort%20moto.jpg">
 
 <center><b>G</b>row and <b>E</b>mbrace change to become a <b>M</b>asterpiece</center>
 		 
 We strongly believe that each student is unique and is able to shine in his/her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece. As such, we would like to introduce our class names, cohort motto and theme for the Sec 1s of 2021.&nbsp;
 
   
+#### To Sparkle
+
+
 
 The classes will be named after gems with the acronym&nbsp;**“To SPARKLE”**&nbsp;as we believe each class is a gem of its own and will sparkle in its unique way.
-
   
 
 These gems are:&nbsp;
