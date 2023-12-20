@@ -108,7 +108,7 @@ The following 2024 Purchase Guide and Booklist are available for download in the
 *  [2024 Sec 2 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
 *  [2024 Sec 3 Booklist (Updated 9 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver091123.pdf)
 *  [2024 Sec 4 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
-*  [2024 Sec 5 Booklist (updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s5%20booklist%20ver061123.pdf)
+*  [2024 Sec 5 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s5%20booklist%20ver061123.pdf)
   
 <hr>
 
