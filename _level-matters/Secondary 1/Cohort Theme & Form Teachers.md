@@ -42,42 +42,44 @@ Bowen’s motto, ***‘I Believe, Therefore I Am’***, reflects our belief that
 Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald.**
 
 ### 2024 Secondary 1 Form Teachers
-
-<table class="MsoTable15Grid4Accent3" border="1" cellspacing="0" cellpadding="0" width="621" style="width:465.5pt;border-collapse:collapse;border:none;
+ 
+<table style="width:465.5pt;border-collapse:collapse;border:none;
  mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:
- 153;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
-  height:22.95pt"><td valign="top" style="border:solid #A5A5A5 1.0pt;mso-border-themecolor:accent3;
+ 153;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="621" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Grid4Accent3"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
+  height:23.65pt"><td style="border:solid #A5A5A5 1.0pt;mso-border-themecolor:accent3;
   border-right:none;mso-border-top-alt:solid #A5A5A5 .5pt;mso-border-top-themecolor:
   accent3;mso-border-left-alt:solid #A5A5A5 .5pt;mso-border-left-themecolor:
   accent3;mso-border-bottom-alt:solid #A5A5A5 .5pt;mso-border-bottom-themecolor:
   accent3;background:#A5A5A5;mso-background-themecolor:accent3;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  5"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:white;background:#999999;mso-ansi-language:EN-SG">Class</span></b><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:white;
-  mso-ansi-language:EN-SG"></span></b></p></td><td valign="top" style="border-top:solid #A5A5A5 1.0pt;mso-border-top-themecolor:
-  accent3;border-left:none;border-bottom:solid #A5A5A5 1.0pt;mso-border-bottom-themecolor:
+  height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:5" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;mso-themecolor:background1;mso-ansi-language:
+  EN-SG">Class</span></p></td><td style="border-top:solid #A5A5A5 1.0pt;mso-border-top-themecolor:accent3;
+  border-left:none;border-bottom:solid #A5A5A5 1.0pt;mso-border-bottom-themecolor:
   accent3;border-right:none;mso-border-top-alt:solid #A5A5A5 .5pt;mso-border-top-themecolor:
   accent3;mso-border-bottom-alt:solid #A5A5A5 .5pt;mso-border-bottom-themecolor:
   accent3;background:#A5A5A5;mso-background-themecolor:accent3;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  1"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:white;background:#999999;mso-ansi-language:EN-SG">Form Teachers</span></b><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:white;
-  mso-ansi-language:EN-SG"></span></b></p></td><td valign="top" style="border:solid #A5A5A5 1.0pt;mso-border-themecolor:accent3;
+  height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:1" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:white;mso-themecolor:background1;
+  mso-ansi-language:EN-SG">Form Teachers</span></b></p></td><td style="border:solid #A5A5A5 1.0pt;mso-border-themecolor:accent3;
   border-left:none;mso-border-top-alt:solid #A5A5A5 .5pt;mso-border-top-themecolor:
   accent3;mso-border-bottom-alt:solid #A5A5A5 .5pt;mso-border-bottom-themecolor:
   accent3;mso-border-right-alt:solid #A5A5A5 .5pt;mso-border-right-themecolor:
   accent3;background:#A5A5A5;mso-background-themecolor:accent3;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  1"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:white;background:#999999;mso-ansi-language:EN-SG">Email Contact</span></b><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:white;
-  mso-ansi-language:EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:0;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:1" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:white;mso-themecolor:background1;
+  mso-ansi-language:EN-SG">Email Contact</span></b></p></td></tr><tr style="mso-yfti-irow:0;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Topaz</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Topaz</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -85,9 +87,11 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Mr. Chew Hui Jie</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Ainsley Liew</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -95,87 +99,46 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">chew_hui_jie@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:1;height:22.95pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">liew_en-li_ainsley@schools.gov.sg</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">To</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">To</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">Mrs. Irene Leong</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Noraliza Razali</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">low_wai_wan@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Sapphire</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Mr. Sheik Habib</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">sheik_habib_noor@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:22.95pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">S</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">Ms Corinne Teo</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">liew_chee_liang@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">norazila_razali@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Peridot</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Sapphire</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -183,9 +146,11 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Mr. Chen Qinghua</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Ms. Clara Chan</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -193,86 +158,45 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">chen_qinghua@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:5;height:22.95pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">chan_pei_fong_clara@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">P</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">S</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">Ms. Rachel Lim</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Khairul</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">lim_su_ern_rachel@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Amethyst</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Ms. Alamel Moghan</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">alamel_moghan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:7;height:22.95pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">A</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">&nbsp;</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"></td></tr><tr style="mso-yfti-irow:8;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">khairul_anwar_ali@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Ruby</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -280,9 +204,11 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Mr. Jackson Ng</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mdm. Dorothy Lim</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -290,87 +216,46 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">ng_chip_khiang_jackson@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:9;height:22.95pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">lim_pei_ping_dorothy@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">R</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Peridot</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">Ms Grace Wang</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Gary See</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">wang_yahui_grace@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:10;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Kunzite</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Mdm. Angela Tan</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">tan_leng_khim@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:11;height:22.95pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">K</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">Mdm. Sim Sze Hwei</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">sim_sze_hwei@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:12;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">gary_see_gim_boon@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Larimar</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">P</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -378,9 +263,11 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Mrs. Audrey Gan</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mdm. Uma</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -388,38 +275,46 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">audrey_tan_seow_ping@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:13;height:22.95pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">uma_thiruselvam@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">L</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Amethyst</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">Ms Nurzafirah</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Monica Suan</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">nurzafirah_azahari@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:14;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">uan_ching_yeah_monica@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:8;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">1 Emerald</span></b></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">A</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -427,9 +322,11 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">Mrs Lee Suping</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Corrine Teo</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -437,28 +334,270 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  64"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">tan_su_ping@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:23.65pt"><td valign="top" style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">liew_chee_liang@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  4"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222;mso-ansi-language:EN-SG">E</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Ruby</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">Mr Lau Chee Seng</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Adeline Lee</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
-  mso-ansi-language:EN-SG">lau_chee_seng@schools.gov.sg</span></p></td></tr></tbody></table>
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">wee_siah_imm_adeline@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:10;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">R</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Ng Wah Kian</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">ng_wah_kian@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:11;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Kunzite</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mdm, Shameera</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">shameera_hadam_hussain@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:12;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">K</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Alvin Chong</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">alvin_chong_chee_leong@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:13;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">&nbsp;</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Ong Ai Lingg</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">ong_ai_lingg@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:14;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Larimar</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Rebecca Ang</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">chua_yiwen_rebecca@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:15;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">L</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Chong How Kiat</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">chong_how_kiat@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:16;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">1 Emerald</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mdm. Noorlidiawati</span><span style="font-size:
+  12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">noorlidiawati_said@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:17;mso-yfti-lastrow:yes;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">E</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Sean Ross</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">clunies_ross_sean_james@schools.gov.sg</span></p></td></tr></tbody></table>
+
+

@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /holistic-education/academic-programmes/physical-education/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 Our goal is to develop students physically, intellectually, socially and emotionally through physical activity.&nbsp; &nbsp;   
 
@@ -103,11 +104,6 @@ Students entering Secondary 3 can opt for the subject and offer it as an O-level
     <td class="tg-fxx4"><span style="color:#222">Mr. Justin Chong</span></td>
     <td class="tg-emg8"></td>
     <td class="tg-fxx4"><span style="color:#222">justin_chong_jin_fatt@schools.gov.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Eileen Ong</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">eileen_ong@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms. Anne Marie Chua </span><br></td>
