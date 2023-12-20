@@ -168,10 +168,15 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222">ng_gek_hwa@schools.gov.sg</span></td>
   </tr>
   <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Rachel Lim</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">lim_su_ern_rachel@schools.gov.sg</span></td>
+  </tr>
+	 <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm. Siti Hawa</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">siti_hawa_abdul_hadi@schools.gov.sg </span></td>
-  </tr>
+  </tr>	
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Ken Foo</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
