@@ -3,6 +3,7 @@ title: Science
 permalink: /holistic-education/academic-programmes/science/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 <b><i>“Science is a way of thinking much more than it is a body of knowledge.”</i></b>
 
@@ -35,14 +36,14 @@ The curriculum design seeks to enable students to view the pursuit of science as
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-b4br">Express</th>
+    <th class="tg-b4br">G3</th>
     <th class="tg-emg8"><span style="color:#222">Science</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b4br">Normal Academic /Normal Technical</td>
-    <td class="tg-emg8">Qualified students may offer Express / Normal Academic Science from the beginning or middle of the year (Subject Based Banding)<span style="color:#252525">.</span></td>
+    <td class="tg-b4br">G2 /G1</td>
+    <td class="tg-emg8">Qualified students may offer G3/G2 Science from the beginning or middle of the year (Subject Based Banding)<span style="color:#252525">.</span></td>
   </tr>
 </tbody>
 </table>
@@ -61,17 +62,17 @@ The curriculum design seeks to enable students to view the pursuit of science as
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-b4br">Express</th>
+    <th class="tg-b4br">G3</th>
     <th class="tg-emg8">Physics, Chemistry, Biology,<br>Science (Physics/Chemistry), Science (Biology/Chemistry)<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b4br">Normal Academic</td>
+    <td class="tg-b4br">G2</td>
     <td class="tg-emg8">Science (Physics/Chemistry), Science (Biology/Chemistry)<br>(Qualified students may offer O-level Science)<br></td>
   </tr>
   <tr>
-    <td class="tg-b4br">Normal Technical</td>
+    <td class="tg-b4br">G1</td>
     <td class="tg-emg8"><span style="color:#222">Science</span></td>
   </tr>
 </tbody>
@@ -192,12 +193,7 @@ Beyond classroom lessons and laboratory practicals, Science teachers plan enrich
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">chong_huilin_melissa@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Cheryl Lim</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">lim_hui_yi_cheryl@schools.gov.sg</span></td>
-  </tr>
-   <tr>
+    <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm. Shafiqah</span><br></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">shafiqah_hadam_hussain@schools.gov.sg</span></td>
