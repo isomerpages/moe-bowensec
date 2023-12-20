@@ -25,15 +25,15 @@ sections:
   - infopic:
       title: 2024 Sec 1 E-Registration
       id: infopic
-      description: No need to report for S1 registration. Please complete by 1pm,
-        Thurs, 21 Dec using the E-registration microsite, only after receiving
-        PG from FTs.
+      description: No need to come to school for S1 registration. Please E-register by
+        1pm, Thurs, 21 Dec using the E-registration microsite, only after
+        receiving PG from FTs.
       button: Go to E-Registration Microsite
       url: https://sites.google.com/bws.edu.sg/ secondary-1-registration-2024
       alt: Go to E-Registration Microsite
       image: /images/Home Page/2023 Homepage
         Images/2024_Sec_1_registration_thumbnail.jpg
-      subtitle: 21 Dec 9am -1pm
+      subtitle: 21 Dec from 9am - 1pm
   - textcards:
       title: Quick Links
       id: textcards
