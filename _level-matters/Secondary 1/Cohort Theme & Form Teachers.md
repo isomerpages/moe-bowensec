@@ -35,7 +35,7 @@ The water droplet’s adaptability mirrors that of our students, who can navigat
 Finally, positivity serves as the mortar that binds the mosaic pieces together, epitomizing inclusivity and uniting our students as they move forward together towards excellence.
 
 ##### TO SPARKLE
-![](/images/Level%20Matters/S1/2024_To_Sparkle_text.jpg)
+![](/images/Level%20Matters/S1/To_Sparkle_Transp.png)
 		 
 Bowen’s motto, ***‘I Believe, Therefore I Am’***, reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.
 
