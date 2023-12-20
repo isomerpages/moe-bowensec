@@ -102,7 +102,7 @@ Upper Secondary students investigated the micro-climate in school as well as sur
     <td class="tg-fxx4"><span style="color:#222">Ms. Tan Shuming</span></td>
     <td class="tg-fxx4"><span style="color:#222"> SH / Student Well-being </span></td>
     <td class="tg-fxx4"><span style="color:#222">tan_shuming@schools.gov.sg </span></td> </tr>
-	<tr> <td class="tg-fxx4"><span style="color:#222">Mr. Mohd. Irsyad </span></td>
+	<tr> <td class="tg-fxx4"><span style="color:#222">Mr. Irsyad </span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">mohamad_irsyad@schools.gov.sg </span></td>
   </tr>
@@ -148,4 +148,3 @@ Upper Secondary students investigated the micro-climate in school as well as sur
 
 </tr></tbody>
 </table>
-
