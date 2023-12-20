@@ -94,6 +94,7 @@ The following 2024 Purchase Guide and Booklist are available for download in the
 
 * [2024 Textbook Purchase Guide for Sec 2 to Sec 4](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)
 *  [2024 Sec 4 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s4%20booklist%20ver061123.pdf)
+*  [2024 Sec 5 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s5%20booklist%20ver061123.pdf)
 
 <hr>
 
