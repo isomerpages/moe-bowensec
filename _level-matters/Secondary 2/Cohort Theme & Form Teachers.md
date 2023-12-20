@@ -18,7 +18,8 @@ Secondary 2 (2024 Academic Year)<br>
 
 ### 2024 Sec 2 Cohort Theme
 
-![](/images/Level%20Matters/S2/2024%20s2%20cohort%20theme.jpg)![]
+![](/images/Level%20Matters/S2/2024%20s2%20cohort%20theme.jpg)
+
 Our cohort theme centres around the&nbsp;**Bowen Experience (B.E)**&nbsp;which corresponds to the lower secondary themes of&nbsp;**Explore**&nbsp;and&nbsp;**Embrace**. We aim to develop in our students a growth mindset, likened to a butterfly expanding its wings and developing life skills to&nbsp;**Connect**,&nbsp;**Collaborate**&nbsp;and&nbsp;**Create**. Our students will be able to work in teams and be the catalyst for positive change within themselves.&nbsp;  
 
   
