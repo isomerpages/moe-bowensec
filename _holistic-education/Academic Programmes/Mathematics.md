@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /holistic-education/academic-programmes/mathematics/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 The overarching goal of mathematics education in the school is to provide our students with a good foundation in Mathematics that is necessary for problem-solving as well as daily life application. We strive to instill in our students the positive attitude towards the learning of the subjects.
 
@@ -90,7 +91,14 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
 .tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p>
+	
+
+	
+
+	
+	
+</p><table class="tg">
 <thead>
   <tr>
     <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
@@ -108,11 +116,6 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
     <td class="tg-580q">Mr. Dominic Goh</td>
     <td class="tg-fxx4"><span style="color:#222">HOD / CCE</span></td>
     <td class="tg-fxx4"><span style="color:#222">dominic_goh_buan_chuan@schools.gov.sg</span><br></td>
-  </tr>
-    <tr>
-    <td class="tg-580q">Mdm. Padma<br></td>
-    <td class="tg-fxx4"><span style="color:#222">ST / Maths</span></td>
-    <td class="tg-fxx4"><span style="color:#222">padma_ramachandran@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">Ms. Ong Ai Lingg</span></td>
@@ -170,21 +173,6 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
     <td class="tg-fxx4"><span style="color:#222">tan_leng_khim@schools.gov.sg </span><br></td>
   </tr>
   <tr>
-    <td class="tg-580q">Ms. Stacey Ang</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">ang_ting_ting@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">Ms. Eileen Ong</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">eileen_ong@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">Ms. Siow Wei Ling</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">siow_wei_ling@schools.gov.sg</span></td>
-  </tr>
-  <tr>
     <td class="tg-tojq"><span style="color:#222">Mr. Chew Hui Jie</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">chew_hui_jie@schools.gov.sg</span></td>
@@ -204,5 +192,4 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">sheik_habib_noor@schools.gov.sg</span></td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
