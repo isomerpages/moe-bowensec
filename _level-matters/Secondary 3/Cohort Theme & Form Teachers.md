@@ -27,9 +27,10 @@ Through these experiences, Bowenians can discover their interests, learn new thi
 
 Bowen’s motto, ‘I Believe, Therefore I Am’, reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.
 
+#### Class Names
 ![](/images/Level%20Matters/S3/2024%20s3%20to%20sparkle%20motto.png)
 		 
-Our Sec 1 classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald**. They form the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.
+Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald**. They form the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.
 
 ### 2024 Secondary 3 Form Teachers
 
