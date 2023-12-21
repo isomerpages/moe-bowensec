@@ -29,7 +29,7 @@ sections:
         1pm, Thurs, 21 Dec using the E-registration microsite, only after
         receiving PG from FTs.
       button: Go to E-Registration Microsite
-      url: https://sites.google.com/bws.edu.sg/secondary-1-registration-2024
+      url: https://go.gov.sg/2024s1regbowen
       alt: Go to E-Registration Microsite
       image: /images/Home Page/2023 Homepage
         Images/2024_Sec_1_registration_thumbnail.jpg
