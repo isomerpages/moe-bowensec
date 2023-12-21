@@ -52,7 +52,7 @@ The journey of Bowen Secondary School is made possible by the stewardship of the
 | 2021 to date | Mr. Loh Chih Hui | 2005 - 2012  | Mdm. Sarah Abdullah     |
 |  |  |2014 - 2016  | Mr. Clement Lim     |
 |  |  |2015 - 2019  | Mr. Inderjit Singh  |
-|  |  |2020 to 2022 | Mr. Melvin Tay     |
 |  |  |2017 to date | Ms. Lim Guihao     |
+|  |  |2020 - 2022 | Mr. Melvin Tay     |
 |  |  |2023 to date| Mr. Chen Zhaokai Benjamin     |
 |  |  |2023 to date| Mr. Goh Kee Yong     |

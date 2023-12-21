@@ -6,6 +6,13 @@ third_nav_title: School Matters
 variant: markdown
 ---
 # Latest News and Events
+### 2024 Sec 1 E-Registration on Thursday, 21 December 2023 9am-1pm
+Registration for Secondary 1 students in Bowen for 2024 will be done on-line via the E-Registration Microsite on Thursday, 21 December 2023 from 9am to 1pm. Students do not need to come to school for the registration. Parents are advised to check their Parent Gateway (PG) app for the necessary information sent by their child's Form Teachers by 9am before e-registration. 
+
+[Sec 1 E-Registration Microsite &gt;&gt;&gt;](https://go.gov.sg/2024s1regbowen)
+
+<hr>
+
 ### 2023 N-Level Results Release
 The results of the 2023 Singapore-Cambridge General Certificate of Education N-Level Examinations was released on Monday, 18 December 2023, 2.00pm. 
 
@@ -17,7 +24,7 @@ Please click on the following link to review key information and important deadl
 ### The Bowen Experience [OPEN HOUSE 18 Nov]
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
 
-### Online Purchase of 2024 Textbooks and Uniforms for Sec 2, 3 and 4 students
+### Online Purchase of 2024 Textbooks and Uniforms for Sec 2 - 4/5 students
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
 
 The supplier’s website for ordering the textbooks and uniforms will begin taking orders <u>**from Tue, 14 Nov 2023.** </u>
