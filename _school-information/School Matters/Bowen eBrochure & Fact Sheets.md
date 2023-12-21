@@ -10,4 +10,4 @@ variant: markdown
 
 ### 2023 Bowen Fact Sheet
 
-* [2022_Bowen Experience_Fact Sheet.pdf](/files/2022_Bowen%20Experience_Fact%20Sheet.pdf)
+[2023 Bowen Secondary E-Brochure](/files/School%20Brochures/2023_BWSS_Brochure_LR.pdf)
