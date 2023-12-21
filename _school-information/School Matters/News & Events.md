@@ -7,9 +7,9 @@ variant: markdown
 ---
 # Latest News and Events
 ### 2024 Sec 1 E-Registration on Thursday, 21 December 2023 9am-1pm
-Registration for Secondary 1 students in Bowen for 2024 will be done on-line via the E-Registration Microsite on Thursday, 21 December 2023 from 9am to 1pm. Students do not need to come to school for the registration. Parents are advised to check their Parent Gateway (PG) app for the necessary information sent by their child's Form Teachers by 9am before e-registration
+Registration for Secondary 1 students in Bowen for 2024 will be done on-line via the E-Registration Microsite on Thursday, 21 December 2023 from 9am to 1pm. Students do not need to come to school for the registration. Parents are advised to check their Parent Gateway (PG) app for the necessary information sent by their child's Form Teachers by 9am before e-registration. 
 
-Sec 1 E-Registration Microsite &gt;&gt;&gt;
+[Sec 1 E-Registration Microsite &gt;&gt;&gt;](https://go.gov.sg/2024s1regbowen)Sec 1 E-Registration Microsite &gt;&gt;&gt;
 
 <hr>
 
