@@ -79,6 +79,12 @@ variant: markdown
     <td class="tg-fxx4"><span style="color:#222">SH / Student Well-being</span></td>
     <td class="tg-fxx4"><span style="color:#222">tan_shuming@schools.gov.sg</span></td>
   </tr>
+	 <tr>
+    <td class="tg-fxx4"><span style="color:#222"> 9</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Randy Low </span></td>
+    <td class="tg-fxx4"><span style="color:#222">SH / Student-Leadership</span></td>
+    <td class="tg-fxx4"><span style="color:#222">low_chen_long_randy@schools.gov.sg</span></td>
+  </tr>
 </tbody>
 </table>
 
