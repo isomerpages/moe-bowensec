@@ -204,6 +204,7 @@ Please create a user account using your own choice of email address and password
 The following 2024 Purchase Guide and Booklist are available for download in the links below
 
 * [2024 Sec 1 BookList](/files/Book%20Lists/2024/2024_bowen_s1_booklist_ver061123.pdf)
+* [2024 Books Purchase Guide](/files/Book%20Lists/2024/2024_Bowen_S1_Purchase_Guide.pdf)
 
 
 ### School Uniform Pricelist
