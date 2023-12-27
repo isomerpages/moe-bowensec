@@ -3,6 +3,7 @@ title: Boys Brigade
 permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCAs/Uniform%20Groups/Boys%20Brigade/bb%20main.jpg)
 
@@ -25,7 +26,7 @@ third_nav_title: Uniformed Groups
 <tbody>
   <tr>
     <td class="tg-gzrh"><span style="color:#252525">Teachers-in charge</span></td>
-    <td class="tg-3f07"><span style="font-weight:400;font-style:normal">Mr. Derrick Lim (I/C)</span><br>Mdm Audrey Naomi<br>Mr Francis Neo<br></td>
+    <td class="tg-3f07"><span style="font-weight:400;font-style:normal">Mr. Derrick Lim (I/C)</span><br>Mdm Audrey Naomi<br></td>
   </tr>
   <tr>
     <td class="tg-gzrh"><span style="color:#252525">Training Schedule</span></td>
