@@ -20,6 +20,7 @@ variant: markdown
 <hr>	
 
 <br>
+<img src="/images/Our%20People/Mr_Goh_Kee_Yong.jpg" style="width:20%">
 <center><b>&nbsp;Mr. Goh Kee Yong <br>VICE-PRINCIPAL</b><br><a href="goh_kee_yong@schools.gov.sg">Goh_Kee_Yong@schools.gov.sg</a></center>
 <hr>	
 
