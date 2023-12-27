@@ -201,8 +201,9 @@ Please create a user account using your own choice of email address and password
   font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">The General Office (GO) will contact you to collect the ‘Approval of FAS for 2024 Letter’ i.e do not come to school until you are contacted by GO. &nbsp;The letter will have details of the collection of textbooks and uniforms.</span></p></td></tr></tbody></table>
 
 ### Sec 1 Booklist
+The following 2024 Purchase Guide and Booklist are available for download in the links below
 
-[2024 Sec 1 BookList](/files/Book%20Lists/2024/2024_bowen_s1_booklist_ver061123.pdf)
+* [2024 Sec 1 BookList](/files/Book%20Lists/2024/2024_bowen_s1_booklist_ver061123.pdf)
 
 
 ### School Uniform Pricelist
