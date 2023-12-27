@@ -19,16 +19,20 @@ Secondary 3&nbsp; (2024 Academic Year)  <br>
 
 ### Sec 3 Cohort Theme
 
-![](/images/Level%20Matters/S3/2024%20s3%20cohort%20theme.jpg)
-		 
-Our cohort theme is&nbsp;**‘B.E.E - Bowen Explore &amp; Embrace’.**&nbsp;Anchored by this theme, our programmes and activities provide our young Bowenians with a sense of purpose and progress.
+![](/images/Level%20Matters/S3/2024_S3_CTheme.png)
 
-Through these experiences, Bowenians can discover their interests, learn new things and feel a sense of belonging with fellow schoolmates. 
+In Upper Secondary, students will embark on a transformative journey where they further explore their passions, take on challenges, and seize opportunities. 
 
-Bowen’s motto, ‘I Believe, Therefore I Am’, reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.
+The phase **Bowen Empower &amp; Elevate** hopes to empower them to set goals, make informed decisions, and develop independence to elevate their personal and academic growth. 
+
+They will discover their interests as they pursue subjects at a more advanced level, engage in diverse activities, and develop leadership skills, all while navigating their journey of learning with the support of their peers.
+
+Bowen Empower and Elevate (B.E.E) is a call to take action to ‘BEE’ the best version of themselves.
+
 
 #### Class Names
 ![](/images/Level%20Matters/S3/2024%20s3%20to%20sparkle%20motto.png)
+
 		 
 Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald**. They form the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.
 
