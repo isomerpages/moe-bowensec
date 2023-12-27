@@ -24,65 +24,182 @@ Please note: The Bookshop &amp; Uniform Vendor will not serve walk-in customers 
 Please create a user account using your own choice of email address and password (there is no preset user ID or Password). 
 
 
-<table style="width:512.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0cm 0cm 0cm 0cm" width="683" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.2pt"><td style="width:512.5pt;border:solid windowtext 1.0pt;
-  background:yellow;padding:0cm 5.4pt 0cm 5.4pt;height:15.2pt" valign="top" colspan="2" width="683"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Textbooks &amp; School Uniforms</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:25.25pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:25.25pt" width="209"><p style="text-align:right" align="right" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Supplier</span></p></td><td style="width:355.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:25.25pt" width="474"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG">Pacific Bookstores Pte Ltd</span></p></td></tr><tr style="mso-yfti-irow:2;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="209"><p style="text-align:right" align="right" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Website</span></p></td><td style="width:355.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"><a href="http://www.pacificbookstores.com"><b><span style="color:windowtext">www.pacificbookstores.com</span></b></a></span><i><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></i></p></td></tr><tr style="mso-yfti-irow:3;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="209"><p style="text-align:right" align="right" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Sales begin:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td><td style="width:355.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG">Thu, 21 Dec 2023</span></b><b><span style="font-family:
-  &quot;Arial&quot;,sans-serif" lang="EN-US"></span></b></p></td></tr><tr style="mso-yfti-irow:4;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="209"><p style="text-align:right" align="right" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Self-collection at School / Home Delivery<b></b></span></p></td><td style="width:355.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Starting on </span><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG">Thu, 28 Dec 2023</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-ansi-language:EN-SG"> </span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">(Refer to stipulated dates given on website)</span></p></td></tr><tr style="mso-yfti-irow:5;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right" align="right"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Home Delivery Charge</span></p></td><td style="width:355.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin:0cm"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#7030A0;mso-ansi-language:EN-SG">$14.60 per delivery </span></b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
-  EN-SG">(parents are allowed to combine up to 2 orders)</span><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#7030A0" lang="EN-US"></span></b></p></td></tr><tr style="mso-yfti-irow:6;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right" align="right"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Payment mode for online purchase</span></p></td><td style="width:355.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="474"><p style="margin:0cm"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-ansi-language:EN-SG">VISA / MASTER / Debit Cards / PayNow / NTUC BTS and CDAC e-voucher</span><span style="font-size:11.0pt;font-family:
-  &quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:7;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right" align="right"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Payment mode for on-site purchase</span></p></td><td style="width:355.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="474"><p style="margin:0cm"><span style="font-size:11.0pt;font-family:
-  &quot;Arial&quot;,sans-serif" lang="EN-US">Cash / PayNow / </span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">NTUC BTS and CDAC e-voucher</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:8;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right" align="right"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Contact No:</span></p></td><td style="width:355.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin:0cm"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+<table style="width:512.5pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:
+ 153;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="683" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Grid4Accent3"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
+  height:15.2pt"><td style="width:512.5pt;border:solid #A5A5A5 1.0pt;
+  mso-border-themecolor:accent3;mso-border-alt:solid #A5A5A5 .5pt;mso-border-themecolor:
+  accent3;background:#A5A5A5;mso-background-themecolor:accent3;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.2pt" valign="top" colspan="2" width="683"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal;mso-yfti-cnfc:5" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:white;mso-themecolor:background1;
+  mso-ansi-language:EN-SG">Textbooks &amp; School Uniforms</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:white;
+  mso-themecolor:background1;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:0;height:25.25pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:25.25pt" valign="top" width="209"><p style="margin-bottom:0cm;text-align:right;
+  line-height:normal;mso-yfti-cnfc:68" align="right" class="MsoNormal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Supplier</span></b><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:25.25pt" valign="top" width="474"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Pacific Bookstores Pte Ltd</span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin-bottom:0cm;text-align:right;
+  line-height:normal;mso-yfti-cnfc:4" align="right" class="MsoNormal"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Website</span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"><a href="http://www.pacificbookstores.com"><b><span style="color:windowtext">www.pacificbookstores.com</span></b></a></span><i><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG"></span></i></p></td></tr><tr style="mso-yfti-irow:2;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin-bottom:0cm;text-align:right;
+  line-height:normal;mso-yfti-cnfc:68" align="right" class="MsoNormal"><b><span style="font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext" lang="EN-US">Sales begin:</span></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-ansi-language:EN-SG"></span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">Thu, 21 Dec 2023</span></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></b></p></td></tr><tr style="mso-yfti-irow:3;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin-bottom:0cm;text-align:right;
+  line-height:normal;mso-yfti-cnfc:4" align="right" class="MsoNormal"><b><span style="font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Self-collection at School / Home Delivery</span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Starting on </span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-ansi-language:EN-SG">Thu, 28 Dec 2023</span></b><span style="font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"> </span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">(Refer to stipulated dates given on website)</span></p></td></tr><tr style="mso-yfti-irow:4;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right;mso-yfti-cnfc:68" align="right"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext" lang="EN-US">Home Delivery Charge</span></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin:0cm;mso-yfti-cnfc:64"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#7030A0;mso-ansi-language:EN-SG">$14.60 per delivery </span></b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">(parents are allowed to combine up to 2 orders)</span><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#7030A0" lang="EN-US"></span></b></p></td></tr><tr style="mso-yfti-irow:5;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right;mso-yfti-cnfc:4" align="right"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Payment mode for online purchase</span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin:0cm"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-ansi-language:EN-SG">VISA / MASTER / Debit Cards / PayNow / NTUC BTS and CDAC e-voucher</span><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:6;height:31.45pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:31.45pt" valign="top" width="209"><p style="margin:0cm;text-align:right;mso-yfti-cnfc:68" align="right"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext" lang="EN-US">Payment mode for on-site purchase</span></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:31.45pt" valign="top" width="474"><p style="margin:0cm;mso-yfti-cnfc:64"><span style="font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext" lang="EN-US">Cash / PayNow / </span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">NTUC BTS and CDAC e-voucher</span><span style="font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:7;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right;mso-yfti-cnfc:4" align="right"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Contact No:</span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin:0cm"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-ansi-language:EN-SG">9091 8584</span><span style="font-size:
-  11.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:9;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right" align="right"><span style="font-size:
-  11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Email</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td><td style="width:355.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin:0cm"><span style="font-size:11.0pt;font-family:
-  &quot;Arial&quot;,sans-serif" lang="EN-US"><a href="mailto:sales@pacificbookstores.com.sg"><span style="color:windowtext;mso-ansi-language:EN-SG" lang="EN-SG">sales@pacificbookstores.com.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:21.6pt"><td style="width:157.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-ansi-language:EN-SG">Application for MOE Financial Assistance Scheme (MOE FAS) 2024</span></p></td><td style="width:355.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin-top:0cm;margin-right:0cm;
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:8;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:
+  accent3;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;text-align:right;mso-yfti-cnfc:68" align="right"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Email</span></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin:0cm;mso-yfti-cnfc:64"><span style="font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext" lang="EN-US"><a href="mailto:sales@pacificbookstores.com.sg"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG" lang="EN-SG">sales@pacificbookstores.com.sg</span></a></span><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:21.6pt"><td style="width:157.0pt;border:solid #C9C9C9 1.0pt;
+  mso-border-themecolor:accent3;mso-border-themetint:153;border-top:none;
+  mso-border-top-alt:solid #C9C9C9 .5pt;mso-border-top-themecolor:accent3;
+  mso-border-top-themetint:153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:
+  accent3;mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="209"><p style="margin:0cm;mso-yfti-cnfc:4"><b><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Application for MOE Financial Assistance Scheme (MOE FAS) 2024</span></b></p></td><td style="width:355.5pt;border-top:none;border-left:
+  none;border-bottom:solid #C9C9C9 1.0pt;mso-border-bottom-themecolor:accent3;
+  mso-border-bottom-themetint:153;border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:
+  accent3;mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" valign="top" width="474"><p style="margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
-  line-height:normal;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpFirst"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Students who are applying or have applied for MOE FAS for 2024 <u>should not purchase</u> textbooks or uniforms <u>before they are informed of the outcome</u> of their FAS application.&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;
+  line-height:normal;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpFirst"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Students who are applying or have applied for MOE FAS for 2024 <u>should not purchase</u> textbooks or uniforms <u>before they are informed of the outcome</u> of their FAS application.&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:18.0pt;mso-add-space:auto;text-indent:-18.0pt;
-  line-height:normal;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpLast"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">If you order Textbooks / Uniforms and make payment before your FAS application is approved, we will be unable to refund you even if the FAS application is approved.</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:18.0pt;
-  text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
+  line-height:normal;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpLast"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;
+  font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">If you order Textbooks / Uniforms and make payment before your FAS application is approved, we will be unable to refund you even if the FAS application is approved.</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:18.0pt;
+  text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">The General Office (GO) will contact you to collect the ‘Approval of FAS for 2024 Letter’ i.e do not come to school until you are contacted by GO. &nbsp;The letter will have details of the collection of textbooks and uniforms.</span></p></td></tr></tbody></table>
+
 
 
 
