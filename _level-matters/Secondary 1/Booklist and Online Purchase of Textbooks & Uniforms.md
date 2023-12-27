@@ -19,8 +19,6 @@ To facilitate a safe and smooth customer experience, the sales of textbooks and 
 * get the items delivered to your home (delivery fee applicable). Please indicate date and time as per the Vendor’s website.
 * FAS applicants are advised not to buy the books and uniforms until they are informed of the application outcome.  Please be aware that there will not be any refund for purchases made before the application is approved. 
  
-Please note: The Bookshop &amp; Uniform Vendor will not serve walk-in customers who have not placed online orders beforehand.  This is to provide them time to pre-pack the orders.
-
 Please create a user account using your own choice of email address and password (there is no preset user ID or Password). 
 
 
