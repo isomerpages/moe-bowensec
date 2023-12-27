@@ -19,7 +19,7 @@ Secondary 3&nbsp; (2024 Academic Year)  <br>
 
 ### Sec 3 Cohort Theme
 
-![](/images/Level%20Matters/S3/2024%20s3%20cohort%20theme.jpg)
+![](/images/Level%20Matters/S3/2024_S3_CTheme.png)
 
 In Upper Secondary, students will embark on a transformative journey where they further explore their passions, take on challenges, and seize opportunities. 
 
@@ -32,6 +32,7 @@ Bowen Empower and Elevate (B.E.E) is a call to take action to ‘BEE’ the best
 
 #### Class Names
 ![](/images/Level%20Matters/S3/2024%20s3%20to%20sparkle%20motto.png)
+
 		 
 Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald**. They form the acronym “To SPARKLE” as we believe each class is a gem of its own and will sparkle in its unique way.
 
