@@ -21,119 +21,426 @@ We also have supplementary/ remedial lessons after curriculum hours to help sele
 # Mathematics Team
 ### Mathematics Teachers
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-tojq{background-color:#ECECEC;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-580q{background-color:#ECECEC;color:#222;text-align:center;vertical-align:top}
-.tg .tg-e6w6{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Officer</span></th>
-    <th class="tg-e6w6"></th>
-    <th class="tg-e6w6"><span style="color:#FFF;background-color:#999">Email Contact</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-b4br">Mdm. Mah Chwee Peng</td>
-    <td class="tg-b4br">HOD / Maths</td>
-    <td class="tg-b4br">mah_chwee_peng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mr. Dominic Goh</td>
-    <td class="tg-fxx4"><span style="color:#222">HOD / CCE</span></td>
-    <td class="tg-fxx4"><span style="color:#222">dominic_goh_buan_chuan@schools.gov.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">Ms. Ong Ai Lingg</span></td>
-    <td class="tg-fxx4"><span style="color:#222">SH / Maths</span></td>
-    <td class="tg-fxx4"><span style="color:#222">ong_ai_lingg@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mrs. Normala Chang<br></td>
-    <td class="tg-fxx4"><span style="color:#222">Head /Normal Course</span></td>
-    <td class="tg-fxx4"><span style="color:#222">normala_mohamed_saleh_ma@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mrs. Chua Shi Hui<br></td>
-    <td class="tg-fxx4"><span style="color:#222">SH / VIA</span></td>
-    <td class="tg-fxx4"><span style="color:#222">chua_shi_hui@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Ms. Angie Goh</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">goh_see_ngee@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mrs. Li Seow Koon</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">ng_seow_koon@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mrs. Lee Su Ping</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">tan_su_ping@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mdm. Ng Gek Hwa</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">ng_gek_hwa@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mrs. Janet Wee </td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">ow_yong_yuet_leng@schools.gov.sg </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mr. Chong How Kiat</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">chong_how_kiat@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Ms. Joyce Toh</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">toh_lin_lee_joyce@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mdm. Angela Tan</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">tan_leng_khim@schools.gov.sg </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">Mr. Chew Hui Jie</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">chew_hui_jie@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mdm. Shameera</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">shameera_hadam_hussain@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mdm. Shafiqah </td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">shafiqah_hadam_hussain@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-580q">Mr. Sheik Habib</td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">sheik_habib_noor@schools.gov.sg</span></td>
-  </tr>
-</tbody>
-	
-	
-	
 
-	
+<table style="width:108.06%;border-collapse:collapse;border:none;
+ mso-border-alt:solid white .5pt;mso-border-themecolor:background1;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="108%" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Grid5DarkAccent3"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
+  height:19.15pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:
+  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
+  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
+  0cm 5.4pt 0cm 5.4pt;height:19.15pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  5" class="MsoNormal"><b><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;background:#999999;mso-ansi-language:EN-SG">Officer</span></b><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:white;
+  mso-ansi-language:EN-SG"></span></b></p></td><td style="width:23.9%;border-top:solid white 1.0pt;mso-border-top-themecolor:
+  background1;border-left:none;border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:
+  background1;border-right:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
+  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
+  0cm 5.4pt 0cm 5.4pt;height:19.15pt" width="23%"></td><td style="width:48.94%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-left:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-bottom-alt:solid white .5pt;mso-border-bottom-themecolor:
+  background1;mso-border-right-alt:solid white .5pt;mso-border-right-themecolor:
+  background1;background:#A5A5A5;mso-background-themecolor:accent3;padding:
+  0cm 5.4pt 0cm 5.4pt;height:19.15pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  1" class="MsoNormal"><b><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;background:#999999;mso-ansi-language:EN-SG">Email Contact</span></b><b><span style="font-size:10.5pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:white;mso-ansi-language:EN-SG"></span></b></p></td></tr><tr style="mso-yfti-irow:0;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mdm. Mah Chwee Peng</span></b></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">HOD / Maths</span></b></p></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><b><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">mah_chwee_peng@schools.gov.sg</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mr. Dominic Goh</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">HOD / CCE</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">dominic_goh_buan_chuan@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">Ms. Ong Ai Lingg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">SH / Maths</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">ong_ai_lingg@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mrs. Normala Chang</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">Head /Normal Course</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">normala_mohamed_saleh_ma@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mrs. Chua Shi Hui</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">SH / VIA</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">chua_shi_hui@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:5;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Ms. Angie Goh</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">goh_see_ngee@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:6;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mrs. Li Seow Koon</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">ng_seow_koon@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mrs. Lee Su Ping</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">tan_su_ping@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:8;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mdm. Ng Gek Hwa</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">ng_gek_hwa@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mrs. Janet Wee</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">ow_yong_yuet_leng@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:10;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mr. Chong How Kiat</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">chong_how_kiat@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:11;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Ms. Joyce Toh</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">toh_lin_lee_joyce@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:12;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mdm. Angela Tan</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">tan_leng_khim@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:13;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">Mr. Chew Hui Jie</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">chew_hui_jie@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:14;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mdm. Shameera</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">shameera_hadam_hussain@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:15;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  4" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mdm. Shafiqah</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">shafiqah_hadam_hussain@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes;height:21.25pt"><td style="width:27.16%;border:solid white 1.0pt;mso-border-themecolor:
+  background1;border-top:none;mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:
+  background1;mso-border-alt:solid white .5pt;mso-border-themecolor:background1;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="27%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  68" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-ansi-language:EN-SG">Mr. Sheik Habib</span></p></td><td style="width:23.9%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="23%"></td><td style="width:48.94%;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;mso-border-bottom-themecolor:background1;
+  border-right:solid white 1.0pt;mso-border-right-themecolor:background1;
+  mso-border-top-alt:solid white .5pt;mso-border-top-themecolor:background1;
+  mso-border-left-alt:solid white .5pt;mso-border-left-themecolor:background1;
+  mso-border-alt:solid white .5pt;mso-border-themecolor:background1;background:
+  #D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:0cm 5.4pt 0cm 5.4pt;height:21.25pt" width="48%"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
+  64" class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#222222;mso-ansi-language:EN-SG">sheik_habib_noor@schools.gov.sg</span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;
+  mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
 
-	
-	
-</table>
