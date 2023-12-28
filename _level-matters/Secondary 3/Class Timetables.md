@@ -6,4 +6,5 @@ third_nav_title: Secondary 3
 variant: markdown
 ---
 ## 2024 Sec 3 Semester 1 Timetables
-#### TBA
+
+#### 2024 Sem 1 Term 1 Class-Timetables V1
