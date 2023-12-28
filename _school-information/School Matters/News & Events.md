@@ -11,7 +11,8 @@ variant: markdown
 * [2024 Sec 2 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-2/class-timetables/) 
 * [2024 Sec 3 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-3/class-timetables/)
 * [2024 Sec4/5 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-4-5/class-timetables/) 
-<hr>
+<p>
+</p><hr>
 
 ### Online Purchase of 2024 Textbooks and Uniforms
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
