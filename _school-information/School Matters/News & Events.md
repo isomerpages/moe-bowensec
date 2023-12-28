@@ -24,10 +24,8 @@ Please click on the following link to review key information and important deadl
 ### The Bowen Experience [OPEN HOUSE 18 Nov]
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
 
-### Online Purchase of 2024 Textbooks and Uniforms for Sec 2 - 4/5 students
+### Online Purchase of 2024 Textbooks and Uniforms
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
-
-The supplier’s website for ordering the textbooks and uniforms will begin taking orders <u>**from Tue, 14 Nov 2023.** </u>
 
 Please access the supplier's website to:
 * Order textbooks / uniforms and make payment through e-payment modes.
@@ -110,7 +108,11 @@ For students who are coming back to school in Nov / Dec for CCA, school organize
 
 The following 2024 Purchase Guide and Booklist are available for download in the links below
 
+##### Sec 1
+* [2024 Purchase Guide for Sec 1](/files/Book%20Lists/2024/2024_Bowen_S1_Purchase_Guide.pdf)
+* [2024 Sec 1 Booklist](/files/Book%20Lists/2024/2024_bowen_s1_booklist_ver061123.pdf)
 
+##### Sec 2-4/5
 * [2024 Textbook Purchase Guide for Sec 2 to Sec 4](/files/Book%20Lists/2024/2024_Bowen_Textbook_Purchase_Guide_S2to4.pdf)
 *  [2024 Sec 2 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s2%20booklist%20ver061123.pdf)
 *  [2024 Sec 3 Booklist (Updated 9 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s3%20booklist%20ver091123.pdf)
