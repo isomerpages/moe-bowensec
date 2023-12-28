@@ -7,4 +7,4 @@ variant: markdown
 ---
 ## 2024 Sec 4 Semester 1 Timetables
 
-#### TBA
+#### 2024 Sem 1 Term 1 Class-Timetables V1
