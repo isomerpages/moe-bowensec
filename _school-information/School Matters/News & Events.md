@@ -13,10 +13,6 @@ variant: markdown
 * [2024 Sec4/5 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-4-5/class-timetables/) 
 <hr>
 
-
-### The Bowen Experience [OPEN HOUSE 18 Nov]
-![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
-
 ### Online Purchase of 2024 Textbooks and Uniforms
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
 
