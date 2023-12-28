@@ -17,5 +17,4 @@ You may download the class timetables here
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S1R_TT_V1.pdf">1 Ruby</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S1K_TT_V1.pdf">1 Kunzite</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S1L_TT_V1.pdf">1 Larimar</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S1ETT_V1.pdf">1 Emerald</a>
-
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S1E_TT_V1.pdf">1 Emerald</a>
