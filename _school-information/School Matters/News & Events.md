@@ -6,20 +6,13 @@ third_nav_title: School Matters
 variant: markdown
 ---
 # Latest News and Events
-### 2024 Sec 1 E-Registration on Thursday, 21 December 2023 9am-1pm
-Registration for Secondary 1 students in Bowen for 2024 will be done on-line via the E-Registration Microsite on Thursday, 21 December 2023 from 9am to 1pm. Students do not need to come to school for the registration. Parents are advised to check their Parent Gateway (PG) app for the necessary information sent by their child's Form Teachers by 9am before e-registration. 
-
-[Sec 1 E-Registration Microsite &gt;&gt;&gt;](https://go.gov.sg/2024s1regbowen)
-
+### 2024 Sem 1 Term 1 Class Timetables
+* [2024 Sec 1 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-1/class-timetables/) 
+* [2024 Sec 2 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-2/class-timetables/) 
+* [2024 Sec 3 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-3/class-timetables/)
+* [2024 Sec4/5 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-4-5/class-timetables/) 
 <hr>
 
-### 2023 N-Level Results Release
-The results of the 2023 Singapore-Cambridge General Certificate of Education N-Level Examinations was released on Monday, 18 December 2023, 2.00pm. 
-
-Please click on the following link to review key information and important deadlines.
-[2023 N-Level Results and Key Information](/files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf)
-
-<hr>
 
 ### The Bowen Experience [OPEN HOUSE 18 Nov]
 ![](/images/School%20Events/2023/infopic%20bowen%20experience.jpg)
@@ -121,12 +114,6 @@ The following 2024 Purchase Guide and Booklist are available for download in the
   
 <hr>
 
-### 2023 SINGAPORE/CAMBRIDGE GCE O Level Examination Schedule
-Please click on the links to view the GCE O Level Examination schedule
-
-1.  [2023 GCE O Level Examination Timetable](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20o%20exam%20tt.pdf)
-  
-<hr>
 
 ### Direct School Admission (DSA) to Bowen in 2024
 
