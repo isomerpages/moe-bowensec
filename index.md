@@ -38,6 +38,15 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: 2024 Sem 1 Term 1 Class TImetables
+          description: Class Timetables are available to download at their respective
+            Level Pages
+          linktext: Learn more
+          url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
+        - title: 2024 Booklists
+          description: 2024 booklists are available for download.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: N-Level Results & Information Slides
           description: The N-level results was released 18 Dec  Review key info and
             deadlines here.
@@ -47,12 +56,4 @@ sections:
           description: Non-Medical Applicants only [20 - 22 Dec 2023, by 5pm]
           linktext: E-Application Link
           url: https://go.gov.sg/2024sec1appealin
-        - title: 2024 Booklists
-          description: "2024 booklists are available for download. "
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
-        - title: Bowen E-Open House 2023
-          description: Find out more about us on our E-Open House Microsite
-          linktext: Learn more
-          url: https://sites.google.com/bws.edu.sg/bowen-experience-2023/welcome-to-bowen-e-open-house
 ---
