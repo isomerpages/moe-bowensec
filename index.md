@@ -48,8 +48,7 @@ sections:
           linktext: E-Application Link
           url: https://go.gov.sg/2024sec1appealin
         - title: 2024 Booklists
-          description: S2-5 are available for download. S1 only available after
-            e-registration.
+          description: "2024 booklists are available for download. "
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
         - title: Bowen E-Open House 2023
