@@ -17,7 +17,7 @@ variant: markdown
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S4R_TT_V1.pdf">4 Ruby</a>
 *  <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S4K_TT_V1.pdf">4 Kunzite</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S4L_TT_V1.pdf">4 Larimar</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S4e_TT_V1.pdf">4 Emerald</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S4E_TT_V1.pdf">4 Emerald</a>
 
 
 ##### Sec 5
