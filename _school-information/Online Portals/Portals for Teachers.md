@@ -3,6 +3,7 @@ title: Portals for Teachers
 permalink: /school-information/school-matters/online-portals/portals-for-teachers/
 description: ""
 third_nav_title: Online Portals
+variant: markdown
 ---
 ### Teachers Portals
 <style type="text/css">
@@ -42,7 +43,7 @@ third_nav_title: Online Portals
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
-    <td class="tg-699i"><a href="https://icon.moe.edu.sg/saas/usercenter/index.do"><span style="text-decoration:none;color:#0FB3DF">ICON Email (ICONnect)</span></a></td>
+    <td class="tg-699i"><a href="https://forms.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">All Ears (Form Builder)</span></a></td>
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">6</span></td>
@@ -75,6 +76,10 @@ third_nav_title: Online Portals
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">13</span></td>
     <td class="tg-699i"><a href="https://drive.google.com/open?id=1WBPna5x8PUfZvYZqzzNiqUffTRXze8mf9MNzh01bZHI"><span style="text-decoration:none;color:#0FB3DF">Print Quota Request Form</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">14</span></td>
+    <td class="tg-699i"><a href="https://icon.moe.edu.sg/saas/usercenter/index.do"><span style="text-decoration:none;color:#0FB3DF">ICON Email (ICONnect)</span></a></td>
   </tr>
 </tbody>
 </table>
