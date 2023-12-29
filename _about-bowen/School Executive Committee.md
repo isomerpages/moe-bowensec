@@ -92,23 +92,24 @@ variant: markdown
 
 ## Year Heads
 
+<img src="/images/Our%20People/MRS-CHAN-SOO-YONG.jpeg" style="width:20%">		 
+<center><b>Mrs. Chan Soo Yong<br>Year Head Secondary 1 (2024)</b>
+<br><a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
+<hr>
+
 <img src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg" style="width:20%">		 
-<center><b>Ms. Sharifah Kamelia<br>Year Head Secondary 1 (2023)</b>
+<center><b>Ms. Sharifah Kamelia<br>Year Head Secondary 2 (2024)</b>
 <br><a href="sharifah_kamelia_syed@schools.gov.sg">sharifah_kamelia_syed@schools.gov.sg</a></center>
 <hr>
 	
 	
 <img src="/images/Our%20People/Ms-Estelle-Chong.jpeg" style="width:20%">		 
-<center><b>Ms. Estelle Chong<br>Year Head Secondary 2 (2023)</b>
+<center><b>Ms. Estelle Chong<br>Year Head Secondary 3 (2024)</b>
 <br><a href="estelle_chong_chyi_shin@schools.gov.sg">estelle_chong_chyi_shin@schools.gov.sg</a></center>
 <hr>
 
 <img src="/images/Our%20People/MS-BERNICE-TEY.jpeg" style="width:20%">		 
-<center><b>Mrs. Bernice Kuan<br>Year Head Secondary 3 (2023)</b>
+<center><b>Mrs. Bernice Kuan<br>Year Head Secondary 4/5 (2024)</b>
 <br><a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
 <hr>
 
-<img src="/images/Our%20People/MRS-CHAN-SOO-YONG.jpeg" style="width:20%">		 
-<center><b>Mrs. Chan Soo Yong<br>Year Head Secondary 4/5 (2023)</b>
-<br><a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
-<hr>
