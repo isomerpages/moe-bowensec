@@ -23,17 +23,17 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: 2024 Sec 1 E-Registration
+      title: Release of 2023 GCE 'O' Levels Results
       id: infopic
-      description: No need to come to school for S1 registration. Please E-register by
-        1pm, Thurs, 21 Dec using the E-registration microsite, only after
-        receiving PG from FTs.
-      button: Go to E-Registration Microsite
-      url: https://go.gov.sg/2024s1regbowen
-      alt: Go to E-Registration Microsite
-      image: /images/Home Page/2023 Homepage
-        Images/2024_Sec_1_registration_thumbnail.jpg
-      subtitle: 21 Dec from 9am - 1pm
+      description: >
+        Students are to report to the School Hall by 2pm. Formal school uniform
+        (without tie) or blue polo-top. School rules on grooming will be
+        strictly applied.
+      button: More Information
+      url: /school-information/school-matters/news-n-events/
+      alt: Release GCE 'O' Levels Results
+      image: /images/School Events/O_level_Result_Release_Banner3.jpg
+      subtitle: 11 January 2024, THUR 2PM
   - textcards:
       title: Quick Links
       id: textcards
