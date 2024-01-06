@@ -8,7 +8,7 @@ variant: markdown
 # Latest News and Events
 
 ### Release of GCE 'O' Level Results
-The GCE 'O' level results will be released in the School Hall on Thursday, 11 Jan 2024 at 2pm. The 2023 graduating student cohort who took O level subjects may report directly to the school hall from 1:30pm onwards and by 2pm, latest.
+The GCE 'O' level results will be released in the School Hall on **Thursday, 11 Jan 2024 at 2pm**. The 2023 graduating student cohort who took O level subjects may report directly to the **school hall from 1:30pm onwards and by 2pm**, latest.
 
 Students are expected to be in formal Bowen school uniform (without tie) or Blue Polo top with school pants/skirt and proper school shoes. PE attire is strictly not allowed. In addition, school rules on grooming will be strictly applied. For example, students with dyed/coloured hair will not be allowed to enter the school hall.
 
@@ -138,4 +138,3 @@ The following 2024 Purchase Guide and Booklist are available for download in the
 *  [2024 Sec 5 Booklist (Updated 6 Nov)](/files/Book%20Lists/2024/2024%20bowen%20s5%20booklist%20ver061123.pdf)
   
 <hr>
-
