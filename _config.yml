@@ -1,5 +1,5 @@
 title: Bowen Secondary School
-url: https://www.open.gov.sg
+url: https://bowensec.moe.edu.sg
 favicon: /images/Bowenlogo_transparent.png
 colors:
   primary-color: "#01b2de"
@@ -57,3 +57,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
