@@ -28,7 +28,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Teachers-in charge</span></td>
-    <td class="tg-vqm8">Mrs. Janet Wee (I/C) <br>Ms. Suraiya Izharul<br>Ms&nbsp;Sim Sze Hwei<br></td>
+    <td class="tg-vqm8">Mrs. Janet Wee (I/C) <br>Ms. Suraiya Izharul (2ᴺᴰ i/c)<br>Ms&nbsp;Sim Sze Hwei<br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
