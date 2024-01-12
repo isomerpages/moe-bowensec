@@ -3,6 +3,7 @@ title: Football (Girls)
 permalink: /holistic-education/co-curricular-activities-ccas/sports/football-girls/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCAs/Sports/Soccer%20Girls/football%20girls.jpg)
 <style type="text/css">
@@ -25,7 +26,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-mbkz">Teachers-in-Charge</td>
-    <td class="tg-vqm8">Ms. Stacey Ang (i/c)<br>Ms. Anne Marie Chua (2nd i/c)<br>Ms. Siti Norrulhuda<br></td>
+    <td class="tg-vqm8">Ms. Stacey Ang (i/c)<br>Ms. Anne Marie Chua (2nd i/c)<br>Mr. Gary See Gim Boon (Advisor)<br></td>
   </tr>
   <tr>
     <td class="tg-mbkz">Training Schedule</td>
