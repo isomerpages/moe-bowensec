@@ -23,11 +23,11 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: "Joint Admissions Exercise (JAE) "
+      title: Joint Admissions Exercise (JAE)
       id: infopic
-      description: "Eligible students can apply online for admissions into JCs,
+      description: Eligible students can apply online for admissions into JCs,
         Millennia Institute (MI), polytechnics, and Institute of Technical
-        Education (ITE). "
+        Education (ITE).
       button: More Information
       url: https://www.moe.gov.sg/post-secondary/admissions/jae
       alt: Joint Admissions Exercise
@@ -46,11 +46,11 @@ sections:
           description: 2024 booklists are available for download.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: N-Level Results & Information Slides
-          description: The N-level results was released 18 Dec  Review key info and
+        - title: O-Level Results & Information Slides
+          description: The O-level results was released 11 Jan 2024  Review key info &
             deadlines here.
           linktext: Learn more
-          url: /files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf
+          url: files/mediaDirectory/files%2FLevel%20Matters%2FS4n5%2F2023/2023_GCE_O_Level_Results_Release_Briefing_Slides.pdf
         - title: Appeal to Transfer In (2024 Sec 1 only)
           description: Non-Medical Applicants only [20 - 22 Dec 2023, by 5pm]
           linktext: E-Application Link
