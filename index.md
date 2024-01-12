@@ -50,7 +50,7 @@ sections:
           description: The O-level results was released 11 Jan 2024  Review key info &
             deadlines here.
           linktext: Learn more
-          url: files/mediaDirectory/files%2FLevel%20Matters%2FS4n5%2F2023/2023_GCE_O_Level_Results_Release_Briefing_Slides.pdf
+          url: /school-information/school-matters/news-n-events
         - title: Appeal to Transfer In (2024 Sec 1 only)
           description: Non-Medical Applicants only [20 - 22 Dec 2023, by 5pm]
           linktext: E-Application Link
