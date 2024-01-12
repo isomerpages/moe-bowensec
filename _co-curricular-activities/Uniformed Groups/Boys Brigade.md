@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-gzrh"><span style="color:#252525">Teachers-in charge</span></td>
-    <td class="tg-3f07"><span style="font-weight:400;font-style:normal">Mr. Derrick Lim (I/C)</span><br>Mr. Ainsley Liew ()<br></td>
+    <td class="tg-3f07"><span style="font-weight:400;font-style:normal">Mr. Derrick Lim (I/C)</span><br>Mr. Ainsley Liew (2ᴺᴰ i/c)<br></td>
   </tr>
   <tr>
     <td class="tg-gzrh"><span style="color:#252525">Training Schedule</span></td>
