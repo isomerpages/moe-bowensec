@@ -9,7 +9,6 @@ variant: markdown
 
 ### GCE 'O' Level Results Release &amp; Joint Admissions Exercise (JAE)
 The GCE 'O' level results was released in the School Hall on **Thursday, 11 Jan 2024 at 2pm** 
-<br>
 Students may find the key information Slides 
 [2023 GCE O Level Results Info Slides &gt;&gt;&gt;](/files/Level%20Matters/S4n5/2023/2023_GCE_O_Level_Results_Release_Briefing_Slides.pdf)
 
