@@ -3,6 +3,7 @@ title: Football (Boys)
 permalink: /holistic-education/co-curricular-activities-ccas/sports/football-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCAs/Sports/Soccer%20Boys/football%20boys%20main.jpg)
 <style type="text/css">
@@ -26,7 +27,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-mbkz">Teachers-in-Charge</td>
-    <td class="tg-vqm8"><br>Mr. Sean  Clunies Ross (i/c)<br>Mr. Winston Chua (2nd i/c)<br>Ms. Sivarangini<br>Mr. Farid<br></td>
+    <td class="tg-vqm8"><br>Mr. Sean  Clunies Ross (i/c)<br>Mr. Winston Chua (2nd i/c)<br>Ms. Sivarangini<br><br></td>
   </tr>
   <tr>
     <td class="tg-mbkz">Training Schedule</td>
