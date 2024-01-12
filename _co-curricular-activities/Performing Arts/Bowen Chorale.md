@@ -3,6 +3,7 @@ title: Bowen Chorale
 permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bowen-chorale/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCAs/Performing%20Arts/Choir/choir%20syf.jpg)
 <style type="text/css">
@@ -25,7 +26,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ms Melissa Chong (i/c)</span><br><span style="color:#222">Ms Zurainah Kassim (2ᴺᴰ i/c)</span><br><span style="color:#222">Mr Wilson Koh</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms. Melissa Chong (i/c)</span><br><span style="color:#222">Ms. Zurainah Kassim (2ᴺᴰ i/c)</span><br><span style="color:#222">Mr. Mohd Farid</span></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
