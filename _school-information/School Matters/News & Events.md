@@ -7,24 +7,23 @@ variant: markdown
 ---
 # Latest News and Events
 
-### Release of GCE 'O' Level Results
-The GCE 'O' level results will be released in the School Hall on **Thursday, 11 Jan 2024 at 2pm**. The 2023 graduating student cohort who took O level subjects may report directly to the **school hall from 1:30pm onwards and by 2pm**, latest.
-
-Students are expected to be in formal Bowen school uniform (without tie) or Blue Polo top with school pants/skirt and proper school shoes. PE attire is strictly not allowed. In addition, school rules on grooming will be strictly applied. For example, students with dyed/coloured hair will not be allowed to enter the school hall.
-
-Due to limited seating, up to 2 family members may accompany students receiving their results. Family members who are driving are advised to park their vehicles at the nearby HDB carpark.
-
-Please note that access to school is **only** from the **main gate.** via the security guard post. The back gate and side gate are closed. 
-
-Students who are unable to collect the results should inform their Form Teachers by Tuesday 9 January.
-
-* Students may assign a proxy to collect on their behalf from school using this link: 
-[Nominate Proxy for Result Collection](https://go.gov.sg/proxyfor2023olevelresults)
-
-* Collection is from the School General Office during school office hours from Thursday, 11 January 4pm onwards
+### GCE 'O' Level Results Release &amp; Joint Admissions Exercise (JAE)
+The GCE 'O' level results was released in the School Hall on **Thursday, 11 Jan 2024 at 2pm** 
+<br>
+Students may find the key information Slides 
+[2023 GCE O Level Results Info Slides &gt;&gt;&gt;](/files/Level%20Matters/S4n5/2023/2023_GCE_O_Level_Results_Release_Briefing_Slides.pdf)
 
 ##### JAE Matters
+Eligible GCE O-Level certificate holders can apply online for admissions into junior colleges (JCs), Millennia Institute (MI), polytechnics, and Institute of Technical Education (ITE). Learn about the process, how to prepare and apply at [MOE Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
 * Please note JAE application will be from 4.00pm on Thu 11 Jan to 4.00pm on Tue 16 Jan.
+
+##### Mother Tongue Elective Programmes
+The Mother-Tongue Language Elective Programme was introduced by the Ministry of Education to nurture promising students to attain a high level of language proficiency in respective Mother Tongue to develop academically able students to become effectively bilingual.
+
+Find out more about these programmes here
+* [Chinese Language Elective Programme at the Pre-University Level (CLEP-JC)](/files/Level%20Matters/S4n5/2023/Information_Sheet_on_the_Pre_U_Chinese_Language_Elective_Programme_2024.pdf)
+* [Malay Language Elective Programme at Pre-University Level (MLEP-JC)](/files/Level%20Matters/S4n5/2023/Information_Sheet_on_the_Pre_U_Malay_Language_Elective_Programme_2024.pdf)
+* [Tamil Language Elective Programme at Pre-University Level (MLEP-JC)](/files/Level%20Matters/S4n5/2023/Information_Sheet_on_the_Pre_U_Tamil_Language_Elective_Programme_2024.pdf)
 
 ##### PFP/DPP Matters
 For 2023 4NA students who are receiving their O level results, 
