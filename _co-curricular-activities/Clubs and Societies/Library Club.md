@@ -3,6 +3,7 @@ title: Library Club
 permalink: /holistic-education/co-curricular-activities-ccas/clubs-and-societies/library-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCAs/Clubs%20&amp;%20Societies/Library/library%20main.jpg)
 <style type="text/css">
@@ -26,7 +27,7 @@ third_nav_title: Clubs and Societies
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-vqm8">Mr. Lim Kah Kiat (I/C)<br>Ms. Teo Jia Jia</td>
+    <td class="tg-vqm8">Mr. Lim Kah Kiat (I/C)<br>Mrs. Audrey Gan (2ᴺᴰ i/c)</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
