@@ -3,6 +3,7 @@ title: Bowen Band (Display & Marching)
 permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bowen-band-display-marching/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCAs/Performing%20Arts/Bowen%20Military%20Band/bowen%20military%20band%20main.jpg)
 
@@ -26,7 +27,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-vqm8">Ms. Lee Yu Jie (i/C)<br>Mr. Ainsley Liew (I/C)<br>Mr. Ken Foo<br>Ms. Shi Meng Chen<br>Ms. Jean Cai Junting<br>Mr Lau Chee Seng</td>
+    <td class="tg-vqm8">Ms. Lee Yu Jie (i/C)<br>Ms. Jean Cai Junting (2ᴺᴰ i/c)<br>Ms. Noraliza<br>Mr. Ken Foo<br>Ms. Shi Meng Chen<br>Dr. Banu</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
