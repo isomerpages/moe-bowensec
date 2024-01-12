@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-22b2"><span style="color:#222">Mrs. Sim Sook Fen (I/C)</span><br><span style="color:#222">Mrs. Woon Swee Keng</span><br></td>
+    <td class="tg-22b2"><span style="color:#222">Mrs. Sim Sook Fen (I/C)</span><br><span style="color:#222">Mrs. Woon Swee Keng (2ᴺᴰ i/c)</span><br></td>
   </tr>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Training Schedule</span></td>
