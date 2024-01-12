@@ -29,7 +29,7 @@ sections:
         Millennia Institute (MI), polytechnics, and Institute of Technical
         Education (ITE).
       button: More Information
-      url: https://www.moe.gov.sg/post-secondary/admissions/jae
+      url: /school-information/school-matters/news-n-events/
       alt: Joint Admissions Exercise
       image: /images/School Events/O_level_Result_Release_Banner3.jpg
       subtitle: 11 Jan 4pm - 16 Jan 4pm, 2024
