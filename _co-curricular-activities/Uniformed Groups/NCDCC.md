@@ -3,8 +3,8 @@ title: NCDCC
 permalink: /holistic-education/co-curricular-activities-ccas/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-
 ![](/images/CCAs/Uniform%20Groups/NCDCC/ncdcc%20main.png)
 
 <style type="text/css">
@@ -28,7 +28,7 @@ third_nav_title: Uniformed Groups
 <tbody>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-vqm8">Ms Ler Kim Har (C.O.) <br>Mr Jackson Ng  (2ND I/C)<br>Mdm Chua Shi Hui</td>
+    <td class="tg-vqm8">Ms Ler Kim Har (C.O.) <br>Mr Jackson Ng  (2ND I/C)<br>Mdm Chua Shi Hui (Advisor)</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
