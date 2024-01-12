@@ -16,5 +16,5 @@ variant: markdown
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S2A_TT_V1.pdf">2 Amethyst</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S2R_TT_V1.pdf">2 Ruby</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S2K_TT_V1.pdf">2 Kunzite</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S2L_TT_V2_1.pdf">2 Larimar</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S2L_TT_V2_1.pdf">2 Larimar</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_v1/2024_SEM1_S2E_TT_V1.pdf">2 Emerald</a>
