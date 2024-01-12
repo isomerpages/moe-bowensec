@@ -13,10 +13,10 @@ Students may find the key information Slides
 [2023 GCE O Level Results Info Slides &gt;&gt;&gt;](/files/Level%20Matters/S4n5/2023/2023_GCE_O_Level_Results_Release_Briefing_Slides.pdf)
 
 ##### JAE Matters
-Eligible GCE O-Level certificate holders can apply online for admissions into junior colleges (JCs), Millennia Institute (MI), polytechnics, and Institute of Technical Education (ITE). Learn about the process, how to prepare and apply at [MOE Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
+Eligible students can apply online for admissions into junior colleges (JCs), Millennia Institute (MI), polytechnics, and Institute of Technical Education (ITE). Learn about the process, how to prepare and apply at [MOE Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
 * Please note JAE application will be from 4.00pm on Thu 11 Jan to 4.00pm on Tue 16 Jan.
 
-Alternatively, students may choose to come to Bowen Secondary for assistance for JAE application at the following time/venue
+Alternatively, students may choose to come to school for assistance for JAE application at the following time/venue
 * 12 Jan, 9am-4pm @ ICT Service Desk
 * 15 Jan, 9am-4pm @ School Library
 * 16 Jan, 9am-3pm @ School Library
