@@ -25,9 +25,8 @@ sections:
   - infopic:
       title: Joint Admissions Exercise (JAE)
       id: infopic
-      description: Eligible students can apply online for admissions into JCs,
-        Millennia Institute (MI), polytechnics, and Institute of Technical
-        Education (ITE).
+      description: Eligible students can apply online for admissions into JCs, MI,
+        polytechnics and ITE or report to Bowen for assistance.
       button: More Information
       url: /school-information/school-matters/news-n-events/
       alt: Joint Admissions Exercise
