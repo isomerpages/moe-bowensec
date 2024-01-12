@@ -19,7 +19,7 @@ variant: markdown
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 1.0pt;mso-border-left-alt:solid #D6D6D6 1.0pt;
   background:#E8EDFF;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:47.25pt" valign="top" width="392"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:115%;
-	color:#222222" lang="EN">Mr. Muhammad Noor Hairil (O.C.)<br> Mrs. Li Seow Koon (2<sup>nd</sup> I/C)<br>Mdm. Ida Lim<br>Ms. Astee Goh (Advisor)</span><span style="font-size:12.0pt;line-height:
+	color:#222222" lang="EN">Mr. Muhammad Noor Hairil (O.C.)<br> Mr. Chew Hui Jie (2<sup>nd</sup> I/C)<br>Mrs. Li Seow Koon Lim<br>Ms. Astee Goh (Advisor)</span><span style="font-size:12.0pt;line-height:
   115%;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:Lato;mso-bidi-font-family:
   Lato;color:#484848" lang="EN"></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.25pt"><td style="width:174.25pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 1.0pt;background:#E8EDFF;
