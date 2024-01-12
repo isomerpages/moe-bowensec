@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCAs/Performing%20Arts/Malay%20Dance/malay%20dance%20main%20pic.jpg)
 <style type="text/css">
@@ -25,7 +26,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ms Uma Thiruselvam (IC)</span><br><span style="color:#222">Mdm. Zakiah (2nd I/C)</span><br><span style="color:#222">Mdm. Juriah Wati (Advisor)</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms Uma Thiruselvam (IC)</span><br><span style="color:#222">Ms. Siti Norrulhuda (2nd I/C)</span><br><span style="color:#222"></span><br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
