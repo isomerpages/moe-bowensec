@@ -3,6 +3,7 @@ title: AIMS Club
 permalink: /holistic-education/co-curricular-activities-ccas/clubs-and-societies/aims-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCAs/Clubs%20&amp;%20Societies/AIMS%20Club/aims%20club%20group%20photo.jpg)
 <style type="text/css">
@@ -26,7 +27,7 @@ third_nav_title: Clubs and Societies
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-vqm8">Mdm. Angela Tan (I/C)<br>Mr. Mohamad Irsyad(2nd I/C) <br>Ms. Nurzafirah Azahari <br>Mr. Alvin Chong</td>
+    <td class="tg-vqm8">Mdm. Angela Tan (I/C)<br>Mr. Mohamad Irsyad(2nd I/C) <br>Ms. Nurzafirah Azahari <br>Mr. Alvin Chong (Advisor)</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Duties</span></td>

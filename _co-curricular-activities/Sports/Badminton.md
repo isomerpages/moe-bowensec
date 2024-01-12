@@ -3,6 +3,7 @@ title: Badminton
 permalink: /holistic-education/co-curricular-activities-ccas/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCAs/Sports/Badminton/badminton%20main.jpg)
 <style type="text/css">
@@ -25,7 +26,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mr. Randy Low (i/c)</span><br><span style="color:#222">Ms. Alamel d/o Moghan (2ᴺᴰ i/c)</span><br><span style="color:#222">Mrs. Rebecca Ang</span><br><span style="color:#222">Mrs. Jessica Yong</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mr. Randy Low (i/c)</span><br><span style="color:#222">Mrs. Jessica Yong (2ᴺᴰ i/c)</span><br><span style="color:#222">Mrs. Rebecca Ang</span><br><span style="color:#222"></span>Ms. Alamel d/o Moghan</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>

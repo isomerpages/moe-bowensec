@@ -3,6 +3,7 @@ title: Bowen Artists
 permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/bowen-artists/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/artist%201.jpeg)
 <style type="text/css">
@@ -25,7 +26,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-22b2"><span style="color:#222">Mrs. Sim Sook Fen (I/C)</span><br><span style="color:#222">Mrs. Woon Swee Keng</span><br>Ms. Ong Ai Lingg (Advisor)</td>
+    <td class="tg-22b2"><span style="color:#222">Mrs. Sim Sook Fen (I/C)</span><br><span style="color:#222">Mrs. Woon Swee Keng (2ᴺᴰ i/c)</span><br></td>
   </tr>
   <tr>
     <td class="tg-jmx0"><span style="color:#252525">Training Schedule</span></td>
@@ -39,10 +40,8 @@ third_nav_title: Performing Arts
 </table>
 
 ### About Bowen Artists
-<img src="/images/artist%202.jpeg" 
-     style="width:70%">
+<img src="/images/artist%202.jpeg" style="width:70%">
 Bowen Artists is an Art Club that develops students’ interest in learning different forms of fine arts such as portraiture drawing, outdoor sketching, water-colouring, charcoal drawing, canvas painting, wire sculpture, clay-modelling, gallery/museum visit etc.
 
-<img src="/images/artist%203.jpeg" 
-     style="width:70%">
+<img src="/images/artist%203.jpeg" style="width:70%">
 Students will also have the opportunities to learn to plan art exhibitions in school and in public.

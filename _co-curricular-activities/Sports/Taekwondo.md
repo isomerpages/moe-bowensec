@@ -3,6 +3,7 @@ title: Taekwondo
 permalink: /holistic-education/co-curricular-activities-ccas/sports/taekwondo/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -24,7 +25,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in charge</span></td>
-    <td class="tg-vqm8"><span style="color:#222">Mr. Justin Chong (i/c)</span><br><span style="color:#222">Mdm. Joyce Toh(2ᴺᴰ i/c)</span><br><span style="color:#222">Mdm. Shafiqah</span><br><span style="color:#222">Dr. Banu</span><br></td>
+    <td class="tg-vqm8"><span style="color:#222">Mr. Justin Chong (i/c)</span><br><span style="color:#222">Mdm. Joyce Toh(2ᴺᴰ i/c)</span><br><span style="color:#222">Mdm. Shafiqah</span><br><span style="color:#222"></span><br></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>

@@ -3,6 +3,7 @@ title: Basketball (Boys)
 permalink: /holistic-education/co-curricular-activities-ccas/sports/basketball-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCAs/Sports/Basketball/basketball%20cca%20main.jpg)
 
@@ -16,10 +17,10 @@ third_nav_title: Sports
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#E8EDFF;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#222222">Mdm. Ng Gek Hwa (I/C)</span><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;color:#222222"><br></span><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
-	mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mr. Chew Hui Jie (2<sup>nd</sup> I/C)</span><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+	mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mrs. Irene Leong (2<sup>nd</sup> I/C)</span><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:#222222"><br></span><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Mrs. Irene Leong</span></p></td></tr><tr style="mso-yfti-irow:1"><td valign="top" style="border:solid #D6D6D6 1.0pt;border-top:none;mso-border-top-alt:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">Khairul Anwar Ali (Advisor)</span></p></td></tr><tr style="mso-yfti-irow:1"><td valign="top" style="border:solid #D6D6D6 1.0pt;border-top:none;mso-border-top-alt:
   solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:
   solid #D6D6D6 .75pt;background:#E8EDFF;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal"><b><span lang="EN-US" style="font-size:10.5pt;font-family:
