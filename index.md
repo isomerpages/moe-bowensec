@@ -23,17 +23,16 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Release of 2023 GCE 'O' Levels Results
+      title: Joint Admissions Exercise (JAE)
       id: infopic
-      description: >
-        Students are to report to the School Hall by 2pm. Formal school uniform
-        (without tie) or blue polo-top. School rules on grooming will be
-        strictly applied.
+      description: Eligible students can apply online for admissions into JCs,
+        Millennia Institute (MI), polytechnics, and Institute of Technical
+        Education (ITE).
       button: More Information
       url: /school-information/school-matters/news-n-events/
-      alt: Release GCE 'O' Levels Results
+      alt: Joint Admissions Exercise
       image: /images/School Events/O_level_Result_Release_Banner3.jpg
-      subtitle: 11 January 2024, THUR 2PM
+      subtitle: 11 Jan 4pm - 16 Jan 4pm, 2024
   - textcards:
       title: Quick Links
       id: textcards
@@ -47,11 +46,11 @@ sections:
           description: 2024 booklists are available for download.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: N-Level Results & Information Slides
-          description: The N-level results was released 18 Dec  Review key info and
+        - title: O-Level Results & Information Slides
+          description: The O-level results was released 11 Jan 2024  Review key info &
             deadlines here.
           linktext: Learn more
-          url: /files/Level%20Matters/S4n5/2023/2023_N_Results_and_Info_Slides.pdf
+          url: /school-information/school-matters/news-n-events
         - title: Appeal to Transfer In (2024 Sec 1 only)
           description: Non-Medical Applicants only [20 - 22 Dec 2023, by 5pm]
           linktext: E-Application Link
