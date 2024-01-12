@@ -29,8 +29,6 @@ Find out more about these programmes here
 For 2023 4NA students who are receiving their O level results, 
 * Applications for PFP will be from 2.00pm on Thu 11 Jan to 4.00pm on Tue 16 Jan.  
 * Applications for DPP will be from 12.00am on Thu 11 Jan to 11.59pm on Tue 16 Jan.
-
-
 <hr>
 
 ### 2024 Sem 1 Term 1 Class Timetables
