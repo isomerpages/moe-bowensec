@@ -23,17 +23,16 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Release of 2023 GCE 'O' Levels Results
+      title: "Joint Admissions Exercise (JAE) "
       id: infopic
-      description: >
-        Students are to report to the School Hall by 2pm. Formal school uniform
-        (without tie) or blue polo-top. School rules on grooming will be
-        strictly applied.
+      description: "Eligible students can apply online for admissions into JCs,
+        Millennia Institute (MI), polytechnics, and Institute of Technical
+        Education (ITE). "
       button: More Information
-      url: /school-information/school-matters/news-n-events/
-      alt: Release GCE 'O' Levels Results
+      url: https://www.moe.gov.sg/post-secondary/admissions/jae
+      alt: Joint Admissions Exercise
       image: /images/School Events/O_level_Result_Release_Banner3.jpg
-      subtitle: 11 January 2024, THUR 2PM
+      subtitle: 11 Jan 4pm - 16 Jan 4pm, 2024
   - textcards:
       title: Quick Links
       id: textcards
