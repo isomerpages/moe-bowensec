@@ -41,15 +41,15 @@ sections:
             download now
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
-        - title: 2024 Booklists
-          description: 2024 booklists are available for download.
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
         - title: O-Level Results & Information Slides
           description: The O-level results was released 11 Jan 2024  Review key info &
             deadlines here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events
+        - title: 2024 Booklists
+          description: 2024 booklists are available for download.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: Appeal to Transfer In (2024 Sec 1 only)
           description: Non-Medical Applicants only [20 - 22 Dec 2023, by 5pm]
           linktext: E-Application Link
