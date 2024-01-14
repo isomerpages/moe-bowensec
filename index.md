@@ -36,9 +36,9 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: 2024 Sem 1 Term 1 Class TImetables
-          description: Class Timetables are available to download at their respective
-            Level Pages
+        - title: 2024 Sem1 Term1 Class TImetables Ver2.1 wef 15/1
+          description: Updated Class Timetables ver 2.1 wef 15 Jan are available to
+            download now
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
         - title: 2024 Booklists
