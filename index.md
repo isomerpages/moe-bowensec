@@ -36,20 +36,20 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: 2024 Sem 1 Term 1 Class TImetables
-          description: Class Timetables are available to download at their respective
-            Level Pages
+        - title: 2024 Sem1 Term1 Class TImetables Ver2.1 wef 15/1
+          description: Updated Class Timetables ver 2.1 wef 15 Jan are available to
+            download now
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
-        - title: 2024 Booklists
-          description: 2024 booklists are available for download.
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
         - title: O-Level Results & Information Slides
           description: The O-level results was released 11 Jan 2024  Review key info &
             deadlines here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events
+        - title: 2024 Booklists
+          description: 2024 booklists are available for download.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: Appeal to Transfer In (2024 Sec 1 only)
           description: Non-Medical Applicants only [20 - 22 Dec 2023, by 5pm]
           linktext: E-Application Link

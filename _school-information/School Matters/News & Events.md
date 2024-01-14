@@ -7,6 +7,13 @@ variant: markdown
 ---
 # Latest News and Events
 
+### 2024 Sem 1 Term 1 Class Timetables Ver 2.1 (wef 15 Jan)
+* [2024 Sec 1 Sem 1 Term 1 Class Timetable (Ver2.1)](/school-information/level-matters/secondary-1/class-timetables/) 
+* [2024 Sec 2 Sem 1 Term 1 Class Timetable (Ver2.1](/school-information/level-matters/secondary-2/class-timetables/) 
+* [2024 Sec 3 Sem 1 Term 1 Class Timetable (Ver2.1](/school-information/level-matters/secondary-3/class-timetables/)
+* [2024 Sec4/5 Sem 1 Term 1 Class Timetable (Ver2.1](/school-information/level-matters/secondary-4-5/class-timetables/) 
+<p>
+</p><hr>
 ### GCE 'O' Level Results Release &amp; Joint Admissions Exercise (JAE)
 The GCE 'O' level results was released in the School Hall on **Thursday, 11 Jan 2024 at 2pm** 
 Students may find the key information Slides 
@@ -35,13 +42,7 @@ For 2023 4NA students who are receiving their O level results,
 * Applications for DPP will be from 12.00am on Thu 11 Jan to 11.59pm on Tue 16 Jan.
 <hr>
 
-### 2024 Sem 1 Term 1 Class Timetables
-* [2024 Sec 1 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-1/class-timetables/) 
-* [2024 Sec 2 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-2/class-timetables/) 
-* [2024 Sec 3 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-3/class-timetables/)
-* [2024 Sec4/5 Sem 1 Term 1 Class Timetable](/school-information/level-matters/secondary-4-5/class-timetables/) 
-<p>
-</p><hr>
+
 
 ### Online Purchase of 2024 Textbooks and Uniforms
 To facilitate a safe and smooth customer experience, the sale of 2024 textbooks and uniforms **will be conducted online**. 
