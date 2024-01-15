@@ -2,10 +2,8 @@
 title: School Advisory Committee
 permalink: /school-information/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 ### School Advisory Committee
-![SAC Chairperson](/images/School%20Advisory%20Committee/SAC1.png)
-![Principal Bowen Sec](/images/School%20Advisory%20Committee/SAC2.png)
-![SAC Members 1](/images/School%20Advisory%20Committee/SAC3.png)
-![SAC Members 2](/images/School%20Advisory%20Committee/SAC4.png)
-![SAC Members 3](/images/School%20Advisory%20Committee/SAC5.png)
+
+![](/images/School%20Advisory%20Committee/BOWEN_SAC_2023___2025.jpg)
