@@ -12,8 +12,10 @@ variant: markdown
 
 You may download the class timetables here
 
+[1 sapphire](/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1S__TT_V2_1.pdf)
+
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1T__TT_V2_1.pdf">1 Topaz</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1S_TT_V2_1.pdf">1 Sapphire</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1S__TT_V2_1.pdf">1 Sapphire</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1P_TT_V2_1.pdf">1 Peridot</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1A_TT_V2_1.pdf">1 Amethyst</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1R_TT_V2_1.pdf">1 Ruby</a>
