@@ -12,8 +12,6 @@ variant: markdown
 
 You may download the class timetables here
 
-
-
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1T__TT_V2_1.pdf">1 Topaz</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1S__TT_V2_1.pdf">1 Sapphire</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1P__TT_V2_1.pdf">1 Peridot</a>
