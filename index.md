@@ -31,7 +31,7 @@ sections:
       button: More Information
       url: /school-information/school-matters/news-n-events/
       alt: Joint Admissions Exercise
-      image: /images/School Events/O_level_Result_Release_Banner3.jpg
+      image: /images/School Events/2024/YS_2024_3x2_copy.jpg
       subtitle: 22 - 25 January 2024
   - textcards:
       title: Quick Links
