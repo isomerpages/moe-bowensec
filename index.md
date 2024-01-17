@@ -23,15 +23,16 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Joint Admissions Exercise (JAE)
+      title: 義學國中 Yi Shiue - Bowen Exchange Programme
       id: infopic
-      description: Eligible students can apply online for admissions into JCs, MI,
-        polytechnics and ITE or report to Bowen for assistance.
+      description: Bowen warmly welcome both staff and students of 義學國中 Yi Shiue
+        Junior High. We look forward to fostering a vibrant and enriching
+        learning experience for all.
       button: More Information
       url: /school-information/school-matters/news-n-events/
       alt: Joint Admissions Exercise
       image: /images/School Events/O_level_Result_Release_Banner3.jpg
-      subtitle: 11 Jan 4pm - 16 Jan 4pm, 2024
+      subtitle: 22 - 25 January 2024
   - textcards:
       title: Quick Links
       id: textcards
