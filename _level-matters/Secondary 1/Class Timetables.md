@@ -12,11 +12,11 @@ variant: markdown
 
 You may download the class timetables here
 
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1T__TT_V2_1.pdf">1 Topaz</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1S__TT_V2_1.pdf">1 Sapphire</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S1T__TT_V2_2.pdf">1 Topaz</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S1S__TT_V2_2.pdf">1 Sapphire</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1P__TT_V2_1.pdf">1 Peridot</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1A__TT_V2_1.pdf">1 Amethyst</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1R__TT_V2_1.pdf">1 Ruby</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1K__TT_V2_1.pdf">1 Kunzite</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1L__TT_V2_1.pdf">1 Larimar</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_1/2024_SEM1_S1E__TT_V2_1.pdf">1 Emerald</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S1A__TT_V2_2.pdf">1 Amethyst</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S1R__TT_V2_2.pdf">1 Ruby</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S1K__TT_V2_2.pdf">1 Kunzite</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S1L__TT_V2_2.pdf">1 Larimar</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S1E__TT_V2_2.pdf">1 Emerald</a>
