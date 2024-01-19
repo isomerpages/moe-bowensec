@@ -37,7 +37,7 @@ sections:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
-        with their teenage kids and witness their challenges as they step out of
+        with their teenagers and witness their challenges as they step out of
         their comfort zones...
       button: VIDEO LINK
       url: https://www.mewatch.sg/season/On-The-Red-Dot-My-Parent-My-Classmate-S2-432815
