@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Online Portals
 variant: markdown
 ---
-### Teachers Portals
+### Portals for Teachers
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -51,7 +51,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">7</span></td>
-    <td class="tg-699i"><a href="https://www.opal2.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">OPAL 2.o Portal</span></a><br></td>
+    <td class="tg-699i"><a href="https://www.opal2.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">OPAL 2.0 Portal</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">8</span></td>
