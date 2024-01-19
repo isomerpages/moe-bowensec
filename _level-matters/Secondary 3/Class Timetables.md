@@ -10,8 +10,10 @@ variant: markdown
 #### 2024 Sem 1 Term 1 Class-Timetables V2.2 
 (wef from 22 Jan 2024)
 
+
+
 ##### Sec 3
-* <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S3T_TT_V2_2.pdf">3 Topaz</a>
+
 *  <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S3S_TT_V2_2.pdf">3 Sapphire</a>
 *   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S3P_TT_V2_2.pdf">3 Peridot</a>
 *    <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_2/2024_SEM1_S3A_TT_V2_2.pdf">3 Amethyst</a>
