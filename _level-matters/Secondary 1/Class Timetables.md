@@ -7,8 +7,8 @@ variant: markdown
 ---
 ## 2024 Sec 1 Semester 1 Timetables
 
-#### 2024 Sem 1 Term 1 Class-Timetables V2.1 (Updated)
-(wef from 15 Jan 2024)
+#### 2024 Sem 1 Term 1 Class-Timetables V2.2 (Updated)
+(wef from 22 Jan 2024)
 
 You may download the class timetables here
 
