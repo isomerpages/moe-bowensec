@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: 義學國中 Yi Shiue - Bowen Exchange Programme
       id: infopic
-      description: Bowen warmly welcome both staff and students of 義學國中 Yi Shiue
+      description: Bowen warmly welcomes both staff and students of 義學國中 Yi Shiue
         Junior High. We look forward to fostering a vibrant and enriching
         learning experience for all.
       button: More Information
