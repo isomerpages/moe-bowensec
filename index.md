@@ -33,6 +33,17 @@ sections:
       alt: Joint Admissions Exercise
       image: /images/School Events/2024/YS_2024_3x2_copy.jpg
       subtitle: 22 - 25 January 2024
+  - infopic:
+      title: "My Parent, My Classmate: Season 2"
+      id: infopic
+      description: Watch four brave parents return to secondary school to reconnect
+        with their teenagers and witness their challenges as they step out of
+        their comfort zones...
+      button: VIDEO LINK
+      url: https://www.mewatch.sg/season/On-The-Red-Dot-My-Parent-My-Classmate-S2-432815
+      alt: Mewatch My Parent My Classmate
+      image: /images/School Events/2024/Myparenmyclassmate.png
+      subtitle: On The Red DOT
   - textcards:
       title: Quick Links
       id: textcards
