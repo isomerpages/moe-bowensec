@@ -53,37 +53,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
  <br><br>
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages..<br><br>**At Bowen Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p">Topics/Lessons</th>
-    <th class="tg-rj1p">Programme Learning Objectives</th>
-    <th class="tg-rj1p">Time Period<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-y7qa">- Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV <br></td>
-    <td class="tg-y7qa">Terms 3 - 4 </td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Classroom-based Lesson</td>
-    <td class="tg-y7qa">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br> </td>
-    <td class="tg-y7qa">Terms 3 - 4 </td>
-  </tr>
-</tbody>
-</table>
+![](/images/Holistic%20Education/CCE/Eteens_schedule_2024.jpg)
 
 ### Information for Parents
 
