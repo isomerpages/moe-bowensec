@@ -43,7 +43,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 You can view the Sec 1 to Sec 5 Lesson Overview in the PDF below
 
-
+[2024 Sec1 to Sec 5 SED Lesson Overview](/files/Holistic%20Education/CCE/SED/SED_S1_to_S5_Lessons_2024.pdf)
 
 -----
 
