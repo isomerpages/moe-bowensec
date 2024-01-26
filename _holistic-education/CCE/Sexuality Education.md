@@ -36,7 +36,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 	
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 	
-<br>**At Bowen Secondary School, the following Sexuality Education lessons will be taught in 2023**
+<br>**At Bowen Secondary School, the following Sexuality Education lessons will be taught in 2024**
 
 ### Secondary 1
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid white .5pt;
