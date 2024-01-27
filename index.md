@@ -23,17 +23,6 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: 義學國中 Yi Shiue - Bowen Exchange Programme
-      id: infopic
-      description: Bowen warmly welcomes both staff and students of 義學國中 Yi Shiue
-        Junior High. We look forward to fostering a vibrant and enriching
-        learning experience for all.
-      button: More Information
-      url: /school-information/school-matters/news-n-events/
-      alt: Joint Admissions Exercise
-      image: /images/School Events/2024/YS_2024_3x2_copy.jpg
-      subtitle: 22 - 25 January 2024
-  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
