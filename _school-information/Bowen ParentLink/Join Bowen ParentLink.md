@@ -6,8 +6,8 @@ third_nav_title: Bowen ParentLink
 variant: markdown
 ---
 <figure>
-<img src="/images/Parentlink%20Group%20Photo.jpg">
-<figcaption>Mr. Dominic Goh (Head/CCE),  Mr. Johnny Goh, Ms. Careen Ng, Ms. Rachel Yue (Vice chairperson), Ms. Cindy Chua, Ms. Cythnia Ting, Hazel Tay (Advisor), Mr. Kelvin Lau (Chairperson), Mr. Loh Chih Hui (Principal), Mr. Wilson Goy (Head/ Discipline), Mr. Afzal Chinwala</figcaption>
+<img src="/images/School%20Information/Bowen%20ParentLink/Bowen_PL_group_photo.jpg">
+<figcaption> Mr. Johnny Goh, Ms. Careen Ng, Ms. Rachel Yue (Vice chairperson), Ms. Cindy Chua, Ms. Cythnia Ting, Hazel Tay (Advisor), Mr. Kelvin Lau (Chairperson), Mr. Loh Chih Hui (Principal),</figcaption>
 </figure>
 
 ### Overview of Bowen ParentLink
