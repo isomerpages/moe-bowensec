@@ -23,10 +23,9 @@ Parent volunteers play an important role in Bowen Secondary School and there are
 ![](/images/PLink%20Vision.jpg)
 
 ### Join Bowen ParentLink
-
-
+![Join ParentLink QR Code](/images/School%20Information/Bowen%20ParentLink/Join_ParentLink_2024.jpg)
 		 
-[Join ParentLink Form](https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform)
+[Click here to join Bowen ParentLink](https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform)
 
 Contact us :[parentlinkbwss@gmail.com](mailto:parentlinkbwss@gmail.com)
 
