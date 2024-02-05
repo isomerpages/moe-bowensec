@@ -3,6 +3,7 @@ title: Join Bowen ParentLink
 permalink: /school-information/bowen-parentlink/bowen-parentlink/
 description: ""
 third_nav_title: Bowen ParentLink
+variant: markdown
 ---
 <figure>
 <img src="/images/Parentlink%20Group%20Photo.jpg">
@@ -13,7 +14,6 @@ third_nav_title: Bowen ParentLink
 
 Parent volunteers play an important role in Bowen Secondary School and there are many volunteer opportunities during school hours. Be a part of Bowen Parent Link. We hope to meet you and you will join us for participation of future Bowen Parent Link’s activities.
 
-[BowenParentLink_2023 (Updated)](/files/BowenParentLink_2023_V2.pdf)
 
 ### Bowen ParentLink Mission and Vision
 
@@ -22,11 +22,9 @@ Parent volunteers play an important role in Bowen Secondary School and there are
 ![](/images/PLink%20Vision.jpg)
 
 ### Join Bowen ParentLink
-
-<img src="/images/ParentLink%20QR%20Code.jpg" style="width:50%">
+![Join ParentLink QR Code](/images/School%20Information/Bowen%20ParentLink/Join_ParentLink_2024.jpg)
 		 
-[https://forms.gle/SzuSz9d6ZhDfmTDt8](https://forms.gle/SzuSz9d6ZhDfmTDt8)[  
-](https://forms.gle/SzuSz9d6ZhDfmTDt8)
+[Click here to join Bowen ParentLink](https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform)
 
 Contact us :[parentlinkbwss@gmail.com](mailto:parentlinkbwss@gmail.com)
 
@@ -40,4 +38,3 @@ Bowen ParentLink was commended by Dr. Maliki Osman, Second Minister for Educatio
 
 #### Extract 2
 ![](/images/School%20Information/Bowen%20ParentLink/quote%202.png)
-
