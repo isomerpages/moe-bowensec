@@ -1,0 +1,28 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - The Desired Bowenian.md
+      - R E A D Y BE!.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/The Bowen Student Council.md
+      - Student Leadership/Peer Support Leaders.md
+      - Student Leadership/CCA Leaders.md
+      - Student Leadership/Class Leaders.md
+      - Student Leadership/Tech Champions.md
+      - Student Leadership/CCE Ambassadors.md
+      - Piloting Full Subject Based Banding (FSBB).md
+      - Academic Programmes/.keep
+      - Academic Programmes/English.md
+      - Academic Programmes/Mother Tongue.md
+      - Academic Programmes/Mathematics.md
+      - Academic Programmes/Science.md
+      - Academic Programmes/Humanities.md
+      - Academic Programmes/Craft and Technology.md
+      - Academic Programmes/Physical Education.md
+      - Academic Programmes/Music.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Education & Career Guidance.md
+      - CCE/Sexuality Education.md

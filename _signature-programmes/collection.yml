@@ -1,0 +1,11 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Applied Learning & Learning for Life Programmes in Bowen.md
+      - Bowen ChANgeMakers.md
+      - BowenExplore!.md
+      - Bowen FIESTA.md
+      - AForte Applied Learning Module (ApLM).md
+      - Bowen Horizons.md
+      - Direct School Admission.md

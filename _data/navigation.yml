@@ -1,0 +1,53 @@
+logo: /images/Bowenlogo_transparent.png
+links:
+  - title: About Bowen
+    collection: about-bowen
+  - title: Holistic Education
+    url: /holistic-education/the-desired-bowenian-1
+    sublinks:
+      - title: The Desired Bowenian
+        url: /holistic-education/the-desired-bowenian-1
+      - title: Student Leadership
+        url: /holistic-education/student-leadership
+      - title: Full Subject-Based Banding
+        url: /holistic-education/piloting-full-subject-based-banding-fsbb
+      - title: Academic Programmes
+        url: /holistic-education/academic-programmes/english
+      - title: CCE
+        url: /holistic-education/cce/character-and-citizenship-education
+      - title: CCAs
+        url: /holistic-education/co-curricular-activities
+  - title: Signature Programmes
+    url: /signature-programmes/applied-learning-n-learning-for-life-programmes-in-bowen/
+    sublinks:
+      - title: Bowen ALP and LLP
+        url: /signature-programmes/applied-learning-n-learning-for-life-programmes-in-bowen/
+      - title: Bowen ChANgeMakers
+        url: /signature-programmes/bowen-changemakers/
+      - title: BowenExplore!
+        url: /signature-programmes/bowenexplore/
+      - title: Bowen FIESTA
+        url: /signature-programmes/bowen-fiesta/
+      - title: Aforte ApLM
+        url: /signature-programmes/aforte-applied-learning-programme/
+      - title: Learning With Technology
+        url: /signature-programmes/learning-with-technology/
+      - title: Bowen Horizons
+        url: /signature-programmes/bowen-horizons/
+      - title: Direct School Admission
+        url: /signature-programmes/direct-school-admission-1/
+  - title: School Information
+    url: /school-information/school-matters/news-n-events/
+    sublinks:
+      - title: School Matters
+        url: /school-information/school-matters/news-n-events/
+      - title: Level Matters
+        url: /school-information/level-matters/secondary-1/
+      - title: School Advisory Committee
+        url: /school-information/school-advisory-committee/
+      - title: Bowen ParentLink
+        url: /school-information/bowen-parentlink/bowen-parentlink/
+      - title: Online Portals
+        url: /school-information/school-matters/online-portals/portals-for-students-n-parents/
+      - title: Contact Information
+        url: /school-information/contact-information/school-contact-information
