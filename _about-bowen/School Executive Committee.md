@@ -11,9 +11,7 @@ variant: markdown
 <br><a href="Loh_Chih_Hui@schools.gov.sg">Loh_Chih_Hui@schools.gov.sg</a></center>
 <hr>	
 
-<br><img src="/images/Our%20People/Ms-LIM-GUIHAO.jpeg" style="width:20%">
-<center><b>&nbsp;Ms. Lim GuiHao <br>VICE-PRINCIPAL</b><br><a href="Lim_Guihao@schools.gov.sg">Lim_Guihao@schools.gov.sg</a></center>
-<hr>	
+
 
 <br><img src="/images/Our%20People/mr%20benjamin%20chen.jpg" style="width:20%">
 <center><b>&nbsp;Mr. Chen Zhaokai Benjamin <br>VICE-PRINCIPAL</b><br><a href="Chen_Zhaokai_Benjamin@schools.gov.sg">Chen_Zhaokai_Benjamin@schools.gov.sg</a></center>
@@ -112,4 +110,3 @@ variant: markdown
 <center><b>Mrs. Bernice Kuan<br>Year Head Secondary 4/5 (2024)</b>
 <br><a href="tey_puay_leng@schools.gov.sg">tey_puay_leng@schools.gov.sg</a></center>
 <hr>
-
