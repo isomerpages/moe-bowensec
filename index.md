@@ -29,7 +29,7 @@ sections:
       description: "Guest-of-Honoour: Mr. Prathap Latchmanan"
       button: More information
       url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-      image: /images/School Events/2024/2024_Speech_Day_instagram_with_students.jpg
+      image: /images/School Events/2024/42_Speech_Day.png
       alt: Image alt text
   - infopic:
       title: "My Parent, My Classmate: Season 2"
