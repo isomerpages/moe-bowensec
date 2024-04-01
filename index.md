@@ -27,7 +27,7 @@ sections:
       subtitle: Friday, 19 April 2024, 4-630pm
       id: infopic
       description: "Guest-of-Honoour: Mr. Prathap Latchmanan"
-      button: More information >>>
+      button: More information
       url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
       image: /images/School Events/2024/2024_Speech_Day_instagram_with_students.jpg
       alt: Image alt text
