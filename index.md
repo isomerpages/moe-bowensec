@@ -23,6 +23,15 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
+      title: 42nd Speech & Prize Presentation Day
+      subtitle: Friday, 19 April 2024, 4-630pm
+      id: infopic
+      description: "Guest-of-Honour: Mr. Prathap Latchmanan"
+      button: More information >>>
+      url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
+      image: /images/School Events/2024/2024_Speech_Day_instagram_with_students.jpg
+      alt: Image alt text
+  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
@@ -33,15 +42,6 @@ sections:
       alt: Mewatch My Parent My Classmate
       image: /images/School Events/2024/Myparenmyclassmate.png
       subtitle: On The Red DOT
-  - infopic:
-      title: 42nd Speech & Prize Presentation Day
-      subtitle: Friday, 19 April 2024, 4-630pm
-      id: infopic
-      description: "Guest-of-Honour: Mr. Prathap Latchmanan"
-      button: More information >>>
-      url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-      image: /images/School Events/2024/2024_Speech_Day_instagram_with_students.jpg
-      alt: Image alt text
   - textcards:
       title: Quick Links
       id: textcards
