@@ -26,7 +26,7 @@ sections:
       title: 42nd Speech & Prize Presentation Day
       subtitle: Friday, 19 April 2024, 4-630pm
       id: infopic
-      description: "Guest-of-Honour: Mr. Prathap Latchmanan"
+      description: "Guest-of-Honoour: Mr. Prathap Latchmanan"
       button: More information >>>
       url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
       image: /images/School Events/2024/2024_Speech_Day_instagram_with_students.jpg
