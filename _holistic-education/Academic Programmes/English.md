@@ -130,13 +130,7 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222">SH / EL</span></td>
     <td class="tg-fxx4"><span style="color:#222">lim_keng_soon_paul@schools.gov.sg</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Tan Shuming</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">SH / SWB</span></td>
-    <td class="tg-fxx4"><span style="color:#222">tan_shuming@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span></td>
+     <tr><td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span></td>
     <td class="tg-fxx4"><span style="color:#222">SH / ICT</span></td>
     <td class="tg-fxx4"><span style="color:#222">alvin_chong_chee_leong@schools.gov.sg</span></td>
   </tr>
