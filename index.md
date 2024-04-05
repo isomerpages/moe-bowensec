@@ -46,6 +46,10 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: 2024 Term Assessment 2 (TA2) Schedule
+          description: Please find the TA2 Schedules here.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: 2024 Sem1 Term1 Class TImetables Ver 2.6 wef 25/3
           description: Updated Class Timetables ver 2.6 wef 25 March are available to
             download now
@@ -56,8 +60,4 @@ sections:
             link below.
           linktext: Register here
           url: https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform
-        - title: 2024 Booklists
-          description: 2024 booklists are available for download.
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
 ---
