@@ -3,14 +3,11 @@ title: Assessment Schedules
 permalink: /school-information/level-matters/secondary-4-5/assessment-schedules/
 description: ""
 third_nav_title: Secondary 4&5
+variant: markdown
 ---
 **Term Assessments and Examination Timetables**  
 
-### 2023 Prelim Examination Schedule
+### 2024 TA2 Schedule
 
-1. [2023 N Level Preliminary Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20n%20prelims%20tt.pdf)
-2. [2023 O Level Preliminary Examinations Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/PRELIMS/2023%20o%20prelims%20tt.pdf)
-
-### 2023  GCE N and O Level Examination Schedule
-1. [2023 Singapore-Cambridge GCE N Level Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20n%20exam%20tt.pdf)
-2. [2023 Singapore-Cambridge GCE O Level Examination Schedule](/files/Examination%20Timetables/2023%20Exam%20Timetables/GCE%20N%20O%20Level/2023%20gce%20o%20exam%20tt.pdf)
+1. [2024 Sec 4 and 5 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S4n5_TT.pdf)
+2. [TA2 Briefing for Students](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA_2_Briefing_to_Students.pdf)

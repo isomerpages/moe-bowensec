@@ -130,13 +130,7 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222">SH / EL</span></td>
     <td class="tg-fxx4"><span style="color:#222">lim_keng_soon_paul@schools.gov.sg</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms. Tan Shuming</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">SH / SWB</span></td>
-    <td class="tg-fxx4"><span style="color:#222">tan_shuming@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span></td>
+     <tr><td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span></td>
     <td class="tg-fxx4"><span style="color:#222">SH / ICT</span></td>
     <td class="tg-fxx4"><span style="color:#222">alvin_chong_chee_leong@schools.gov.sg</span></td>
   </tr>
@@ -192,10 +186,25 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">clunies_ross_sean_james@schools.gov.sg</span></td>
   </tr>
-  <tr>
+    <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Elliza Tang</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">tang_sook_ee_elliza@schools.gov.sg</span></td>
+  </tr>
+	<tr>
     <td class="tg-fxx4"><span style="color:#222">Ms. Jean Cai</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">cai_junting@schools.gov.sg</span></td>
+  </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm. Chandra</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">shanmugam_chandraghantha@schools.gov.sg</span></td>
+  </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Raj</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">bhanumathy_ganapathy@schools.gov.sg</span></td>
   </tr>
  
 </tbody>
@@ -231,11 +240,15 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">suraiya_izharul@schools.gov.sg</span></td>
   </tr>
-
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Mohamad Irsyad</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">mohamad_irsyad@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Elliza Tang</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">tang_sook_ee_elliza@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>

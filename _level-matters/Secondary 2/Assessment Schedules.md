@@ -3,9 +3,11 @@ title: Assessment Schedules
 permalink: /school-information/level-matters/secondary-2/assessment-schedules/
 description: ""
 third_nav_title: Secondary 2
+variant: markdown
 ---
 **Term Assessments and Examination Timetables**
 
-### 2023 Sec 2 End-of-Year Examination Schedule
+### 2024 Sec 2 TA2 Schedule
 
-1. [2023 Sec 2 EOY Timetable (Updated 4/9)](/files/Examination%20Timetables/2023%20Exam%20Timetables/EOY/2023%20sec%202%20eoy%20timetable%20updated%204%20sep.pdf)
+1. [2024 Sec 2 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S2_TT.pdf)
+2. [TA2 Briefing for Students](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA_2_Briefing_to_Students.pdf)

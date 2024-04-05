@@ -232,7 +232,7 @@ The gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar*
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Zurainah</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Elliza Tang</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -241,7 +241,7 @@ The gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar*
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">zurainah_kassim@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">tang_sook_ee_elliza@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
