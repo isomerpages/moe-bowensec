@@ -16,8 +16,13 @@ Get ready for an sxciting evnent at "Speech &amp; Prize Presentation Day" on Apr
 
 
 
-### 義學國中 Yi Shiue - Bowen Exchange Programme
-Bowen warmly welcome both staff and students of Taiwan 義學國中 Yi Shiue Junior High who will be visiting Bowen from the 22nd to 25th of Jan. During this immersion programme,Yi Shiue students will be joining our Secondary 3 Bowen buddies for lessons. Through this exchange, we aim to create lasting connection and promote cross-cultural understanding. We look forward to fostering a vibrant and enriching learning experience for all.
+### 2024 TA2 Briefing Slides and Schedule
+* [TA2 Briefing Slides for Students](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA_2_Briefing_to_Students.pdf)
+* [2024 Sec 1 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S1_TT.pdf)
+* [2024 Sec 2 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S2_TT.pdf)
+* [2024 Sec 3 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S3_TT.pdf)
+* [2024 Sec 4 and 5 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S4n5_TT.pdf)
+
 <hr>
 
 ### 2024 Sem 1 Term 1 Class Timetables Ver 2.6 (wef 25 Mar)
