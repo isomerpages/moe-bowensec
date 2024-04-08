@@ -3,6 +3,7 @@ title: Drama Club
 permalink: /holistic-education/co-curricular-activities-ccas/performing-arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCAs/Performing%20Arts/Drama%20Club/drama%20club%20main%20pic.png)
 <style type="text/css">
@@ -25,7 +26,7 @@ third_nav_title: Performing Arts
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs. Andrea Too (I/C)</span><br><span style="color:#222">Ms. Siti Hawa (2ᴺᴰ I/C)</span><br><span style="color:#222">Mr. Paul Lim Keng Soon (Advisor)</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs. Andrea Too (I/C)</span><br><span style="color:#222">Ms. Siti Hawa (2ᴺᴰ I/C)</span><br><span style="color:#222">Mr. Paul Lim (Advisor)</span></td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
