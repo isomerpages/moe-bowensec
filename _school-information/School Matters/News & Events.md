@@ -11,7 +11,7 @@ variant: markdown
 ![](/images/School%20Events/2024/2024_Speech_Day_web.jpg)
 ##### **19 April 2024, Friday 4pm-6:30pm**
 
-Get ready for an sxciting evnent at "Speech &amp; Prize Presentation Day" on April 19<sup>th</sup> Friday from 4-6:30pm. Prepare to be spellbound by dance performances and a special choir rendition, showcasing the remarkable talent of our students. The highlight of the day will be the valedictorian speech, a moment brimming with nostalgia and inspiration as our top students bids farewell to their peers. Join us for a day filled with celebration, talent, and heartfelt farewells. Don't miss out on this unforgettable event.
+Get ready for an exciting evnent at "Speech &amp; Prize Presentation Day" on April 19<sup>th</sup> Friday from 4-6:30pm. Prepare to be spellbound by dance performances and a special choir rendition, showcasing the remarkable talent of our students. The highlight of the day will be the valedictorian speech, a moment brimming with nostalgia and inspiration as our top students bid farewell to their peers. Join us for a day filled with celebration, talent, and heartfelt farewells. Don't miss out on this unforgettable event.
 <hr>
 
 
