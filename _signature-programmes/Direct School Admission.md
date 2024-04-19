@@ -20,27 +20,29 @@ We strongly encourage those with talents in the following areas to apply for adm
 ### DSA (Entrepreneurship &amp; Innovation / Leadership &amp; Uniformed Groups)
   
 We offer DSA for Boys and Girls in:
-•	Entrepreneurship
-•	Community Youth Leadership
+* <b>Entrepreneurship</b>
+* <b>Community Youth Leadership</b>
+
 
 The programme taps on Bowen’s flagship ChANgeMakers programme. 
 
 ChANgeMakers aims to nurture Bowenians to advocate social causes and become value creators for Singapore through:
-•	A structured 4-year programme which involves them in authentic and relevant social needs in the community.
-•	Opportunities to lead and serve at school and community level (e.g. with our wide range of community partners).
-•	Courses and workshops (e.g. Design Thinking).
+* A structured 4-year programme which involves them in authentic and relevant social needs in the community.
+* Opportunities to lead and serve at school and community level (e.g. with our wide range of community partners).
+* Courses and workshops (e.g. Design Thinking).
 
 
 ### DSA (Performing Arts / Sports and Games)
 
 We offer DSA for Boys and Girls in:
-•	Marching Band
-•	Badminton
-•	Football
+* Marching Band
+* Badminton
+* Football
+
 The programme aims to develop students’ talents and potential in the above performing arts and sports categories through:
-•	Quality and rigorous training by experienced coaches.
-•	Extensive range of competition opportunities.  
-•	Courses and workshops for student-athletes.
+* Quality and rigorous training by experienced coaches.
+* Extensive range of competition opportunities.  
+* Courses and workshops for student-athletes.
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at 
 [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
