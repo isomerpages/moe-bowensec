@@ -45,6 +45,8 @@ The programme aims to develop students’ talents and potential in the above per
 
 ### Selection Criteria
 
+* **Exemplary conduct in primary school and,**
+
 
 
 ### Centralised DSA-Sec Application Process
