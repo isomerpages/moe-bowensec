@@ -46,8 +46,7 @@ The programme aims to develop students’ talents and potential in the above per
 ### Selection Criteria
 
 * **Exemplary conduct in primary school and,**
-
-
+![](/images/Signature%20Programmes/DSA/DSA_selection_criteria_2024_2.jpg)
 
 ### Centralised DSA-Sec Application Process
 
