@@ -37,6 +37,11 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: DSA to Bowen Secondary
+          description: Bowen welcomes students who are now in P6 (or equivalent) to apply
+            DSA-Sec
+          linktext: Learn more
+          url: /signature-programmes/direct-school-admission-1/
         - title: 2024 Term Assessment 2 (TA2) Schedule
           description: Please find the TA2 Schedules here.
           linktext: Learn more
