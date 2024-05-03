@@ -86,6 +86,8 @@ performing arts and sports categories through:</p>
 </div>
 </li>
 </ul>
+<p><a href="/files/Signature Programmes/DSA_Selection_Criteria_to_Bowen_Sec_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria, Selection Process and Key Dates</a>
+</p>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>For 2024, application for DSA-Sec can be submitted through the online
 DSA-Sec Portal.</p>
