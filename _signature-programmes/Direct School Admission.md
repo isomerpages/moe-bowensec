@@ -57,4 +57,6 @@ from **7 May 2024, 11am to 3rd June 2024, 3pm. **
 For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 *Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
- 
+
+### Selection Process &amp; Key Dates
+
