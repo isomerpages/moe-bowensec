@@ -8,8 +8,6 @@ The annual DSA-Sec Exercise allows Primary 6 students to apply to a participatin
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-
-
 ### Direct School Admission (DSA) to Bowen
 
 Bowen welcomes students who are currently in Primary 6 (or the equivalent) to apply under DSA-Sec for entry to Secondary 1 in Bowen. Bowen is committed to developing students to their fullest potential in both their areas of talent and their studies. 
@@ -44,5 +42,19 @@ The programme aims to develop students’ talents and potential in the above per
 * Extensive range of competition opportunities.  
 * Courses and workshops for student-athletes.
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at 
-[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+### Selection Criteria
+
+
+
+### Centralised DSA-Sec Application Process
+
+For 2024, application for DSA-Sec can be submitted through the online DSA-Sec Portal. 
+
+The application is free-of-charge and will be open
+from **7 May 2024, 11am to 3rd June 2024, 3pm. **
+
+For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
+ 
