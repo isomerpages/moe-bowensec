@@ -59,4 +59,4 @@ For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-se
 *Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
 
 ### Selection Process &amp; Key Dates
-
+![DSA timeline 2024](/images/Signature%20Programmes/DSA/DSA_timeline_2024.jpg)
