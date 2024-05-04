@@ -15,7 +15,7 @@ to study in that school to develop their talent in the chosen area.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<h3>Direct School Admission (DSA) to Bowen</h3>
+<h3>Direct School Admission (DSA) to Bowen Secondary School</h3>
 <p>Bowen welcomes students who are currently in Primary 6 (or the equivalent)
 to apply under DSA-Sec for entry to Secondary 1 in Bowen. Bowen is committed
 to developing students to their fullest potential in both their areas of
@@ -88,10 +88,11 @@ performing arts and sports categories through:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_selection_criteria_2024_1.jpg">
 </div>
-</li>
-</ul>
+<p></p>
 <p><a href="/files/Signature Programmes/DSA_Selection_Criteria_to_Bowen_Sec_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria, Selection Process and Key Dates</a>
 </p>
+</li>
+</ul>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>For 2024, application for DSA-Sec can be submitted through the online
 DSA-Sec Portal.</p>
