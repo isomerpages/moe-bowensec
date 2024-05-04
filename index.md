@@ -22,6 +22,13 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
+  - infobar:
+      title: Direct School Admission for 2025
+      subtitle: interested to DSA to Bowen?
+      id: infobar
+      description: Application period is from 7 May (11am) to 3 June (3pm)
+      button: FIND OUT MORE
+      url: /signature-programmes/direct-school-admission-1/
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
