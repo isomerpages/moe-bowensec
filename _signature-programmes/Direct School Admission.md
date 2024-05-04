@@ -2,7 +2,7 @@
 title: Direct School Admission
 permalink: /signature-programmes/direct-school-admission-1/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>The annual DSA-Sec Exercise allows Primary 6 students to apply to a participating
 secondary school based on their diverse talents and potential, beyond their
@@ -81,8 +81,9 @@ performing arts and sports categories through:</p>
 <li>
 <p><strong>Exemplary conduct in primary school and,</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/DSA/DSA_selection_criteria_2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_selection_criteria_2024_1.jpg">
 </div>
 </li>
 </ul>
@@ -91,8 +92,8 @@ performing arts and sports categories through:</p>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>For 2024, application for DSA-Sec can be submitted through the online
 DSA-Sec Portal.</p>
-<p>The application is free-of-charge and will be open from **7 May 2024,
-11am to 3rd June 2024, 3pm. **</p>
+<p>The application is free-of-charge and will be open from <strong>7 May 2024, 11am</strong> to <strong>3rd June 2024, 3pm</strong>
+</p>
 <p>For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>*Other applicants not studying in MOE mainstream primary schools will
