@@ -54,13 +54,16 @@ our wide range of community partners).</p>
 <p>We offer DSA for Boys and Girls in:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Marching Band</p>
+<p><strong>Marching Band</strong>
+</p>
 </li>
 <li>
-<p>Badminton</p>
+<p><strong>Badminton</strong>
+</p>
 </li>
 <li>
-<p>Football</p>
+<p><strong>Football</strong>
+</p>
 </li>
 </ul>
 <p>The programme aims to develop students’ talents and potential in the above
