@@ -22,15 +22,13 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
-  - infopic:
-      title: 42nd Speech & Prize Presentation Day
-      subtitle: Friday, 19 April 2024, 4-630pm
-      id: infopic
-      description: "Guest-of-Honoour: Mr. Prathap Latchmanan"
-      button: More information
-      url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-      image: /images/School Events/2024/42_Speech_Day_Banner_1.png
-      alt: Image alt text
+  - infobar:
+      title: Direct School Admission for 2025
+      subtitle: interested to DSA to Bowen?
+      id: infobar
+      description: Application period is from 7 May (11am) to 3 June (3pm)
+      button: FIND OUT MORE
+      url: /signature-programmes/direct-school-admission-1/
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
@@ -46,11 +44,16 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: DSA to Bowen Secondary
+          description: Bowen welcomes students who are now in P6 (or equivalent) to apply
+            DSA-Sec
+          linktext: Learn more
+          url: /signature-programmes/direct-school-admission-1/
         - title: 2024 Term Assessment 2 (TA2) Schedule
           description: Please find the TA2 Schedules here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: 2024 Sem1 Term1 Class TImetables Ver 2.6 wef 25/3
+        - title: 2024 Sem1 Term2 Class Timetables Ver 2.6 wef 25/3
           description: Updated Class Timetables ver 2.6 wef 25 March are available to
             download now
           linktext: Learn more
