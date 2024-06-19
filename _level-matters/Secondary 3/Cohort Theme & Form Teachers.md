@@ -475,7 +475,7 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">muhammad_noor_hairil_muhammad@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">muhammad_noor_hairil_muhammad@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
