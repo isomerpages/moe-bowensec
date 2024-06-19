@@ -5,21 +5,21 @@ description: ""
 third_nav_title: Secondary 4&5
 variant: markdown
 ---
-## 2024 Sec 4 Semester 1 Timetables
+## 2024 Sec 4 Semester 2 Timetables
 
-#### 2024 Sem 1 Term 2 Class-Timetables V2.6 (Updated) 
-(wef from 25 March 2024)
+#### 2024 Sem 2 Term 3 Class-Timetables V1.2 (Updated) 
+(wef from 24 June 2024)
 
 ##### Sec 4
-* <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4T_TT_V2_6.pdf">4 Topaz</a>
-*  <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4S_TT_V2_6.pdf">4 Sapphire</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4P_TT_V2_6.pdf">4 Peridot</a>
-*    <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4A_TT_V2_6.pdf">4 Amethyst</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4R_TT_V2_6.pdf">4 Ruby</a>
-*  <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4K_TT_V2_6.pdf">4 Kunzite</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4L_TT_V2_6.pdf">4 Larimar</a>
-*   <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S4E_TT_V2_6.pdf">4 Emerald</a>
+* <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4T_TT_V1_2.pdf">4 Topaz</a>
+*  <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4S_TT_V1_2.pdf">4 Sapphire</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4P_TT_V1_2.pdf">4 Peridot</a>
+*    <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4A_TT_V1_2.pdf">4 Amethyst</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4R_TT_V1_2.pdf">4 Ruby</a>
+*  <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4K_TT_V1_2.pdf">4 Kunzite</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4L_TT_V1_2.pdf">4 Larimar</a>
+*   <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S4E_TT_V1_2.pdf">4 Emerald</a>
 
 
 ##### Sec 5
-*  <a target="_blank" href="/files/Class%20Timetables/2024_Term1_V2_6/2024_SEM1_S5E_TT_V2_6.pdf">5 Eudialyte</a>
+*  <a target="_blank" href="/files/Class%20Timetables/2024_Term3_V1_2/2024_SEM2_S5E_TT_V1_2.pdf">5 Eudialyte</a>
