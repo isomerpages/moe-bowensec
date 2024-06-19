@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary 1
 variant: markdown
 ---
-## 2024 Sec 1 Semester 1 Timetables
+## 2024 Sec 1 Semester 2 Timetables
 
 #### 2024 Sem 2 Term 3 Class-Timetables V1.2 (Updated)
 (wef from 24 June 2024)
