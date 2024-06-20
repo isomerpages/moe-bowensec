@@ -53,8 +53,8 @@ sections:
           description: Please find the TA2 Schedules here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: 2024 Sem1 Term2 Class Timetables Ver 2.6 wef 25/3
-          description: Updated Class Timetables ver 2.6 wef 25 March are available to
+        - title: 2024 Sem2 Term3 Class Timetables Ver 1.2 wef 24/6
+          description: Updated Class Timetables ver 1.2 wef 24 June are available to
             download now
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
