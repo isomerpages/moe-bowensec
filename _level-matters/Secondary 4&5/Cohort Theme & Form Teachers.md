@@ -186,7 +186,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Hawa</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Tan Shuming</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -195,7 +195,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">siti_hawa_abdul_hadi@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">tan_shuming@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
@@ -203,7 +203,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG">&nbsp;</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  EN-SG">4 Peridot</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -214,7 +214,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms. Tan Shuming</span><span style="font-size:12.0pt;
+  mso-ansi-language:EN-SG">Mrs. Li Seow Kun</span><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
@@ -226,40 +226,13 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">tan_shuming@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  mso-ansi-language:EN-SG">ng_seow_koon@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG">4 Peridot</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mrs. Li Seow Kun</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">ng_seow_koon@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
   EN-SG">P</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
@@ -269,11 +242,38 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mrs. Sankar</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">sankar_thilahavathi@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">4 Amethyst</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mrs. Sankar</span><span style="font-size:12.0pt;
+  mso-ansi-language:EN-SG">Ms Ler Kim Har</span><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
@@ -285,7 +285,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">sankar_thilahavathi@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  mso-ansi-language:EN-SG">ler_kim_har@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
@@ -293,7 +293,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG">4 Amethyst</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  EN-SG">A</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
@@ -303,7 +303,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms Ler Kim Har</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Lim Kah Kiat</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -312,7 +312,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">ler_kim_har@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:8;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">lim_kah_kiat@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:8;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
@@ -320,7 +320,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG">A</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  EN-SG">4 Ruby</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
@@ -332,7 +332,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mr. Lim Kah Kiat</span><span style="font-size:12.0pt;
+  mso-ansi-language:EN-SG">Mr. Derrick Lim</span><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
@@ -343,40 +343,13 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
   64" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">lim_kah_kiat@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">lim_soon_ben_derrick@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG">4 Ruby</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Derrick Lim</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">lim_soon_ben_derrick@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:10;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
   EN-SG">R</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
@@ -386,29 +359,24 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Ms. Suraiya</span><span style="font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Ms. Suraiya</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
-  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">suraiya_izharul@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:11;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">suraiya_izharul@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:10;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
   EN-SG">4 Kunzite</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
@@ -418,38 +386,11 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
   solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mrs. Shafiqah</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">shafiqah_hadam_hussain@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:12;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
-  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
-  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
-  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
-  EN-SG">K</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
-  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
-  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
-  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
-  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
-  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mrs. Sim Sook Fen</span><span style="font-size:12.0pt;
+  mso-ansi-language:EN-SG">Mrs. Shafiqah</span><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
@@ -461,7 +402,66 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">loh_sook_fen@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  mso-ansi-language:EN-SG">shafiqah_hadam_hussain@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:11;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:4" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">K</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mrs. Sim Sook Fen</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">loh_sook_fen@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:12;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
+  solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
+  background:#EDEDED;mso-background-themecolor:accent3;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:68" class="MsoNormal"><b><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222;mso-ansi-language:
+  EN-SG">&nbsp;</span></b><b><span style="font-size:12.0pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Ms. Chu Shuai Wu</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
+  border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
+  mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
+  mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-left-alt:
+  solid #C9C9C9 .5pt;mso-border-left-themecolor:accent3;mso-border-left-themetint:
+  153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
+  mso-border-themetint:153;background:#EDEDED;mso-background-themecolor:accent3;
+  mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">chu_shuai_wu@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:13;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
@@ -479,7 +479,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Randy Low</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mdm. Astee Goh</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -488,7 +488,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">low_chen_long_randy@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:14;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">goh_shin_ee_astee@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:14;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
@@ -508,7 +508,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">Mdm. Astee Goh</span><span style="font-size:12.0pt;
+  mso-ansi-language:EN-SG">Mdm. Juriah</span><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
@@ -520,7 +520,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;mso-yfti-cnfc:64" class="MsoNormal"><span style="font-size:12.0pt;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-SG">goh_shin_ee_astee@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+  mso-ansi-language:EN-SG">juriah_wati_mohd_shariff@schools.gov.sg</span><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
   EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:15;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
@@ -537,7 +537,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mdm. Juriah</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">Mr. Randy Low</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   mso-border-bottom-themecolor:accent3;mso-border-bottom-themetint:153;
   border-right:solid #C9C9C9 1.0pt;mso-border-right-themecolor:accent3;
   mso-border-right-themetint:153;mso-border-top-alt:solid #C9C9C9 .5pt;
@@ -546,7 +546,7 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   153;mso-border-alt:solid #C9C9C9 .5pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">juriah_wati_mohd_shariff@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:16;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">low_chen_long_randy@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:16;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;mso-border-themecolor:accent3;
   mso-border-themetint:153;border-top:none;mso-border-top-alt:solid #C9C9C9 .5pt;
   mso-border-top-themecolor:accent3;mso-border-top-themetint:153;mso-border-alt:
   solid #C9C9C9 .5pt;mso-border-themecolor:accent3;mso-border-themetint:153;
@@ -661,5 +661,3 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
   mso-border-themetint:153;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-ansi-language:EN-SG">pichandi_banumathi@schools.gov.sg</span></p></td></tr></tbody></table>
-
-
