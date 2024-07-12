@@ -113,9 +113,8 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   0in 5.4pt 0in 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">1 Emerald</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mdm. Noorlidiawati</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">noorlidiawati_said@schools.gov.sg</span></p></td></tr><tr style="mso-yfti-irow:17;mso-yfti-lastrow:yes;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0in 5.4pt 0in 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  #EDEDED;padding:0in 5.4pt 0in 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">E</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0in 5.4pt 0in 5.4pt;
   height:23.65pt" valign="top"></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0in 5.4pt 0in 5.4pt;
-  height:23.65pt" valign="top"></td></tr></tbody></table>	
-	
+  height:23.65pt" valign="top"></td></tr></tbody></table>
