@@ -33,8 +33,8 @@ Get ready for an exciting event at "Speech &amp; Prize Presentation Day" on Apri
 <hr>
 
 ### 2024 Sem 2 Term 3 Class Timetables
-* [2024 Sec 1 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-1/class-timetables/) 
-* [2024 Sec 2 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-2/class-timetables/) 
-* [2024 Sec 3 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-3/class-timetables/)
-* [2024 Sec4/5 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-4-5/class-timetables/) 
+* [2024 Sec 1 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-1/class-timetables/) 
+* [2024 Sec 2 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-2/class-timetables/) 
+* [2024 Sec 3 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-3/class-timetables/)
+* [2024 Sec4/5 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-4-5/class-timetables/) 
 <hr>
