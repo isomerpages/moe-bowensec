@@ -7,7 +7,11 @@ variant: markdown
 ---
 **Term Assessments and Examination Timetables**  
 
-### 2024 TA2 Schedule
+### 2024 N Level Prelim Schedule
 
-1. [2024 Sec 4 and 5 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S4n5_TT.pdf)
-2. [TA2 Briefing for Students](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA_2_Briefing_to_Students.pdf)
+1. [2024 N Level Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_N_Prelims_Timetable.pdf)
+
+
+### 2024 O Level Prelim Schedule
+
+1. [2024 O Level Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_O_Prelims_Timetable_19_July_2024.pdf)
