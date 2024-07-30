@@ -37,50 +37,40 @@ variant: markdown
     <td class="tg-fxx4"><span style="color:#222">SH / MTL </span></td>
     <td class="tg-fxx4"><span style="color:#222">juriah_wati_mohd_shariff@schools.gov.sg</span></td>
   </tr>
+ 
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> 3</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Ong Ai Lingg </span></td>
-    <td class="tg-fxx4"><span style="color:#222">SH / Maths</span></td>
-    <td class="tg-fxx4"><span style="color:#222">ong_ai_lingg@schools.gov.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222"> 4</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mrs. Astee Goh</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">SH / Science </span></td>
     <td class="tg-fxx4"><span style="color:#222">goh_shin_ee_astee@schools.gov.sg</span></td>
   </tr>
+
   <tr>
-    <td class="tg-fxx4"><span style="color:#222"> 5</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Khairul Anwar Ali </span></td>
-    <td class="tg-fxx4"><span style="color:#222">SH / Humanities </span></td>
-    <td class="tg-fxx4"><span style="color:#222">khairul_anwar_ali@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222"> 6</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> 4</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mr. Gary See Gim Boon </span></td>
     <td class="tg-fxx4"><span style="color:#222">SH / CCA</span></td>
     <td class="tg-fxx4"><span style="color:#222">gary_see_gim_boon@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222"> 7</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> 5</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mrs. Chua Shi Hui</span></td>
     <td class="tg-fxx4"><span style="color:#222">SH / VIA</span></td>
     <td class="tg-fxx4"><span style="color:#222">chua_shi_hui@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222"> 8</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> 6</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mr. Alvin Chong </span></td>
     <td class="tg-fxx4"><span style="color:#222">SH / ICT</span></td>
     <td class="tg-fxx4"><span style="color:#222">alvin_chong_chee_leong@schools.gov.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222"> 9</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> 7</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms. Tan Shuming </span></td>
     <td class="tg-fxx4"><span style="color:#222">SH / Student Well-being</span></td>
     <td class="tg-fxx4"><span style="color:#222">tan_shuming@schools.gov.sg</span></td>
   </tr>
 	 <tr>
-    <td class="tg-fxx4"><span style="color:#222"> 10</span></td>
+    <td class="tg-fxx4"><span style="color:#222"> 8</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mr. Randy Low </span></td>
     <td class="tg-fxx4"><span style="color:#222">Acting SH / Student-Leadership</span></td>
     <td class="tg-fxx4"><span style="color:#222">low_chen_long_randy@schools.gov.sg</span></td>
