@@ -49,8 +49,8 @@ sections:
             DSA-Sec
           linktext: Learn more
           url: /signature-programmes/direct-school-admission-1/
-        - title: 2024 Term Assessment 2 (TA2) Schedule
-          description: Please find the TA2 Schedules here.
+        - title: 2024 Term Assessment 3 (TA3) Schedule
+          description: Please find the TA3 Schedules here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
         - title: 2024 Sem2 Term3 Class Timetables Ver 1.2 wef 24/6
