@@ -14,6 +14,13 @@ variant: markdown
 Get ready for an exciting event at "Speech &amp; Prize Presentation Day" on April 19<sup>th</sup> Friday from 4-6:30 pm. Prepare to be spellbound by dance performances and a special choir rendition, showcasing the remarkable talent of our students. The highlight of the day will be the valedictorian speech, a moment brimming with nostalgia and inspiration as our top students bid farewell to their peers. Join us for a day filled with celebration, talent, and heartfelt farewells. Don't miss out on this unforgettable event.
 <hr>
 
+### 2024 'N' and 'O' Level Examination  Schedule
+
+* [2024 N Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_N_Prelims_Timetable.pdf)
+* [2024 O Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_O_Prelims_Timetable_19_July_2024.pdf)
+
+
+<hr>
 
 
 ### 2024 TA3 Schedule
@@ -24,13 +31,6 @@ Get ready for an exciting event at "Speech &amp; Prize Presentation Day" on Apri
 <hr>
 
 
-### 2024 N Level &amp;  Schedule
-
-* [2024 N Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_N_Prelims_Timetable.pdf)
-* [2024 O Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_O_Prelims_Timetable_19_July_2024.pdf)
-
-
-<hr>
 
 ### 2024 Sem 2 Term 3 Class Timetables
 * [2024 Sec 1 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-1/class-timetables/) 
