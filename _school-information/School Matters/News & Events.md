@@ -23,9 +23,18 @@ Get ready for an exciting event at "Speech &amp; Prize Presentation Day" on Apri
 
 <hr>
 
+
+### 2024 N Level &amp;  Schedule
+
+* [2024 N Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_N_Prelims_Timetable.pdf)
+* [2024 O Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_O_Prelims_Timetable_19_July_2024.pdf)
+
+
+<hr>
+
 ### 2024 Sem 2 Term 3 Class Timetables
-* [2024 Sec 1 Sem 1 Term 1 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-1/class-timetables/) 
-* [2024 Sec 2 Sem 1 Term 1 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-2/class-timetables/) 
-* [2024 Sec 3 Sem 1 Term 1 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-3/class-timetables/)
-* [2024 Sec4/5 Sem 1 Term 1 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-4-5/class-timetables/) 
+* [2024 Sec 1 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-1/class-timetables/) 
+* [2024 Sec 2 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-2/class-timetables/) 
+* [2024 Sec 3 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-3/class-timetables/)
+* [2024 Sec4/5 Sem 2 Term 3 Class Timetable (Ver2.6)](/school-information/level-matters/secondary-4-5/class-timetables/) 
 <hr>
