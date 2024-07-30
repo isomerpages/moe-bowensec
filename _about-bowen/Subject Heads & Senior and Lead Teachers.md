@@ -75,6 +75,18 @@ variant: markdown
     <td class="tg-fxx4"><span style="color:#222">Acting SH / Student-Leadership</span></td>
     <td class="tg-fxx4"><span style="color:#222">low_chen_long_randy@schools.gov.sg</span></td>
   </tr>
+			 <tr>
+    <td class="tg-fxx4"><span style="color:#222"> 9</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Mohamad Irsyad </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Acting SH / Humanities</span></td>
+    <td class="tg-fxx4"><span style="color:#222">mohamad_irsyad@schools.gov.sg</span></td>
+  </tr>
+		 <tr>
+    <td class="tg-fxx4"><span style="color:#222"> 10</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Sheik Habib </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Acting SH / Mathematics</span></td>
+    <td class="tg-fxx4"><span style="color:#222">sheik_habib_noor@schools.gov.sg</span></td>
+  </tr>
 </tbody>
 </table>
 
