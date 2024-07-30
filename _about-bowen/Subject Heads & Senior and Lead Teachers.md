@@ -14,7 +14,7 @@ variant: markdown
 .tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 
-## Subject Heads
+## Subject Heads (SH)
 <table class="tg">
 <thead>
   <tr>
