@@ -9,5 +9,5 @@ variant: markdown
 
 ### 2024 Sec 2 TA2 Schedule
 
-1. [2024 Sec 2 TA2 Timetable](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA2_S2_TT.pdf)
-2. [TA2 Briefing for Students](/files/Examination%20Timetables/2024%20Exam%20Timetables/TA2/2024_TA_2_Briefing_to_Students.pdf)
+1. [2024 Sec 2 TA3 Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/Term%20Assessments/2024_Sec_2_TA3_Timetable16_July_2024.pdf)
+2. [2024 Sec 2 TA3 Letter to Parents](/files/Level%20Matters/S2/2024__Letter_to_parents_TA3_Sec_2.pdf)
