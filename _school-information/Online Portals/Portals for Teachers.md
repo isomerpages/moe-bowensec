@@ -81,6 +81,14 @@ variant: markdown
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">14</span></td>
     <td class="tg-699i"><a href="https://icon.moe.edu.sg/saas/usercenter/index.do"><span style="text-decoration:none;color:#0FB3DF">ICON Email (ICONnect)</span></a></td>
   </tr>
+	 <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">15</span></td>
+    <td class="tg-699i"><a href="https://go.gov.sg/bowensec-time-off-request-form"><span style="text-decoration:none;color:#0FB3DF">Bowen Time-Off Request</span></a></td>
+  </tr>
+		 <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">16</span></td>
+    <td class="tg-699i"><a href="https://for.edu.sg/bowensec-time-off-requests-record"><span style="text-decoration:none;color:#0FB3DF">Bowen Tme-Off Endorsement/Approval Form (For SLs and ROs) </span></a></td>
+  </tr>
 </tbody>
 </table>
 
