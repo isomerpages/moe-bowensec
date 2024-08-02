@@ -87,7 +87,7 @@ variant: markdown
   </tr>
 		 <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">16</span></td>
-    <td class="tg-699i"><a href="https://for.edu.sg/bowensec-time-off-requests-record"><span style="text-decoration:none;color:#0FB3DF">Endorsement/Approval Form (For SLs and ROs) </span></a></td>
+    <td class="tg-699i"><a href="https://for.edu.sg/bowensec-time-off-requests-record"><span style="text-decoration:none;color:#0FB3DF">Bowen Tme-Off Endorsement/Approval Form (For SLs and ROs) </span></a></td>
   </tr>
 </tbody>
 </table>
