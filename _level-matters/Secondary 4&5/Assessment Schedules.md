@@ -14,4 +14,4 @@ variant: markdown
 
 ### 2024 O Level Prelim Schedule
 
-1. [2024 O Level Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_O_Prelims_Timetable_19_July_2024.pdf)
+1. [2024 O Level Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/O_Prelims_2024_5_Aug_2024.pdf)
