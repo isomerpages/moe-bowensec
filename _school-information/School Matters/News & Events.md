@@ -11,7 +11,7 @@ variant: markdown
 ### 2024 'N' and 'O' Level Examination  Schedule
 
 * [2024 N Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_N_Prelims_Timetable.pdf)
-* [2024 O Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_O_Prelims_Timetable_19_July_2024.pdf)
+* [2024 O Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/O_Prelims_2024_5_Aug_2024.pdf)
 
 
 <hr>
