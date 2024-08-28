@@ -50,8 +50,8 @@ sections:
           linktext: Learn more
           url: /signature-programmes/direct-school-admission-1/
         - title: 2024 N and O Prelims, TA3 Schedule
-          description: Please find the examination schedules for N, O Level Prelims and
-            TA3 here.
+          description: Please find the examination schedules for O Level Prelims and EOY
+            here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
         - title: 2024 Sem2 Term3 Class Timetables Ver 1.2 wef 24/6
