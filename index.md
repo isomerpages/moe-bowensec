@@ -54,9 +54,8 @@ sections:
             here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: 2024 Sem2 Term3 Class Timetables Ver 1.2 wef 24/6
-          description: Updated Class Timetables ver 1.2 wef 24 June are available to
-            download now
+        - title: 2024 Sem2 Class Timetables
+          description: Updated Class Timetables are available to download here
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
         - title: Join Bowen's ParentLink
