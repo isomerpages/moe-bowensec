@@ -49,14 +49,13 @@ sections:
             DSA-Sec
           linktext: Learn more
           url: /signature-programmes/direct-school-admission-1/
-        - title: 2024 N and O Prelims, TA3 Schedule
-          description: Please find the examination schedules for N, O Level Prelims and
-            TA3 here.
+        - title: 2024 O Prelims and EOY Schedule
+          description: Please find the examination schedules for O Level Prelims and EOY
+            here.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: 2024 Sem2 Term3 Class Timetables Ver 1.2 wef 24/6
-          description: Updated Class Timetables ver 1.2 wef 24 June are available to
-            download now
+        - title: 2024 Sem2 Class Timetables
+          description: Updated Class Timetables are available to download here
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
         - title: Join Bowen's ParentLink
