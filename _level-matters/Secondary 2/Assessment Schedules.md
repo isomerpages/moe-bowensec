@@ -7,7 +7,7 @@ variant: markdown
 ---
 **Term Assessments and Examination Timetables**
 
-### 2024 Sec 2 TA3 Schedule
+### 2024 Sec 2 EOY Schedule
 
-1. [2024 Sec 2 TA3 Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/Term%20Assessments/2024_Sec_2_TA3_Timetable16_July_2024.pdf)
-2. [2024 Sec 2 TA3 Letter to Parents](/files/Level%20Matters/S2/2024__Letter_to_parents_TA3_Sec_2.pdf)
+1. [2024 Sec 2 EOY Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/EOY/2024_Sec_2_EOY_TT.pdf)
+2. [2024 Sec 2 EOY Letter to Parents](/files/Level%20Matters/S2/2024_Letter_to_Parents_EOY_Sec_2.pdf)
