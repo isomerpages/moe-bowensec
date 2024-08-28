@@ -19,7 +19,7 @@ variant: markdown
 ### 2024 EOY Schedule
 * [2024 EOY Letter to Parents and Schedule](/files/Level%20Matters/S1/2024_Letter_to_Parents_EOY_Sec_1.pdf)
 * [2024 EOY Letter to Parents and Schedule](/files/Level%20Matters/S2/2024_Letter_to_Parents_EOY_Sec_2.pdf)
-* [2024 EOY to Parents and Schedule](/files/Level%20Matters/S3/2024_Letter_to_Parents_EOY_Sec_3.pdf)
+* [2024 EOY to Letter Parents and Schedule](/files/Level%20Matters/S3/2024_Letter_to_Parents_EOY_Sec_3.pdf)
 
 <hr>
 
