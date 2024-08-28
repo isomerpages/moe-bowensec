@@ -49,7 +49,7 @@ sections:
             DSA-Sec
           linktext: Learn more
           url: /signature-programmes/direct-school-admission-1/
-        - title: 2024 N and O Prelims, TA3 Schedule
+        - title: 2024 O Prelims and EOY Schedule
           description: Please find the examination schedules for O Level Prelims and EOY
             here.
           linktext: Learn more
