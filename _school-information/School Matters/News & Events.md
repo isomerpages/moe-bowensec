@@ -8,19 +8,18 @@ variant: markdown
 # Latest News and Events
 
 
-### 2024 'N' and 'O' Level Examination  Schedule
+### 2024 'O' Level Prelim Examination  Schedule
 
-* [2024 N Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/2024_N_Prelims_Timetable.pdf)
 * [2024 O Prelim Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/PRELIMS/O_Prelims_2024_5_Aug_2024.pdf)
 
 
 <hr>
 
 
-### 2024 TA3 Schedule
-* [2024 Sec 1 TA3 Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/Term%20Assessments/2024_Sec_1_TA3_Timetable_18_July_2024.pdf)
-* [2024 Sec 2 TA3 Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/Term%20Assessments/2024_Sec_2_TA3_Timetable16_July_2024.pdf)
-* [2024 Sec 3 TA3 Schedule](/files/Examination%20Timetables/2024%20Exam%20Timetables/Term%20Assessments/2024_Sec_3_TA3_Timetable_18_July_2024.pdf)
+### 2024 EOY Schedule
+* [2024 EOY Letter to Parents and Schedule](/files/Level%20Matters/S1/2024_Letter_to_Parents_EOY_Sec_1.pdf)
+* [2024 EOY Letter to Parents and Schedule](/files/Level%20Matters/S2/2024_Letter_to_Parents_EOY_Sec_2.pdf)
+* [2024 EOY to Parents and Schedule](/files/Level%20Matters/S3/2024_Letter_to_Parents_EOY_Sec_3.pdf)
 
 <hr>
 
