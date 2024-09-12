@@ -25,7 +25,7 @@ variant: markdown
 
 
 
-### 2024 Sem 2 Term 3 Class Timetables
+### 2024 Sem 2 Class Timetables
 * [2024 Sec 1 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-1/class-timetables/) 
 * [2024 Sec 2 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-2/class-timetables/) 
 * [2024 Sec 3 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-3/class-timetables/)
