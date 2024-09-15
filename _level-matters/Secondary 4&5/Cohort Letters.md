@@ -17,3 +17,5 @@ These letters have been issued via Parents Gateway and are available for downloa
 3. [2024 N Level Prelims Letter](/files/Level%20Matters/S4n5/2024_Letter_to_parents_N_Level_Prelim.pdf)
 4. [2024 Sec 4 and 5 Term 3 Letter](/files/Level%20Matters/S4n5/2024_Term_3_Letter__Sec_4_5.pdf)
 5. [2024 O Level Prelims Letter](/files/Level%20Matters/S4n5/2024_Letter_to_parents_O_Level_Prelim.pdf)
+6. [2024 Sec 4E5N TA4 Letter to Parents](/files/Level%20Matters/S4n5/2024_Start_T4_Letter_4E5N.pdf)
+7. [2024 Sec 4N TA4 Letter to Parents](/files/Level%20Matters/S4n5/2024_Start_T4_Letter_4N.pdf)
