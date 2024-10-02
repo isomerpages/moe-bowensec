@@ -65,7 +65,7 @@ in Schools Programme (HMSP) Guidelines: <strong><a href="https://hpb.gov.sg/scho
 of its operation hours</p>
 </li>
 <li>
-<p>Catering experience (preferred but not compulsory</p>
+<p>Catering experience (preferred but not compulsory)</p>
 </li>
 <li>
 <p>Successful applicant will need to apply for a food stall license from
@@ -77,10 +77,10 @@ Singapore Food Agency.</p>
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.</p>
+<p><strong><a href="https://www.swisscottagesec.moe.edu.sg/files/School%20Canteen/Application_for_Canteen_Stall_FormBF7_250924.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></strong>
+</p>
 </li>
 </ol>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.swisscottagesec.moe.edu.sg/files/School%20Canteen/Application_for_Canteen_Stall_FormBF7_250924.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></strong>
-</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Submit the following documents with the form by School’s General Office
