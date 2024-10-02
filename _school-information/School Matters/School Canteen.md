@@ -6,6 +6,7 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h3>Canteen Vacancy Advertisement</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -40,7 +41,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Requirements:</strong></h3>
+<p></p>
+<h4><strong><u>Requirements:</u></strong></h4>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Stallholder(s) must be Singapore Citizens or Singapore Permanent Residents
@@ -80,7 +83,8 @@ of its operation hours</p>
 Singapore Food Agency.</p>
 </li>
 </ol>
-<h3><strong>Application Process</strong></h3>
+<h3><strong><u>Application Process</u></strong></h3>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
