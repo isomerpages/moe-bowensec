@@ -62,10 +62,17 @@ etc</p>
 </ul>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s General Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proposed menu and price list</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of Basic Food Hygiene Certificate
-of applicant</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front &amp; back)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Proposed menu and price list</p>
+</li>
+<li>
+<p>Photocopy of Basic Food Hygiene Certificate of applicant</p>
+</li>
+<li>
+<p>Photocopy of the NRIC (front &amp; back)</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Address: Bowen Secondary School, No. 2 Lorong Napiri, Singapore 547529.</strong>
