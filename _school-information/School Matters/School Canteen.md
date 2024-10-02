@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Matters
 variant: tiptap
 ---
-<h3>Canteen Vacancy Advertisement</h3>
+<h3>Canteen Vacancy Advertisement<strong>&nbsp;</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -40,8 +40,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Application Procedure</u></strong></h4>
-<ol data-tight="true" class="tight">
+<p><strong>&nbsp;<u>Application Procedure</u></strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.<strong> (<a href="https://www.manjusrisec.moe.edu.sg/files/News/application%20for%20canteen%20stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>)</strong>
@@ -58,13 +59,10 @@ hardcopy from the School’s General Office.<strong> (<a href="https://www.manju
 etc</p>
 </li>
 </ul>
-<p></p>
 </li>
-<li>
+</ul>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s General Office Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
-</li>
-</ol>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proposed menu and price list</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of Basic Food Hygiene Certificate
 of applicant</p>
@@ -111,6 +109,7 @@ Programme (HMSP)” guidelines<strong> (see&nbsp;<a href="https://www.hpb.gov.sg
 </li>
 <li>
 <p>Applicant must abide by the rules and regulations set by the school</p>
+<p></p>
 </li>
 </ul>
 <p><strong><u>Applicants should preferably fulfil the following criteria:</u></strong>
@@ -129,10 +128,13 @@ Singapore Food Agency (SFA).</p>
 </li>
 <li>
 <p>Understands and reads English, for e.g. WhatsApp messages.</p>
-<p></p>
 </li>
 </ul>
 <p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview. </em></strong>
 </p>
 <p>For further queries, please contact Mr Vincent Poh / Mdm Faridah at Tel:
 6385 9466</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
