@@ -61,7 +61,11 @@ etc</p>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date via
-email OR to the School’s General Office.</p>
+email OR to the School’s General Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
+<p></p>
+<p>A. Proposed menu and price list</p>
+<p>B. Photocopy of Basic Food Hygiene Certificate of applicant</p>
+<p>C. Photocopy of the NRIC (front &amp; back)</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -128,7 +132,7 @@ Programme (HMSP)” guidelines<strong> (see&nbsp;<a href="https://www.hpb.gov.sg
 </p>
 </li>
 </ul>
-<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview. </em></strong>
+<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview.</em></strong>
 </p>
 <p>For further queries, please contact Mr Vincent Poh / Mdm Faridah at Tel:
 6385 9466</p>
