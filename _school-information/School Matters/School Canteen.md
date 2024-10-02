@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>&nbsp;<u>Application Procedure</u></strong></h4>
+<h4><strong><u>Application Procedure</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
@@ -76,7 +76,15 @@ of applicant</p>
 </p>
 </li>
 <li>
+<p><strong>Fax No: 65693028</strong>
+</p>
+</li>
+<li>
 <p><strong>Email: <a rel="noopener noreferrer nofollow" target="_blank">bowen_ss@moe.edu.sg</a></strong>
+</p>
+</li>
+<li>
+<p><strong>Contact Person: Mr. Vincent Poh (OM) or Mdm. Faridah (AM)</strong>
 </p>
 </li>
 </ul>
@@ -131,8 +139,6 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview.</em></strong>
 </p>
-<p>For further queries, please contact Mr Vincent Poh / Mdm Faridah at Tel:
-6385 9466</p>
 <p></p>
 <p></p>
 <p></p>
