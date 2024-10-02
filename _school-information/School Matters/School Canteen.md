@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Matters
 variant: tiptap
 ---
-<h3>Canteen Vacancy Advertisement<strong>&nbsp;</strong></h3>
+<h3>School Canteen Advertisement<strong>&nbsp;</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -40,8 +40,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;<u>Application Procedure</u></strong>
-</p>
+<h4><strong>&nbsp;<u>Application Procedure</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
@@ -62,7 +61,7 @@ etc</p>
 </li>
 </ul>
 <p>Submit the completed application form and documents by closing date via
-email OR to the School’s General Office Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
+email OR to the School’s General Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proposed menu and price list</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of Basic Food Hygiene Certificate
 of applicant</p>
@@ -130,7 +129,7 @@ Singapore Food Agency (SFA).</p>
 <p>Understands and reads English, for e.g. WhatsApp messages.</p>
 </li>
 </ul>
-<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview. </em></strong>
+<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview.</em></strong>
 </p>
 <p>For further queries, please contact Mr Vincent Poh / Mdm Faridah at Tel:
 6385 9466</p>
