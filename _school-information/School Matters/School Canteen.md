@@ -116,20 +116,18 @@ Programme (HMSP)” guidelines<strong> (see&nbsp;<a href="https://www.hpb.gov.sg
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><u>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</u>
-</p>
+<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate.</p>
 </li>
 <li>
-<p><u>Possess catering experience or experience operating in a school environment.</u>
-</p>
+<p>Possess catering experience or experience operating in a school environment.</p>
 </li>
 <li>
-<p><u>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</u>
-</p>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA).</p>
 </li>
 <li>
-<p><u>Understands and reads English, for e.g. WhatsApp messages.</u>
-</p>
+<p>Understands and reads English, for e.g. WhatsApp messages.</p>
 </li>
 </ul>
 <p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview.</em></strong>
