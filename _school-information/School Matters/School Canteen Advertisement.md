@@ -35,7 +35,7 @@ variant: tiptap
 <p>Stall to start operation in Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15<sup>th</sup> October 2024</p>
+<p>18<sup>th</sup> October 2024</p>
 </td>
 </tr>
 </tbody>
@@ -65,7 +65,7 @@ etc</p>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date via
-email OR to the School’s General Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
+email OR to the School’s General Office latest by <strong>Friday, 18 Oct 2024 at 2pm</strong>.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
