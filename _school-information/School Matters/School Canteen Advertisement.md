@@ -125,7 +125,7 @@ Programme (HMSP)” guidelines<strong> (see&nbsp;<a href="https://www.hpb.gov.sg
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+<p>Successful applicant and stall assistant(s) should possess the WSQ Basic
 Food Hygiene Certificate.</p>
 </li>
 <li>
