@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Matters
 variant: tiptap
 ---
-<h3>School Canteen Advertisement<strong>&nbsp;</strong></h3>
+<h3>Vacant Canteen stall in Jan 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -139,7 +139,7 @@ Singapore Food Agency (SFA).</p>
 <p>Understands and reads English, for e.g. WhatsApp messages.</p>
 </li>
 </ul>
-<p><strong><em>*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview.</em> *</strong>
+<p><strong><em>*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. </em> *</strong>
 </p>
 <p></p>
 <p></p>
