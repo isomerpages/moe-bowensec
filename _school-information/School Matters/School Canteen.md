@@ -41,7 +41,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong><u>Application Procedure</u></strong></h4>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.<strong> (<a href="https://www.manjusrisec.moe.edu.sg/files/News/application%20for%20canteen%20stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>)</strong>
@@ -49,31 +49,23 @@ hardcopy from the School’s General Office.<strong> (<a href="https://www.manju
 </li>
 <li>
 <p>Attached the following documents together with the application form:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>List of proposed menu and pricing for all items</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
+</li>
+<li>
+<p>Photocopy of the NRIC (front &amp; back)</p>
 <p></p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s General Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
-</li>
-</ul>
-<ol data-tight="true" class="tight">
-<li>
-<p>Proposed menu and price list</p>
-</li>
-<li>
-<p>Photocopy of Basic Food Hygiene Certificate of applicant</p>
-</li>
-<li>
-<p>Photocopy of the NRIC (front &amp; back)</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
