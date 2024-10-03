@@ -59,9 +59,11 @@ etc</p>
 </li>
 </ol>
 </li>
-</ul>
+<li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School’s General Office latest by <strong>Tuesday, 15 Oct 2024 at 2pm</strong>.</p>
+</li>
+</ul>
 <ol data-tight="true" class="tight">
 <li>
 <p>Proposed menu and price list</p>
