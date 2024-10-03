@@ -56,6 +56,7 @@ hardcopy from the School’s General Office.<strong> (<a href="https://www.manju
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
+<p></p>
 </li>
 </ol>
 </li>
