@@ -44,7 +44,7 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.<strong> (<a href="https://www.manjusrisec.moe.edu.sg/files/News/application%20for%20canteen%20stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>)</strong>
+hardcopy from the School’s General Office.<strong> (</strong><a href="/files/Canteen Advertistment/application_for_canteen_stall_in_existing_sch_130924.pdf" rel="noopener nofollow" target="_blank">Application Form</a><strong>)</strong>
 </p>
 </li>
 <li>
@@ -139,7 +139,7 @@ Singapore Food Agency (SFA).</p>
 <p>Understands and reads English, for e.g. WhatsApp messages.</p>
 </li>
 </ul>
-<p><strong><em>*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. </em> *</strong>
+<p><strong><em>*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. </em>*</strong>
 </p>
 <p></p>
 <p></p>
