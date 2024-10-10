@@ -6,7 +6,9 @@ third_nav_title: School Matters
 variant: markdown
 ---
 # Latest News and Events
-
+### Bowen Open House 2024
+![](/images/School%20Events/2024/Open_House_Web_2024_copy.jpg)
+<hr>
 
 ### 2024 'O' Level Prelim Examination  Schedule
 
@@ -14,15 +16,6 @@ variant: markdown
 
 
 <hr>
-
-
-### 2024 EOY Schedule
-* [2024 EOY Letter to Parents and Schedule](/files/Level%20Matters/S1/2024_Letter_to_Parents_EOY_Sec_1.pdf)
-* [2024 EOY Letter to Parents and Schedule](/files/Level%20Matters/S2/2024_Letter_to_Parents_EOY_Sec_2.pdf)
-* [2024 EOY to Letter Parents and Schedule](/files/Level%20Matters/S3/2024_Letter_to_Parents_EOY_Sec_3.pdf)
-
-<hr>
-
 
 
 ### 2024 Sem 2 Class Timetables
