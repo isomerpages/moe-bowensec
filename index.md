@@ -22,13 +22,15 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
-  - infobar:
-      title: Direct School Admission for 2025
-      subtitle: interested to DSA to Bowen?
-      id: infobar
-      description: Application period is from 7 May (11am) to 3 June (3pm)
+  - infopic:
+      title: BOWEN OPEN HOUSE
+      subtitle: COME VISIT US!
+      id: infopic
+      description: 16 Nov 2024, Saturday (9-12pm)
       button: FIND OUT MORE
-      url: /signature-programmes/direct-school-admission-1/
+      image: /images/School Events/2024/2024_BWSS_Open_House_web_thumbnail.jpg
+      alt: Visit Bowen Open House
+      url: /school-information/school-matters/news-n-events/
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
@@ -49,18 +51,13 @@ sections:
             DSA-Sec
           linktext: Learn more
           url: /signature-programmes/direct-school-admission-1/
-        - title: 2024 O Prelims and EOY Schedule
-          description: Please find the examination schedules for O Level Prelims and EOY
-            here.
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
-        - title: 2024 Sem2 Class Timetables
-          description: Updated Class Timetables are available to download here
-          linktext: Learn more
-          url: https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-1/class-timetables/
         - title: Join Bowen's ParentLink
           description: Parents who wish to join Bowen ParentLink, please register via the
             link below.
           linktext: Register here
           url: https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform
+        - title: 2025 Canteen Advertisement
+          description: "Closing Date for Application: Friday, 18 Oct 2024 at 2pm"
+          linktext: Learn more
+          url: /school-information/school-matters/school-canteen
 ---

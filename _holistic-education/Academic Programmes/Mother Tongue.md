@@ -50,38 +50,38 @@ We see MTL as living language, and we nurture active learners who can use their 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9uiz">Ms. Chia Choi Queen<br></td>
-    <td class="tg-b4br">HOD / MTL</td>
-    <td class="tg-b4br">chia_choi_queen@schools.gov.sg<br></td>
+    <td class="tg-fxx4">Ms. Chia Choi Queen<br></td>
+    <td class="tg-fxx4">HOD / MTL</td>
+    <td class="tg-fxx4">chia_choi_queen@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-580q">Ms. Lee Yu Jie</td>
+    <td class="tg-fxx4">Ms. Lee Yu Jie</td>
     <td class="tg-fxx4"></td>
     <td class="tg-fxx4"><span style="color:#222">lee_yu_jie@schools.gov.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-580q">Ms. Clara Chan</td>
+    <td class="tg-fxx4">Ms. Clara Chan</td>
     <td class="tg-fxx4"></td>
     <td class="tg-fxx4"><span style="color:#222">chan_pei_fong_clara@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-580q">Ms. Hu Shuang Xi<br></td>
+    <td class="tg-fxx4">Ms. Hu Shuang Xi<br></td>
     <td class="tg-fxx4"></td>
     <td class="tg-fxx4"><span style="color:#222">hu_shuangxi@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-580q">Ms. Ler Kim Har</td>
+    <td class="tg-fxx4">Ms. Ler Kim Har</td>
     <td class="tg-fxx4"></td>
     <td class="tg-fxx4"><span style="color:#222">ler_kim_har@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">Mr. Chen Qinghua</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Chen Qinghua</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">chen_qinghua@schools.gov.sg</span></td>
   </tr>
 
   <tr>
-    <td class="tg-tojq"><span style="color:#222">Ms. Shi Mengchen</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms. Shi Mengchen</span><br></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">shi_mengchen@schools.gov.sg</span></td>
   </tr>
@@ -158,15 +158,11 @@ We see MTL as living language, and we nurture active learners who can use their 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-580q">Mrs. Sankar <br></td>
+    <td class="tg-fxx4">Mrs. Sankar <br></td>
     <td class="tg-fxx4"><span style="color:#222">ST / TL &amp; ML</span></td>
     <td class="tg-fxx4"><span style="color:#222">sankar_thilahavathi@schools.gov.sg</span><br></td>
   </tr>
-	<tr>
-    <td class="tg-580q">Ms. Sivaranjini  <br></td>
-    <td class="tg-fxx4"><span style="color:#222"></span></td>
-    <td class="tg-fxx4"><span style="color:#222">sivaranjini_shamugathye_paramaseevan@schools.gov.sg</span><br></td>
-  </tr>
+	
 	
 	
   <tr>
