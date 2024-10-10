@@ -96,9 +96,9 @@ Students entering Secondary 3 can opt for the subject and offer it as an O-level
     <td class="tg-fxx4"><span style="color:#222">ang_ting_ting@schools.gov.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Sean Ross</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr. Chen YiZhou</span></td>
     <td class="tg-fxx4"></td>
-    <td class="tg-fxx4"><span style="color:#222">clunies_ross_sean_james@schools.gov.sg</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">chen_yizhou@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Justin Chong</span></td>
