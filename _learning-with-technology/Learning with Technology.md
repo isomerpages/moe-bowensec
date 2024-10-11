@@ -2,6 +2,7 @@
 title: Learning with Technology
 permalink: /signature-programmes/learning-with-technology/
 description: ""
+variant: markdown
 ---
 ## Every Bowenian a Future-Ready and Responsible Digital Learner. 
 
@@ -232,7 +233,7 @@ Students may connect to the&nbsp;**SWN Wi-Fi network**&nbsp;to access the intern
 **Disconnect from SWN Wi-Fi after use**
 
 
-Please remember to&nbsp;**logout**&nbsp;from SWN&nbsp;at&nbsp;**[http://portal.swn.moe.edu.sg](http://portal.swn.moe.edu.sg/)**&nbsp;when you have finished using the connection.
+Please remember to&nbsp;**logout**&nbsp;from SWN networkwhen you have finished using the connection.
 
 -----
 
