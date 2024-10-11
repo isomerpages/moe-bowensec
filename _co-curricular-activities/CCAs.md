@@ -2,6 +2,7 @@
 title: CCAs
 permalink: /holistic-education/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ### CCAs in Bowen
 
@@ -22,8 +23,4 @@ To provide students with a holistic and well-rounded experience in the co-curric
 
   
 
-For more information on LEAPS 2.0, please refer to 
-
-[MOE Press release >>>](https://www.moe.gov.sg/news/press-releases/updated-leaps-20-to-better-support-students--holistic-development) 
-
-[LEAPS 2.0 document by MOE >>>](https://www.moe.gov.sg/docs/default-source/document/education/programmes/co-curricular-activities/leaps-2.pdf)
+For more information on LEAPS 2.0, please on the following link >>> [LEAPS 2.0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0)
