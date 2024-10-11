@@ -45,40 +45,46 @@ variant: markdown
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
     <td class="tg-699i"><a href="https://forms.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">All Ears (Form Builder)</span></a></td>
   </tr>
-  <tr>
+	  <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">6</span></td>
+    <td class="tg-699i"><a href="https://www.seab.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Singapore Examinations and Assessment Board (SEAB)</span></a></td>
+  </tr>
+	
+	
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">7</span></td>
     <td class="tg-699i"><a href="https://iexams.seab.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">iEXAMS</span></a></td>
   </tr>
   <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">7</span></td>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">8</span></td>
     <td class="tg-699i"><a href="https://www.opal2.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">OPAL 2.0 Portal</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">8</span></td>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">9</span></td>
     <td class="tg-699i"><a href="https://portal.mims.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">MOE MIMS Management Portal</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">9</span></td>
-    <td class="tg-699i"><a href="https://ssoe2.moe.edu.sg/sp"><span style="text-decoration:none;color:#0FB3DF">SSOE 2 Service Portal</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">10</span></td>
-    <td class="tg-699i"><a href="https://sites.google.com/bws.edu.sg/bowen-swb"><span style="text-decoration:none;color:#0FB3DF">SWBC Microsite</span></a></td>
+    <td class="tg-699i"><a href="https://ssoe2.moe.edu.sg"><span style="text-decoration:none;color:#0FB3DF">SSOE 2 Service Portal</span></a></td>
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">11</span></td>
-    <td class="tg-699i"><a href="https://goo.gl/forms/j1WDS3d7818cy7n12"><span style="text-decoration:none;color:#0FB3DF">ICT Loan Request Form</span></a></td>
+    <td class="tg-699i"><a href="https://sites.google.com/bws.edu.sg/bowen-swb"><span style="text-decoration:none;color:#0FB3DF">SWBC Microsite</span></a></td>
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">12</span></td>
-    <td class="tg-699i"><a href="https://goo.gl/forms/EalxK7AXli9dVbKc2"><span style="text-decoration:none;color:#0FB3DF">Fault Reporting of ICT Equipment (Projectors, Visualisers, Laptops etc)</span></a></td>
+    <td class="tg-699i"><a href="https://goo.gl/forms/j1WDS3d7818cy7n12"><span style="text-decoration:none;color:#0FB3DF">ICT Loan Request Form</span></a></td>
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">13</span></td>
+    <td class="tg-699i"><a href="https://goo.gl/forms/EalxK7AXli9dVbKc2"><span style="text-decoration:none;color:#0FB3DF">Fault Reporting of ICT Equipment (Projectors, Visualisers, Laptops etc)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">14</span></td>
     <td class="tg-699i"><a href="https://drive.google.com/open?id=1WBPna5x8PUfZvYZqzzNiqUffTRXze8mf9MNzh01bZHI"><span style="text-decoration:none;color:#0FB3DF">Print Quota Request Form</span></a></td>
   </tr>
 	 <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">14</span></td>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">15</span></td>
     <td class="tg-699i"><a href="https://icon.moe.edu.sg/saas/usercenter/index.do"><span style="text-decoration:none;color:#0FB3DF">ICON Email (ICONnect)</span></a></td>
   </tr>
 	 <tr>
@@ -220,13 +226,6 @@ variant: markdown
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">3</span></td>
     <td class="tg-699i"><a href="https://www.myskillsfuture.sg/content/portal/en/index.html"><span style="text-decoration:none;color:#0FB3DF">My Skills Future</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">4</span></td>
-    <td class="tg-699i"><a href="http://www.nea.gov.sg/weather-climate/forecasts/2-hour-nowcast"><span style="text-decoration:none;color:#0FB3DF">NEA Weather 2-hour forecast</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
-    <td class="tg-699i"><a href="https://www.haze.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Haze Situation Update</span></a></td>
-  </tr>
+
 </tbody>
 </table>
