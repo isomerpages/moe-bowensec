@@ -180,7 +180,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">6</span></td>
-    <td class="tg-699i"><a href="https://www.mesrc.net/"><span style="text-decoration:none;color:#0FB3DF">MOE Sports and Recreation Club </span></a></td>
+    <td class="tg-699i"><a href="https://www.mesrc.net/"><span style="text-decoration:none;color:#0FB3DF">MOE Sports and Recreational Club </span></a></td>
   </tr>
   <tr>
    
