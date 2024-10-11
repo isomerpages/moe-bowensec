@@ -128,7 +128,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-nrix"><span style="color:inherit;background-color:transparent">3</span></td>
-    <td class="tg-699i"><a href="https://www.academyofsingaporeteachers.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Academy of Singapore Teachers</span></a></td>
+    <td class="tg-699i"><a href="https://academyofsingaporeteachers.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">Academy of Singapore Teachers</span></a></td>
   </tr>
 </tbody>
 </table>
