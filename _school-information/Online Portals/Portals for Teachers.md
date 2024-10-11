@@ -172,20 +172,12 @@ variant: markdown
   
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">4</span></td>
-    <td class="tg-699i"><a href="https://www.moe.gov.sg/programmes/cyber-wellness"><span style="text-decoration:none;color:#0FB3DF">MOE Cyberwellness</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
-    <td class="tg-699i"><a href="https://www.schoolbag.sg/"><span style="text-decoration:none;color:#0FB3DF">MOE Schoolbag: Education News</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">6</span></td>
     <td class="tg-699i"><a href="https://www.mesrc.net/"><span style="text-decoration:none;color:#0FB3DF">MOE Sports and Recreation Club </span></a></td>
   </tr>
   <tr>
    
   </tr>
-     <tr><td class="tg-06l0"><span style="color:inherit;background-color:transparent">8</span></td>
+     <tr><td class="tg-06l0"><span style="color:inherit;background-color:transparent">5</span></td>
     <td class="tg-699i"><a href="https://www.myskillsfuture.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">My Skills Future</span></a></td>
   </tr>
 </tbody>
