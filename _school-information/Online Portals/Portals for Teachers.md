@@ -190,42 +190,10 @@ variant: markdown
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent"> 2</span></td>
     <td class="tg-699i"><a href="https://hrms.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">HR Management System (HRMS)</span></a></td>
   </tr>
-</tbody>
-</table>
-
-### External Information Portals
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-06l0{color:#252525;text-align:center;vertical-align:middle}
-.tg .tg-o8e5{color:#252525;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-oq4r{color:#252525;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-699i{color:#0FB3DF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o8e5"><span style="color:inherit;background-color:transparent">#</span></th>
-    <th class="tg-oq4r"><span style="color:inherit;background-color:transparent">Portals</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">1</span></td>
-    <td class="tg-699i"><a href="https://www.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Ministry of Education (MOE)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">2</span></td>
-    <td class="tg-699i"><a href="https://www.seab.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">Singapore Examinations and Assessment Board (SEAB)</span></a></td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">3</span></td>
     <td class="tg-699i"><a href="https://www.myskillsfuture.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">My Skills Future</span></a></td>
   </tr>
-
 </tbody>
 </table>
+
