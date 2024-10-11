@@ -159,14 +159,16 @@ variant: markdown
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">1</span></td>
     <td class="tg-699i"><a href="http://semss2.moe.gov.sg/Login/"><span style="text-decoration:none;color:#0FB3DF">SEMSS </span></a></td>
   </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">2</span></td>
-    <td class="tg-699i"><a href="http://intranet.moe.gov.sg/Pages/Home.aspx"><span style="text-decoration:none;color:#0FB3DF">MOE Intranet</span></a></td>
+	 <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent"> 2</span></td>
+    <td class="tg-699i"><a href="https://www.hrp.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">HR Portal Online</span></a></td>
   </tr>
+	
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">3</span></td>
-    <td class="tg-699i"><a href="http://uat.intranet.moe.gov.sg/hr_online/"><span style="text-decoration:none;color:#0FB3DF">MOE HR Online (Intranet)</span></a><br></td>
+    <td class="tg-699i"><a href="http://intranet.moe.gov.sg"><span style="text-decoration:none;color:#0FB3DF">MOE Intranet</span></a></td>
   </tr>
+  
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">4</span></td>
     <td class="tg-699i"><a href="https://www.moe.gov.sg/programmes/cyber-wellness"><span style="text-decoration:none;color:#0FB3DF">MOE Cyberwellness</span></a></td>
@@ -180,18 +182,14 @@ variant: markdown
     <td class="tg-699i"><a href="https://www.mesrc.net/"><span style="text-decoration:none;color:#0FB3DF">MOE Sports and Recreation Club </span></a></td>
   </tr>
   <tr>
-    <td class="tg-pkol" colspan="2"><span style="color:inherit;background-color:transparent">Other Government Portals</span></td>
+   
   </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent"> 1</span></td>
-    <td class="tg-699i"><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp"><span style="text-decoration:none;color:#0FB3DF">Pac@Gov</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent"> 2</span></td>
+    <tr>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent"> 7</span></td>
     <td class="tg-699i"><a href="https://hrms.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">HR Management System (HRMS)</span></a></td>
   </tr>
 	  <tr>
-    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent">8</span></td>
     <td class="tg-699i"><a href="https://www.myskillsfuture.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">My Skills Future</span></a></td>
   </tr>
 </tbody>
