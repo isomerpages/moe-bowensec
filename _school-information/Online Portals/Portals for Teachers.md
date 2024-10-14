@@ -137,7 +137,7 @@ variant: markdown
     <td class="tg-699i"><a href="http://intranet.moe.gov.sg"><span style="text-decoration:none;color:#0FB3DF">MOE Intranet</span></a></td>
   </tr>
   		<tr>
-    <td class="tg-nrix"><span style="color:inherit;background-color:transparent">3</span></td>
+    <td class="tg-06l0"><span style="color:inherit;background-color:transparent"><span style="color:inherit;background-color:transparent">3</span></span></td>
     <td class="tg-699i"><a href="https://academyofsingaporeteachers.moe.edu.sg/"><span style="text-decoration:none;color:#0FB3DF">Academy of Singapore Teachers</span></a></td>
   </tr>
   <tr>
