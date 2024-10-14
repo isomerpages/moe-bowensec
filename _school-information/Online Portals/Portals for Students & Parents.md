@@ -7,59 +7,58 @@ variant: markdown
 ---
 ### For Students
 
-
 <img src="/images/sls_big.jpeg" style="width:25%">
-		 
+
+	 
 [Singapore Student Learning Space](https://vle.learning.moe.edu.sg/login)
 
------
+<hr>
 
 <img src="/images/g-suite-logo.jpeg" style="width:25%">
 		 
 [STUDENT ICON](http://www.gmail.com/)
 
------
-<img src="/images/_ALS.jpeg" style="width:25%">
-
-[ACE Learning System](https://www.ace-learning.com/login)
-
----- 
+<hr>
 
 <img src="/images/opac.jpeg" style="width:25%">
 		 
 [Bowen Online Library](https://schoolibrary.moe.edu.sg/bowensec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
------
+<hr>
 
 <img src="/images/NIB_link.jpeg" style="width:25%">
 		 
 [NLB Discover Reads](https://www.nlb.gov.sg/main/site/discovereads)
 
------
+<hr>
 
 [Class AV Equipment Fault Reporting](https://goo.gl/forms/EalxK7AXli9dVbKc2)
 
 ### For Parents
 
 <img src="/images/pg_icon.jpg" style="width:25%">
-[Parent Gateway Mobile App](https://bowensec.moe.edu.sg/school-information/school-matters/online-portals/portals-for-students-n-parents/parent-gateway-mobile-app)
 
-----
+[Parent's Gateway](https://pg.moe.edu.sg/)
 
-
-<img src="/images/icon_seab.jpeg" style="width:25%">
-[Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)
-
-----
+<hr>
 
 <img src="/images/icon_moe.jpeg" style="width:25%">
+
 [Ministry of Education of Singapore](https://www.moe.gov.sg/)
+<hr>
+
+<img src="/images/icon_seab.jpeg" style="width:25%">
 
 
----
+ [Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)
+
+<hr>
+
 <img src="/images/icon_nyc.jpeg" style="width:25%">
+
 [National Youth Council of Singapore](https://www.nyc.gov.sg/en)
 
+<hr>
 
 ### About the Parent Gateway Mobile App
 
