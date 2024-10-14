@@ -38,7 +38,7 @@ variant: markdown
     <td class="tg-699i"><a href="https://schoolcockpit.moe.gov.sg/"><span style="text-decoration:none;color:#0FB3DF">School Cockpit System</span></a></td>
   </tr>
 	  <tr>
-    <td class="tg-nrix"><span style="color:inherit;background-color:transparent">4</span></td>
+   <td class="tg-06l0"><span style="color:inherit;background-color:transparent">4</span></td>
     <td class="tg-699i"><a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#0FB3DF">The Singapore Student Learning Space (SLS)</span></a></td>
   </tr>
 	  <tr>
