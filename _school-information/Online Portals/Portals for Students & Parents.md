@@ -36,11 +36,7 @@ variant: markdown
 
 ### For Parents
 
-<img src="/images/pg_icon.jpg" style="width:25%">
 
-[Parent's Gateway](https://pg.moe.edu.sg/)
-
-<hr>
 
 <img src="/images/icon_moe.jpeg" style="width:25%">
 
@@ -57,6 +53,12 @@ variant: markdown
 <img src="/images/icon_nyc.jpeg" style="width:25%">
 
 [National Youth Council of Singapore](https://www.nyc.gov.sg/en)
+
+<hr>
+
+<img src="/images/pg_icon.jpg" style="width:15%">
+
+[Parent's Gateway](https://pg.moe.edu.sg/)
 
 <hr>
 
