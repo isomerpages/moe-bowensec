@@ -56,7 +56,7 @@ variant: markdown
 
 <hr>
 
-<img src="/images/pg_icon.jpg" style="width:25%">
+<img src="/images/pg_icon.jpg" style="width:15%">
 
 [Parent's Gateway](https://pg.moe.edu.sg/)
 
