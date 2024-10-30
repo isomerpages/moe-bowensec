@@ -15,3 +15,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 4. [2024 Sec 1 TA3 Letter to Parents](/files/Level%20Matters/S1/2024__Letter_to_parents_TA3_Sec_1.pdf)
 5. [2024 Sec 1 End of Year Examinations Letter to Parents](/files/Level%20Matters/S1/2024_Letter_to_Parents_EOY_Sec_1.pdf)
 6. [2024 Sec 1 TA4 Letter to Parents](/files/Level%20Matters/S1/2024_Start_T4_Letter_S1.pdf)
+7. [2024 Sec 1 End-of-Term 4 Letter to Parents](/files/Level%20Matters/S1/2024_S1_End_of_T4_Letter.pdf)
