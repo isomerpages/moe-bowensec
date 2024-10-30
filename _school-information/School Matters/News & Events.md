@@ -11,9 +11,8 @@ variant: markdown
 <hr>
 
 
-### 2024 Sem 2 Class Timetables
-* [2024 Sec 1 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-1/class-timetables/) 
-* [2024 Sec 2 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-2/class-timetables/) 
-* [2024 Sec 3 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-3/class-timetables/)
-* [2024 Sec4/5 Sem 2 Term 3 Class Timetable](/school-information/level-matters/secondary-4-5/class-timetables/) 
+### 2024 Sec 1 - 3 End of Term 4 Letters
+* [2024 Sec 1 End of Term 4 Letter to Parents](/files/Level%20Matters/S1/2024_S1_End_of_T4_Letter.pdf)
+* [2024 Sec 2 End of Term 4 Letter to Parents](/files/Level%20Matters/S2/2024_S2_End_of_T4_Letter.pdf)
+* [2024 Sec 3 End of Term 4 Letter to Parents](/files/Level%20Matters/S3/2024_S3_End_of_T4_Letter.pdf)
 <hr>
