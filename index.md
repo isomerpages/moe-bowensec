@@ -56,8 +56,4 @@ sections:
             link below.
           linktext: Register here
           url: https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform
-        - title: 2025 Canteen Advertisement
-          description: "Closing Date for Application: Friday, 18 Oct 2024 at 2pm"
-          linktext: Learn more
-          url: /school-information/school-matters/school-canteen
 ---
