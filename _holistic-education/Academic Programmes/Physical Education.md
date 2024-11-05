@@ -45,12 +45,7 @@ All our students are encouraged to achieve a good PE grade based on the followin
 *   Social and Emotional learning
 
 ------
-### Exercise and Sports Science (ESS)
-<img src="/images/PE%201.png" style="width:60%">
 
-Exercise and Sports Science (ESS) is a new subject that will look at various aspects of sports science, including exercise physiology, biomechanics, sports psychology, sports sociology and motor learning. Students will also apply the concepts behind these disciplines to perform physical activities and find ways to improve performance.
-
-Students entering Secondary 3 can opt for the subject and offer it as an O-level subject. They will have an extra three hours of PE classes weekly, on top of the two hours of lessons for all students.&nbsp;This move provides students with another option to pursue their interests and engage their strengths.
 
 # Physical Education Team
 ### Physical Education Teachers
