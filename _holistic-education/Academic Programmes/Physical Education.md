@@ -44,7 +44,7 @@ All our students are encouraged to achieve a good PE grade based on the followin
     
 *   Social and Emotional learning
 
-------
+<hr>
 
 
 # Physical Education Team
