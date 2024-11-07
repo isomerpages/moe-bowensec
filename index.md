@@ -46,6 +46,11 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: 2025 Booklists for Sec2-4
+          description: Download 2005 S2-4 booklists Refer to instructions for online
+            purchase.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: DSA to Bowen Secondary
           description: Bowen welcomes students who are now in P6 (or equivalent) to apply
             DSA-Sec
