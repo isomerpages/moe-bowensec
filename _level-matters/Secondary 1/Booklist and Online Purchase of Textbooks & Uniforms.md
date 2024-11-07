@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary 1
 variant: markdown
 ---
-### 2024 Textbooks and Uniforms
+### 2025 Textbooks and Uniforms
 
 FAS applicants are advised not to buy the books and uniforms until they are informed of the application outcome.  Parents will not be refunded for purchases made before the application is approved. 
 
