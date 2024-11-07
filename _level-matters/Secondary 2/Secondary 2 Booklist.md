@@ -18,6 +18,8 @@ variant: markdown
 
 4. Please refer to the information below. Please create a user account using your own choice of email address and password (there is no preset user ID or Password).
 
+![Online Purchase Instructions](/images/School%20Information/Booklist%20and%20Uniform/2025_Online_purchase_Instructions.jpg)
+
 5.	For students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
 
 6. The following 2024 Purchase Guide and Booklist are available for download in the links below
@@ -27,5 +29,5 @@ variant: markdown
 
 
 ### Uniform Pricing and Size Guides
-
+![](/images/School%20Information/Booklist%20and%20Uniform/2025_uniform_price_list.jpg)
 ![](/images/Size%20guide.jpg)
