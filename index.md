@@ -24,13 +24,13 @@ sections:
           url: /school-information/level-matters/secondary-1/
   - infopic:
       title: BOWEN OPEN HOUSE
-      subtitle: COME VISIT US!
+      subtitle: Gear up 4 The Bowen Experience
       id: infopic
       description: 16 Nov 2024, Saturday (9-12pm)
       button: FIND OUT MORE
       image: /images/School Events/2024/2024_BWSS_Open_House_web_thumbnail.jpg
       alt: Visit Bowen Open House
-      url: /school-information/school-matters/news-n-events/
+      url: /about-bowen/the-bowen-experience/
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
