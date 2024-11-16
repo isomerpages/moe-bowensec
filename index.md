@@ -24,7 +24,7 @@ sections:
           url: /school-information/level-matters/secondary-1/
   - infopic:
       title: BOWEN OPEN HOUSE
-      subtitle: COME VISIT US!
+      subtitle: Gear up 4 The Bowen Experience
       id: infopic
       description: 16 Nov 2024, Saturday (9-12pm)
       button: FIND OUT MORE
