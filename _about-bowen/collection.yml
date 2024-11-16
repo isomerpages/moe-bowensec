@@ -2,6 +2,7 @@ collections:
   about-bowen:
     output: true
     order:
+      - The Bowen Experience.md
       - The Principal's Foreword.md
       - Our Vision, Mission, Motto and Values.md
       - Our Heritage.md
