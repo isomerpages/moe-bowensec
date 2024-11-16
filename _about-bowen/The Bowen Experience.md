@@ -15,8 +15,8 @@ The Bowen Experience is our annual open house where graduating primary 6 student
 This year, the Bowen Experience Open House was held on 16 November 2024 from 9am to 12pm.
 
 ## Principal's Talk
+![](/images/About%20Bowen/The%20Bowen%20Experience/Principal_Talk_Thumbnail.jpg)
 Our principal shared a glimpse into what a Bowenian will experience during his/her stay. Do check out the YouTube Link once it is available.
-
 
 ## Secondary 1
 ![](/images/About%20Bowen/The%20Bowen%20Experience/Gear_up_for_the_Bowen_Experience_Page_2.jpg)<br>
