@@ -8,6 +8,7 @@ variant: markdown
 # Latest News and Events
 ### Bowen Open House 2024
 ![](/images/School%20Events/2024/Open_House_Web_2024_copy.jpg)
+[The Bowen Experience](/about-us/the-bowen-experience/)Find out more &gt;&gt;&gt;
 <hr>
 
 ### 2025 Sec 2 - 4 Booklists &amp; Purchase Guide
