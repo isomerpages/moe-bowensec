@@ -18,12 +18,10 @@ This year, the Bowen Experience Open House was held on 16 November 2024 from 9am
 Our principal shared a glimpse into what a Bowenian will experience during his/her stay. Do check out the YouTube Link once it is available.
 
 ## This can be your Bowen Experience. Join us!
-
-
-
-
-
-
-
-
-
+![](/images/About%20Bowen/The%20Bowen%20Experience/Gear_up_for_the_Bowen_Experience_Brochure_Page_2.jpg)
+<hr>
+![](/images/About%20Bowen/The%20Bowen%20Experience/Gear_up_for_the_Bowen_Experience_Brochure_Page_3.jpg)
+<hr>
+![](/images/About%20Bowen/The%20Bowen%20Experience/Gear_up_for_the_Bowen_Experience_Brochure_Page_4.jpg)
+<hr>
+![](/images/About%20Bowen/The%20Bowen%20Experience/Gear_up_for_the_Bowen_Experience_Brochure_Page_5.jpg)
