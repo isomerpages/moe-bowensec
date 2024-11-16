@@ -30,7 +30,7 @@ sections:
       button: FIND OUT MORE
       image: /images/School Events/2024/2024_BWSS_Open_House_web_thumbnail.jpg
       alt: Visit Bowen Open House
-      url: /school-information/school-matters/news-n-events/
+      url: /about-bowen/The-Bowen-Experience
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
