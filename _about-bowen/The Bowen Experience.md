@@ -14,4 +14,4 @@ The Bowen Experience is our annual open house where graduating primary 6 student
 
 
 
-## Prinicipal's Talk
+## Principal's Talk
