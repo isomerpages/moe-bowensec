@@ -5,5 +5,6 @@ description: ""
 third_nav_title: Secondary 4&5
 variant: markdown
 ---
-## 2025 Sec 4 Semester 1 Timetables
+## 2025 Sec 4/5 Semester 1 Timetables
+
 TBA
