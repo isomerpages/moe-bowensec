@@ -41,8 +41,7 @@ Bowen’s motto, ***‘I Believe, Therefore I Am’***, reflects our belief that
 Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald.**
 
 ### 2025 Secondary 2 Form Teachers
- 
-<table style="width:465.5pt;background:white;border-collapse:collapse;border:none;
+ <table style="width:465.5pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .25pt;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 0cm 0cm 0cm" width="621" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.65pt"><td style="border:solid #A5A5A5 1.0pt;border-right:none;
   background:#A5A5A5;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
@@ -81,7 +80,8 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
   height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">chan_pei_fong_clara@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">S</span></b><b><span style="mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-SG">Mdm. Dorothy Lim</span><span style="mso-ansi-language:
   EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
