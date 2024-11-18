@@ -15,7 +15,6 @@ Secondary 2 (2025 Academic Year)  <br>
 <a href="lim_soo_yong@schools.gov.sg">lim_soo_yong@schools.gov.sg</a></center>
 <hr>
 
-
 ### 2025 Sec 2 Cohort Theme
 
 <img src="/images/Level%20Matters/S1/2024_Sec1_Cohort_Theme.jpg" style="width:50%">
