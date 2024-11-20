@@ -121,8 +121,4 @@ If you would like to talk to other trained professionals, you can also call the 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>6 793 7933</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (9am - 5pm)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Sat (9am - 1pm)</span></p></td></tr></tbody></table>
-
-
-
-
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (9am - 5pm)</span></p><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Sat (9am - 1pm)</span></td></tr></tbody></table>
