@@ -17,16 +17,13 @@ Parent volunteers play an important role in Bowen Secondary School and there are
 
 
 ### Join Bowen ParentLink
-![Join ParentLink QR Code](/images/School%20Information/Bowen%20ParentLink/Join_ParentLink_2024.jpg)
-		 
-[Click here to join Bowen ParentLink](https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform)
+![Join Bowen Parent Link](/images/School%20Information/Bowen%20ParentLink/Parent_Link_Banner.jpg)
 
 Contact us :[parentlinkbwss@gmail.com](mailto:parentlinkbwss@gmail.com)
 
 ### Our Success Story
 
-Bowen ParentLink was commended by Dr. Maliki Osman, Second Minister for Education, in his speech on 18th Sept 2022. (Reference) 
-<a target="_blank" href="https://www.moe.gov.sg/news/speeches/20220918-speech-by-dr-maliki-osman-second-minister-for-education-for-bapa-sepanjang-hayat-dads-role-in-education-forum-at-lifelong-learning-institute">Click here</a>
+Bowen ParentLink was commended by Dr. Maliki Osman, Second Minister for Education, in his speech on 18th Sept 2022.
 
 #### Extract 1
 ![](/images/School%20Information/Bowen%20ParentLink/quote%201.png)
