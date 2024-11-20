@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### SIGN-UP FOR TRIPLE P TEENS SEMINAR
 
-Dear Parent/Guardian of Secondary 1 Bowenians for 2025,  
+Dear Parent/Guardian of Secondary 1 Bowenians,
   
 Methodist Welfare Services Family Support Programme (MWS FSP) has been appointed by Ministry of Social and Family Development (MSF) to partner with your child’s school to conduct secular parenting programmes. We are pleased to invite you to attend our fully subsidised, Positive Parenting Program® (Triple P) webinars via Zoom.  
   
