@@ -5,122 +5,124 @@ description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-### School Rules and Regulations
+## School Rules and Regulations
 
 In Bowen, we strive to create a caring and vibrant learning environment for Bowenians to ‘**Do Well and Do Good’**. Our rules and regulations describe the standard of conduct and behaviour expected of our students at all times. Our end-goal is to guide our students to cultivate core values and habits and to become self-disciplined individuals of good character, which is integral for growth and maturity.
 
-1. [Bowen Care and Well-Being (updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Student_Well_Being_2024.pdf)
-2. [Bowen School Rules(Updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Discipline_and_School_Rules_2024.pdf)
-
-<hr>
-
-### Support for Students
+[Bowen School Rules(Updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Discipline_and_School_Rules_2024.pdf)
 
 
-In Bowen, we aim to nurture future-ready Bowenians who are self-disciplined individuals of good character. As the growing-up years will present many opportunities and some challenges, do strive to grow a strong sense of well-being and self-confidence, to help you remain positive and to overcome challenges.
+## Care and Support 
+[Bowen Care and Well-Being (updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Student_Well_Being_2024.pdf)
 
-If you have concerns about yourself or your family, or you are concerned for your friends who may be bullied or may have personal troubles, do approach your Form Teacher or subject teachers.&nbsp; In addition, the following&nbsp;**Level Teams**&nbsp;are here for you:
+We aim to nurture future-ready Bowenians who are self-disciplined individuals of sound character and caring peers. The growing-up years is rife with many new challenges. However, surmounting them together with supportive peers can turn these challenges into welcomed and fun opportunities for growth. So Bowenians, navigate your Bowen Experience (BE) with your peers as a cohesive team while seeking always to develop a strong sense of personal well-being and confidence.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-3jxu{background-color:#eaeaea;text-align:center;vertical-align:top}
-.tg .tg-g8v5{background-color:#eaeaea;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-uxuj{background-color:#EAEAEA;color:#0FB3DF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3jxu" rowspan="2"><span style="font-weight:bold;font-style:normal">Academic Year 2023</span></th>
-    <th class="tg-n4qt">Year Heads</th>
-    <th class="tg-n4qt">Level Care Teachers</th>
-    <th class="tg-n4qt">Level Learning Support Teachers </th>
-    <th class="tg-n4qt">Discipline Team</th>
-  </tr>
-  <tr>
-    <th class="tg-g8v5"><span style="font-weight:400;font-style:normal">Mrs Bernice Kuan</span></th>
-    <th class="tg-3jxu"><span style="font-weight:bold;font-style:normal">I/C</span><br><span style="font-weight:400;font-style:normal">Mr Juraimy Abu Bakar (</span>HOD/ SWB)<br><br><span style="font-weight:bold;font-style:normal">2nd I/C</span><br><span style="font-weight:400;font-style:normal">Ms. Tan Shuming (SH/SWB)</span><br></th>
-    <th class="tg-3jxu"><span style="font-weight:bold;font-style:normal">I/C</span><br>Mr Juraimy Abu Bakar (<br>HOD/ SWB)<br><br><span style="font-weight:bold;font-style:normal">2nd I/C</span><br><span style="font-weight:400;font-style:normal">Mr Faris</span><br></th>
-    <th class="tg-3jxu"><span style="font-weight:bold">Head / Discipline</span><br>Mr. Wilson Goy<br>Mrs. Normala Chang<br><br><span style="font-weight:bold;font-style:normal">2nd I/C</span><br><span style="font-weight:400;font-style:normal">Mr. Derrick Lim</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n4qt">Sec 1<br>Level Team</td>
-    <td class="tg-ii8k">Mdm. Sharifah Kamelia<br><br><br></td>
-    <td class="tg-ii8k">Ms Teo JiaJia (I/C)<br>Mr. Sheik Habib<br> </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr. Chen Qinghua (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Ms. Kalaivani</span><br><span style="color:#222;background-color:#EAEAEA">Mdm Sim Sze Hwei</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Farid</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Faris</span><br></td>
-    <td class="tg-ii8k">Mdm. Uma<br>Mrs Irene Leong<br>Ms Eileen Ong</td>
-  </tr>
-  <tr>
-    <td class="tg-uxuj"><span style="font-weight:bold;color:#333">Sec 2</span><br><span style="font-weight:bold;color:#333">Level Team</span></td>
-    <td class="tg-ii8k">Ms. Estelle Chong</td>
-    <td class="tg-ii8k">Ms. Jean Cai (I/C)<br>Mr. Ainsley Liew</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs. Sandra Lim (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Mdm. Angie Goh </span></td>
-    <td class="tg-ii8k">Ms Siow WeiLing<br>Mr. Francis</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Sec 3<br>Level Team</td>
-    <td class="tg-ii8k">Mrs Bernice Kuan</td>
-    <td class="tg-ii8k">Mr. Farid (I/C)<br>Ms. Suraiya</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms. Siti Hawa (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Wilson Koh</span><br><span style="color:#222;background-color:#EAEAEA">Mrs. Sankar </span></td>
-    <td class="tg-ii8k">Mdm Zakiah<br>Ms. Nurulhudah<br> </td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Sec 4/5<br>Level Team</td>
-    <td class="tg-ii8k">Mrs. Chan Soo Yong<br></td>
-    <td class="tg-ii8k">Mr. Hairil<br>Ms. Monica Suan (Term 1)<br>Ms. Tan Shuming</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms. Shafiqah (I/C)</span><br><span style="color:#222;background-color:#EAEAEA">Mr. Winston Chua</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ii8k">Mr. Derrick Lim<br>Mr. Sean Ross<br> </td>
-  </tr>
-</tbody>
-</table>
+To navigate your Bowen Experience confidently, the school encourages you to embrace a set of learning routines, R-E-A-D-Y BE! These routines will prime your mind to practise good habits that will help you succeed as you immerse yourself in your school experiences with enthusiasm and daring. 
 
+![](/images/Holistic%20Education/The%20Desired%20Bowenian/READY_BE_updated_Jan_2023.png)
+### Bowen Peer Support and Relationships (PSR) @ Level 1
+
+Building positive peer relationships is crucial aspect of your BE. Every Bowenian should strive to be a caring peer supporter and confident up-stander who helps make Bowen a caring and enabling school environment. So, build a supportive network of diverse friends from your form class, teaching groups as well as CCAs. Advocate each other’s well-being and safety as you forge meaningful bonds with each other.
+
+Within your network of supportive friends, exercise positive peer influencing, peer bonding and peer helping. For example, when your peers have concerns, personal troubles or are bullied, reach out to them. Be by their side and notify a teacher to further extend help and support to your friend.
+
+If you yourself wish to have a Care Chat with a Student Well-being Teacher, go to this link: https://tinyurl.com/BowenCares:
+
+### Peer Support &amp; Relationships (PSR), FCBT &amp; CAREbean Programme
+
+In 2024, look out for a series fun-filled activities that await you. The Student Well-Being Teachers and your Peer Support Leaders (PSLs) will drive many peer bonding activities throughout the year like your Friday Class Bonding Time (FCBT) and our twice weekly, after-school CAREbean Programme, which will be available  both as a face-to-face and online event. 
+
+For our face-to-face CAREbean Programme, anticipate using new recreational facilities like our pool table, gaming consoles and board games. Do register ahead of time before you drop by our CAREbean Corner (which is just next to the front of the hall, on the right, along the corridor). Please note that the number of students allowed at the CARE-bean may be limited twenty to adhere to safe management measures.
+
+On our CAREbean days (Monday and Thursdays), our Student Well-Being Teachers and PSLs will be stationed at the CAREbean Corner. If you need a Care Chat, simply walk in for a chat.  
+
+For more information about care activities, check out the following links:
+•	our PSL Instagram https://www.instagram.com/bowen.psl/ 
+•	our PSL microsite at https://go.gov.sg/bowenpsl
+
+### Reaching Out and Getting Support outside Bowen
 If you would like to talk to other trained professionals, you can also call the following organisations:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Name of Agency</th>
-    <th class="tg-n4qt">Hotline</th>
-    <th class="tg-n4qt">Time</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">SOS (Samaritans of Singapore)</td>
-    <td class="tg-ii8k">1800 - 221 - 4444</td>
-    <td class="tg-ii8k">24 hours</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">TOUCHline<br>(Touch Youth Services)</td>
-    <td class="tg-ii8k">1800 - 377 - 2252</td>
-    <td class="tg-ii8k">Mon - Fri (9am - 6pm)</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Teenage Crisis Centre<br>(Teen Challenge)</td>
-    <td class="tg-ii8k">6793 - 7933</td>
-    <td class="tg-ii8k">Mon - Fri (9am - 5pm)<br>Sat (9am - 1pm)</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Youthline<br>(Youth Challenge)</td>
-    <td class="tg-ii8k">1800 - 377 - 2252</td>
-    <td class="tg-ii8k">Mon - Fri (9am - 6pm)</td>
-  </tr>
-</tbody>
-</table>
+<table style="width:454.5pt;margin-left:-.25pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt" width="606" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:
+  background2;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
+  windowtext">Name of Agency</span><span style="font-size:9.0pt;font-family:
+  &quot;Arial&quot;,sans-serif"></span></p></td><td style="width:81.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:background2;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
+  windowtext">Hotline</span><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:121.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#E7E6E6;mso-background-themecolor:background2;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
+  windowtext">Time</span><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">AWARE Helpline</span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">1800 777 5555</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (10am - 6pm)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">CARE Corner Counselling Centre (In Mandarin)</span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">1800 353 5800</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (9am - 6pm)</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">TOUCHline (Touch Youth Services)</span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">1800 377 2252</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (9am - 6pm)</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Youthline (Youth Challenge)</span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">1800 377 2252</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (9am - 6pm)</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Singapore Association for Mental Health (SAMH)</span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">1800 283 7019</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (9am - 6pm)</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Samaritans of Singapore (SOS)</span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">1800 221 4444</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">24 hours</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Institute of Mental Health Helpline</span></p></td><td style="width:81.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>6 389 2222</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">24 hours</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:252.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="336"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Teenage Crisis Centre (Teen Challenge)</span></p></td><td style="width:81.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>6 793 7933</span></p></td><td style="width:121.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="162"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Mon - Fri (9am - 5pm)</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif">Sat (9am - 1pm)</span></p></td></tr></tbody></table>
+
+
+
+
