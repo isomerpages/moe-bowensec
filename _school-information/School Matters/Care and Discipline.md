@@ -22,6 +22,8 @@ To navigate your Bowen Experience confidently, the school encourages you to embr
 ![](/images/Holistic%20Education/The%20Desired%20Bowenian/READY_BE_updated_Jan_2023.png)
 ### Bowen Peer Support and Relationships (PSR) @ Level 1
 
+<img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_Diagram.jpg" style="width:50%">
+
 Building positive peer relationships is crucial aspect of your BE. Every Bowenian should strive to be a caring peer supporter and confident up-stander who helps make Bowen a caring and enabling school environment. So, build a supportive network of diverse friends from your form class, teaching groups as well as CCAs. Advocate each other’s well-being and safety as you forge meaningful bonds with each other.
 
 Within your network of supportive friends, exercise positive peer influencing, peer bonding and peer helping. For example, when your peers have concerns, personal troubles or are bullied, reach out to them. Be by their side and notify a teacher to further extend help and support to your friend.
@@ -29,6 +31,7 @@ Within your network of supportive friends, exercise positive peer influencing, p
 If you yourself wish to have a Care Chat with a Student Well-being Teacher, go to this link: https://tinyurl.com/BowenCares:
 
 ### Peer Support &amp; Relationships (PSR), FCBT &amp; CAREbean Programme
+<img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_MVM.jpg" style="width:70%">
 
 In 2024, look out for a series fun-filled activities that await you. The Student Well-Being Teachers and your Peer Support Leaders (PSLs) will drive many peer bonding activities throughout the year like your Friday Class Bonding Time (FCBT) and our twice weekly, after-school CAREbean Programme, which will be available  both as a face-to-face and online event. 
 
