@@ -3,12 +3,13 @@ title: Online Purchase of Textbooks & Uniforms
 permalink: /school-information/school-matters/online-purchase-of-textbooks-and-uniforms/
 description: ""
 third_nav_title: School Matters
+variant: markdown
 ---
 ### Sec 2 - 4/5 Online Purchase of Textbooks and Uniform
 
-From **Monday, 14 Nov 2022**, the sales of textbooks 2023 and uniforms will be available for online purchase from the bookshop and uniform vendor’s website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)  
+From&nbsp;**Monday, 14 Nov 2022**, the sales of textbooks 2023 and uniforms will be available for online purchase from the bookshop and uniform vendor’s website at&nbsp;[https://www.pacificbookstores.com](https://www.pacificbookstores.com/)  
   
-Sales will be conducted online to manage the number of visitors to the school as we are transiting towards living with COVID-19 in a careful and controlled manner. \*Please note: the Bookshop & Uniform Vendor at school will not serve walk-in customers who have not placed online orders beforehand. This is to provide them time to pre-pack the orders.  
+Sales will be conducted online to manage the number of visitors to the school as we are transiting towards living with COVID-19 in a careful and controlled manner. \*Please note: the Bookshop &amp; Uniform Vendor at school will not serve walk-in customers who have not placed online orders beforehand. This is to provide them time to pre-pack the orders.  
   
 If you have further queries, please contact the School General Office at 6385 9466.  
   
@@ -61,7 +62,5 @@ Please spend some time going through the Online Purchase Guide if you are unfami
 You may also download the User Guide via the link below,  
 [Pacific Bookstores Online Purchase User Guide 2022.pdf](/files/Pacific%20Bookstores%20Online%20Purchase%20User%20Guide%202022.pdf)
 
-<img src="/images/2022%20Uniform%20Pricelist.jpg" 
-     style="width:70%">
-<img src="/images/Size%20guide.jpg" 
-     style="width:70%">
+<img src="/images/2022%20Uniform%20Pricelist.jpg" style="width:70%">
+<img src="/images/Size%20guide.jpg" style="width:70%">
