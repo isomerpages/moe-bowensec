@@ -63,5 +63,4 @@ You may also download the User Guide via the link below,
 [Pacific Bookstores Online Purchase User Guide 2022.pdf](/files/Pacific%20Bookstores%20Online%20Purchase%20User%20Guide%202022.pdf)
 
 <img src="/images/2022%20Uniform%20Pricelist.jpg" style="width:70%">
-<img src="/images/2022%20Uniform%20Pricelist.jpg" style="width:70%">
 <img src="/images/Size%20guide.jpg" style="width:70%">
