@@ -5,18 +5,16 @@ description: ""
 third_nav_title: Bowen ParentLink
 variant: markdown
 ---
-
-
 ### Overview of Bowen ParentLink
 
 Parent volunteers play an important role in Bowen Secondary School and there are many volunteer opportunities during school hours. Be a part of Bowen Parent Link. We hope to meet you and you will join us for participation of future Bowen Parent Link’s activities.
 
 
 ### Bowen ParentLink Mission and Vision
+![Bowen ParentLink Mission](/images/School%20Information/Bowen%20ParentLink/Parent_Link_Mission_Statement.jpg)
 
-![](/images/PLink%20Misson.jpg)
+![Bowen ParentLink Vision](/images/School%20Information/Bowen%20ParentLink/Parent_Link_Vision.jpg)
 
-![](/images/PLink%20Vision.jpg)
 
 ### Join Bowen ParentLink
 ![Join ParentLink QR Code](/images/School%20Information/Bowen%20ParentLink/Join_ParentLink_2024.jpg)
