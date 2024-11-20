@@ -11,6 +11,7 @@ In Bowen, we strive to create a caring and vibrant learning environment for Bowe
 
 [Bowen School Rules(Updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Discipline_and_School_Rules_2024.pdf)
 
+<hr>
 
 ## Care and Support 
 [Bowen Care and Well-Being (updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Student_Well_Being_2024.pdf)
