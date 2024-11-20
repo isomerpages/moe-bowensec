@@ -3,12 +3,14 @@ title: Care and Discipline
 permalink: /school-information/school-matters/care-and-discipline/
 description: ""
 third_nav_title: School Matters
+variant: markdown
 ---
 ### School Rules and Regulations
 
 In Bowen, we strive to create a caring and vibrant learning environment for Bowenians to ‘**Do Well and Do Good’**. Our rules and regulations describe the standard of conduct and behaviour expected of our students at all times. Our end-goal is to guide our students to cultivate core values and habits and to become self-disciplined individuals of good character, which is integral for growth and maturity.
 
-[Care and Discipline School Rules Updated 2023.pdf](/files/2023%20Bowen%20School%20Rules.pdf)
+1. [Bowen Care and Well-Being (updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Student_Well_Being_2024.pdf)
+2. [Bowen School Rules(Updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Discipline_and_School_Rules_2024.pdf)
 
 <hr>
 
@@ -17,7 +19,7 @@ In Bowen, we strive to create a caring and vibrant learning environment for Bowe
 
 In Bowen, we aim to nurture future-ready Bowenians who are self-disciplined individuals of good character. As the growing-up years will present many opportunities and some challenges, do strive to grow a strong sense of well-being and self-confidence, to help you remain positive and to overcome challenges.
 
-If you have concerns about yourself or your family, or you are concerned for your friends who may be bullied or may have personal troubles, do approach your Form Teacher or subject teachers.  In addition, the following **Level Teams** are here for you:
+If you have concerns about yourself or your family, or you are concerned for your friends who may be bullied or may have personal troubles, do approach your Form Teacher or subject teachers.&nbsp; In addition, the following&nbsp;**Level Teams**&nbsp;are here for you:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
