@@ -30,6 +30,8 @@ Within your network of supportive friends, exercise positive peer influencing, p
 
 If you yourself wish to have a Care Chat with a Student Well-being Teacher, go to this link: https://tinyurl.com/BowenCares:
 
+![](/images/School%20Information/Care%20and%20Discipline/SWB_Team_2024.jpg)
+
 ### Peer Support &amp; Relationships (PSR), FCBT &amp; CAREbean Programme
 <img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_MVM.jpg" style="width:70%">
 
@@ -37,7 +39,7 @@ In 2024, look out for a series fun-filled activities that await you. The Student
 
 For our face-to-face CAREbean Programme, anticipate using new recreational facilities like our pool table, gaming consoles and board games. Do register ahead of time before you drop by our CAREbean Corner (which is just next to the front of the hall, on the right, along the corridor). Please note that the number of students allowed at the CARE-bean may be limited twenty to adhere to safe management measures.
 
-On our CAREbean days (Monday and Thursdays), our Student Well-Being Teachers and PSLs will be stationed at the CAREbean Corner. If you need a Care Chat, simply walk in for a chat.  
+On our CAREbean days (Monday and Thursdays), our Student Well-Being Teachers and PSLs will be stationed at the CAREbean Corner. If you need a Care Chat, simply walk in for a chat. 
 
 For more information about care activities, check out the following links:
 •	our PSL Instagram https://www.instagram.com/bowen.psl/ 
