@@ -47,13 +47,6 @@ The classes will be named after gems with the acronym&nbsp;**“To SPARKLE”**&
 
 **Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar and Emerald.**
 
-The cohort theme will be based on our reinterpretation of the novel 'Wizard of Oz' written by L. Frank Baum: we envision our students, whom we will affectionately call “GEMies” in the “Land of Bowen”.&nbsp;
-
-With the support of their guardians, their Form Teachers, and a pair of Ruby shoes – a Growth Mindset - our GEMies will be empowered to reach their final destination – Emerald City.
-
-Along their ‘yellow brick road’, our GEMies will experience their academic studies, CCAs and enrichment programmes. Our GEMies will discover their strengths, embrace change and diversity and forge strong friendships with other GEMies they meet along their journey.
-
-At the end of their Bowen journey, we aim is that our GEMies will shine brilliantly, being imbued with deep life skills and lifelong learning skills, becoming a Masterpiece in his/her own right.
 
 ### 2025 Secondary 1 Form Teachers
 
