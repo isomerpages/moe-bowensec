@@ -31,7 +31,9 @@ The **Crown** you see in the logo is our reinterpretation of a masterpiece. It�
 ### Cohort Theme 
 The cohort theme is based on our reinterpretation of the novel **Wizard of Oz** written by L. Frank Baum: we envision our Sec 1 students, whom we will affectionately call **“GEMies”** in the “Land of Bowen”.
 
-With the support of their guardians, their Teachers, and a pair of Ruby sneakers&nbsp; – **a Growth Mindset** - our GEMies will be empowered to reach their final destination – Emerald City.
+With the support of their guardians, their teachers, and a pair of Ruby sneakers&nbsp; – **a Growth Mindset** - our GEMies will be empowered to reach their final destination - Emerald City.
+
+<img style="width:35%" src="/images/Level%20Matters/S1/2025_Sec_1_Cohort_Theme_Icon_2.png">
   
 Along their ‘yellow brick road’, our GEMies will experience their academic studies, CCAs and enrichment programmes to&nbsp; discover their strengths, embrace change and diversity and forge strong friendships with other GEMies they meet along their journey.
 
