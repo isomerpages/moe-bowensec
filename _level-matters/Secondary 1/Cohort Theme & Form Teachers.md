@@ -21,9 +21,7 @@ Secondary 1 (2025 Academic Year)<br>
 #### Grow and Embrace Change to become a Masterpiece
 
 
-<img style="width:70%" src="/images/Level%20Matters/S4n5/2024%20sec4n5%20cohort%20moto.jpg">
-
-<center><b>G</b>row and <b>E</b>mbrace change to become a <b>M</b>asterpiece</center>
+<img style="width:70%" src="/images/Level%20Matters/S1/2025_Sec_1_Cohort_Theme_Icon.png">
 		 
 We strongly believe that each student is unique and is able to shine in his/her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece. 
 
