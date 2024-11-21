@@ -480,6 +480,7 @@ Parents can choose to pay the monthly school fees by the various methods:
     Parents who are account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO.&nbsp;
 
 *   Bank of China (BOC)
+*   Citibank
 *   DBS Bank or POSB
 *   Maybank
 *   Oversea-Chinese Banking Corporation Limited (OCBC)
