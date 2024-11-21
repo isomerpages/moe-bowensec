@@ -16,14 +16,18 @@ Secondary 1 (2025 Academic Year)<br>
 
 <hr>
 
-### Sec 1 Cohort Theme
+### Sec 1 Cohort Motto
+
+<img style="width:70%" src="/images/Level%20Matters/S1/2025_Sec_1_Cohort_Theme_Icon.png">
 
 #### Grow and Embrace Change to become a Masterpiece
 
+In Bowen, we believe each student is unique and is able to shine in his or her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece.
 
-<img style="width:70%" src="/images/Level%20Matters/S1/2025_Sec_1_Cohort_Theme_Icon.png">
-		 
-We strongly believe that each student is unique and is able to shine in his/her own ways. Given the appropriate rigour and support, every student is a valuable Gem and can become a Masterpiece. 
+The Cohort Motto is for each student to **Grow and Embrace Change** in their secondary school years and become a **Masterpiece** (a work of&nbsp; outstanding artistry) when they leave Bowen.
+
+The **Crown** you see in the logo is our reinterpretation of a masterpiece. It’s a symbolic crown for the students to work towards to and claim as they accomplish personal growth and goals in their Secondary School years.
+
 
   
 #### Class Names
