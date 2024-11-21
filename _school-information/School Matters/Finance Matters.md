@@ -558,15 +558,12 @@ Students who require financial support for school fees, textbooks, uniforms or m
 To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;and meet the following criteria:
 
 
-### MOE 2024 FAS Pamphlet
-1. [2024 MOE FAS Pamphlet English](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20english.pdf)
-2. [2024 MOE FAS Pamphlet Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20chinese.pdf)
-3. [2024 MOE FAS Pamphlet Malay](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20malay.pdf)
-4. [2024 MOE FAS Pamphlet Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20pamphlet%20tamil.pdf)
+### MOE 2025 FAS Pamphlet
 
 
-### 2024 FAS Application Form
-1. [2024 MOE FAS Application Form](/files/Admin%20and%20Finance/FAS%20Matters/2024%20moe%20fas%20application%20form.pdf)
+
+### 2025 FAS Application Form
+
 
 
 ### FAS Application Procedures
@@ -581,7 +578,7 @@ Link: [_https://www.moe.gov.sg/financial-matters/financial-assistance_](https://
 
 If you have any query with regards to financial assistance, please contact: 
 
-**Mdm Filzah A Hadi <br> 
+**Mdm Faridahi <br> 
 Administration Manager<br>
 Tel : 6385 9466**
 
