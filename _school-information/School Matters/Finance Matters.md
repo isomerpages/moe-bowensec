@@ -491,14 +491,7 @@ Administration Manager<br>
 Bowen Secondary School<br>
 Tel : 6385 9466**
 
-### Transport Subsidy
-
-Students on FAS can download and refer to the step-by-step guide below to redeem transport vouchers on a monthly basis.  
-  
-
-[Transport Subsidy Guide FAS.pdf](/files/Transport%20Subsidy%20Guide%20FAS.pdf)&nbsp;
-
-* * *
+<hr>
 
 ### Student Lockers
 
