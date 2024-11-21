@@ -58,8 +58,6 @@ At the end of their Bowen journey, we aim is that our GEMies will shine brillian
 
 ### 2025 Secondary 1 Form Teachers
 
-2025 Secondary 1 Form Teachers
-
 <table style="width:465.5pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .25pt;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 0cm 0cm 0cm" width="621" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.65pt"><td style="border:solid #A5A5A5 1.0pt;border-right:none;
