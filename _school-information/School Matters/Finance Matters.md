@@ -559,7 +559,10 @@ To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;
 
 
 ### MOE 2025 FAS Pamphlet
-
+1. [2025 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2025_EL_FAS_pamphlet.pdf)
+2. [2025 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2025_CHN_FAS_pamphlet.pdf)
+3. [2025 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2025_MY_FAS_pamphlet.pdf)
+4. [2025 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2025_TL_FAS_pamphlet.pdf)
 
 
 ### 2025 FAS Application Form
