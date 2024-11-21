@@ -41,10 +41,7 @@ At the end of their Bowen journey, our aim is for our GEMies to shine brilliantl
 
 ![](/images/Level%20Matters/S4n5/To_Sparkle_Transp.png)
 
-The classes will be named after gems with the acronym&nbsp;**“To SPARKLE”**&nbsp;as we believe each class is a gem of its own and will sparkle in its unique way.
-  
-
-These gems are:&nbsp;
+The classes will be named after gems with the acronym&nbsp;**“To SPARKLE”**&nbsp;as we believe each class is a gem of its own and will sparkle in its unique way. These gems are:
 
 **Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar and Emerald.**
 
