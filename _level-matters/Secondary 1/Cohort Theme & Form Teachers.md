@@ -16,7 +16,7 @@ Secondary 1 (2025 Academic Year)<br>
 
 <hr>
 
-### Sec 1 Cohort Motto
+### Cohort Motto
 
 <img style="width:70%" src="/images/Level%20Matters/S1/2025_Sec_1_Cohort_Theme_Icon.png">
 
@@ -28,7 +28,14 @@ The Cohort Motto is for each student to **Grow and Embrace Change** in their sec
 
 The **Crown** you see in the logo is our reinterpretation of a masterpiece. It’s a symbolic crown for the students to work towards to and claim as they accomplish personal growth and goals in their Secondary School years.
 
+### Cohort Theme 
+The cohort theme is based on our reinterpretation of the novel **Wizard of Oz** written by L. Frank Baum: we envision our Sec 1 students, whom we will affectionately call **“GEMies”** in the “Land of Bowen”.
 
+With the support of their guardians, their Teachers, and a pair of Ruby sneakers&nbsp; – **a Growth Mindset** - our GEMies will be empowered to reach their final destination – Emerald City.
+  
+Along their ‘yellow brick road’, our GEMies will experience their academic studies, CCAs and enrichment programmes to&nbsp; discover their strengths, embrace change and diversity and forge strong friendships with other GEMies they meet along their journey.
+
+At the end of their Bowen journey, our aim is for our GEMies to shine brilliantly, being imbued with deep life skills and lifelong learning skills, becoming a Masterpiece in his/her own right.
   
 #### Class Names
 
