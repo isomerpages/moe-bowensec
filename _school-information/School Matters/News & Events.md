@@ -7,9 +7,9 @@ variant: markdown
 ---
 # Latest News and Events
 
-### 2024 N Level Result
-Congratulations to our 2024 N-level graduating cohort. As briefed, the following information is as follows:
-* [2024 N level Results Student Information](/files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf)
+### 2024 GCE N-Level Results
+Congratulations to our 2024 N-level graduating cohort. You may download the briefing slides via the link below
+* [2024 GCE-N level Results Briefing Slides for students](/files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf)
 <hr>
 
 ### 2025 Sec 2 - 5 Booklists &amp; Purchase Guide
