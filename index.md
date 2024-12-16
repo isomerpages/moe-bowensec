@@ -47,7 +47,7 @@ sections:
       id: textcards
       cards:
         - title: 2024 N-Level Results Student Information
-          description: Download the briefing slides in the link below.
+          description: Download the briefing slides via the link below.
           linktext: Briefing Slides
           url: /files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf
         - title: 2025 Booklists for Sec 2-5
