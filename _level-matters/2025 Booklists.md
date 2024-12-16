@@ -106,7 +106,7 @@ For students who are coming back to school in Nov / Dec for CCA, school organize
 
 The following 2025 Purchase Guide and Booklist are available for download in the links below
 
-**Sec 2 to Sec 4 only Booklists**
+**Sec 2 to Sec 5 only Booklists**
 * [S2 - S4 Online Purchase Guide 2025](/files/Book%20Lists/2025/Online_Purchase_Guide.pdf)
 * [Sec 2 Booklist 2025](/files/Book%20Lists/2025/S2_Booklist_2025.pdf)
 * [Sec 3 Booklist 2025](/files/Book%20Lists/2025/S3_Booklist_2025.pdf)
