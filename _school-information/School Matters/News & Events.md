@@ -12,7 +12,7 @@ Congratulations to our 2024 GCE N-level graduating cohort. The results were rele
 
 Students may download the briefing slides via the link below
 
-* [2024 GCE-N level Results Briefing Slides for students](/files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf)
+* [2024 GCE-N level Results Briefing Slides](/files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf)
 <hr>
 
 ### 2025 Sec 2 - 5 Booklists &amp; Purchase Guide
