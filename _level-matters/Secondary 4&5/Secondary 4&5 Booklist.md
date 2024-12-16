@@ -26,7 +26,7 @@ variant: markdown
 
 * [2025 Online Purchase Guide](/files/Book%20Lists/2025/Online_Purchase_Guide.pdf)
 * [2025 Sec 4 Booklist](/files/Book%20Lists/2025/S4_Booklist_2025.pdf)
-* 2025 Sec 5 Booklist - TBA
+* [2025 Sec 5 Booklist](/files/Book%20Lists/2025/S5_Booklist_2025.pdf)
 
 
 ### Uniform Pricing and Size Guides
