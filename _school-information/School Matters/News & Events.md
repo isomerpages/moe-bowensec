@@ -11,7 +11,7 @@ variant: markdown
 [Find out more &gt;&gt;&gt;](/about-bowen/the-bowen-experience/)
 <hr>
 
-### 2025 Sec 2 - 4 Booklists &amp; Purchase Guide
+### 2025 Sec 2 - 5 Booklists &amp; Purchase Guide
 
 
 1. Please note that the sale of 2025 textbooks and uniforms will be conducted online.
@@ -34,6 +34,7 @@ variant: markdown
 * [2025 Sec 2 Booklist](/files/Book%20Lists/2025/S2_Booklist_2025.pdf)
 * [2025 Sec 3 Booklist](/files/Book%20Lists/2025/S3_Booklist_2025.pdf)
 * [2025 Sec 4 Booklist](/files/Book%20Lists/2025/S4_Booklist_2025.pdf)
+* [2025 Sec 5 Booklist](/files/Book%20Lists/2025/S5_Booklist_2025.pdf)
 * [2025 Uniform Price List](/files/Book%20Lists/2025/Bowen_Sec_Uniform_Price_List.pdf)
 
 
