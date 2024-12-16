@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary 4&5
 variant: markdown
 ---
-### Online Purchase of 2025 Textbooks and Uniforms for Sec 4
+### Online Purchase of 2025 Textbooks and Uniforms for Sec 4 and 5
 
 1. Please note that the sale of 2025 textbooks and uniforms will be conducted online.
 
