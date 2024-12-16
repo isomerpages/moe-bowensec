@@ -6,9 +6,10 @@ third_nav_title: School Matters
 variant: markdown
 ---
 # Latest News and Events
-### Bowen Open House 2024
-![](/images/School%20Events/2024/Open_House_Web_2024_copy.jpg)
-[Find out more &gt;&gt;&gt;](/about-bowen/the-bowen-experience/)
+
+### 2024 N Level Result
+Congratulations to our 2024 N-level graduating cohort. As briefed, the following information is as follows:
+* [2024 N level Results Student Information](/files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf)
 <hr>
 
 ### 2025 Sec 2 - 5 Booklists &amp; Purchase Guide
@@ -39,10 +40,4 @@ variant: markdown
 
 
 
-<hr>
-
-### 2024 Sec 1 - 3 End of Term 4 Letters
-* [2024 Sec 1 End of Term 4 Letter to Parents](/files/Level%20Matters/S1/2024_S1_End_of_T4_Letter.pdf)
-* [2024 Sec 2 End of Term 4 Letter to Parents](/files/Level%20Matters/S2/2024_S2_End_of_T4_Letter.pdf)
-* [2024 Sec 3 End of Term 4 Letter to Parents](/files/Level%20Matters/S3/2024_S3_End_of_T4_Letter.pdf)
 <hr>
