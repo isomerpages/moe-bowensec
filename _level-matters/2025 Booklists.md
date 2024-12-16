@@ -111,6 +111,7 @@ The following 2025 Purchase Guide and Booklist are available for download in the
 * [Sec 2 Booklist 2025](/files/Book%20Lists/2025/S2_Booklist_2025.pdf)
 * [Sec 3 Booklist 2025](/files/Book%20Lists/2025/S3_Booklist_2025.pdf)
 * [Sec 4 Booklist 2025](/files/Book%20Lists/2025/S4_Booklist_2025.pdf)
+* [Sec 5 Booklist 2025](/files/Book%20Lists/2025/S5_Booklist_2025.pdf)
 * 
 **Note:**
 <br>Sec 1 and Sec 5 Booklist will be released at a later date.
