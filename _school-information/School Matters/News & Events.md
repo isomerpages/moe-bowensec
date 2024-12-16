@@ -8,7 +8,10 @@ variant: markdown
 # Latest News and Events
 
 ### 2024 GCE N-Level Results
-Congratulations to our 2024 N-level graduating cohort. You may download the briefing slides via the link below
+Congratulations to our 2024 GCE N-level graduating cohort. The results were released on Monday, 16 December 2024, at 2.00pm.
+
+Students may download the briefing slides via the link below
+
 * [2024 GCE-N level Results Briefing Slides for students](/files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf)
 <hr>
 
