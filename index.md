@@ -23,14 +23,14 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: BOWEN OPEN HOUSE
-      subtitle: Gear up 4 The Bowen Experience
+      title: E-Registration Sec 1 2025
+      subtitle: E-REGISTER AT OUR MICROSITE
       id: infopic
-      description: 16 Nov 2024, Saturday (9-12pm)
-      button: FIND OUT MORE
-      image: /images/School Events/2024/2024_BWSS_Open_House_web_thumbnail.jpg
-      alt: Visit Bowen Open House
-      url: /about-bowen/the-bowen-experience/
+      description: 19 Nov 2024 (from 9am)
+      button: E-REGISTRATION MICROSITE
+      image: /images/Home Page/2025 Homepage Images/Sec_1_ERegistration_Banner.jpg
+      alt: Sec 1 E-Registration
+      url: https://www.bowensec.moe.edu.sg/
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
@@ -46,16 +46,15 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: 2025 Booklists for Sec2-4
-          description: Download 2005 S2-4 booklists Refer to instructions for online
+        - title: 2024 N-Level Results Student Information
+          description: Download the briefing slides in the link below.
+          linktext: Briefing Slides
+          url: /files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf
+        - title: 2025 Booklists for Sec 2-5
+          description: Download 2005 S2-5 booklists Refer to instructions for online
             purchase.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: DSA to Bowen Secondary
-          description: Bowen welcomes students who are now in P6 (or equivalent) to apply
-            DSA-Sec
-          linktext: Learn more
-          url: /signature-programmes/direct-school-admission-1/
         - title: Join Bowen's ParentLink
           description: Parents who wish to join Bowen ParentLink, please register via the
             link below.
