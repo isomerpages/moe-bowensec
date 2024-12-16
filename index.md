@@ -46,15 +46,15 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: 2025 Booklists for Sec2-5
-          description: Download 2005 S2-5 booklists Refer to instructions for online
-            purchase.
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
         - title: 2024 N-Level Results Student Information
           description: Download the briefing slides in the link below.
           linktext: Briefing Slides
           url: /files/Level%20Matters/S4n5/2024_N_Results_Release_Student_Information.pdf
+        - title: 2025 Booklists for Sec 2-5
+          description: Download 2005 S2-5 booklists Refer to instructions for online
+            purchase.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: Join Bowen's ParentLink
           description: Parents who wish to join Bowen ParentLink, please register via the
             link below.
