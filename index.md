@@ -23,12 +23,12 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Sec 1 E-Registration
-      subtitle: 2025 SEC 1 E-REGISTRATION
+      title: E-Registration Sec 1 2025
+      subtitle: E-REGISTER AT OUR MICROSITE
       id: infopic
       description: 19 Nov 2024 (from 8am)
       button: E-REGISTRATION MICROSITE
-      image: /images/School Events/2024/2024_BWSS_Open_House_web_thumbnail.jpg
+      image: /images/Home Page/2025 Homepage Images/Sec_1_ERegistration_Banner.jpg
       alt: Sec 1 E-Registration
       url: https://www.bowensec.moe.edu.sg/
   - infopic:
