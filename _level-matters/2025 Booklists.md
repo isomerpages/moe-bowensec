@@ -4,7 +4,7 @@ permalink: /school-information/level-matters/2025-booklists/
 description: ""
 variant: markdown
 ---
-### Online Purchase of 2025 Textbooks and Uniforms for Sec 2 - Sec 4 only
+### Online Purchase of 2025 Textbooks and Uniforms for Sec 2 - Sec 5 only
 
 Please note that the sale of 2025 textbooks and uniforms **will be conducted online**. 
 
