@@ -8,9 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Vision Mission Motto Values" src="/images/About%20Bowen/VMVG/Bowen_School_Mission_Vision.jpg">
 </div>
-<blockquote>
 <h4><strong>Our Vision</strong><br>A Community of Passionate Learners, Servant Leaders and Champions of Good.</h4>
-</blockquote>
 <h4><strong>Our Mission</strong> <br>To Nurture Learning, Develop Character and Inspire Service <br></h4>
 <p>We are committed to cultivating in Bowenians a mindset of life-long learning,
 strength of character and service to others that is consistent with our
