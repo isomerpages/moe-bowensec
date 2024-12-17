@@ -45,11 +45,10 @@ The six arrows represent Bowen's Brand Personality of&nbsp;
 * Imagination
 
 Skewed in one direction to create a notable rotation denoting the shaping of aspirations and self-belief, the six arrows converge to form a star, which symbolizes distinction through the core values of
+* Compassion
 * Respect
 * Responsibility
-* Compassion
 * Resilience
-* Teamwork
-* Excellence.
+
 
 Together with the corporate&nbsp;colours&nbsp;of&nbsp;**Blue (Youth)**&nbsp;and&nbsp;**Purple (Passion)**. The distinctive logo epitomizes the harmonious balance between the left and right brain.
