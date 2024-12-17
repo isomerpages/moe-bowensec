@@ -9,6 +9,7 @@ variant: markdown
 #### **Our Vision**<br>A Community of Passionate Learners, Servant Leaders and Champions of Good.
 
 
+
 #### **Our Mission** <br> To Nurture Learning, Develop Character and Inspire Service <br>
 
 We are committed to cultivating in Bowenians a mindset of life-long learning, strength of character and service to others that is consistent with our school values.  
