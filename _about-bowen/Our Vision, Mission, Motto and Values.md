@@ -5,23 +5,34 @@ description: ""
 variant: markdown
 ---
 # What drives us.
-![](/images/About%20Bowen/VMVG/sch-vision_800x600.jpeg)
+![Vision Mission Motto Values](/images/About%20Bowen/VMVG/Bowen_School_Mission_Vision.jpg)
 #### **Our Vision**<br>A Community of Passionate Learners, Servant Leaders and Champions of Good.
 
 
-#### **Our Mission** <br> To Nurture Learning, Develop Character and Inspire Service&nbsp;
+#### **Our Mission** <br> To Nurture Learning, Develop Character and Inspire Service <br>
 
 We are committed to cultivating in Bowenians a mindset of life-long learning, strength of character and service to others that is consistent with our school values.  
 
-#### **Our Motto** - I Believe, Therefore I am.
+#### **Our Motto** <br>I Believe, Therefore I am. <br>
+
 We believe that our students will fulfil their aspirations when they believe in their own abilities and are determined to strive for success.
 
 
 # Our Values
-![](/images/About%20Bowen/VMVG/Sch-Values_800x600.jpeg)
+
+#### Compassion <br>
+Bowenians feel for others and are willing to help those in need
+
+#### Respect <br>
+Bowenians accept differences and hold others in hugh esteem.
+
+#### Responsibility<br>
+Bowenians are accountable for their own actions and behaviour.
+
+#### Resilience <br>
+Bowenians are able to overcome and rise above challenges and difficulties and press on to reach their goals.
 
 
-	
 # The School Crest
 ![](/images/About%20Bowen/VMVG/sch-crest_800x600.jpeg)
 
