@@ -15,23 +15,29 @@ variant: tiptap
 <p>We are committed to cultivating in Bowenians a mindset of life-long learning,
 strength of character and service to others that is consistent with our
 school values.</p>
-<h4><strong>Our Motto</strong> <br>I Believe, Therefore I am. </h4>
+<h4><strong>Our Motto</strong> <br>I Believe, Therefore I am.</h4>
 <p>We believe that our students will fulfil their aspirations when they believe
 in their own abilities and are determined to strive for success.</p>
-<p><strong>Our Values</strong>
-</p>
+<h4><strong>Our Values</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Compassion</strong>
 <br>Bowenians feel for others and are willing to help those in need</p>
-<p></p>
+</li>
+<li>
 <p><strong>Respect</strong>
 <br>Bowenians accept differences and hold others in hugh esteem.</p>
-<p></p>
+</li>
+<li>
 <p><strong>Responsibility</strong>
 <br>Bowenians are accountable for their own actions and behaviour.</p>
-<p></p>
+</li>
+<li>
 <p><strong>Resilience</strong>
 <br>Bowenians are able to overcome and rise above challenges and difficulties
 and press on to reach their goals.</p>
+</li>
+</ul>
 <h1>The School Crest</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Bowen/VMVG/sch-crest_800x600.jpeg">
