@@ -30,7 +30,7 @@ sections:
       button: E-REGISTRATION MICROSITE
       image: /images/Home Page/2025 Homepage Images/Sec_1_ERegistration_Banner.jpg
       alt: Sec 1 E-Registration
-      url: https://www.bowensec.moe.edu.sg/
+      url: https://go.gov.sg/bowensec1reg
   - infopic:
       title: Sec 1 Transfer Appeals
       subtitle: SEC 1 E-REGISTRATION 2025
