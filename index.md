@@ -26,11 +26,11 @@ sections:
       title: E-Registration Sec 1 2025
       subtitle: E-REGISTER AT OUR MICROSITE
       id: infopic
-      description: 19 Dec 2024 (from 9am)
+      description: 19 Dec 2024 (from 9am) https://go.gov.sg/bowensec1reg
       button: E-REGISTRATION MICROSITE
       image: /images/Home Page/2025 Homepage Images/Sec_1_ERegistration_Banner.jpg
       alt: Sec 1 E-Registration
-      url: https://www.bowensec.moe.edu.sg/
+      url: https://go.gov.sg/bowensec1reg
   - infopic:
       title: Sec 1 Transfer Appeals
       subtitle: SEC 1 E-REGISTRATION 2025
