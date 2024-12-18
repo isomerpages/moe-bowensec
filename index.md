@@ -33,7 +33,7 @@ sections:
       url: https://www.bowensec.moe.edu.sg/
   - infopic:
       title: TRANSFER-IN APPEAL
-      subtitle: SEC 1 E-REGISTRATION
+      subtitle: SEC 1 E-REGISTRATION 2025
       id: infopic
       description: Appeal window  from 18 Dec 1pm  - 23 Dec 5pm
       button: APPEAL LINK
