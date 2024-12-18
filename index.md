@@ -32,6 +32,15 @@ sections:
       alt: Sec 1 E-Registration
       url: https://www.bowensec.moe.edu.sg/
   - infopic:
+      title: TRANSFER-IN APPEAL
+      subtitle: SEC 1 E-REGISTRATION 2025
+      id: infopic
+      description: Appeal window  from 18 Dec 1pm  - 23 Dec 5pm
+      button: APPEAL LINK
+      url: https://form.gov.sg/675ea2ccee90353ae7aa94f5
+      image: /images/Home Page/2025 Homepage Images/Sec_1_ERegistration_Banner.jpg
+      alt: Image alt text
+  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
