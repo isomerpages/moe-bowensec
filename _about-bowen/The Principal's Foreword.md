@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/About%20Bowen/Principal%20foreward%202.jpg)
-##### The Principal's Foreward 2025
+
 Over the past four decades, we have grown our school community based on common values such as respect and compassion, a caring and inclusive culture, as well as the **Bowen Experience (BE)**, our robust curriculum that has nurtured Learners, Leaders and Champions who have gone on to excel in various fields. 
 
 Bowen has been recognised for our **Culture of Care for Students and Staff**, **Holistic Development of Students**, and **Curriculum Customisation**. We have also refreshed our strategic plan to take us into the future of education. Going forward, we will seize growth opportunities to further strengthen the distinctiveness of the **BE.** Our team looks forward to providing active learning experiences enabled by technology, promoting interdisciplinary thinking, as well as enabling student voice and agency. 
