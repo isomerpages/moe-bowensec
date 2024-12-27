@@ -17,9 +17,10 @@ variant: markdown
 
 [2025 Sem1 S1-L](/files/Class%20Timetables/2025_Term1_V1_4/2025_SEM1_S1L_TT_V1_4.pdf)
 
-[2025 Sem1 S1-P](/files/Class%20Timetables/2025_Term1_V1_4/2025_SEM1_S1R_TT_V1_4.pdf)
+[2025 Sem1 S1-P](/files/Class%20Timetables/2025_Term1_V1_4/2025_SEM1_S1P_TT_V1_4.pdf)
+
+[2025 Sem1 S1-R](/files/Class%20Timetables/2025_Term1_V1_4/2025_SEM1_S1R_TT_V1_4.pdf)
 
 [2025 Sem1 S1-S](/files/Class%20Timetables/2025_Term1_V1_4/2025_SEM1_S1S_TT_V1_4.pdf)
 
 [2025 Sem1 S1-T](/files/Class%20Timetables/2025_Term1_V1_4/2025_SEM1_S1T_TT_V1_4.pdf)
-
