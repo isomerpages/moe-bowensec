@@ -37,124 +37,148 @@ The gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar*
 
 ### 2025 Secondary 3 Form Teachers
 <table style="width:466.0pt;margin-left:-.5pt;background:white;border-collapse:collapse;
- border:none;mso-border-alt:solid windowtext .25pt;mso-yfti-tbllook:1184;
- mso-padding-alt:0cm 0cm 0cm 0cm" width="621" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.65pt"><td style="border:solid #A5A5A5 1.0pt;border-right:none;
-  background:#A5A5A5;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Class</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:solid #A5A5A5 1.0pt;border-left:none;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" width="621" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.65pt"><td style="border:solid #A5A5A5 1.0pt;border-right:none;
+  background:#A5A5A5;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Class</span><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:solid #A5A5A5 1.0pt;border-left:none;
   border-bottom:solid #A5A5A5 1.0pt;border-right:none;background:#A5A5A5;
-  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">Form Teachers</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border:solid #A5A5A5 1.0pt;border-left:none;background:
-  #A5A5A5;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">Email Contact</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Topaz</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Form Teachers</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border:solid #A5A5A5 1.0pt;border-left:none;background:
+  #A5A5A5;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Email Contact</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Topaz</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mrs. Jessica Yong</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Jessica Yong</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">jessica_tan_sze@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">To</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mrs. Sankar</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">sankar_thilahavathi@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Sapphire</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">jessica_tan_sze@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">To</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Sankar</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">sankar_thilahavathi@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Sapphire</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mrs. Audrey Gan</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Audrey Gan</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">audrey_tan_seow_ping@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">S</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mr. Sheik Habib</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">sheik_habib_noor@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Peridot</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">audrey_tan_seow_ping@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">S</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Sheik Habib</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">sheik_habib_noor@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Peridot</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mr. Chen QingHua</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Chen QingHua</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">chen_qinghua@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:6;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">P</span></b><b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mrs. Li Seow Kun</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">ng_seow_koon@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Amethyst</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mrs. Rachel Lim</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">lim_su_ern_rachel@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:8;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">A</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">chen_qinghua@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:6;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">P</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Li Seow Kun</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">ng_seow_koon@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Amethyst</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Rachel Lim</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">lim_su_ern_rachel@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:8;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">A</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mr. Dhiwahar</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Dhiwahar</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">dhiwahar_manivanan@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Ruby</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Ms. Anne Marie Chua</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">anne_marie_chua@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:10;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">R</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">dhiwahar_manivanan@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Ruby</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Ms. Stacey Ang</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">ang_ting_ting@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:10;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">R</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mr. Farid</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Farid</span><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">mohd_farid_b_mohamad@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:11;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Kunzite</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mr. Randy Low</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">low_chen_long_randy@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:12;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">K</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">mohd_farid_b_mohamad@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:11;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Kunzite</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Randy Low</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">low_chen_long_randy@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:12;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">K</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Ms. Stacey Ang</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Ms. Anne Marie Chua</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">ang_ting_ting@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:13;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Larimar</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mr. Derrick Lim</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">lim_soon_ben_derrick@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:14;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">L</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">anne_marie_chua@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:13;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Larimar</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mr. Derrick Lim</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">lim_soon_ben_derrick@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:14;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">L</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Ms. Lee Yu Jie</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Ms. Lee Yu Jie</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">lee_yu_jie@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:15;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
-  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">3 Emerald</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mrs. Lee Suping</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
-  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">tan_su_ping@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
-  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">E</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">lee_yu_jie@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:15;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">3 Emerald</span></b><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Mrs. Lee Suping</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">tan_su_ping@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">E</span></b><span style="mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Ms. Nurzafirah</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">Ms. Nurzafirah</span><span style="mso-ansi-language:
+  EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
-  height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">nurzafirah_azahari@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
+  height:23.65pt" valign="top"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG">nurzafirah_azahari@schools.gov.sg</span><span style="mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
