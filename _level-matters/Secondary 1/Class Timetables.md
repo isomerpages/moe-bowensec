@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## 2025 Sec 1 Semester 1 Timetables
 
-2025 Sem 1 Class Timetables (wef 2 Jan)
+2025 Sem 1 Class Timetables V2.1 (wef 13 Jan)
 
 [2025 Sem1 S1-T](/files/Class%20Timetables/2025_Term1_V2_1/2025_SEM1_S1T_TT_V2_1.pdf)
 
@@ -24,13 +24,3 @@ variant: markdown
 [2025 Sem1 S1-L](/files/Class%20Timetables/2025_Term1_V2_1/2025_SEM1_S1L_TT_V2_1.pdf)
 
 [2025 Sem1 S1-E](/files/Class%20Timetables/2025_Term1_V2_1/2025_SEM1_S1E_TT_V2_1.pdf)
-
-
-
-
-
-
-
-
-
-
