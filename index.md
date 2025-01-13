@@ -38,7 +38,7 @@ sections:
       id: textcards
       cards:
         - title: Welcome back to School 2025
-          description: More Information can be found in the link below.
+          description: Start of Term 1 Letters can be found in the link below.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events
         - title: 2025 Booklists for Sec 2-5
