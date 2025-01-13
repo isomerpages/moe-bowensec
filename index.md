@@ -41,7 +41,7 @@ sections:
           description: Start of Term 1 Letters can be found in the link below.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events
-        - title: 2025 Booklists for Sec 2-5
+        - title: 2025 Booklists
           description: Download 2005 S2-5 booklists Refer to instructions for online
             purchase.
           linktext: Learn more
