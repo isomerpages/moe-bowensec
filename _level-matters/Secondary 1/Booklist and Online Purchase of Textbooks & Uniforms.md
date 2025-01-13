@@ -11,4 +11,5 @@ FAS applicants are advised not to buy the books and uniforms until they are info
 
 
 ### Online Purchase of Textbooks and Uniforms for 2025
-To be announced during Sec 1 Registration
+1. [2025 Sec 1 BookList](/files/Book%20Lists/2025/S1_Booklist_2025.pdf)
+2. [Sec 1 Booklist Purchase Guide](/files/Book%20Lists/2025/S1_Online_Purchase_Guide.pdf)
