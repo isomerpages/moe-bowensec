@@ -8,15 +8,23 @@ variant: markdown
 # Latest News and Events
 
 
-### Welcome Back to School 2025
+### Start of Term Letters 2025
 
-1. A warm welcome back to another new school year! The first day of 2025 Term 1 is Thu 2 Jan (Term 1 Week Zero).
-3. S1 students are to report to their respective classrooms by 845am and will follow the program as outlined in the PG letter sent. 
-4. S2-5  students are expected to report to the school by 7.30am Students are appropriately attired in full school uniform (without tie) and proper grooming. The first day of school will consist of Cohort Talks and Form Teacher Time to prepare students for the new school year. Students are required to bring their stationery, fully charged Personalised Learning Device (PLD), report book, water and money for recess.
-6. .S2-5 students will be dismissed at 12.30pm on Thu 2 Jan and Fri 3 Jan.  There will be no afternoon activities on those two days. This is to help students ease into the term at a good pace. Students are to pack their materials for lessons, which will begin on Fri 3 Jan. Please click on the link below to access the 2025 Timetable.
-7.  Please also note that the school’s back gate along Hougang Avenue 2 will be opened from 6.30 am to 7.29am for students to enter school. Students can continue to access the backgate when leaving school during dismissal.  
+1. [Sec 1 Start of Term 1 Letter](/files/Level%20Matters/S1/2025_S1_Start_of_Term_1_Letter.pdf)
+2. [Sec 2 Start of Term 1 Letter](/files/Level%20Matters/S2/2025_S2_Start_of_Term_1_Letter.pdf)
+3. [Sec 3 Start of Term 1 Letter](/files/Level%20Matters/S3/2025_S3_Start_of_Term_1_Letter.pdf)
+4. [Sec 4 and 5 Start of Term 1 Letter](/files/Level%20Matters/S4n5/2025_S45_Start_of_Term_1_Letter.pdf)
 
-4. For a reinvigorated start to 2025, students can look forward to our annual Bowen FIESTA (Fun, Interactive, Educational and STructured Activities) which will be conducted in the second week of school.
+
+
+### 2024 GCE O-Level Results
+Congratulations to our 2024 GCE O-level graduating cohort. The results were released on Monday, 10 Jan 2025, at 2.30pm.
+
+Students may download the briefing slides via the link below
+
+* [2024 GCE-O level Results Briefing Slides](/files/Level%20Matters/S4n5/2024_O_Result_Release_for_Students_Briefing_Slides.pdf)
+<hr>
+
 
 
 ### 2024 GCE N-Level Results
