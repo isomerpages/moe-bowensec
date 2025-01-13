@@ -8,12 +8,6 @@ variant: markdown
 These letters have been issued via Parents Gateway and are available for download as a PDF copy. Also available are selected cohort level information slides.  
   
 
-### 2024 Sec 3 Cohort Letters
+### 2025 Sec 3 Cohort Letters
 
-1. [2024 Sec 3 TA1 Letter to Parents](/files/Level%20Matters/S3/2024__Letter_to_parents_TA1_Sec_3.pdf)
-2. [2024 Sec 3 TA2 Letter](/files/Level%20Matters/S3/2024_Sec_3_Letter_to_parents_TA2.pdf)
-3. [2024 Sec 3 Term 3 Letter](/files/Level%20Matters/S3/2024_Term_3_Letter_Sec_3.pdf)
-4. [2024 Sec 3 TA3 Letter to Parents](/files/Level%20Matters/S3/2024__Letter_to_parents_TA3_Sec_3.pdf)
-5. [2024 Sec 3 End of Year Examinations to Parents](/files/Level%20Matters/S3/2024_Letter_to_Parents_EOY_Sec_3.pdf)
-6. [2024 Sec 3 Start of Term 4 Letter to Parents](/files/Level%20Matters/S3/2024_Start_T4_Letter_S3.pdf)
-7. [2024 Sec 3 End-of-Term 4 Letter to Parents](/files/Level%20Matters/S3/2024_S3_End_of_T4_Letter.pdf)
+1. [2025 Sec 3 Start of Term 1 Letter](/files/Level%20Matters/S3/2025_S3_Start_of_Term_1_Letter.pdf)
