@@ -23,24 +23,6 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: E-Registration Sec 1 2025
-      subtitle: E-REGISTER AT OUR MICROSITE
-      id: infopic
-      description: https://go.gov.sg/bowensec1reg
-      button: E-REGISTER HERE
-      image: /images/Home Page/2025 Homepage Images/microsite_banner.jpg
-      alt: E-REGISTER HERE
-      url: https://go.gov.sg/bowensec1reg
-  - infopic:
-      title: Sec 1 Transfer Appeals
-      subtitle: SEC 1 E-REGISTRATION 2025
-      id: infopic
-      description: Please access the Sec 1 Transfer Form via the link below.
-      button: SEC 1 TRANSFER FORM
-      url: https://form.gov.sg/675ea2ccee90353ae7aa94f5
-      image: /images/Home Page/2025 Homepage Images/Sec_1_ERegistration_Banner.jpg
-      alt: Image alt text
-  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
