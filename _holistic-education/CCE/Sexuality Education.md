@@ -162,4 +162,4 @@ At Bowen Secondary School, the following Sexuality Education lessons will be tau
 
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete **an opt-out form**. This form will be communicated to parents at the start of the year and is also downloadable here found in [Annex B](/files/Holistic%20Education/CCE/SED/Annex_B_eTeens_Parents_Opt_out_Form_2025.pdf) &nbsp;The completed form is to be submitted **by 31/01/2025.**
 
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6385 9466 for discussion or to seek clarification about the school’s Sexuality Education programme.
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at **6385 9466** for discussion or to seek clarification about the school’s Sexuality Education programme.
