@@ -68,7 +68,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">11</span></td>
-    <td class="tg-699i"><a href="https://ssoe2.moe.edu.sg"><span style="text-decoration:none;color:#0FB3DF">SSOE 2 Service Portal</span></a></td>
+    <td class="tg-699i"><a href="https://adfs.gcc.ssoe.moe.edu.sg/adfs/ls/?SAMLRequest=jVJdT8IwFP0rS9%2Fp1jpAG0aCECMJ4gLTB99qdwdNtnb2dqj%2F3jEw4APE197zde%2FpCGVV8lpMGr81K%2FhoAH3wVZUGxWGSkMYZYSVqFEZWgMIrsZ48LQSnkaid9VbZkgQTRHBeWzO1BpsK3BrcTit4WS0SsvW%2BRhGGiBY4rSxQyBuKm9DIXS03QHNLgllrrY3ca5wYMi%2BQbpSie%2Bo5cz8ISwxJ8GCdgi5%2FQgpZIpBgPkvIejmN47shlxyGg0EObKD6KhrcxbeKqQKimMctEFOJqHdwoiI2MDfopfEJ4RHv9yLWY8Ms4qLPxM2QcsbeSJAeN7%2FXJtdmc%2F1M7wcQiscsS3vp8zrrBHY6B7ds0f%2B80Cs47K7TapLxqCtIdIHdeWfXs8jfosj4kukoPJc%2BGtVin3Q%2BS22p1XcwKUv7OXUgfZveuwa6IirpL7szyroXnfeKDioagzUoXWjISTg%2B2v79jOMf&amp;RelayState=https%3A%2F%2Fssoe2.moe.edu.sg%2Fnavpage.do"><span style="text-decoration:none;color:#0FB3DF">SSOE 2 Service Portal</span></a></td>
   </tr>
   <tr>
     <td class="tg-06l0"><span style="color:inherit;background-color:transparent">12</span></td>
