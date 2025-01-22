@@ -11,3 +11,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 ### 2025 Sec 3 Cohort Letters
 
 1. [2025 Sec 3 Start of Term 1 Letter](/files/Level%20Matters/S3/2025_S3_Start_of_Term_1_Letter.pdf)
+2. [2025 Upper Sec Blended Learning (HBL) Letter to Parents](/files/Level%20Matters/S3/2025_BL_Infosheet_to_Upper_Sec_Parents.pdf)
