@@ -14,3 +14,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 
 ### 2025 Cohort Letters
 1. [2025 Sec 4 and 5 Start of Term 1 Letter](/files/Level%20Matters/S4n5/2025_S45_Start_of_Term_1_Letter.pdf)
+2. [2025 Upper Sec Blended Learning (HBL) Letter to Parents](/files/Level%20Matters/S4n5/2025_BL_Infosheet_to_Upper_Sec_Parents.pdf)
