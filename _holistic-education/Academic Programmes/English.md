@@ -162,15 +162,11 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222">ng_gek_hwa@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Rachel Lim</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs. Rachel Lim</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">lim_su_ern_rachel@schools.gov.sg</span></td>
   </tr>
-	 <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm. Siti Hawa</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">siti_hawa_abdul_hadi@schools.gov.sg </span></td>
-  </tr>	
+	
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr. Ken Foo</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
@@ -181,12 +177,7 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">lim_kah_kiat@schools.gov.sg</span></td>  </tr>
 	
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr. Sean Ross Clunies</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">clunies_ross_sean_james@schools.gov.sg</span></td>
-  </tr>
-    <tr>
+ <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms. Elliza Tang</span></td>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">tang_sook_ee_elliza@schools.gov.sg</span></td>
@@ -201,11 +192,7 @@ At the National Schools Literature Festival, our team of Secondary 2 Normal (Aca
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">shanmugam_chandraghantha@schools.gov.sg</span></td>
   </tr>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Raj</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">bhanumathy_ganapathy@schools.gov.sg</span></td>
-  </tr>
+	
  
 </tbody>
 </table>

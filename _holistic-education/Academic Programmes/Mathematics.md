@@ -80,17 +80,6 @@ as provide small group tutoring to those who need the extra help.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Ong Ai Lingg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_ai_lingg@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs. Normala Chang</p>
 </td>
 <td rowspan="1" colspan="1">
