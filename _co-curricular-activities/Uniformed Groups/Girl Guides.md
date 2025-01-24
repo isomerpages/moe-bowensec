@@ -25,7 +25,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs. Janet Wee (I/C)
-<br>Ms. Suraiya Izharul (2ᴺᴰ i/c)
+<br>Ms. Suraiya Izharul (2ᴺᴰ I/C)
 <br>Ms&nbsp;Sim Sze Hwei</p>
 </td>
 </tr>
