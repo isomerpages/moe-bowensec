@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Teachers-in-charge</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mr. Randy Low (i/c)</span><br><span style="color:#222">Mrs. Jessica Yong (2ᴺᴰ i/c)</span><br><span style="color:#222">Mrs. Rebecca Ang</span><br><span style="color:#222"></span>Ms. Alamel d/o Moghan</td>
+    <td class="tg-lr6o"><span style="color:#222">Ms, Stacey Ang (i/c)</span><br><span style="color:#222">Mrs. Jessica Yong (2ᴺᴰ i/c)</span><br><span style="color:#222">Mrs. Rebecca Ang</span><br><span style="color:#222"></span>Mr. Dhiwahar Manivanan</td>
   </tr>
   <tr>
     <td class="tg-qrg6"><span style="color:#252525">Training Schedule</span></td>
