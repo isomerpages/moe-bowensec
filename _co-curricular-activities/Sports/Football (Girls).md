@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-mbkz">Teachers-in-Charge</td>
-    <td class="tg-vqm8">Ms. Stacey Ang (i/c)<br>Ms. Anne Marie Chua (2nd i/c)<br>Mr. Gary See Gim Boon (Advisor)<br></td>
+    <td class="tg-vqm8">Ms. Anne Marie Chua  (i/c)<br>Mr. Gary See (Advisor) <br></td>
   </tr>
   <tr>
     <td class="tg-mbkz">Training Schedule</td>
