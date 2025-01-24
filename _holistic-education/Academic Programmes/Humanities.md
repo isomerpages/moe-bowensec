@@ -132,17 +132,6 @@ textbook theories to real-life occurrences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Khairul Anwar Bin Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>khairul_anwar_ali@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Tan Shuming</p>
 </td>
 <td rowspan="1" colspan="1">
