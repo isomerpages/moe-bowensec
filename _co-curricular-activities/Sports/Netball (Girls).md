@@ -62,6 +62,7 @@ in Bowen for many years. Training sessions are geared towards learning
 to play strategically as a team, developing ball-handling skills, improving
 agility, flexibility and stamina. Netball also effectively promotes the
 physical and social development of each individual.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Sports/Netball/netball%20pic%201.jpg">
 </div>
