@@ -27,7 +27,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-mbkz">Teachers-in-Charge</td>
-    <td class="tg-vqm8"><br>Mr. Sean  Clunies Ross (i/c)<br>Mr. Winston Chua (2nd i/c)<br>Ms. Sivarangini<br><br></td>
+    <td class="tg-vqm8"><br>Mr. Chen Yi Zhou (co i/c)<br>Ms. Anne Marie Chua (co i/c)<br>Mr. Winston Chua (2 i/c)<br>Mr. Gary See (Advisors) <br>Mr Randy Low (Advisor) <br></td>
   </tr>
   <tr>
     <td class="tg-mbkz">Training Schedule</td>
