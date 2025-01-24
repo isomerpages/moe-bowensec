@@ -172,6 +172,17 @@ Conference
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs. Astee Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_shin_ee_astee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr. Tan Kok Boon
 <br>
 </p>
@@ -205,19 +216,6 @@ Conference
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_wah_kian@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs. Astee Tan
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_shin_ee_astee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
