@@ -34,7 +34,7 @@ designed to equip them with the relevant sports-related knowledge which
 will serve as a good foundation if they wish to take up Exercise &amp;
 Sports Science (ESS) as a GCE ‘O’ Level subject in Upper Secondary.</p>
 <hr>
-<h3>Bowen PE Site</h3>
+<h3>Bowen PE Link Site</h3>
 <p>You may visite the Bowen linktree site to connect to information of the
 school's PE events and programme across all levels.
 <br><a href="https://linktr.ee/bowenpe" rel="noopener nofollow" target="_blank">Bowen PE Quick Links</a>
