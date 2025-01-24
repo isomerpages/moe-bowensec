@@ -37,7 +37,6 @@ Finally, positivity serves as the mortar that binds the mosaic pieces together, 
 ![](/images/Level%20Matters/S1/To_Sparkle_Transp.png)
 		 
 Bowen’s motto, ***‘I Believe, Therefore I Am’***, reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.
-
 Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar**&nbsp;and&nbsp;**Emerald.**
 
 ### 2025 Secondary 2 Form Teachers
