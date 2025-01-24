@@ -86,13 +86,20 @@ Our classes are named after gems. These gems are:&nbsp;**Topaz, Sapphire, Perido
   mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mr. Gary See</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
   height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">gary_see_gim_boon@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:6;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  mso-color-alt:windowtext;mso-ansi-language:EN-SG">gary_see_gim_boon@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr>
+	<tr style="mso-yfti-irow:6;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
   0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
   color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">P</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
   mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mdm. Uma</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
-  mso-color-alt:windowtext;mso-ansi-language:EN-SG">uma_thiruselvam@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
+  mso-color-alt:windowtext;mso-ansi-language:EN-SG">uma_thiruselvam@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:6;height:23.65pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;padding:
+  0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
+  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG"></span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-SG">Mrs. Eve Chua</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
+  border-right:solid #C9C9C9 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.65pt" valign="top"><p class="MsoNormal"><span style="font-size:10.5pt;line-height:107%;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-SG">lai_yanging_eve@schools.gov.sg</span><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7;height:22.95pt"><td style="border:solid #C9C9C9 1.0pt;border-top:none;background:
   #EDEDED;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top"><p class="MsoNormal"><b><span style="font-size:10.5pt;line-height:107%;
   color:black;mso-color-alt:windowtext;mso-ansi-language:EN-SG">2 Amethyst</span></b><span style="font-size:10.5pt;line-height:107%;mso-ansi-language:EN-SG"></span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #C9C9C9 1.0pt;
   border-right:solid #C9C9C9 1.0pt;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt;
