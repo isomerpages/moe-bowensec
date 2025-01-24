@@ -58,6 +58,7 @@ variant: tiptap
 different forms of fine arts such as portraiture drawing, outdoor sketching,
 water-colouring, charcoal drawing, canvas painting, wire sculpture, clay-modelling,
 gallery/museum visit etc.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/artist%203.jpeg">
 </div>
