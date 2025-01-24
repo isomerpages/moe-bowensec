@@ -34,14 +34,12 @@ designed to equip them with the relevant sports-related knowledge which
 will serve as a good foundation if they wish to take up Exercise &amp;
 Sports Science (ESS) as a GCE ‘O’ Level subject in Upper Secondary.</p>
 <hr>
-<h3>Bowen PE Microsite</h3>
-<p>You may go to the Bowen PE microsite to look in detail at the school's
-PE programme across all levels.
-<br><a href="https://sites.google.com/bws.edu.sg/bowenpe" rel="noopener noreferrer nofollow" target="_blank">Bowen PE Microsite &gt;&gt;&gt;</a>
+<h3>Bowen PE Link Site</h3>
+<p>You may visite the Bowen linktree site to connect to information of the
+school's PE events and programme across all levels.
+<br><a href="https://linktr.ee/bowenpe" rel="noopener nofollow" target="_blank">Bowen PE Quick Links</a>
+<a href="https://sites.google.com/bws.edu.sg/bowenpe" rel="noopener noreferrer nofollow" target="_blank">&gt;&gt;&gt;</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bowen%20PE%20microsite.png">
-</div>
 <hr>
 <h3>ASSESSMENT</h3>
 <p>Our students undergo continuous assessment of their level of competency
