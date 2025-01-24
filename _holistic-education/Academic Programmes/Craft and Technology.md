@@ -240,14 +240,6 @@ be coursework based.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Zurainah Kassim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zurainah_kassim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs. Irene Leong
 <br>
 </p>
@@ -268,7 +260,7 @@ be coursework based.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Eve Lai</p>
+<p>Mrs. Eve Chia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lai_yanging_eve@schools.gov.sg</p>

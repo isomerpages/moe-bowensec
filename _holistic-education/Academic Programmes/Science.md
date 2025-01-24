@@ -316,19 +316,6 @@ Conference
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Shafiqah
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shafiqah_hadam_hussain@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr. Randy Low</p>
 </td>
 <td rowspan="1" colspan="1">

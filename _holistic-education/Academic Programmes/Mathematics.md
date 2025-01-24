@@ -190,17 +190,6 @@ as provide small group tutoring to those who need the extra help.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Chew Hui Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chew_hui_jie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm. Shameera</p>
 </td>
 <td rowspan="1" colspan="1">
