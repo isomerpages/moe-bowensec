@@ -26,8 +26,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Muhammad Noor Hairil (O.C.)
-<br>Mrs. Li Seow Koon Lim (2nd I/C)
+<p>Mr. Muhammad Noor Hairil (I/C.)
+<br>Mrs. Li Seow Koon Lim (2<sup>nd</sup> I/C)
 <br>Mr. Tan Han Kiang</p>
 </td>
 </tr>
