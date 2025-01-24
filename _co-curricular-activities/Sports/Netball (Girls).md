@@ -8,7 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Sports/Netball/netball%20main%20pic.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -22,7 +26,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs. Lee Su Ping (I/C)
 <br>Ms. Angie Goh (2nd I/C)
-<br>Ms. Rachel Lim
 <br>Ms. Elliza Tang</p>
 </td>
 </tr>
@@ -59,6 +62,7 @@ in Bowen for many years. Training sessions are geared towards learning
 to play strategically as a team, developing ball-handling skills, improving
 agility, flexibility and stamina. Netball also effectively promotes the
 physical and social development of each individual.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Sports/Netball/netball%20pic%201.jpg">
 </div>
