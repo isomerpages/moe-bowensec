@@ -296,6 +296,17 @@ across Asia and the people who speak that language or share that culture.</p>
 <p>Alagusundaram_jothi@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Dhiwahar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dhiwahar_manivanan@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h1>Bowen Young Journalists</h1>
