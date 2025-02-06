@@ -54,12 +54,6 @@ variant: tiptap
 <br><a href="mah_chwee_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mah_chwee_peng@schools.gov.sg</a>
 </p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width:20%" height="auto" width="100%" src="/images/Our%20People/Mrs-Julieanne-Choy.jpeg">
-</div>
-<p><strong>Mrs. Julieanne Choy <br>HOD / Science</strong>
-<br><a href="choy_wen_ju_julieanne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choy_wen_ju_julieanne@schools.gov.sg</a>
-</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width:20%" height="auto" width="100%" src="/images/Our%20People/MS-KAREN-CHIA-HOD-HUMANITIES.jpeg">
