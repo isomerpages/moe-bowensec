@@ -9,4 +9,4 @@ variant: markdown
 
 ### 2025 Assessment Schedule
 
-TBA
+1. [2025 Sec 2 Term Assessment 1 (TA1) Schedule](/files/Examination%20Timetables/2025%20Exam%20Timetables/Term%20Assessments/Sec_2_TA1_Schedule.pdf)
