@@ -32,7 +32,7 @@ variant: markdown
 <br><a href="goh_kee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Kee_Yong@schools.gov.sg</a>
 </p>
 <hr>
-<h2>Department Heads</h2>
+<h2 style="text-align:center">Department Heads</h2>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Our%20People/Mrs-Serene-Goh.jpeg">
 </div>
@@ -111,7 +111,7 @@ variant: markdown
 <br><a href="lee_soo_sian_jermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_soo_sian_jermaine@schools.gov.sg</a>
 </p>
 <hr>
-<h2>Year Heads</h2>
+<h2 style="text-align:center">Year Heads</h2>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Our%20People/MRS-CHAN-SOO-YONG.jpeg">
 </div>
