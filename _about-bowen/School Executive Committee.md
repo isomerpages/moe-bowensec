@@ -4,7 +4,7 @@ permalink: /about-bowen/school-executive-committee/
 description: ""
 variant: markdown
 ---
-<h2>School Leaders</h2>
+<h2 style="text-align:center">School Leaders</h2>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Our%20People/Mr%20Loh%20Chih%20Hui.jpg">
 </div>
