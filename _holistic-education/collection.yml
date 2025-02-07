@@ -2,8 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
-      - The Bowenian Pledge.md
       - The Desired Bowenian.md
+      - The Bowenian Pledge.md
       - R E A D Y BE!.md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
