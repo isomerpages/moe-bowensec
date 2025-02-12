@@ -226,6 +226,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,9 +253,130 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Normala Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:normala_mohamed_saleh_ma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">normala_mohamed_saleh_ma@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Jermaine Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_soo_sian_jermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_soo_sian_jermaine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Year Heads</h2>
-<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>#</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Sec 1 Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Bernice Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="mailto:tey_puay_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tey_puay_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Sec 2 Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Chan Soo Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="mailto:lim_soo_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soo_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Sec 3 Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Sharifah Kamelia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="mailto:sharifah_kamelia_syed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_kamelia_syed@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Sec 4 and 5 Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Estelle Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="mailto:estelle_chong_chyi_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estelle_chong_chyi_shin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
