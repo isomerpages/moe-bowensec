@@ -11,16 +11,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Bowen/Dare_to_try2.jpg">
+</div>
 <p><strong>Over the past four decades, we have grown our school community based on common values such as respect and compassion, a caring and inclusive culture, as well as the Bowen Experience (BE), our robust curriculum that has nurtured Learners, Leaders and Champions who have gone on to excel in various fields.</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Bowen has been recognised for our Culture of Care for Students and Staff, Holistic Development of Students, and Curriculum Customisation. We have also refreshed our strategic plan to take us into the future of education. Going forward, we will seize growth opportunities to further strengthen the distinctiveness of the BE. Our team looks forward to providing active learning experiences enabled by technology, promoting interdisciplinary thinking, as well as enabling student voice and agency.</strong>
 </p>
 <p><strong>Bowen was also one of 28 secondary schools specially selected by MOE to pilot Full SBB (FSBB) since 2020. FSBB is part of MOE's efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of students. It has ushered in a new era of learning where students have the flexibility to learn each subject at the level that best caters to their overall strengths, interests and learning needs. With our early mover advantage, Bowen is well-positioned to help our students fully gain from the FSBB experience, which we have since integrated into the BE.</strong>
@@ -31,14 +33,3 @@ variant: tiptap
 </p>
 <p><strong>Mr. Loh Chih Hui <br>Principal</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
