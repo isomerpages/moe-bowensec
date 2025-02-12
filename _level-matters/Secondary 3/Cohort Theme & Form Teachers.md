@@ -6,9 +6,6 @@ third_nav_title: Secondary 3
 variant: tiptap
 ---
 <h3>Secondary 3 Year Heads (2025 Academic Year)</h3>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/Our%20People/Ms-Sharifah-Kamelia.jpeg">
-</div>
 <p><strong>Ms. Sharifah Kamelia Syed</strong>
 <br>Year Head
 <br>Secondary 3 (2025 Academic Year)

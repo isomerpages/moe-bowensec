@@ -4,7 +4,7 @@ permalink: /about-bowen/our-vision-mission-motto-and-values/
 description: ""
 variant: tiptap
 ---
-<h1>What drives us.</h1>
+<h1>What drives us</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Vision Mission Motto Values" src="/images/About%20Bowen/VMVG/Bowen_School_Mission_Vision.jpg">
 </div>

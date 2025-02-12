@@ -6,9 +6,6 @@ third_nav_title: Secondary 1
 variant: tiptap
 ---
 <h3>Secondary 1 Year Head (2025 Academic Year)</h3>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/Our%20People/MS-BERNICE-TEY.jpeg">
-</div>
 <p><strong>Mrs. Bernice Kuan</strong>
 <br>Year Head
 <br>Secondary 1 (2025 Academic Year)
