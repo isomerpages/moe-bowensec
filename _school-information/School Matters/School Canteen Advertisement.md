@@ -46,7 +46,7 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.<strong> (</strong><a rel="noopener noreferrer nofollow" target="_blank">Application Form</a><strong>)</strong>
+hardcopy from the School’s General Office.<strong> (</strong><a href="/files/Canteen Advertistment/application_for_canteen_stall_in_existing_sch_130924.pdf" rel="noopener nofollow" target="_blank">Application Form</a><strong>)</strong>
 </p>
 </li>
 <li>
@@ -122,7 +122,7 @@ and apply for a food stall license from Singapore Food Agency (SFA).</p>
 <p>Possess catering experience or experience operating in a school environment.</p>
 </li>
 </ul>
-<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. </em></strong>
+<p><strong><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em></strong>
 </p>
 <p><strong>____________________________________________________________________________________</strong>
 </p>
