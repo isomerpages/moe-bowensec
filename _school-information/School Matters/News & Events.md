@@ -29,12 +29,12 @@ variant: markdown
 ### 2025 Sec 1 - 5 Booklists &amp; Purchase Guide
 
 The following 2025 Booklist are available for download in the links below
-* [2025 Sec 1 Booklist](/files/Book%20Lists/2025/S1_Booklist_2025.pdf)
-* [2025 Sec 2 Booklist](/files/Book%20Lists/2025/S2_Booklist_2025.pdf)
-* [2025 Sec 3 Booklist](/files/Book%20Lists/2025/S3_Booklist_2025.pdf)
-* [2025 Sec 4 Booklist](/files/Book%20Lists/2025/S4_Booklist_2025.pdf)
-* [2025 Sec 5 Booklist](/files/Book%20Lists/2025/S5_Booklist_2025.pdf)
-* [2025 Uniform Price List](/files/Book%20Lists/2025/Bowen_Sec_Uniform_Price_List.pdf)
+1. [2025 Sec 1 Booklist](/files/Book%20Lists/2025/S1_Booklist_2025.pdf)
+2. [2025 Sec 2 Booklist](/files/Book%20Lists/2025/S2_Booklist_2025.pdf)
+3. [2025 Sec 3 Booklist](/files/Book%20Lists/2025/S3_Booklist_2025.pdf)
+4. [2025 Sec 4 Booklist](/files/Book%20Lists/2025/S4_Booklist_2025.pdf)
+5. [2025 Sec 5 Booklist](/files/Book%20Lists/2025/S5_Booklist_2025.pdf)
+6. [2025 Uniform Price List](/files/Book%20Lists/2025/Bowen_Sec_Uniform_Price_List.pdf)
 
 
 
