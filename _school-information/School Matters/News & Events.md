@@ -7,7 +7,7 @@ variant: markdown
 ---
 # Latest News and Events
 
-### Weight Assessment 1 Letters 2025
+### Weighted Assessment Letters 2025
 1. [2025 Sec 1 Information about Weighted Assessments 1 for Parents](/files/Level%20Matters/S1/2025__Letter_to_parents_WA_Sec_1.pdf)
 2. [2025 Sec 2 Information about Weighted Assessments 1 for Parents](/files/Level%20Matters/S2/2025__Letter_to_parents_WA_Sec_2.pdf)
 3. [2025 Sec 3 Information about Weighted Assessments 1 for Parents](/files/Level%20Matters/S3/2025__Letter_to_parents_WA_Sec_3.pdf)
