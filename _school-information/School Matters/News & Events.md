@@ -24,6 +24,11 @@ variant: markdown
 2. [Sec 2 Start of Term 1 Letter](/files/Level%20Matters/S2/2025_S2_Start_of_Term_1_Letter.pdf)
 3. [Sec 3 Start of Term 1 Letter](/files/Level%20Matters/S3/2025_S3_Start_of_Term_1_Letter.pdf)
 4. [Sec 4 and 5 Start of Term 1 Letter](/files/Level%20Matters/S4n5/2025_S45_Start_of_Term_1_Letter.pdf)
+5. [Sec 1 Start of Term 2 Letter](/files/Level%20Matters/S1/2025_Sec_1_Start_of_Term_2_Letter_Final.pdf)
+6. [Sec 2 Start of Term 2 Letter](/files/Level%20Matters/S2/2025_Sec_2_Start_of_Term_2_Letter_final.pdf)
+7. [Sec 3 Start of Term 2 Letter](/files/Level%20Matters/S3/2025_Sec_3_Start_of_Term_2_Letter.pdf)
+8. [Sec 4 and 5 Start of Term 2 Letter](/files/Level%20Matters/S4n5/2025_Sec_45_Start_of_Term_2_Letter.pdf)
+9. [Sec 4 Emerald Start of Term 2 Letter](/files/Level%20Matters/S4n5/2025_Sec_4_Emerald_Start_of_Term_2_Letter.pdf)
 
 
 ### 2025 Sec 1 - 5 Booklists &amp; Purchase Guide
