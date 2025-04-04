@@ -10,7 +10,7 @@ variant: markdown
 ### 43<sup>rd</sup> Speech and Prize Presentation Day
 ![](/images/School%20Events/2025/2025_Speech_Day_web_copy.jpg)
 
-<hr>
+
 
 ### 2025 Weighted Assessment Information and Term Assessment Schedule
 1. [2025 Sec 1 Weighted Assessment Information](/files/Level%20Matters/S1/2025__Letter_to_parents_WA_Sec_1.pdf)
