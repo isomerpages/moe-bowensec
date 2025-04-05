@@ -23,7 +23,7 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: 43rd Speech and Prize Giving Day
+      title: 43rd Speech and Prize Presentation Day
       subtitle: 2 May 2025, FRIDAY
       id: infopic
       button: MORE INFORMATION
