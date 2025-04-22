@@ -9,4 +9,4 @@ variant: markdown
 
 ### 2025 Assessment Schedule
 
-1. [2025 Sec 3 Semester 1 Assessment Schedule](/files/Examination%20Timetables/2025%20Exam%20Timetables/Term%20Assessments/Sec_3_TA1_Schedule.pdf)
+1. [2025 Sec 3 Weighted Assessment Schedule](/files/Examination%20Timetables/2025%20Exam%20Timetables/Term%20Assessments/Sec_3_TA1_Schedule.pdf)
