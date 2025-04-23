@@ -29,6 +29,7 @@ sections:
       url: /school-information/school-matters/news-n-events/
       image: /images/School Events/2025/2025_Speech_Day_instagram_copy.jpg
       alt: Image alt text
+      subtitle: 23 May 2025, FRIDAY
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
@@ -44,10 +45,11 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: Welcome back to School 2025
-          description: Start of Term 1 Letters can be found in the link below.
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events
+        - title: Weighted Assessment Schedule
+          description: Please click the link below to access the 2025 Weighted Assessment
+            Schedule
+          linktext: See Weighted Assessment Schedule
+          url: https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374
         - title: 2025 Booklists
           description: Download 2005 S2-5 booklists Refer to instructions for online
             purchase.
