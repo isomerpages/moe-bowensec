@@ -13,11 +13,12 @@ variant: markdown
 
 
 ### 2025 Weighted Assessment Information and Term Assessment Schedule
-1. [2025 Sec 1 Weighted Assessment Information](/files/Level%20Matters/S1/2025__Letter_to_parents_WA_Sec_1.pdf)
-2. [2025 Sec 2 Weighted Assessment Information](/files/Level%20Matters/S2/2025__Letter_to_parents_WA_Sec_2.pdf)
-3. [2025 Sec 3 Weighted Assessment Information](/files/Level%20Matters/S3/2025__Letter_to_parents_WA_Sec_3.pdf)
-4. [2025 Sec 4n5 Weighted Assessment Information](/files/Level%20Matters/S4n5/2025__Letter_to_parents_WA_Sec_4n5.pdf)
-5. [2025 Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374)
+1. [2025 Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374)
+2. [2025 Sec 1 Weighted Assessment Information](/files/Level%20Matters/S1/2025__Letter_to_parents_WA_Sec_1.pdf)
+3. [2025 Sec 2 Weighted Assessment Information](/files/Level%20Matters/S2/2025__Letter_to_parents_WA_Sec_2.pdf)
+4. [2025 Sec 3 Weighted Assessment Information](/files/Level%20Matters/S3/2025__Letter_to_parents_WA_Sec_3.pdf)
+5. [2025 Sec 4n5 Weighted Assessment Information](/files/Level%20Matters/S4n5/2025__Letter_to_parents_WA_Sec_4n5.pdf)
+
 
 
 ### Start of Term Letters 2025
