@@ -29,6 +29,7 @@ sections:
       url: /school-information/school-matters/news-n-events/
       image: /images/School Events/2025/2025_Speech_Day_instagram_copy.jpg
       alt: Image alt text
+      subtitle: 23 May 2025, FRIDAY
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
