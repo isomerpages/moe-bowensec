@@ -17,10 +17,7 @@ variant: markdown
 2. [2025 Sec 2 Weighted Assessment Information](/files/Level%20Matters/S2/2025__Letter_to_parents_WA_Sec_2.pdf)
 3. [2025 Sec 3 Weighted Assessment Information](/files/Level%20Matters/S3/2025__Letter_to_parents_WA_Sec_3.pdf)
 4. [2025 Sec 4n5 Weighted Assessment Information](/files/Level%20Matters/S4n5/2025__Letter_to_parents_WA_Sec_4n5.pdf)
-5. [2025 Sec 1 Term Assessment Schedule](/files/Examination%20Timetables/2025%20Exam%20Timetables/Term%20Assessments/Sec_1_TA1_Schedule.pdf)
-6.  [2025 Sec 2 Term Assessment Schedule](/files/Examination%20Timetables/2025%20Exam%20Timetables/Term%20Assessments/Sec_2_TA1_Schedule.pdf)
-7.   [2025 Sec 3 Term Assessment Schedule](/files/Examination%20Timetables/2025%20Exam%20Timetables/Term%20Assessments/Sec_3_TA1_Schedule.pdf)
-8.    [2025 Sec 4 Term Assessment Schedule](/files/Examination%20Timetables/2025%20Exam%20Timetables/Term%20Assessments/Sec_4_TA1_Schedule.pdf)
+5. [2025 Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374)
 
 
 ### Start of Term Letters 2025
