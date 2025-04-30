@@ -50,11 +50,11 @@ sections:
             Schedule
           linktext: See Weighted Assessment Schedule
           url: https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374
-        - title: 2025 Booklists
-          description: Download 2005 S2-5 booklists Refer to instructions for online
-            purchase.
+        - title: DSA to Bowen for 2026
+          description: Bowen invites P6 students or equivalent to apply for DSA to Sec 1
+            in 2026
           linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
+          url: /signature-programmes/direct-school-admission-1/
         - title: Join Bowen's ParentLink
           description: Parents who wish to join Bowen ParentLink, please register via the
             link below.
