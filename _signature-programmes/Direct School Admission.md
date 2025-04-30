@@ -36,7 +36,7 @@ for admission to join our Bowen community:</p>
 </p>
 </li>
 </ul>
-<p>The programme taps on Bowen’s flagship ChANgeMakers programme.</p>
+<p>The programme taps on Bowen’s flagship <a href="/signature-programmes/bowen-changemakers/" rel="noopener nofollow" target="_blank">Changemaker's Programme</a>.</p>
 <p>ChANgeMakers aims to nurture Bowenians to advocate social causes and become
 value creators for Singapore through:</p>
 <ul data-tight="true" class="tight">
@@ -235,7 +235,7 @@ assessing the potential of the applicants.</p>
 child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 </li>
 <li>
-<p>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025</strong>
+<p>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025.</strong>
 </p>
 </li>
 </ul>
