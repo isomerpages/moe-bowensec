@@ -4,6 +4,7 @@ permalink: /signature-programmes/direct-school-admission-1/
 description: ""
 variant: tiptap
 ---
+<h3>Direct School Admission (DSA) for Academic Year 2026</h3>
 <p>The annual DSA-Sec Exercise allows Primary 6 students to apply to a participating
 secondary school based on their diverse talents and potential, beyond their
 performance at the PSLE. Students can consider applying for a secondary
@@ -14,12 +15,13 @@ to study in that school to develop their talent in the chosen area.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
+the area of talent</p>
 <h3>Direct School Admission (DSA) to Bowen Secondary School</h3>
-<p>Bowen welcomes students who are currently in Primary 6 (or the equivalent)
-to apply under DSA-Sec for entry to Secondary 1 in Bowen. Bowen is committed
+<p>Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen
+welcomes students who are currently in Primary 6 (or the equivalent) to
+apply under DSA-Sec for entry to Secondary 1 in Bowen. Bowen is committed
 to developing students to their fullest potential in both their areas of
-talent and their studies.</p>
+talent and their studies.&nbsp;</p>
 <p>We strongly encourage those with talents in the following areas to apply
 for admission to join our Bowen community:</p>
 <h3>DSA (Entrepreneurship &amp; Innovation / Leadership &amp; Uniformed Groups)</h3>
@@ -44,7 +46,7 @@ social needs in the community.</p>
 </li>
 <li>
 <p>Opportunities to lead and serve at school and community level (e.g. with
-our wide range of community partners).</p>
+our wide range of community partners)</p>
 </li>
 <li>
 <p>Courses and workshops (e.g. Design Thinking).</p>
@@ -85,27 +87,174 @@ performing arts and sports categories through:</p>
 <p><strong>Exemplary conduct in primary school and,</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_selection_criteria_2024_1.jpg">
-</div>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Area of Talent</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Selection Criteria</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Selection Process</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community &amp; Youth Leadership</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Achievement/Experience in providing leadership in Values-in-Action (VIA)
+Programmes in primary school or in community organisations; OR
+<br>
+<br>Participation in business and entrepreneurship programmes in primary school
+or similar experience in other significant platforms; OR
+<br>
+</p>
+<p>Participation and/or recognition in projects and competitions related
+to design and invention</p>
+<p>
+<br>Must pass interview.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>will be invited for an interview with the School Leaders and relevant
+programme Key Personnel,</p>
+</li>
+<li>
+<p>submit a personal statement on a topic given on the day of interview,</p>
+</li>
+<li>
+<p>share a portfolio in the relevant area of application.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Entrepreneurship</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p><a href="/files/Signature Programmes/DSA_Selection_Criteria_to_Bowen_Sec_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Selection Criteria, Selection Process and Key Dates</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Marching Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement / Awards at Singapore Youth Festival Arts Presentations; OR
+<br>
+<br>Minimum 2 years of playing an instrument or in a Music CCA;
+<br>
+</p>
+<p>Must pass audition and interview.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>will be invited for an audition in our school,</p>
+</li>
+<li>
+<p>may bring their own musical equipment.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Based on the audition results, the school will further shortlist applicants
+for a second-round interview with the School Leaders, CCA Key Personnel
+and Teachers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Achievement/Awards in National Schools’ competitions / international competitions;
+OR
+<br>
+<br>Participation at National Schools' competitions, Zonal, National or Club
+level;
+<br>
+</p>
+<p>Must pass selection trial and interview.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Shortlisted applicants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>will be invited for a trial in our school,</p>
+</li>
+<li>
+<p>may bring their own sports equipment.</p>
+<p></p>
+<p>Based on trial results, the school will further shortlist applicants for
+a second-round face interview with the School Leaders, CCA Key Personnel
+and Teachers.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Football</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+</li>
+<li>
+<p>You will receive notification from the school by Mid July 2025, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
+</li>
+<li>
+<p>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025</strong>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Centralised DSA-Sec Application Process</h3>
-<p>For 2024, application for DSA-Sec can be submitted through the online
-DSA-Sec Portal.</p>
-<p>The application is free-of-charge and will be open from <strong>7 May 2024, 11am</strong> to <strong>3rd June 2024, 3pm</strong>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
+The application is <strong>free-of-charge</strong> and will be open <strong>from 7 May 2025, 11am to 3<sup>rd </sup>June 2025, 3pm.</strong>
 </p>
-<p>For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p>For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
-<p>*Other applicants not studying in MOE mainstream primary schools will
-need to apply for a Registration Number to access the DSA-Sec Portal. For
-more details, please refer to MOE website – <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p><em>*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
 <h3>Selection Process &amp; Key Dates</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DSA timeline 2024" src="/images/Signature%20Programmes/DSA/DSA_timeline_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_Flow_2025.jpg">
 </div>
 <p></p>
