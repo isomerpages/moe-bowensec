@@ -98,6 +98,5 @@ The application is free-of-charge and will be open <strong>from 7 May 2025, 11am
 <p><em>*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
 <h3>Selection Process &amp; Key Dates</h3>
-<p>Key dates for DSA Application for 2026 will be annonunced from 2 May 2025.</p>
-<p></p>
-<p>To be</p>
+<p>Key dates for DSA Application for 2026 will be annonunced from 2 May 2025To
+be</p>
