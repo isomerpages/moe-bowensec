@@ -11,8 +11,8 @@ variant: markdown
 ![](/images/School%20Events/2025/2025_Speech_Day_web_copy.jpg)
 
 
-### Direct School Admission (DSA) to Bowen Secondary for Academice Year 2026
-Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen welcomes students who are currently in Primary 6 (or the equivalent) to apply under DSA-Sec for entry to Secondary 1. 
+### Direct School Admission (DSA) to Bowen Secondary for Academic Year 2026
+Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen welcomes students who are currently in Primary 6 (or the equivalent) to apply under DSA-Sec for entry to Secondary 1.
 [Click here to find out more&gt;&gt;&gt;](/signature-programmes/direct-school-admission-1/)
 
 
