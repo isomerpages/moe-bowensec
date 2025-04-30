@@ -250,7 +250,8 @@ The application is <strong>free-of-charge</strong> and will be open <strong>from
 </p>
 <p>For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
-<p><em>*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
+<p><em>*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – </em>
+<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 <h3>Selection Process &amp; Key Dates</h3>
 <p></p>
