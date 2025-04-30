@@ -86,8 +86,167 @@ performing arts and sports categories through:</p>
 <li>
 <p><strong>Exemplary conduct in primary school and,</strong>
 </p>
+<p></p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Area of Talent</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Selection Criteria</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Selection Process</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community &amp; Youth Leadership</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Achievement/Experience in providing leadership in Values-in-Action (VIA)
+Programmes in primary school or in community organisations; OR
+<br>
+<br>Participation in business and entrepreneurship programmes in primary school
+or similar experience in other significant platforms; OR
+<br>
+</p>
+<p>Participation and/or recognition in projects and competitions related
+to design and invention</p>
+<p>
+<br>Must pass interview.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>will be invited for an interview with the School Leaders and relevant
+programme Key Personnel,</p>
+</li>
+<li>
+<p>submit a personal statement on a topic given on the day of interview,</p>
+</li>
+<li>
+<p>share a portfolio in the relevant area of application.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Entrepreneurship</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Marching Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement / Awards at Singapore Youth Festival Arts Presentations; OR
+<br>
+<br>Minimum 2 years of playing an instrument or in a Music CCA;
+<br>
+</p>
+<p>Must pass audition and interview.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>will be invited for an audition in our school,</p>
+</li>
+<li>
+<p>may bring their own musical equipment.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Based on the audition results, the school will further shortlist applicants
+for a second-round interview with the School Leaders, CCA Key Personnel
+and Teachers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Achievement/Awards in National Schools’ competitions / international competitions;
+OR
+<br>
+<br>Participation at National Schools' competitions, Zonal, National or Club
+level;
+<br>
+</p>
+<p>Must pass selection trial and interview.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Shortlisted applicants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>will be invited for a trial in our school,</p>
+</li>
+<li>
+<p>may bring their own sports equipment.</p>
+<p></p>
+<p>Based on trial results, the school will further shortlist applicants for
+a second-round face interview with the School Leaders, CCA Key Personnel
+and Teachers.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Football</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+</li>
+<li>
+<p>You will receive notification from the school by Mid July 2025, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
+</li>
+<li>
+<p>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_Table_2025.jpg">
+</div>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
 The application is free-of-charge and will be open <strong>from 7 May 2025, 11am to 3<sup>rd </sup>June 2025, 3pm.</strong>
@@ -97,4 +256,8 @@ The application is free-of-charge and will be open <strong>from 7 May 2025, 11am
 <p><em>*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
 <h3>Selection Process &amp; Key Dates</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_Flow_2025.jpg">
+</div>
 <p></p>
