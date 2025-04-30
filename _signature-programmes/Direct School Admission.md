@@ -36,7 +36,7 @@ for admission to join our Bowen community:</p>
 </p>
 </li>
 </ul>
-<p>The programme taps on Bowen’s flagship ChANgeMakers programme.</p>
+<p>The programme taps on Bowen’s flagship <a href="/signature-programmes/bowen-changemakers/" rel="noopener nofollow" target="_blank">Changemaker's Programme</a>.</p>
 <p>ChANgeMakers aims to nurture Bowenians to advocate social causes and become
 value creators for Singapore through:</p>
 <ul data-tight="true" class="tight">
