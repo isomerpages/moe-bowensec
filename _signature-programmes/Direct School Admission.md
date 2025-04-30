@@ -4,7 +4,7 @@ permalink: /signature-programmes/direct-school-admission-1/
 description: ""
 variant: tiptap
 ---
-<h3>Direct School Admission (DSA) for 2026</h3>
+<h3>Direct School Admission (DSA) for Academic Year 2026</h3>
 <p>The annual DSA-Sec Exercise allows Primary 6 students to apply to a participating
 secondary school based on their diverse talents and potential, beyond their
 performance at the PSLE. Students can consider applying for a secondary
