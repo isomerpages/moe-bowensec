@@ -11,6 +11,10 @@ variant: markdown
 ![](/images/School%20Events/2025/2025_Speech_Day_web_copy.jpg)
 
 
+### Direct School Admission (DSA) to Bowen Secondary for Academice Year 2026
+Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen welcomes students who are currently in Primary 6 (or the equivalent) to apply under DSA-Sec for entry to Secondary 1. 
+[Click here to find out more&gt;&gt;&gt;](/signature-programmes/direct-school-admission-1/)Click here to find out more&gt;&gt;&gt;
+
 
 ### 2025 Weighted Assessment Information and Term Assessment Schedule
 1. [2025 Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374)
