@@ -235,7 +235,7 @@ assessing the potential of the applicants.</p>
 child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 </li>
 <li>
-<p>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025</strong>
+<p>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025.</strong>
 </p>
 </li>
 </ul>
