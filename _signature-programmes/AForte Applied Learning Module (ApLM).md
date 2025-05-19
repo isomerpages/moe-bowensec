@@ -57,8 +57,10 @@ offered at ITE, both full-time and apprenticeship programmes.</p>
 <li>
 <p><strong>Exploring career options</strong>&nbsp;– students attend Elective
 Modules (EM) conducted in school and at ITE, for a variety of areas including
-Aeronautics, E-Entrepreneurship, Food Science Culinary, Photography&nbsp;and&nbsp;Mechatronics.
-These modules serve to extend what they learn in their subjects and give
+Aeronautics, E-Entrepreneurship, Food Science Culinary, Photography&nbsp;and&nbsp;Mechatronics.</p>
+</li>
+<li>
+<p>These modules serve to extend what they learn in their subjects and give
 students insight into the jobs and industries that they might be interested
 in. From Sec 2 to Sec 4, students can experience up to 3 EMs.&nbsp; Students
 can also get to visit polytechnics and&nbsp;ITE,&nbsp;and take part in
@@ -79,7 +81,7 @@ now renamed as&nbsp;<strong>'CARE-bean Corner'</strong>.</p>
 <p><strong>'CARE-bean Corner'</strong>&nbsp;<strong>remains</strong>&nbsp;an
 outreach platform, engaging our students through an array of student-centred
 activities. At&nbsp;<strong>'CARE-bean Corner'</strong>, we availed to&nbsp;our
-students fun and learning resources*,* like gaming consoles and board games.
+students fun and learning resources like gaming consoles and board games.
 The school Care Team that is now running the space hopes to strengthen
 stronger school engagement for our students by providing a space that promotes
 healthy social interaction through fun and learning.</p>
