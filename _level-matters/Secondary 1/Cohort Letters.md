@@ -13,3 +13,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 2. [2025 Lower Sec Blended Learning (HBL) Letter to Parents](/files/Level%20Matters/S1/2025_BL_Infosheet_to_Lower_Sec_Parents.pdf)
 3. [2025 Sec 1 Information about Weighted Assessments Letter to Parents](/files/Level%20Matters/S1/2025__Letter_to_parents_WA_Sec_1.pdf)
 4. [2025 Sec 1 Start of Term 2 Letter](/files/Level%20Matters/S1/2025_Sec_1_Start_of_Term_2_Letter_Final.pdf)
+5. [2025 Sec 1 End of Term 2 Letter](/files/Level%20Matters/S1/2025_Sec_1_End_of_Term_2_Letter_Final.pdf)
