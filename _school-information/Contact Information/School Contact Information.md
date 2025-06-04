@@ -8,8 +8,8 @@ variant: markdown
 <img src="/images/About%20Bowen/Bowen%20Secondary%20School.jpg" style="width:70%" align="center">
 		 
 ### School Address
-**No. 2 Lorong Napiri Singapore 547529**  
-**Tel: 6385 9466**  
+**No. 2 Lorong Napiri Singapore 547529**  <br>
+**Tel : 6385 9466**  <br>
 **Fax: 6385 6559**<br>
 **Email:&nbsp;bowen_ss@moe.edu.sg**
 
