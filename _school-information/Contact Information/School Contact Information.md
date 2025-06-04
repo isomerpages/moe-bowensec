@@ -9,7 +9,7 @@ variant: markdown
 		 
 ### School Address
 **No. 2 Lorong Napiri Singapore 547529**  
-**Tel: 6385 9466**  
+**Tel (General Office Main Line): 6385 9466 **  
 **Fax: 6385 6559**<br>
 **Email:&nbsp;bowen_ss@moe.edu.sg**
 
