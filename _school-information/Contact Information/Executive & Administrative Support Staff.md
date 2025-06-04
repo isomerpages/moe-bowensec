@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Contact Information
 variant: tiptap
 ---
-<h3>Executive Administrative (EAS) Team</h3>
+<h3>Executive Administrative Staff (EAS) Team</h3>
+<p>Our Executive and Administrative Staff (EAS) play a vital role in supporting
+the smooth operation of various non-curriculum areas. They handle tasks
+like finance, HR, facility management, and ICT support. They work closely
+alongside our dedicated educators and ensure that our students have a safe
+and conducive learning environment to reach their full potential.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
