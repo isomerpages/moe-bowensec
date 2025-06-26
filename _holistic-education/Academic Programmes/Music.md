@@ -32,20 +32,18 @@ our students' musical and artistic learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Ainsley Liew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liew_en-li_ainsley@schools.gov.sg
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Jean Cai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>cai_junting@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
