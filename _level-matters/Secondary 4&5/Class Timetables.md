@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## 2025 Sec 4/5 Semester 2 Timetables
 
-2025 Sem 2 Class Timetables V2.1 (wef 30 June)
+2025 Sem 2 Class Timetables V1.1 (wef 30 June)
 
 [2025 Sem2 S4-S](/files/Class%20Timetables/2025_Term3_V1_1/2025_SEM2_S4S_TT_V1_1.pdf)
 
