@@ -226,20 +226,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,6 +349,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Sec 3
+<br>Asst Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Hairil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_noor_hairil_muhammad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
