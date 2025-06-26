@@ -72,10 +72,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Ainsley Liew</p>
+<p>Ms. Tan Shuming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liew_en-li_ainsley@schools.gov.sg</p>
+<p>tan_shuming@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
