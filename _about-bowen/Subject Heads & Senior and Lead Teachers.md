@@ -169,6 +169,20 @@ variant: tiptap
 <p>sheik_habib_noor@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Melissa Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH/ Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_huilin_melissa@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Senior and Lead Teachers</h2>
