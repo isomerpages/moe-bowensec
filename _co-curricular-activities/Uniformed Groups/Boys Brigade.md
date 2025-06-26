@@ -24,8 +24,7 @@ variant: tiptap
 <p>Teachers-in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Derrick Lim (I/C)
-<br>Mr. Ainsley Liew (2ᴺᴰ i/c)</p>
+<p>Mr. Derrick Lim (I/C)</p>
 </td>
 </tr>
 <tr>
