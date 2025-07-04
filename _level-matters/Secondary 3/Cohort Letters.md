@@ -15,4 +15,5 @@ These letters have been issued via Parents Gateway and are available for downloa
 3. [2025 Sec 3 Information about Weighted Assessments Letter to Parents](/files/Level%20Matters/S3/2025__Letter_to_parents_WA_Sec_3.pdf)
 4. [2025 Sec 3 Start of Term 2 Letter](/files/Level%20Matters/S3/2025_Sec_3_Start_of_Term_2_Letter.pdf)
 5. [2025 Sec 3 End of Term 2 Letter](/files/Level%20Matters/S3/2025_Sec_3_End_of_Term_2_Letter.pdf)
-6. [2025 Sec 3 Term Assessment 3 Schedule and Letter](/files/Level%20Matters/S3/2025_Sec_3_TA3_Schedule_and_Letter_to_Parents.pdf)
+6. [2025 Sec 3 Start of Term 3 Letter](/files/Level%20Matters/S3/2025_Sec_3_Start_of_Term_3_Letter_Final.pdf)
+7. [2025 Sec 3 Term Assessment 3 Schedule and Letter](/files/Level%20Matters/S3/2025_Sec_3_TA3_Schedule_and_Letter_to_Parents.pdf)
