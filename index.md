@@ -23,14 +23,6 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: 43rd Speech and Prize Presentation Day
-      id: infopic
-      button: MORE INFORMATION
-      url: /school-information/school-matters/news-n-events/
-      image: /images/School Events/2025/2025_Speech_Day_instagram_copy.jpg
-      alt: Image alt text
-      subtitle: 23 May 2025, FRIDAY
-  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
@@ -45,6 +37,10 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: O and N Prelims Schedule
+          description: Please click the link below to access the O an N Prelims Schedule
+          linktext: Learn More
+          url: /school-information/level-matters/secondary-4-5/assessment-schedules
         - title: Weighted Assessment Schedule
           description: Please click the link below to access the 2025 Weighted Assessment
             Schedule
