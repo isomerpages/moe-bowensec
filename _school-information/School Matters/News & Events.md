@@ -8,20 +8,20 @@ variant: markdown
 # Latest News and Events
 
 
+### End-of-Year Examination Schedule
+
+1. [2025 Sec 1 End Of Year Exam Timetable](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_1_EOY_Timetable_5_Aug.pdf)
+2. [2025 Sec 2 End Of Year Exam Timetable](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_2_EOY_Timetable__5_Aug.pdf)
+3. [2025 Sec 3 End Of Year Exam Timetable (updated 20 Aug)](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_3_EOY_Timetable_Rev_1.pdf)
+
+<hr>
+
 ### Start of Term Letters 2025
 
 1. [2025 Sec 1 Start of Term 3 Letter](/files/Level%20Matters/S1/2025_Sec_1_Start_of_Term_3_Letter_Final.pdf)
 2. [2025 Sec 2 Start of Term 3 Letter](/files/Level%20Matters/S2/2025_Sec_2_Start_of_Term_3_Letter_V2.pdf)
 3. [2025 Sec 3 Start of Term 3 Letter](/files/Level%20Matters/S3/2025_Sec_3_Start_of_Term_3_Letter_Final.pdf)
 4. [2025 Sec 4 and 5 Start of Term 3 Letter](/files/Level%20Matters/S4n5/2025_Sec_4n5_Start_of_Term_3_Letter_Final.pdf)
-
-<hr>
-
-### End-of-Year Examination Schedule
-
-1. [2025 Sec 1 End Of Year Exam Timetable](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_1_EOY_Timetable_5_Aug.pdf)
-2. [2025 Sec 2 End Of Year Exam Timetable](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_2_EOY_Timetable__5_Aug.pdf)
-3. [2025 Sec 3 End Of Year Exam Timetable (updated 20 Aug)](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_3_EOY_Timetable_Rev_1.pdf)
 
 <hr>
 
