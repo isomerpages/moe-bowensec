@@ -18,3 +18,5 @@ These letters have been issued via Parents Gateway and are available for downloa
 7. [2025 Sec 4n5 Start of Term 3 Letter](/files/Level%20Matters/S4n5/2025_Sec_4n5_Start_of_Term_3_Letter_Final.pdf)
 8. [2025 Sec 4/5 O Prelims Parent's Letter and Assessment Schedule](/files/Level%20Matters/S4n5/2025_Letter_to_Parents_O_Level_Prelim___Schedule.pdf)
 9. [2025 Sec 4 N Prelims Parents Letter and Assessment Schedule](/files/Level%20Matters/S4n5/2025_Letter_to_Parents_N_Level_Prelim___Schedule.pdf)
+10. [2025 S4N Start ofTerm 4 letter](/files/Level%20Matters/S4n5/2025_Start_T4_Letter_S4N_final.pdf)
+11. [2025 S4E/5N Start of Term 4 Letter ](/files/Level%20Matters/S4n5/2025_Start_T4_Letter_S4E5N_final.pdf)
