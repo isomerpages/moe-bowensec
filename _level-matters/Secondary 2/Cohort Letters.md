@@ -17,3 +17,4 @@ These letters have been issued via Parents Gateway and are available for downloa
 6. [2025 Sec 2 Start of Term 3 Letter](/files/Level%20Matters/S2/2025_Sec_2_Start_of_Term_3_Letter_V2.pdf)
 7. [2025 Sec 2 Term Assessment 3 Schedule and Letter](/files/Level%20Matters/S2/2025_Sec_2_TA3_Schedule_and_Letter_to_Parents.pdf)
 8. [2025 Sec 2 End of Year Letter to Parents](/files/Level%20Matters/S2/2025_Sec_2_EOY___Letter_to_Parents.pdf)
+9. [2025 Sec 2 Start Of Term 4 Letter](/files/Level%20Matters/S2/2025_Start_T4_Letter_S2_final.pdf)
