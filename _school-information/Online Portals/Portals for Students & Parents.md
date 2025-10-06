@@ -52,7 +52,7 @@ variant: markdown
 
 <img src="/images/icon_nyc.jpeg" style="width:25%">
 
-[National Youth Council of Singapore](https://www.nyc.gov.sg/en)
+[National Youth Council of Singapore](https://www.nyc.gov.sg)
 
 <hr>
 
