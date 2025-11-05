@@ -23,8 +23,8 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Bowen Secondary Open House
-      subtitle: Come visit us!
+      title: OPEN HOUSE (THE BOWEN EXPERIENCE)
+      subtitle: COME AND VISIT US!
       id: infopic
       description: 15 November 2025, Saturday 9-12pm
       button: THE BOWEN EXPERIENCE
