@@ -7,6 +7,13 @@ variant: markdown
 ---
 # Latest News and Events
 
+### THE BOWEN EXPERIENCE
+![](/images/School%20Events/2025/Open_House_Web_2025_copy.jpg)
+Join us on **Saturday, 15 November 2025, from 9.00am to 12.00pm** for a morning of discovery and connection! 
+Don’t miss our **Principal’s Talk at 9.30am and 10.45am** — we can’t wait to meet you!
+
+
+<hr>
 
 ### End-of-Year Examination Schedule
 
