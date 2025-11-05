@@ -23,13 +23,13 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: OPEN HOUSE  THE BOWEN EXPERIENCE
-      subtitle: SATURDAY, 15 Nov 9-12pm
+      title: OPEN HOUSE
+      subtitle: THE BOWEN EXPERIENCE
       id: infopic
-      description: Calling all parents and graduating Primary 6 students! Join us on
-        Saturday, 15 Nov from 9am to 12pm for an exciting morning of discovery
-        and connection.
-      button: THE BOWEN EXPERIENCE
+      description: Join us on Saturday, 15 Nov from 9am - 12pm for an exciting morning
+        of discovery and connection. Don’t miss our Principal’s Talk at 9.30am
+        and 10.45am
+      button: FIND OUT MORE
       url: /about-bowen/the-bowen-experience/
       image: /images/School Events/2025/Open_House_banner_01.jpg
       alt: Image alt text
