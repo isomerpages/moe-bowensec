@@ -24,10 +24,28 @@ out more about our school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/The Bowen Experience/Brochure_2025_pdf_Sec_1_1.jpg">
 </div>
-<p>
-<br>
-</p>
-<h2></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/The Bowen Experience/Brochure_2025_pdf_Sec_1_2.jpg">
+</div>
+<h2>Secondary 2</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/The Bowen Experience/Brochure_2025_pdf_Sec_2_1.jpg">
+</div>
+<h2><br>Secondary 3</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/The Bowen Experience/Brochure_2025_pdf_Sec_3_1.jpg">
+</div>
+<h2>Secondary 4</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/The Bowen Experience/Brochure_2025_pdf_Sec_4_1.jpg">
+</div>
+<h2>Top 4 Things to do at Bowen</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/The Bowen Experience/Brochure_2025_pdf_Top4_1.jpg">
+</div>
 <h2>This can be your Bowen Experience. Join us!</h2>
 <p>Download the <a href="/files/School Brochures/Bowen_Experience_Brochure_2025.pdf" rel="noopener nofollow" target="_blank">The Bowen Experience Brochure &gt;&gt;&gt;</a>
 </p>
