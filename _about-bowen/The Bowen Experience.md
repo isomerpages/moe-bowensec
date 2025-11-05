@@ -14,12 +14,16 @@ description: The Bowen Experience shares information anboit the Bowen Open House
 <p>Join us on <strong>Saturday, 15 November 2025, from 9.00am to 12.00pm</strong> for
 a morning of discovery and connection!</p>
 <p>Don’t miss our <strong>Principal’s Talk at 9.30am and 10.45am </strong>—
-we can’t wait to meet you!
-<br>
-<br>The Bowen Experience is our annual open house where graduating primary
+we can’t wait to meet you!</p>
+<h2>The Bowen Experience</h2>
+<p>The Bowen Experience is our annual open house where graduating primary
 6 students of the current academic year and their parents come and find
 out more about our school.</p>
-<h2>The Bowen Experience</h2>
+<h2>Secondary 1</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/The Bowen Experience/Brochure_2025_pdf_Sec_1_1.jpg">
+</div>
 <p>
 <br>
 </p>
