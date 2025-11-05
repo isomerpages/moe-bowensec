@@ -23,6 +23,15 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
+      title: Bowen Secondary Open House
+      subtitle: Come visit us!
+      id: infopic
+      description: 15 November 2025, Saturday 9-12pm
+      button: THE BOWEN EXPERIENCE
+      url: /about-bowen/the-bowen-experience/
+      image: /images/School Events/2025/Open_House_banner_01.jpg
+      alt: Image alt text
+  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
