@@ -69,14 +69,14 @@ Please refer to the information below. Please **create a user account** using yo
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm" width="491"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin" lang="EN-US">VISA / MASTER / Debit Cards / PayNow / NTUC BTS and CDAC e-voucher</span></p></td></tr><tr style="mso-yfti-irow:7;height:1.0cm"><td style="width:127.35pt;border:solid windowtext 1.0pt;border-top:
+  minor-latin" lang="EN-US">VISA / MASTER / Debit Cards / PayNow </span></p></td></tr><tr style="mso-yfti-irow:7;height:1.0cm"><td style="width:127.35pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm" width="170"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin" lang="EN-US">Payment mode for on-site purchase</span></p></td><td style="width:13.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm" width="491"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin" lang="EN-US">Cash / PayNow / NTUC BTS and CDAC e-voucher</span></p></td></tr><tr style="mso-yfti-irow:8;height:1.0cm"><td style="width:127.35pt;border:solid windowtext 1.0pt;border-top:
+  minor-latin" lang="EN-US">Cash / PayNow (Scan QR Code)/ NTUC Care BTS / LifeSG credits </span></p></td></tr><tr style="mso-yfti-irow:8;height:1.0cm"><td style="width:127.35pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm" width="170"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin" lang="EN-US">Contact No</span></p></td><td style="width:13.0cm;border-top:none;border-left:none;
