@@ -22,7 +22,7 @@ variant: markdown
 
 5.	For students who are coming back to school in Nov / Dec for CCA, school organized activities or to collect their textbooks / uniforms, they must be in school attire with proper shoes.
 
-6. The following 2025 Purchase Guide and Booklist are available for download in the links below
+6. The following 2026 Purchase Guide and Booklist are available for download in the links below
 
 * [2026 Online Purchase Guide](/files/Book%20Lists/2026/Online_Purchase_Guide.pdf)
 * [2026 Sec 3 Booklist](/files/Book%20Lists/2026/S3_Booklist_2026.pdf)
