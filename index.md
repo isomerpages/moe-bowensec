@@ -48,15 +48,14 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: 2026 Sec 2 - Sec 4/5 Booklist
+          description: Find the respective Sec 2 - 4/5 booklists at the level pages.
+          linktext: Learn more
+          url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
         - title: O and N Prelims Schedule
           description: Please click the link below to access the O an N Prelims Schedule
           linktext: Learn More
           url: /school-information/level-matters/secondary-4-5/assessment-schedules
-        - title: Weighted Assessment Schedule
-          description: Please click the link below to access the 2025 Weighted Assessment
-            Schedule
-          linktext: See Weighted Assessment Schedule
-          url: https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374
         - title: DSA to Bowen for 2026
           description: Bowen invites P6 students or equivalent to apply for DSA to Sec 1
             in 2026
