@@ -279,5 +279,6 @@ way. These gems are:</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <p></p>
