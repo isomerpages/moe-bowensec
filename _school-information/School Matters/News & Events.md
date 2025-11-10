@@ -15,11 +15,13 @@ Don’t miss our **Principal’s Talk at 9.30am and 10.45am**  — we can’t wa
 
 <hr>
 
-### End-of-Year Examination Schedule
+### 2026 Sec 2 -4/5 Booklist
 
-1. [2025 Sec 1 End Of Year Exam Timetable](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_1_EOY_Timetable_5_Aug.pdf)
-2. [2025 Sec 2 End Of Year Exam Timetable](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_2_EOY_Timetable__5_Aug.pdf)
-3. [2025 Sec 3 End Of Year Exam Timetable (updated 20 Aug)](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_3_EOY_Timetable_Rev_1.pdf)
+1. [2026 Online Purchase Guide for Books and Uniform](/files/Book%20Lists/2026/Online_Purchase_Guide.pdf)
+2. [2026 Sec 2 Booklist](/files/Book%20Lists/2026/S2_Booklist_2026.pdf)
+3. [2026 Sec 3 Booklist](/files/Book%20Lists/2026/S3_Booklist_2026.pdf)
+4. [2026 Sec 4/5 Booklist](/files/Book%20Lists/2026/S4_Booklist_2026.pdf)
+5. [2026 Uniform Price List](/files/Book%20Lists/2026/Bowen_Sec_Uniform_Price_List.pdf)
 
 <hr>
 
