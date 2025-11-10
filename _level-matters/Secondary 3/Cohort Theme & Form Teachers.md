@@ -72,10 +72,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Tan Shuming</p>
+<p>Ms. Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_shuming@schools.gov.sg</p>
+<p>kavitha_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -84,10 +84,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Alvin Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>alvin_chong_chee_leong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -96,10 +96,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Ken Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>foo_sea_win@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -108,10 +108,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Chua Shi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_shi_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -120,10 +120,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Melissa Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chong_huilin_melissa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -132,21 +132,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Dominic Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>dominic_goh_buan_chuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -155,10 +144,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Ng Wah Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_wah_kian@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -167,22 +156,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Jermaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>lee_soo_sian_jermaine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -191,10 +168,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm. Uma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>uma_thiruselvam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -203,10 +180,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Justin Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>justin_chong_jin_fatt@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -215,10 +192,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Clara Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chan_peng_fong_clara@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -227,10 +204,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm. Ng Gek Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_gek_hwa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -239,10 +216,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Angie Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>goh_see_ngee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -251,10 +228,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Paul Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_keng_soon_paul@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -263,10 +240,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm. Dorothy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_pei_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -275,10 +252,10 @@ in their abilities and strive for excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs. Rebecca Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_yiwen_rebecca@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
