@@ -17,7 +17,7 @@ variant: tiptap
 <p>T.B.A.</p>
 <h4>Class Names</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Level%20Matters/S3/2024%20s3%20to%20sparkle%20motto.png">
+<img style="width: 100%" height="auto" width="100%" alt="To sparkle" src="/images/Level Matters/S1/To_Sparkle_Transp.png">
 </div>
 <p>Our classes are named after gems. These gems are:&nbsp;<strong>Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar</strong>&nbsp;and&nbsp;<strong>Emerald</strong>.
 They form the acronym “To SPARKLE” as we believe each class is a gem of
