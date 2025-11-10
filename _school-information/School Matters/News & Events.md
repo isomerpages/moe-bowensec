@@ -15,7 +15,7 @@ Don’t miss our **Principal’s Talk at 9.30am and 10.45am**  — we can’t wa
 
 <hr>
 
-### 2026 Sec 2 -4/5 Booklist
+### 2026 Sec 2 - 4/5 Booklist
 
 1. [2026 Online Purchase Guide for Books and Uniform](/files/Book%20Lists/2026/Online_Purchase_Guide.pdf)
 2. [2026 Sec 2 Booklist](/files/Book%20Lists/2026/S2_Booklist_2026.pdf)
