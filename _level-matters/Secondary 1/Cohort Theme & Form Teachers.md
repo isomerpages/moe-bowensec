@@ -51,7 +51,7 @@ its own and will sparkle in its unique way.</p>
 <p>Ms. Suraiya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>suraiya_izharul@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mdm. Joyce Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>toh_lin_lee_joyce@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -72,10 +72,10 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Irsyad</p>
+<p>Mr. Mohd. Irsyad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mohamad_irsyad@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mrs. Corinne Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>liew_chee_liang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mr. Chong How Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chong_how_kiat@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ its own and will sparkle in its unique way.</p>
 <p>Ms. Monica Suan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>suan_ching_yeah_monica@</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ its own and will sparkle in its unique way.</p>
 <p>Ms. Eve Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lai_yanging_eve@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ its own and will sparkle in its unique way.</p>
 <p>Dr. Banu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pichandi_banumathi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ its own and will sparkle in its unique way.</p>
 <p>Ms. Norazila</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>norazila_razali@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mrs. Sandra Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_cai_ling_sandra@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ its own and will sparkle in its unique way.</p>
 <p>Ms. Jean Cai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>cai_junting@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mdm. Hu Shuangxi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hu_shuangxi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mdm. Lidia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>noorlidiawati_said@</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mr. Winston Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_seng_wee_winston@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mrs. Adeline Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wee_siah_imm_adeline@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ its own and will sparkle in its unique way.</p>
 <p>Ms. Tan Shuming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_shuming@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
