@@ -66,7 +66,7 @@ way.&nbsp;</p>
 <p>Mrs. Jessica Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>jessica_tan_sze@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ way.&nbsp;</p>
 <p>Mr. Gary See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>gary_see_gim_boon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ way.&nbsp;</p>
 <p>Mrs. Audrey Gan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>audrey_tan_seow_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -99,10 +99,10 @@ way.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Habib</p>
+<p>Mr. Sheik Habib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sheik_habib_noor@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ way.&nbsp;</p>
 <p>Mr. Chen QingHua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_qinghua@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ way.&nbsp;</p>
 <p>Mrs. Li Seow Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_seow_koon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ way.&nbsp;</p>
 <p>Ms. Rachel Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_su_ern_rachel@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ way.&nbsp;</p>
 <p>Mr Dhiwahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>dhiwahar_manivanan@</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ way.&nbsp;</p>
 <p>Ms. Stacey Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ang_ting_ting@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ way.&nbsp;</p>
 <p>Mr. Farid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mohd_farid_b_mohamad@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ way.&nbsp;</p>
 <p>Ms. Alamel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>alamel_moghan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ way.&nbsp;</p>
 <p>Ms. Anne Marie Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>anne_marie_chua@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@ way.&nbsp;</p>
 <p>Mr. Derrick Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_soon_ben_derrick@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ way.&nbsp;</p>
 <p>Ms. Lee Yu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_yu_jie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ way.&nbsp;</p>
 <p>Mrs. Lee Suping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_su_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ way.&nbsp;</p>
 <p>Ms. Zafirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurzafirah_azahari@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ way.&nbsp;</p>
 <p>Mrs. Wong Swee Keng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>woon_swee_keng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
