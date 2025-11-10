@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary 3
 variant: tiptap
 ---
-<h3>Secondary 2 Year Head (2026 Academic Year)</h3>
+<h3>Secondary 3 Year Head (2026 Academic Year)</h3>
 <p><strong>Mrs. Chan Soo Yong </strong>
 <br>Year Head
 <br>Secondary 3 (2026 Academic Year)
