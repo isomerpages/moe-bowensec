@@ -12,26 +12,9 @@ variant: tiptap
 <br>Secondary 1&nbsp; (2026 Academic Year)
 <br><a href="muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estelle_chong_chyi_shin@schools.gov.sg</a>
 </p>
-<p><strong>Ms. Estelle Chong</strong>
-<br>Year Head
-<br>Secondary 1&nbsp; (2026 Academic Year)
-<br><a href="estelle_chong_chyi_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estelle_chong_chyi_shin@schools.gov.sg</a>
-</p>
 <hr>
 <h3>Sec 1 Cohort Theme</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Level%20Matters/S3/2024_S3_CTheme.png">
-</div>
-<p>In Upper Secondary, students will embark on a transformative journey where
-they further explore their passions, take on challenges, and seize opportunities.</p>
-<p>The phase <strong>Bowen Empower &amp; Elevate</strong> hopes to empower
-them to set goals, make informed decisions, and develop independence to
-elevate their personal and academic growth.</p>
-<p>They will discover their interests as they pursue subjects at a more advanced
-level, engage in diverse activities, and develop leadership skills, all
-while navigating their journey of learning with the support of their peers.</p>
-<p>Bowen Empower and Elevate (B.E.E) is a call to take action to ‘BEE’ the
-best version of themselves.</p>
+<p>T.B.A.</p>
 <h4>Class Names</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Level%20Matters/S3/2024%20s3%20to%20sparkle%20motto.png">
