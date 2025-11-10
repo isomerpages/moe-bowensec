@@ -120,7 +120,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lai Yan Qing Eve</p>
+<p>Ms. Eve Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -192,7 +192,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lidia</p>
+<p>Mdm. Lidia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
