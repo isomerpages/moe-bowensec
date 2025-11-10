@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Secondary 1
 variant: tiptap
 ---
-<h3>Secondary 1 Year Heads (2026 Academic Year)</h3>
-<p></p>
+<h3>Secondary 1 Year Head (2026 Academic Year)</h3>
 <p><strong>Mr. Muhammad Noor Hairil</strong>
 <br>Year Head
 <br>Secondary 1&nbsp; (2026 Academic Year)
-<br><a href="muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estelle_chong_chyi_shin@schools.gov.sg</a>
+<br><a href="mailto:muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_noor_hairil_muhammad@schools.gov.sg</a>
 </p>
 <hr>
 <h3>Sec 1 Cohort Theme</h3>
