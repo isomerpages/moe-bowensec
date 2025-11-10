@@ -48,7 +48,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Suraiya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -60,7 +60,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm. Joyce Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -72,7 +72,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Irsyad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -84,7 +84,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs. Corinne Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -96,7 +96,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Chong How Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -108,7 +108,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Monica Suan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -120,7 +120,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lai Yan Qing Eve</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -132,7 +132,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr. Banu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,7 +144,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Norazila</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -156,7 +156,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs. Sandra Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -168,7 +168,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Jean Cai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -180,7 +180,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm. Hu Shuangxi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -192,7 +192,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lidia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -204,18 +204,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Winston Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -227,7 +216,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs. Adeline Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -239,7 +228,7 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Tan Shuming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -247,4 +236,6 @@ its own and will sparkle in its unique way.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <p></p>
