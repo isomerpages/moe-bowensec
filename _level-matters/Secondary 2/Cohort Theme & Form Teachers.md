@@ -92,7 +92,7 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ler Kim Har</p>
+<p>Ms. Ler Kim Har</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ler_kim_har@schools.gov.sg</p>
@@ -104,10 +104,10 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Shi Mengchen</p>
+<p>Ms. Elliza Tang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shi_mengchen@schools.gov.sg</p>
+<p>tang_sook_ee_elliza@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Elliza Tang</p>
+<p>Ms. Shi Mengchen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_sook_ee_elliza@schools.gov.sg</p>
+<p>shi_mengchen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -140,10 +140,21 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Winston Chua</p>
+<p>Mr. Poon ZiLi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_seng_wee_winston@schools.gov.sg</p>
+<p>poon_zi_li@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Serene Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>serene_goh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -236,10 +247,10 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Banu</p>
+<p>Ms. Chia Choi Queen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pichandi_banumathi@schools.gov.sg</p>
+<p>chia_choi_queen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -247,10 +258,10 @@ way. These gems are:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Paul Lim</p>
+<p>Mdm. Mah Chwee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_keng_soon_paul@schools.gov.sg</p>
+<p>mah_chwee_peng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +285,7 @@ way. These gems are:</p>
 <p>Mr. Jackson Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_chip_khiang_jackson@schools.gov.sg</p>
+<p>jackson@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
