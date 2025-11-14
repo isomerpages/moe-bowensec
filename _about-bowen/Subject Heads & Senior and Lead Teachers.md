@@ -132,24 +132,10 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Randy Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting SH / Student-Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_chen_long_randy@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr. Mohamad Irsyad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting SH / Humanities</p>
+<p>SH / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamad_irsyad@schools.gov.sg</p>
@@ -157,13 +143,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Sheik Habib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting SH / Mathematics</p>
+<p>SH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sheik_habib_noor@schools.gov.sg</p>
@@ -171,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Melissa Chong</p>
