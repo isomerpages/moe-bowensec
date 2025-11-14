@@ -157,7 +157,7 @@ variant: tiptap
 <p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Astee Goh</p>
+<p>Mrs. Astee Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_shin_ee_astee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shin_ee_astee@schools.gov.sg</a>
