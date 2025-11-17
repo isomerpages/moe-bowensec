@@ -13,8 +13,9 @@ variant: tiptap
 </p>
 <hr>
 <h3>Sec 1 Cohort Theme<br>Spark your Bowen Experience</h3>
-<p>Find your light. Every student begins with a spark — curiosity, courage,
-and character waiting to grow.</p>
+<p><strong>Find your light. </strong>
+<br>Every student begins with a spark — curiosity, courage, and character
+waiting to grow.</p>
 <h3>Motto<br>Learn with Heart, Serve with Light</h3>
 <p></p>
 <h3>Class Names</h3>
