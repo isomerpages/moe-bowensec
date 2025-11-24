@@ -10,7 +10,41 @@ Here you can find information about School Fees, Financial Assistance Scheme (FA
 
 ### School Fees
 
-Bowen Secondary School is a government school. As such the monthly fees for Singapore Citizens, Permanent Residents or international students are shown in the table below:
+Bowen Secondary School is a government school. The school fees tier for 2026 will be as follows:
+
+##### Singapore Citizens  
+
+The maximum monthly fee is $25 per month.
+
+Monthly fees in government or government-aided schools have 2 different components:
+
+*   School fees are set by MOE and go towards government revenue. These fees are different for Singapore Citizens, Singapore Permanent Residents, and international students.
+    
+*   Miscellaneous fees are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.
+    
+*   Singapore Citizens can choose to pay the miscellaneous fees from their Edusave account by completing the online Edusave Standing Order form with either parent's SingPass login. They may also be eligible for financial assistance or merit-based awards and scholarships.
+    
+
+##### Permanent Residents  
+The maximum monthly fee is $700 per month.
+
+##### International students (ASEAN)  
+The maximum monthly fee is $1,111.80 per month.<br>
+The 11 member countries of the Association of Southeast Asian Nations (ASEAN) are Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste, and Vietnam.&nbsp;
+
+ ##### International students (non-ASEAN)
+The maximum monthly fee is $2,211.80 per month.<br>
+Examples of non-ASEAN countries include China, Japan, South Korea, Australia, India, New Zealand, Russia, the United States, Sri Lanka, and Serbia
+
+
+##### How school fees are structured for PR, IS (ASEAN) and IS (non-ASEAN)
+
+Monthly fees in government or government-aided schools have 2 diƯerent components:
+
+* School fees are set by MOE and go towards government revenue. These fees are different for Singapore Citizens, Singapore Permanent Residents, and international students.
+* Miscellaneous fees are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.
+    
+
       
 <table style="margin-left:2.0pt;border-collapse:collapse;mso-table-layout-alt:
  fixed;border:none;mso-border-alt:solid white 1.5pt;mso-border-themecolor:background1;
