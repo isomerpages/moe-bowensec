@@ -425,9 +425,9 @@ e. Select 'Education' <br>
 f. Select 'MOE' <br>
 g. Select 'Student Bill Payment' <br>
 
-#####  **Cash or cheque at school General Office**
+#####  **Cash Payment at school General Office**
 
-Payment can be made in cash or by cheque at the school General Office from Mon to Thu, from 9am to 3pm. 
+Payment can be made in cash at the school General Office from Mon to Thu, 9am to 3pm. 
 
 ### Payment Timeline
 
@@ -461,9 +461,7 @@ Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36b
 3. [2026 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_ML.pdf)
 4. [2026 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_TL.pdf)
 
-### FAS Application Procedures
-
-  
+### FAS Application Procedures 
 Parents are to apply for MOE FAS by completing the FAS application form **online** using the e-FAS form which is available on Parents Gateway (under ‘Services’ tab – Financial Assistance) or through the e-FAS link/ QR code below, via Singpass login.&nbsp;
 
 Parents can also visit MOE website at the FAS FAQs and the Income Family Micro-Insurance Scheme (IFMIS), a free insurance scheme provided to MOE FAS recipients by NTUC Income.
