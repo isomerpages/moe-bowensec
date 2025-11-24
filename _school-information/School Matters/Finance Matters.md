@@ -452,7 +452,7 @@ To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;
 
 ### MOE 2026 FAS Pamphlet
 
-1. [2025 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2025_EL_FAS_pamphlet.pdf)
+Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36be287889c6)&nbsp;or through the 'Services' tab in the Parents Gateway app
 
 
 
