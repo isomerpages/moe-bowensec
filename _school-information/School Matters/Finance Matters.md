@@ -449,10 +449,6 @@ Students who require financial support for school fees, textbooks, uniforms or m
 
 To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;and meet the following criteria:
 
-You can find more information via the MOE website
-https://www.moe.gov.sg/financial-matters/financial-assistance
-
-
 ### MOE 2026 FAS Pamphlet
 
 Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36be287889c6)&nbsp;or through the 'Services' tab in the Parents Gateway app
@@ -468,19 +464,14 @@ Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36b
 ### FAS Application Procedures
 
   
-Parents are to apply for MOE FAS by completing the FAS application form on **hardcopy** (available at the General Office) or **online** using the e-FAS form which is available on Parents Gateway (under ‘Services’ tab – Financial Assistance) or through the e-FAS link/ QR code below, via Singpass login.&nbsp;
+Parents are to apply for MOE FAS by completing the FAS application form **online** using the e-FAS form which is available on Parents Gateway (under ‘Services’ tab – Financial Assistance) or through the e-FAS link/ QR code below, via Singpass login.&nbsp;
 
-Parents can also visit MOE website at 
-for the FAS FAQs and the Income Family Micro-Insurance Scheme (IFMIS), a free insurance scheme provided to MOE FAS recipients by NTUC Income.
+Parents can also visit MOE website at the FAS FAQs and the Income Family Micro-Insurance Scheme (IFMIS), a free insurance scheme provided to MOE FAS recipients by NTUC Income.
 
 Link: [_https://www.moe.gov.sg/financial-matters/financial-assistance_](https://www.moe.gov.sg/financial-matters/financial-assistance) 
 
 If you have any query with regards to financial assistance, please contact: 
-
-**Mdm Faridah <br> 
-Administration Manager<br>
-Bowen Secondary School<br>
-Tel : 6385 9466**
+**Bowen General Office <br> Tel : 6385 9466**
 
 <hr>
 
