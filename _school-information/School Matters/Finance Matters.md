@@ -30,7 +30,7 @@ The maximum monthly fee is $700 per month.
 
 ##### International students (ASEAN)  
 The maximum monthly fee is $1,111.80 per month.<br>
-The 11 member countries of the Association of Southeast Asian Nations (ASEAN) are Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste, and Vietnam.&nbsp;
+The 11 member countries of the Association of Southeast Asian Nations (ASEAN) are Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste, and Vietnam.
 
  ##### International students (non-ASEAN)
 The maximum monthly fee is $2,211.80 per month.<br>
