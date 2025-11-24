@@ -409,23 +409,25 @@ Upon receiving the bill from MOE / School, the parent can pay using the SGQR cod
 
 ##### **AXS**  
 Parents can also pay through any of the AXS payment channels as follows:
-*   AXS m-Station app 
-Download the AXS Mobile App from App Store or Google Play. Create an account using your mobile number.      
-*   AXS Machines
-Visit [https://axs.com.sg/](https://axs.com.sg/)
-  
 
-*   SingPost SAM Kiosks
+![](/images/School%20Information/Finance%20Matters/axs_payment.jpg)
 
-a. Locate your nearest SAM kiosk at https://www.singpost.com/locate-us.
-b. At the kiosk, Select 'Payments'.
-c. Select 'Ministry of Education' under Education.
-d. Select 'Student Bill'.
-e. Follow the on-screen instructions.
+*   **AXS m-Station app** <br>Download the AXS Mobile App from App Store or Google Play. Create an account using your mobile number.   
 
-*   **Cash or cheque at school General Office**
+*   **AXS Web** <br>Visit [https://axs.com.sg/](https://axs.com.sg/) and follow the onscreen instructions.
 
-Payment can be made in cash or by cheque at the school General Office from Mon to Thu, from 8am to 4pm. Cheque payment should be made payable to ‘Ministry of Education’.
+*  ** AXS Station**<br>  
+a. Locate your nearest AXS Station <br>
+b. Select 'AXS Services'.<br>
+c. Select 'Pay Bills now' <br>
+d. Select 'e-Services' <br>
+e. Select 'Education' <br>
+f. Select 'MOE' <br>
+g. Select 'Student Bill Payment' <br>
+
+#####  **Cash or cheque at school General Office**
+
+Payment can be made in cash or by cheque at the school General Office from Mon to Thu, from 9am to 3pm. 
 
 ### Payment Timeline
 
@@ -456,7 +458,7 @@ To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;
 4. [2025 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2025_TL_FAS_pamphlet.pdf)
 
 
-### 2025 FAS Application Form
+### 2026 FAS Application Form
 1. [2025 FAS Application Form](/files/Admin%20and%20Finance/FAS%20Matters/2025_FAS_Application_Form.pdf)
 
 ### FAS Application Procedures
