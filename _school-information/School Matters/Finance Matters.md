@@ -450,16 +450,15 @@ Students who require financial support for school fees, textbooks, uniforms or m
 To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;and meet the following criteria:
 
 
-### MOE 2025 FAS Pamphlet
+### MOE 2026 FAS Pamphlet
 
 1. [2025 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2025_EL_FAS_pamphlet.pdf)
-2. [2025 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2025_CHN_FAS_pamphlet.pdf)
-3. [2025 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2025_MY_FAS_pamphlet.pdf)
-4. [2025 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2025_TL_FAS_pamphlet.pdf)
+
 
 
 ### 2026 FAS Application Form
-1. [2025 FAS Application Form](/files/Admin%20and%20Finance/FAS%20Matters/2025_FAS_Application_Form.pdf)
+1. [2026 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_EL.pdf)
+2. [2026 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_CL.pdf)
 
 ### FAS Application Procedures
 
