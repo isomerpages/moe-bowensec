@@ -12,9 +12,13 @@ variant: tiptap
 <br><a href="mailto:muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_noor_hairil_muhammad@schools.gov.sg</a>
 </p>
 <hr>
-<h3>Sec 1 Cohort Theme</h3>
-<p>T.B.A.</p>
-<h4>Class Names</h4>
+<h3>Cohort Motto<br>Learn with Heart, Serve with Light</h3>
+<h3>Cohort Theme<br>Spark your Bowen Experience</h3>
+<p><strong>Find your light. </strong>
+<br>Every student begins with a spark — curiosity, courage, and character
+waiting to grow.</p>
+<p></p>
+<h3>Class Names</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="To sparkle" src="/images/Level Matters/S1/To_Sparkle_Transp.png">
 </div>

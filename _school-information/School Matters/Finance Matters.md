@@ -10,7 +10,41 @@ Here you can find information about School Fees, Financial Assistance Scheme (FA
 
 ### School Fees
 
-Bowen Secondary School (BWSS) is a government school. As such the monthly fees in Bowen for Singapore Citizens, Permanent Residents or international students are shown in the table below:
+Bowen Secondary School is a government school. The school fees tier for 2026 will be as follows:
+
+##### Singapore Citizens  
+
+The maximum monthly fee is $25 per month.
+
+Monthly fees in government or government-aided schools have 2 different components:
+
+*   School fees are set by MOE and go towards government revenue. These fees are different for Singapore Citizens, Singapore Permanent Residents, and international students.
+    
+*   Miscellaneous fees are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.
+    
+*   Singapore Citizens can choose to pay the miscellaneous fees from their Edusave account by completing the online Edusave Standing Order form with either parent's SingPass login. They may also be eligible for financial assistance or merit-based awards and scholarships.
+    
+
+##### Permanent Residents  
+The maximum monthly fee is $700 per month.
+
+##### International students (ASEAN)  
+The maximum monthly fee is $1,111.80 per month.<br>
+The 11 member countries of the Association of Southeast Asian Nations (ASEAN) are Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste, and Vietnam.&nbsp;
+
+ ##### International students (non-ASEAN)
+The maximum monthly fee is $2,211.80 per month.<br>
+Examples of non-ASEAN countries include China, Japan, South Korea, Australia, India, New Zealand, Russia, the United States, Sri Lanka, and Serbia
+
+
+##### How school fees are structured for PR, IS (ASEAN) and IS (non-ASEAN)
+
+Monthly fees in government or government-aided schools have 2 diƯerent components:
+
+* School fees are set by MOE and go towards government revenue. These fees are different for Singapore Citizens, Singapore Permanent Residents, and international students.
+* Miscellaneous fees are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.
+    
+
       
 <table style="margin-left:2.0pt;border-collapse:collapse;mso-table-layout-alt:
  fixed;border:none;mso-border-alt:solid white 1.5pt;mso-border-themecolor:background1;
@@ -305,7 +339,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$1,050</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
+  color:black" lang="EN-GB">$1,051.80</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
   border-bottom:solid white 1.5pt;mso-border-bottom-themecolor:background1;
   border-right:solid white 1.5pt;mso-border-right-themecolor:background1;
   mso-border-top-alt:solid white 1.5pt;mso-border-top-themecolor:background1;
@@ -315,7 +349,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$1,110</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:28.85pt"><td style="width:96.2pt;border-top:none;border-left:solid white 1.0pt;
+  color:black" lang="EN-GB">$1,111.80</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:28.85pt"><td style="width:96.2pt;border-top:none;border-left:solid white 1.0pt;
   mso-border-left-themecolor:background1;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.5pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white 1.5pt;
@@ -356,7 +390,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
   &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$2,070</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
+  color:black" lang="EN-GB">$2,071.80</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
   border-bottom:solid white 1.5pt;mso-border-bottom-themecolor:background1;
   border-right:solid white 1.5pt;mso-border-right-themecolor:background1;
   mso-border-top-alt:solid white 1.5pt;mso-border-top-themecolor:background1;
@@ -366,11 +400,11 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
   &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$2,210</span></p></td></tr></tbody></table>
+  color:black" lang="EN-GB">$2,211.80</span></p></td></tr></tbody></table>
 
 * For IS (ASEAN) and IS (Non-ASEAN), school fees are inclusive of GST.
 * For IS, there will be a 9% GST imposed on the miscellaneous fees.
-* The Ministry of Education (MOE) has increased school fees for Singapore permanent residents (PR) and international students (IS) in Government and Government-Aided schools for the period 2024 to 2026.  [Read the MOE Press Release here &gt;&gt;&gt;](https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026)
+* The Ministry of Education (MOE) has increased school fees for Singapore permanent residents (PR) and international students (IS) in Government and Government-Aided schools for the period 2024 to 2026. <br>[Read the MOE Press Release here &gt;&gt;&gt;](https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026)
 
 MOE Links  
 * [School Fees @ MOE website &gt;&gt;&gt;](https://www.moe.gov.sg/financial-matters/fees)&nbsp;  
@@ -381,17 +415,16 @@ MOE Links
 Parents can choose to pay the monthly school fees by the various methods:  
   
 
-*   **eGIRO**  
-    Parents who are account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO.&nbsp;
-
-*   Bank of China (BOC)
-*   Citibank
-*   DBS Bank or POSB
-*   Maybank
-*   Oversea-Chinese Banking Corporation Limited (OCBC)
-*   Standard Chartered Bank (SCB)
-*   Hongkong and Shanghai Banking Corporation Limited(HSBC)
-*   United Overseas Bank (UOB)
+##### **eGIRO**  
+Parents who are account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO.&nbsp;
+* Bank of China (BOC)
+* Citibank
+* DBS Bank or POSB
+* Maybank
+* Oversea-Chinese Banking Corporation Limited (OCBC)
+* Standard Chartered Bank (SCB)
+* Hongkong and Shanghai Banking Corporation Limited(HSBC)
+* United Overseas Bank (UOB)
 
 To sign up, please follow the instructions at the following MOE portal :&nbsp;
 [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)
@@ -399,48 +432,36 @@ To sign up, please follow the instructions at the following MOE portal :&nbsp;
   
 
 *   **GIRO**  
-    To sign up for GIRO using other bank accounts, please complete the GIRO application form and submit to the school General Office.
+    To sign up for GIRO using other bank accounts, please complete the GIRO application form and submit to the school General Office. 
 
-  
-
-*   **SGQR**  
+#####  **SGQR**  
 Upon receiving the bill from MOE / School, the parent can pay using the SGQR code presented on the bill itself, by following the instructions as given below.
+* Launch your preferred payment app from those shown in the bill.
+* Scan the SGQR.
+* Check that you are paying to 'Ministry of Education'.
+* Follow the on-screen instructions.
 
-*   Launch your preferred payment app from those shown in the bill.
-*   Scan the SGQR.
-*   Check that you are paying to 'Ministry of Education'.
-*   Follow the on-screen instructions.
+##### **AXS**  
+Parents can also pay through any of the AXS payment channels as follows:
 
-  
+![](/images/School%20Information/Finance%20Matters/axs_payment.jpg)
 
-*   **SingPost Payment Channels**  
-Parents can also pay through any of the SingPost payment channels as follows:
+*   **AXS m-Station app** <br>Download the AXS Mobile App from App Store or Google Play. Create an account using your mobile number.   
 
-  
+*   **AXS Web** <br>Visit [https://axs.com.sg/](https://axs.com.sg/) and follow the onscreen instructions.
 
-*   SingPost Mobile App  
-    Download the SingPost Mobile App from App Store or Google Play. Create an account using your mobile number.  
-      
-    
-*   SingPost SAM Web
+*  ** AXS Station**<br>  
+a. Locate your nearest AXS Station <br>
+b. Select 'AXS Services'.<br>
+c. Select 'Pay Bills now' <br>
+d. Select 'e-Services' <br>
+e. Select 'Education' <br>
+f. Select 'MOE' <br>
+g. Select 'Student Bill Payment' <br>
 
-a. Visit https://www.mysam.sg.
-b. Create and log in to your SAM account.
-c. Follow the onscreen instructions.
+#####  **Cash Payment at school General Office**
 
-  
-
-*   SingPost SAM Kiosks
-
-a. Locate your nearest SAM kiosk at https://www.singpost.com/locate-us.
-b. At the kiosk, Select 'Payments'.
-c. Select 'Ministry of Education' under Education.
-d. Select 'Student Bill'.
-e. Follow the on-screen instructions.
-
-*   **Cash or cheque at school General Office**
-
-Payment can be made in cash or by cheque at the school General Office from Mon to Thu, from 8am to 4pm. Cheque payment should be made payable to ‘Ministry of Education’.
+Payment can be made in cash at the school General Office from Mon to Thu, 9am to 3pm. 
 
 ### Payment Timeline
 
@@ -462,41 +483,32 @@ Students who require financial support for school fees, textbooks, uniforms or m
 
 To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;and meet the following criteria:
 
+### MOE 2026 FAS Pamphlet
 
-### MOE 2025 FAS Pamphlet
-
-1. [2025 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2025_EL_FAS_pamphlet.pdf)
-2. [2025 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2025_CHN_FAS_pamphlet.pdf)
-3. [2025 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2025_MY_FAS_pamphlet.pdf)
-4. [2025 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2025_TL_FAS_pamphlet.pdf)
+Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36be287889c6)&nbsp;or through the 'Services' tab in the Parents Gateway app
 
 
-### 2025 FAS Application Form
-1. [2025 FAS Application Form](/files/Admin%20and%20Finance/FAS%20Matters/2025_FAS_Application_Form.pdf)
 
-### FAS Application Procedures
+### 2026 FAS Application Form
+1. [2026 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_EL.pdf)
+2. [2026 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_CL.pdf)
+3. [2026 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_ML.pdf)
+4. [2026 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_TL.pdf)
 
-  
-Parents are to apply for MOE FAS by completing the FAS application form on **hardcopy** (available at the General Office) or **online** using the e-FAS form which is available on Parents Gateway (under ‘Services’ tab – Financial Assistance) or through the e-FAS link/ QR code below, via Singpass login.&nbsp;
+### FAS Application Procedures 
+Parents are to apply for MOE FAS by completing the FAS application form **online** using the e-FAS form which is available on Parents Gateway (under ‘Services’ tab – Financial Assistance) or through the e-FAS link/ QR code below, via Singpass login.&nbsp;
 
-Parents can also visit MOE website at 
-for the FAS FAQs and the Income Family Micro-Insurance Scheme (IFMIS), a free insurance scheme provided to MOE FAS recipients by NTUC Income.
+Parents can also visit MOE website at the FAS FAQs and the Income Family Micro-Insurance Scheme (IFMIS), a free insurance scheme provided to MOE FAS recipients by NTUC Income.
 
 Link: [_https://www.moe.gov.sg/financial-matters/financial-assistance_](https://www.moe.gov.sg/financial-matters/financial-assistance) 
 
 If you have any query with regards to financial assistance, please contact: 
-
-**Mdm Faridah <br> 
-Administration Manager<br>
-Bowen Secondary School<br>
-Tel : 6385 9466**
+**Bowen General Office <br> Tel : 6385 9466**
 
 <hr>
 
 ### Student Lockers
 
 Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school.&nbsp;
-
-  
 
 The lockers are strategically placed outside their respective classrooms and are allocated based on the students class index numbers. The lockers are equipped with a combination lock and students may preset their personal pin for the duration of use. Students may use their assigned lockers for the current academic year and the will be reassigned on the last day of school.
