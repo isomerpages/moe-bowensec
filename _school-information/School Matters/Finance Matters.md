@@ -34,7 +34,7 @@ The 11 member countries of the Association of Southeast Asian Nations (ASEAN) ar
 
  ##### International students (non-ASEAN)
 The maximum monthly fee is $2,211.80 per month.<br>
-Examples of non-ASEAN countries include China, Japan, South Korea, Australia, India, New Zealand, Russia, the United States, Sri Lanka, and Serbia
+Examples of non-ASEAN countries include China, Japan, South Korea, Australia, India, New Zealand, Russia, the United States, Sri Lanka, and Serbia.
 
 
 ##### How school fees are structured for PR, IS (ASEAN) and IS (non-ASEAN)
