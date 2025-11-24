@@ -381,17 +381,16 @@ MOE Links
 Parents can choose to pay the monthly school fees by the various methods:  
   
 
-*   **eGIRO**  
-    Parents who are account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO.&nbsp;
-
-*   Bank of China (BOC)
-*   Citibank
-*   DBS Bank or POSB
-*   Maybank
-*   Oversea-Chinese Banking Corporation Limited (OCBC)
-*   Standard Chartered Bank (SCB)
-*   Hongkong and Shanghai Banking Corporation Limited(HSBC)
-*   United Overseas Bank (UOB)
+##### **eGIRO**  
+Parents who are account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO.&nbsp;
+* Bank of China (BOC)
+* Citibank
+* DBS Bank or POSB
+* Maybank
+* Oversea-Chinese Banking Corporation Limited (OCBC)
+* Standard Chartered Bank (SCB)
+* Hongkong and Shanghai Banking Corporation Limited(HSBC)
+* United Overseas Bank (UOB)
 
 To sign up, please follow the instructions at the following MOE portal :&nbsp;
 [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)
@@ -399,35 +398,21 @@ To sign up, please follow the instructions at the following MOE portal :&nbsp;
   
 
 *   **GIRO**  
-    To sign up for GIRO using other bank accounts, please complete the GIRO application form and submit to the school General Office.
+    To sign up for GIRO using other bank accounts, please complete the GIRO application form and submit to the school General Office. 
 
-  
-
-*   **SGQR**  
+#####  **SGQR**  
 Upon receiving the bill from MOE / School, the parent can pay using the SGQR code presented on the bill itself, by following the instructions as given below.
+* Launch your preferred payment app from those shown in the bill.
+* Scan the SGQR.
+* Check that you are paying to 'Ministry of Education'.
+* Follow the on-screen instructions.
 
-*   Launch your preferred payment app from those shown in the bill.
-*   Scan the SGQR.
-*   Check that you are paying to 'Ministry of Education'.
-*   Follow the on-screen instructions.
-
-  
-
-*   **SingPost Payment Channels**  
-Parents can also pay through any of the SingPost payment channels as follows:
-
-  
-
-*   SingPost Mobile App  
-    Download the SingPost Mobile App from App Store or Google Play. Create an account using your mobile number.  
-      
-    
-*   SingPost SAM Web
-
-a. Visit https://www.mysam.sg.
-b. Create and log in to your SAM account.
-c. Follow the onscreen instructions.
-
+##### **AXS**  
+Parents can also pay through any of the AXS payment channels as follows:
+*   AXS m-Station app 
+Download the AXS Mobile App from App Store or Google Play. Create an account using your mobile number.      
+*   AXS Machines
+Visit [https://axs.com.sg/](https://axs.com.sg/)
   
 
 *   SingPost SAM Kiosks
