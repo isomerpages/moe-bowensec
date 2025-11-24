@@ -305,7 +305,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$1,050</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
+  color:black" lang="EN-GB">$1,051.80</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
   border-bottom:solid white 1.5pt;mso-border-bottom-themecolor:background1;
   border-right:solid white 1.5pt;mso-border-right-themecolor:background1;
   mso-border-top-alt:solid white 1.5pt;mso-border-top-themecolor:background1;
@@ -315,7 +315,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-size:10.0pt;
   font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$1,110</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:28.85pt"><td style="width:96.2pt;border-top:none;border-left:solid white 1.0pt;
+  color:black" lang="EN-GB">$1,111.80</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:28.85pt"><td style="width:96.2pt;border-top:none;border-left:solid white 1.0pt;
   mso-border-left-themecolor:background1;border-bottom:solid white 1.0pt;
   mso-border-bottom-themecolor:background1;border-right:solid white 1.5pt;
   mso-border-right-themecolor:background1;mso-border-top-alt:solid white 1.5pt;
@@ -356,7 +356,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
   &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$2,070</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
+  color:black" lang="EN-GB">$2,071.80</span></p></td><td style="width:77.95pt;border-top:none;border-left:none;
   border-bottom:solid white 1.5pt;mso-border-bottom-themecolor:background1;
   border-right:solid white 1.5pt;mso-border-right-themecolor:background1;
   mso-border-top-alt:solid white 1.5pt;mso-border-top-themecolor:background1;
@@ -366,7 +366,7 @@ Bowen Secondary School (BWSS) is a government school. As such the monthly fees i
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:
   &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
-  color:black" lang="EN-GB">$2,210</span></p></td></tr></tbody></table>
+  color:black" lang="EN-GB">$2,211.80</span></p></td></tr></tbody></table>
 
 * For IS (ASEAN) and IS (Non-ASEAN), school fees are inclusive of GST.
 * For IS, there will be a 9% GST imposed on the miscellaneous fees.
