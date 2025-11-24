@@ -509,6 +509,6 @@ If you have any query with regards to financial assistance, please contact:
 
 ### Student Lockers
 
-Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school.&nbsp;
+Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school.
 
 The lockers are strategically placed outside their respective classrooms and are allocated based on the students class index numbers. The lockers are equipped with a combination lock and students may preset their personal pin for the duration of use. Students may use their assigned lockers for the current academic year and the will be reassigned on the last day of school.
