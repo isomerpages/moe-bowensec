@@ -449,6 +449,9 @@ Students who require financial support for school fees, textbooks, uniforms or m
 
 To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;and meet the following criteria:
 
+You can find more information via the MOE website
+https://www.moe.gov.sg/financial-matters/financial-assistance
+
 
 ### MOE 2026 FAS Pamphlet
 
