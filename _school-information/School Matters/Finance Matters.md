@@ -10,7 +10,7 @@ Here you can find information about School Fees, Financial Assistance Scheme (FA
 
 ### School Fees
 
-Bowen Secondary School (BWSS) is a government school. As such the monthly fees in Bowen for Singapore Citizens, Permanent Residents or international students are shown in the table below:
+Bowen Secondary School is a government school. As such the monthly fees for Singapore Citizens, Permanent Residents or international students are shown in the table below:
       
 <table style="margin-left:2.0pt;border-collapse:collapse;mso-table-layout-alt:
  fixed;border:none;mso-border-alt:solid white 1.5pt;mso-border-themecolor:background1;
@@ -459,6 +459,8 @@ To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;
 ### 2026 FAS Application Form
 1. [2026 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_EL.pdf)
 2. [2026 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_CL.pdf)
+3. [2026 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_ML.pdf)
+4. [2026 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_TL.pdf)
 
 ### FAS Application Procedures
 
