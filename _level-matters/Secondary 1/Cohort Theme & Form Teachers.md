@@ -12,12 +12,29 @@ variant: tiptap
 <br><a href="mailto:muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_noor_hairil_muhammad@schools.gov.sg</a>
 </p>
 <hr>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2026 Sec 1 Theme" src="/images/Level Matters/S1/2026_Sec_1_Theme.jpg">
+</div>
 <h3>Cohort Motto<br>Learn with Heart, Serve with Light</h3>
+<p>At Bowen, we believe every student is unique and carries the potential
+to shine in their own way.</p>
+<p>Each Bowenian begins with a spark of curiosity, courage, and character—one
+that is ready to grow.</p>
+<p>Through guidance and care, we nurture this spark into strength, inspiring
+our students to learn with heart, pursue their passions with purpose, and
+develop their potential so they can shine their light in service of others.</p>
 <h3>Cohort Theme<br>Spark your Bowen Experience</h3>
-<p><strong>Find your light. </strong>
-<br>Every student begins with a spark — curiosity, courage, and character
-waiting to grow.</p>
-<p></p>
+<p><strong><em>Spark Your Bowen Experience</em></strong> invites every Bowenian
+to <strong>take ownership of their journey</strong> and make their time in
+school <strong>meaningful.&nbsp;</strong>
+</p>
+<p>It is about discovering what excites you, stepping forward to try new
+things, and finding joy in the experiences that shape who you become.&nbsp;</p>
+<p>Whether in the classroom, in CCAs, through friendships, school events,
+or community projects, each moment is an opportunity to uncover new interests,
+build confidence, and create meaningful experiences that allow you to grow
+and positively impact those around you.</p>
 <h3>Class Names</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="To sparkle" src="/images/Level Matters/S1/To_Sparkle_Transp.png">
