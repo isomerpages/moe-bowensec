@@ -18,9 +18,9 @@ variant: markdown
 
 
 ### Getting to Bowen Secondary School
-Bowen Secondary School is situated in the Hougang Estate and is easily accessible by&nbsp;**public bus services**&nbsp;from MRT stations such as Ang Mo Kio MRT, Hougang MRT and Serangoon MRT.
+Bowen Secondary School is situated in the Hougang Estate and is easily accessible by&nbsp;**public bus services**&nbsp;from MRT stations such as Ang Mo Kio MRT, Hougang MRT and Serangoon MRT. For parents who are visiting the school, please park your vehicle at the HDB carpark between Blk 637 and Blk 636. Please note that there is no access to the carpark entrance via Lorong Napiri. 
 
-Students can use the School Smart Card which is a stored value travel card that enable cardholders to enjoy concessionary fares and purchase Monthly Concession Passes for unlimited travel on train and bus services. For more information about the School Smart Card, you can visit the [SimplyGo website](https://www.simplygo.com.sg/) for more information.
+Students can use the School Smart Card which is a stored value travel card that enable cardholders to enjoy concessionary fares and purchase Monthly Concession passes for unlimited travel on train and bus services. For more information about the School Smart Card, you can visit the [SimplyGo website](https://www.simplygo.com.sg/) for more information.
 
 #### Public Bus Services
 
