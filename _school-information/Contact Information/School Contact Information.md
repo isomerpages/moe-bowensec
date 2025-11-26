@@ -18,8 +18,9 @@ variant: markdown
 
 
 ### Getting to Bowen Secondary School
-Bowen Secondary School is situated in the Hougang Estate and is easily accessible by&nbsp;**public bus services**&nbsp;from MRT stations such as Ang Mo Kio MRT, Hougang MRT and Serangoon MRT.
+Bowen Secondary School is situated in the Hougang Estate and is easily accessible by&nbsp;**public bus services**&nbsp;from MRT stations such as Ang Mo Kio MRT, Hougang MRT and Serangoon MRT. For parents who are visiting the school, please park your vehicle at the HDB carpark between Blk 637 and Blk 636. Please note that there is no access to the carpark entrance via Lorong Napiri.
 
+Students can use the School Smart Card which is a stored value travel card that enable cardholders to enjoy concessionary fares and purchase Monthly Concession passes for unlimited travel on train and bus services. For more information about the School Smart Card, you can visit the [SimplyGo website](https://www.simplygo.com.sg/) for more information.
 
 #### Public Bus Services
 
@@ -108,6 +109,6 @@ Bowen Secondary School is situated in the Hougang Estate and is easily accessibl
   mso-border-top-themecolor:text1;mso-border-top-themetint:128;mso-border-bottom-alt:
   solid #7F7F7F .5pt;mso-border-bottom-themecolor:text1;mso-border-bottom-themetint:
   128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" colspan="3" width="623"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Please visit <a href="https://www.lta.gov.sg/content/ltagov/en/map/bus.html"><span style="font-weight:normal">LTA website</span></a> for most updated information on public bus services.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"></span></p></td></tr></tbody></table><p>
-	
-![](/images/School%20Information/Contact%20Us/2026_Public_Buses.png)</p>
+  68" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Please visit the <a href="https://www.lta.gov.sg/content/ltagov/en/map/bus.html"><span style="font-weight:normal">LTA website</span></a> for the most updated information on public bus services.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"></span></p></td></tr></tbody></table>
+
+<p><img src="/images/School%20Information/Contact%20Us/2026_Public_Buses.png" style="width:100%" align="center"></p>
