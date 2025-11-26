@@ -109,6 +109,6 @@ Students can use the School Smart Card is a stored value travel card that enable
   mso-border-top-themecolor:text1;mso-border-top-themetint:128;mso-border-bottom-alt:
   solid #7F7F7F .5pt;mso-border-bottom-themecolor:text1;mso-border-bottom-themetint:
   128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" colspan="3" width="623"><p style="margin-bottom:0cm;line-height:normal;mso-yfti-cnfc:
-  68" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Please visit <a href="https://www.lta.gov.sg/content/ltagov/en/map/bus.html"><span style="font-weight:normal">LTA website</span></a> for most updated information on public bus services.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"></span></p></td></tr></tbody></table><p>
+  68" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">Please visit the <a href="https://www.lta.gov.sg/content/ltagov/en/map/bus.html"><span style="font-weight:normal">LTA website</span></a> for the most updated information on public bus services.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"></span></p></td></tr></tbody></table><p>
 	
 <img src="/images/School%20Information/Contact%20Us/2026_Public_Buses.png" style="width:100%" align="center"></p>
