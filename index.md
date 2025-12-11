@@ -46,14 +46,15 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: Release of N-Level Resuts
+          description: Thur, 18 Dec, 2.00pm. Students are to report by 1.45pm at School
+            Hall.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: 2026 Sec 2 - Sec 4/5 Booklist
           description: Find the respective Sec 2 - 4/5 booklists at the level pages.
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-        - title: O and N Prelims Schedule
-          description: Please click the link below to access the O an N Prelims Schedule
-          linktext: Learn More
-          url: /school-information/level-matters/secondary-4-5/assessment-schedules
         - title: DSA to Bowen for 2026
           description: Bowen invites P6 students or equivalent to apply for DSA to Sec 1
             in 2026
