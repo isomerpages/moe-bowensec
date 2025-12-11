@@ -22,6 +22,15 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
+  - infobar:
+      title: Release of GCE N-Level Results
+      subtitle: Thursday, 18 Dec 2025, 2pm
+      id: infobar
+      description: Students are to report by 1.45pm at School Hall in full uniform (no
+        tie) or smart casual (proper grooming). Parents may accompany. Entry
+        strictly via Main Gate.
+      button: MORE INFORMATION
+      url: /school-information/school-matters/news-n-events/
   - infopic:
       title: OPEN HOUSE
       subtitle: THE BOWEN EXPERIENCE
