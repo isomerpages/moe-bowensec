@@ -77,7 +77,7 @@ from <strong>8.00am–5.00pm</strong>.</p>
 <p>Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen
 welcomes students who are currently in Primary 6 (or the equivalent) to
 apply under DSA-Sec for entry to Secondary 1.</p>
-<p> <a href="/signature-programmes/direct-school-admission-1/" rel="noopener noreferrer nofollow" target="_blank">Click here to find out more&gt;&gt;&gt;</a>
+<p><a href="/signature-programmes/direct-school-admission-1/" rel="noopener noreferrer nofollow" target="_blank">Click here to find out more&gt;&gt;&gt;</a>
 </p>
 <hr>
 <p></p>
