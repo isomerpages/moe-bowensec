@@ -22,17 +22,15 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
-  - infopic:
-      title: OPEN HOUSE
-      subtitle: THE BOWEN EXPERIENCE
-      id: infopic
-      description: Join us on Saturday, 15 Nov from 9am - 12pm for an exciting morning
-        of discovery and connection. Don’t miss our Principal’s Talk at 9.30am
-        and 10.45am
-      button: FIND OUT MORE
-      url: /about-bowen/the-bowen-experience/
-      image: /images/School Events/2025/Open_House_banner_01.jpg
-      alt: Image alt text
+  - infobar:
+      title: Release of GCE N-Level Results
+      subtitle: Thursday, 18 Dec 2025, 2pm
+      id: infobar
+      description: Students are to report by 1.45pm at School Hall in full uniform (no
+        tie) or smart casual (proper grooming). Parents may accompany. Entry
+        strictly via Main Gate.
+      button: MORE INFORMATION
+      url: /school-information/school-matters/news-n-events/
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
@@ -48,22 +46,18 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: Release of N-Level Resuts
+          description: Thur, 18 Dec, 2.00pm. Students are to report by 1.45pm at School
+            Hall.
+          linktext: Learn more
+          url: /school-information/school-matters/news-n-events/
         - title: 2026 Sec 2 - Sec 4/5 Booklist
           description: Find the respective Sec 2 - 4/5 booklists at the level pages.
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-        - title: O and N Prelims Schedule
-          description: Please click the link below to access the O an N Prelims Schedule
-          linktext: Learn More
-          url: /school-information/level-matters/secondary-4-5/assessment-schedules
         - title: DSA to Bowen for 2026
           description: Bowen invites P6 students or equivalent to apply for DSA to Sec 1
             in 2026
           linktext: Learn more
           url: /signature-programmes/direct-school-admission-1/
-        - title: Join Bowen's ParentLink
-          description: Parents who wish to join Bowen ParentLink, please register via the
-            link below.
-          linktext: Register here
-          url: https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform
 ---
