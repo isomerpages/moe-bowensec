@@ -60,9 +60,4 @@ sections:
             in 2026
           linktext: Learn more
           url: /signature-programmes/direct-school-admission-1/
-        - title: Join Bowen's ParentLink
-          description: Parents who wish to join Bowen ParentLink, please register via the
-            link below.
-          linktext: Register here
-          url: https://docs.google.com/forms/d/e/1FAIpQLSek5jWMu-Ik1Gxfht-VVy7vfdGIgLYBdf7Wssvx1Hz56QQZqQ/viewform
 ---
