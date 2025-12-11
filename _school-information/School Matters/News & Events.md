@@ -43,8 +43,10 @@ online via the ITE application portal.
 <p>Students who are unable to collect their results in person may appoint
 a proxy to collect a physical copy from the school. Proxies are required
 to present all necessary documents for verification.</p>
-<p>Please ensure the <strong>Proxy Form</strong> is completed, printed, and
-brought along on the day of collection.</p>
+<p>Please ensure the <strong><a href="/files/Level Matters/S4n5/2025_Bowen_GCE_N_Level_Proxy_Form.pdf" rel="noopener nofollow" target="_blank">Proxy Form</a></strong> is
+completed, printed, and brought along on the day of collection.</p>
+<p><a href="/files/Level Matters/S4n5/2025_Bowen_GCE_N_Level_Proxy_Form.pdf" rel="noopener nofollow" target="_blank">2025 Proxy Form N-Levels</a>
+</p>
 <h4><strong>Enquiries</strong></h4>
 <p>For further assistance, please contact the school’s General Office at <strong>6385 9466</strong>,
 from <strong>8.00am–5.00pm</strong>.</p>
