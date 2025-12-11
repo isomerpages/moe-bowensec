@@ -3,35 +3,81 @@ title: News & Events
 permalink: /school-information/school-matters/news-n-events/
 description: ""
 third_nav_title: School Matters
-variant: markdown
+variant: tiptap
 ---
-# Latest News and Events
-
-### THE BOWEN EXPERIENCE
-![](/images/School%20Events/2025/Open_House_Web_2025_copy.jpg)
-Calling all parents and graduating Primary 6 students of 2025!
-Join us on **Saturday, 15 November 2025, from 9.00am to 12.00pm** for a morning of discovery and connection! 
-Don’t miss our **Principal’s Talk at 9.30am and 10.45am**  — we can’t wait to meet you!
-
+<h1>Latest News and Events</h1>
+<h3><strong>Release of GCE N-Level Results – Thursday, 18 December 2025, 2pm</strong></h3>
+<p>The GCE N-Level results will be released on <strong>Thursday, 18 December 2025 at 2.00pm</strong>.</p>
+<h4><strong>Important Information for Students</strong></h4>
+<ul>
+<li>
+<p><strong>Reporting Venue:</strong> School Hall</p>
+</li>
+<li>
+<p><strong>Reporting Time:</strong> Please be seated by <strong>1.45pm</strong>
+</p>
+</li>
+<li>
+<p><strong>Attire:</strong>:</p>
+<ul>
+<li>
+<p>Full school uniform (no tie required), <strong>or</strong>
+</p>
+</li>
+<li>
+<p>Smart casual (polo T-shirt with school skirt/pants)
+<br>Students should ensure proper grooming.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Parents/guardians are welcome to accompany their child to collect the
+results.
+<br>Please note that <strong>entry into the school is strictly via the Main Gate</strong>.</p>
+<h4><strong>ITE Course Applications</strong></h4>
+<p>Students who wish to apply for ITE courses may submit their applications
+online via the ITE application portal.
+<br><strong>Application window:</strong>  <em>2.30pm on 18 December 2025 to 5.00pm on 22 December 2025.</em>
+</p>
+<h4><strong>Collection by Proxy</strong></h4>
+<p>Students who are unable to collect their results in person may appoint
+a proxy to collect a physical copy from the school. Proxies are required
+to present all necessary documents for verification.</p>
+<p>Please ensure the <strong>Proxy Form</strong> is completed, printed, and
+brought along on the day of collection.</p>
+<h4><strong>Enquiries</strong></h4>
+<p>For further assistance, please contact the school’s General Office at <strong>6385 9466</strong>,
+from <strong>8.00am–5.00pm</strong>.</p>
 <hr>
-
-### 2026 Sec 2 - 4/5 Booklist
-
-1. [2026 Online Purchase Guide for Books and Uniform](/files/Book%20Lists/2026/Online_Purchase_Guide.pdf)
-2. [2026 Sec 2 Booklist](/files/Book%20Lists/2026/S2_Booklist_2026.pdf)
-3. [2026 Sec 3 Booklist](/files/Book%20Lists/2026/S3_Booklist_2026.pdf)
-4. [2026 Sec 4/5 Booklist](/files/Book%20Lists/2026/S4_Booklist_2026.pdf)
-5. [2026 Uniform Price List](/files/Book%20Lists/2026/Bowen_Sec_Uniform_Price_List.pdf)
-
+<h3>2026 Sec 2 - 4/5 Booklist</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Book%20Lists/2026/Online_Purchase_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Online Purchase Guide for Books and Uniform</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Book%20Lists/2026/S2_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Book%20Lists/2026/S3_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Book%20Lists/2026/S4_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 4/5 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Book%20Lists/2026/Bowen_Sec_Uniform_Price_List.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Uniform Price List</a>
+</p>
+</li>
+</ol>
 <hr>
-
-### Direct School Admission (DSA) to Bowen Secondary for Academic Year 2026
-Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen welcomes students who are currently in Primary 6 (or the equivalent) to apply under DSA-Sec for entry to Secondary 1.
-[Click here to find out more&gt;&gt;&gt;](/signature-programmes/direct-school-admission-1/)
-
+<h3>Direct School Admission (DSA) to Bowen Secondary for Academic Year 2026</h3>
+<p>Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen
+welcomes students who are currently in Primary 6 (or the equivalent) to
+apply under DSA-Sec for entry to Secondary 1.</p>
+<p> <a href="/signature-programmes/direct-school-admission-1/" rel="noopener noreferrer nofollow" target="_blank">Click here to find out more&gt;&gt;&gt;</a>
+</p>
 <hr>
-
-
-
-
-<hr>
+<p></p>
