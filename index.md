@@ -32,17 +32,6 @@ sections:
       button: MORE INFORMATION
       url: /school-information/school-matters/news-n-events/
   - infopic:
-      title: OPEN HOUSE
-      subtitle: THE BOWEN EXPERIENCE
-      id: infopic
-      description: Join us on Saturday, 15 Nov from 9am - 12pm for an exciting morning
-        of discovery and connection. Don’t miss our Principal’s Talk at 9.30am
-        and 10.45am
-      button: FIND OUT MORE
-      url: /about-bowen/the-bowen-experience/
-      image: /images/School Events/2025/Open_House_banner_01.jpg
-      alt: Image alt text
-  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
