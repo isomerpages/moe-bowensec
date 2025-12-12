@@ -40,8 +40,9 @@ results.</p>
 <p>Please note that <strong>entry into the school is strictly via the Main Gate</strong>.</p>
 <h4><strong>ITE Course Applications</strong></h4>
 <p>Students who wish to apply for ITE courses may submit their applications
-online via the ITE application portal.
-<br><strong>Application window:</strong>  <em>2.30pm on 18 December 2025 to 5.00pm on 22 December 2025.</em>
+online via the ITE application portal. <a href="https://www.ite.edu.sg/intake-exercises/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/intake-exercises</a>
+</p>
+<p><strong>Application window:</strong>  <em>2.30pm on 18 December 2025 to 5.00pm on 22 December 2025.</em>
 </p>
 <h4><strong>Collection by Proxy</strong></h4>
 <p>Students who are unable to collect their results in person may appoint
