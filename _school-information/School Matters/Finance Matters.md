@@ -45,302 +45,306 @@ Monthly fees in government or government-aided schools have 2 diƯerent componen
 * Miscellaneous fees are set by MOE but go towards individual schools’ budgets and operating expenses. The same rate applies to all students, regardless of nationality.
     
 
-
 <table style="width:100.0%;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-left-alt:
  5.4pt;mso-padding-bottom-alt:0cm;mso-padding-right-alt:5.4pt" width="100%" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.0pt;mso-row-margin-right:
   1.8%"><td style="width:19.5%;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#A5A5A5;padding:.75pt 5.4pt 0cm 5.4pt;
   height:32.0pt" rowspan="3" width="19%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Nationality</span></b><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Nationality</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:23.42%;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;background:#A5A5A5;padding:.75pt 5.4pt 0cm 5.4pt;
   height:32.0pt" rowspan="2" colspan="2" nowrap="" width="23%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">School Fees (Monthly)<sup>1</sup></span></b><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">School Fees (Monthly)<sup>1</sup></span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
   mso-ligatures:none"></span></b></p></td><td style="width:18.6%;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid black .5pt;background:#A5A5A5;padding:.75pt 5.4pt 0cm 5.4pt;
   height:32.0pt" rowspan="2" width="18%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Miscellaneous Fees<sup>2</sup> (Monthly)</span></b><b><span style="mso-ascii-font-family:
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
   Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none"></span></b></p></td><td style="width:36.68%;border-top:solid windowtext 1.0pt;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Miscellaneous Fees<sup>2</sup> (Monthly)</span></b><b><span style="font-size:11.0pt;
+  mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:36.68%;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:windowtext;
   mso-border-left-alt:windowtext;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.5pt;background:#A5A5A5;
   padding:.75pt 5.4pt 0cm 5.4pt;height:32.0pt" rowspan="2" colspan="2" width="36%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Total Fees Payable (Monthly)<br>[School Fees + Miscellaneous Fees]</span></b><b><span style="mso-ascii-font-family:
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
   Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none"></span></b></p></td><td width="1%" style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">&nbsp;</p></td><td height="64" width="0" style="height:32.0pt;border:none"></td></tr><tr style="mso-yfti-irow:1;height:16.0pt"><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;
-  height:16.0pt" valign="bottom" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:2;height:16.0pt"><td style="width:7.76%;border-top:none;border-left:none;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Total Fees Payable (Monthly)<br>[School Fees + Miscellaneous Fees]</span></b><b><span style="font-size:11.0pt;
+  mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td width="1%" style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">&nbsp;</p></td><td height="64" width="0" style="height:32.0pt;border:none"></td></tr><tr style="mso-yfti-irow:1;height:16.0pt"><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;
+  height:16.0pt" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:2;height:16.0pt"><td style="width:7.76%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="7%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2025</span></b><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2025</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:15.68%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="15%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2026</span></b><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:18.6%;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" valign="top" width="18%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2026</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">2025-2026</span></b></p></td><td style="width:12.4%;border-top:none;border-left:none;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:18.6%;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="18%"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">2025-2026</span></b></p></td><td style="width:12.4%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="12%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2025</span></b><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2025</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:24.26%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="24%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2026</span></b><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">2026</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:3;height:16.0pt"><td style="width:19.5%;border:solid windowtext 1.0pt;border-top:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;background:#A5A5A5;padding:.75pt 5.4pt 0cm 5.4pt;
   height:16.0pt" width="19%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Singapore Citizen</span></b><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:7.76%;border-top:none;border-left:none;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Singapore Citizen</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td><td style="width:7.76%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="7%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$5</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$5</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:15.68%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="15%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$5</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$5</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:18.6%;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#E8E8E8;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" rowspan="2" width="18%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt;mso-ligatures:none">$20</span></p></td><td style="width:12.4%;border-top:none;border-left:none;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
+  mso-font-kerning:0pt;mso-ligatures:none">$20</span></p></td><td style="width:12.4%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" nowrap="" width="12%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$25</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$25</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:24.26%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" nowrap="" width="24%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$25</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$25</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:4;height:16.0pt"><td style="width:19.5%;border:solid windowtext 1.0pt;border-top:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;background:#A5A5A5;padding:.75pt 5.4pt 0cm 5.4pt;
   height:16.0pt" width="19%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Permanent Resident</span></b><b><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:7.76%;border-top:none;border-left:none;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">Permanent Resident</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td><td style="width:7.76%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="7%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$620</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$620</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:15.68%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="15%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$680</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$680</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:12.4%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" nowrap="" width="12%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$640</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$640</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:24.26%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" nowrap="" width="24%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$700</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$700</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:5;height:32.0pt"><td style="width:19.5%;border-top:none;border-left:
   solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
   mso-border-right-alt:solid windowtext .5pt;background:#A5A5A5;padding:.75pt 5.4pt 0cm 5.4pt;
   height:32.0pt" rowspan="2" width="19%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">International Student (ASEAN)</span></b><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">International Student (ASEAN)</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
   mso-ligatures:none"></span></b></p></td><td style="width:7.76%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:32.0pt" rowspan="2" width="7%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,030</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,030</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:15.68%;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:32.0pt" rowspan="2" width="15%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,090</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,090</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:18.6%;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#E8E8E8;padding:.75pt 5.4pt 0cm 5.4pt;height:32.0pt" rowspan="4" width="18%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">$21.80</span></p></td><td style="width:12.4%;border-top:none;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">$21.80</span></p></td><td style="width:12.4%;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:32.0pt" rowspan="2" nowrap="" width="12%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,051.80</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,051.80</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:24.26%;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#DBDBDB;padding:.75pt 5.4pt 0cm 5.4pt;height:32.0pt" rowspan="2" nowrap="" width="24%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,111.80</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$1,111.80</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;height:32.0pt" width="1%"></td><td height="64" width="0" style="height:32.0pt;border:none"></td></tr><tr style="mso-yfti-irow:6;height:16.0pt"><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;
-  height:16.0pt" valign="bottom" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:7;height:16.0pt"><td style="width:19.5%;border-top:none;border-left:
+  height:16.0pt" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:7;height:16.0pt"><td style="width:19.5%;border-top:none;border-left:
   solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid black .5pt;
   mso-border-right-alt:solid windowtext .5pt;background:#A5A5A5;padding:.75pt 5.4pt 0cm 5.4pt;
   height:16.0pt" rowspan="2" width="19%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">International Student (non-ASEAN)</span></b><b><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">International Student (non-ASEAN)</span></b><b><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
   mso-ligatures:none"></span></b></p></td><td style="width:7.76%;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" rowspan="2" width="7%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,050</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,050</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:15.68%;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" rowspan="2" width="15%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,190</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,190</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:12.4%;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" rowspan="2" nowrap="" width="12%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,071.80</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,071.80</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:24.26%;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   background:#EDEDED;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" rowspan="2" nowrap="" width="24%"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:11.0pt;mso-ascii-font-family:
+  Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,211.80</span><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-GB" lang="EN-GB">$2,211.80</span><span style="font-size:11.0pt;mso-ascii-font-family:Aptos;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:16.0pt"><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;
-  height:16.0pt" valign="bottom" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr></tbody></table>
+  height:16.0pt" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr></tbody></table>
 
 * For IS (ASEAN) and IS (Non-ASEAN), school fees are inclusive of GST.
 * For IS, there will be a 9% GST imposed on the miscellaneous fees.
