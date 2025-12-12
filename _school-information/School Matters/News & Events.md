@@ -25,15 +25,19 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Smart casual (polo T-shirt with school skirt/pants)
-<br>Students should ensure proper grooming.</p>
+<p>Full uniform (without tie) or Smart Casual (School Polo T-shirt with school
+skirt/ pants) with proper grooming.</p>
+</li>
+<li>
+<p>Students not in proper attire / grooming will not be able to collect their
+results with the rest of the cohort.</p>
 </li>
 </ul>
 </li>
 </ul>
-<p>Parents/guardians are welcome to accompany their child to collect the
-results.
-<br>Please note that <strong>entry into the school is strictly via the Main Gate</strong>.</p>
+<p>Only parents/guardian can accompany their teen to the school to collect
+results.</p>
+<p>Please note that <strong>entry into the school is strictly via the Main Gate</strong>.</p>
 <h4><strong>ITE Course Applications</strong></h4>
 <p>Students who wish to apply for ITE courses may submit their applications
 online via the ITE application portal.
