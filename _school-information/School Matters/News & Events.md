@@ -6,6 +6,28 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
+<h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
+<p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
+family.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 Posting results will be released on Friday, 19 December 2025
+through the S1 Portal and SMS.</p>
+</li>
+<li>
+<p>Parents/guardians should first refer to the Parents Gateway (PG) notification
+sent by the Form Teacher, as the information provided is required to complete
+the oline registration on the <strong>Sec 1 Registration Microsite</strong>
+</p>
+</li>
+<li>
+<p>Secondary 1 registration will be conducted fully online. Students do not
+need to report physically to the school.</p>
+</li>
+</ul>
+<p><strong>⚠️ Important<br>The registration link will be available only on Monday, 22 December 2025, from 9am to 1pm. </strong>
+<br><strong>Sec 1 Registration Microsite &gt;&gt;&gt;</strong>
+<br>Registration is successful only after clicking the “Submit” button.</p>
 <h3><strong>Release of GCE N-Level Results – Thursday, 18 December 2025, 2pm</strong></h3>
 <p>The GCE N-Level results will be released on <strong>Thursday, 18 December 2025 at 2.00pm</strong>.</p>
 <h4><strong>Important Information for Students</strong></h4>
