@@ -435,11 +435,6 @@ Financial assistance benefits for MOE FAS and School-based FAS are as follows:
 
 ### MOE 2026 FAS Pamphlet
 
-Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36be287889c6)&nbsp;or through the 'Services' tab in the Parents Gateway app
-
-
-
-### 2026 FAS Application Form
 1. [2026 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_EL.pdf)
 2. [2026 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_CL.pdf)
 3. [2026 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_ML.pdf)
