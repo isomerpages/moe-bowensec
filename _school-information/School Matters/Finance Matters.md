@@ -449,7 +449,7 @@ Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36b
 Parents are encouraged to submit an online application using this link:[ https://go.gov.sg/moe-efasggas ]( https://go.gov.sg/moe-efasggas )
 
 or scan the QR code below
-
+<img src="/images/School%20Information/Finance%20Matters/FAS_QR.jpg" style="width:40%">
 
 For more information, please visit 
 [_https://www.moe.gov.sg/financial-matters/financial-assistance_](https://www.moe.gov.sg/financial-matters/financial-assistance)
