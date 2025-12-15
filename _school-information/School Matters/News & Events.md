@@ -15,10 +15,8 @@ family.</p>
 through the S1 Portal and SMS.</p>
 </li>
 <li>
-<p>Parents/guardians should have received a Parents Gateway (PG) notification
-sent by the Form Teacher about class allocation and the instructions for
-the Secondary 1 e-registration on the <strong>Sec 1 Registration Microsite</strong>
-</p>
+<p>Parents/guardians will receive a Parents Gateway (PG) notification for
+more information on the e-registration and class allocation via the <strong>Sec 1 Registration Microsite</strong>.</p>
 </li>
 <li>
 <p>Secondary 1 registration will be conducted fully online. Students do not
