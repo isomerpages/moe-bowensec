@@ -25,8 +25,7 @@ the oline registration on the <strong>Sec 1 Registration Microsite</strong>
 need to report physically to the school.</p>
 </li>
 </ul>
-<p><strong>⚠️ Important<br>The registration link will be available only on Monday, 22 December 2025, from 9am to 1pm. </strong>
-<br><strong>Sec 1 Registration Microsite &gt;&gt;&gt;</strong>
+<p><strong>⚠️ Important<br>The Sec 1 Registration Microsite link will be available only on Monday, 22 December 2025, from 9am to 1pm.</strong>
 <br>Registration is successful only after clicking the “Submit” button.</p>
 <h3><strong>Release of GCE N-Level Results – Thursday, 18 December 2025, 2pm</strong></h3>
 <p>The GCE N-Level results will be released on <strong>Thursday, 18 December 2025 at 2.00pm</strong>.</p>
