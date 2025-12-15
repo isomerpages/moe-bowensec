@@ -36,7 +36,8 @@ sections:
       subtitle: MonDAY, 22 Dec 2025 9am – 1pm
       id: infopic
       description: Sec 1 registration is online only. Students need not report to
-        school. The registration link will go live on Mon 22 Dec at 9am.
+        school. The registration link will only be available on Mon 22 Dec from
+        9am.
       button: MORE INFORMATION
       url: /school-information/school-matters/news-n-events/
       image: /images/School Events/2025/2026_year_SEC_1_E_REG_BANNER.jpg
