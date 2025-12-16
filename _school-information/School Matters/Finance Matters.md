@@ -441,6 +441,11 @@ Financial assistance benefits for MOE FAS and School-based FAS are as follows:
 4. [2026 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_TL.pdf)
 
 ### FAS Application Procedures 
+
+##### Important Note: 
+FAS applicants are advised not to buy textbooks and uniforms until they are informed of the application outcome. Please note that there are **no refunds** for purchases made before the application is approved. 
+
+##### Online Application: 
 Parents are encouraged to submit an online application using the following methods:
 
 * [MOE Financial Assistance Online Application for 2026](https://go.gov.sg/moe-efasggas) (Singpass required) through the FormSG Link
