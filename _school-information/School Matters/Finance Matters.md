@@ -346,8 +346,8 @@ Monthly fees in government or government-aided schools have 2 diƯerent componen
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:16.0pt"><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;
   height:16.0pt" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr></tbody></table>
 
-* For IS (ASEAN) and IS (Non-ASEAN), school fees are inclusive of GST.
-* For IS, there will be a 9% GST imposed on the miscellaneous fees.
+* For all International Students (IS), school fees are inclusive of GST.
+* For all International Students (IS), there will be a 9% GST imposed on the miscellaneous fees.
 * The Ministry of Education (MOE) has increased school fees for Singapore permanent residents (PR) and international students (IS) in Government and Government-Aided schools for the period 2024 to 2026. <br>[Read the MOE Press Release here &gt;&gt;&gt;](https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026)
 
 MOE Links  
