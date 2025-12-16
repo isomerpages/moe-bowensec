@@ -463,6 +463,15 @@ If you have any query with regards to financial assistance, please contact:
 
 ### Student Lockers
 
-Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school.
+Since the implementation of the Personal Learning Device (PLD) programme, the school has provided each student with a locker for the safe storage of their PLD and personal belongings during the school day.
 
-The lockers are strategically placed outside their respective classrooms and are allocated based on the students class index numbers. The lockers are equipped with a combination lock and students may preset their personal pin for the duration of use. Students may use their assigned lockers for the current academic year and the will be reassigned on the last day of school.
+The lockers are located outside the respective classrooms and are assigned according to students’ class index numbers. Each locker is fitted with a combination lock, and students may set their own personal PIN.
+
+Lockers are allocated for use within the current academic year only. Students are required to clear and return their lockers on the last day of school.
+
+Students are reminded to:
+* Keep their lockers locked at all times
+* Safeguard their personal PIN
+* Use the lockers responsibly and for intended purposes only
+
+The school will not be held responsible for the loss of items stored improperly.
