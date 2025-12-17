@@ -8,23 +8,60 @@ variant: tiptap
 <h1>Latest News and Events</h1>
 <h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
 <p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
-family.</p>
+family. We are excited to have your teen join our Bowen family and look
+forward to partnering with you in their secondary school journey.</p>
+<p><strong><u>Key Information on S1 Registration</u></strong>
+</p>
+<p>On <strong>Mon 22 Dec</strong>, you will receive a Parents Gateway (PG)
+message from your teen’s Form Teachers with details of their class allocation
+and instructions for S1 Registration.</p>
+<p>If you do not receive the PG message by 9:00 AM, please contact our <strong>General Office at 6385 9466</strong> for
+assistance.</p>
+<p>S1 Registration will be conducted online via our Sec 1 Registration website:
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bowensec1reg</a>
+</p>
+<p><strong>⚠️ Important<br>The Sec 1 Registration Microsite link will be available only on Monday, 22 December 2025, from 9am to 1pm.</strong>
+</p>
+<p>Please complete the registration on <strong>Mon 22 Dec between 9:00 AM to 1:00 PM</strong>.</p>
+<p>Note:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Posting results will be released on Friday, 19 December 2025
-through the S1 Portal and SMS.</p>
+<p>Registration is successful only after clicking the “Submit” button.</p>
 </li>
 <li>
-<p>Parents/guardians will receive a Parents Gateway (PG) notification for
-more information on the e-registration and class allocation via the <strong>Sec 1 Registration Microsite</strong>.</p>
+<p>This process will take some time (potentially more than 1 hour) as it
+includes completing the S1 Camp Declaration, guidance on purchasing books
+and uniforms, and other important steps. We kindly request that you set
+aside sufficient time to complete the process.</p>
 </li>
 <li>
-<p>Secondary 1 registration will be conducted fully online. Students do not
-need to report physically to the school.</p>
+<p>You may also refer to our S1 Registration website for other comprehensive
+information e.g. on Full SBB, download our S1 Welcome Pack.</p>
 </li>
 </ul>
-<p><strong>⚠️ Important<br>The Sec 1 Registration Microsite link will be available only on Monday, 22 December 2025, from 9am to 1pm.</strong>
-<br>Registration is successful only after clicking the “Submit” button.</p>
+<h4>MOE Medical Appeal Exercise (MAE)</h4>
+<p>If you wish to appeal for a school transfer due to your teen’s medical
+conditions, please submit your appeal in person by <strong>Mon 22 Dec 2025, 12:00 PM</strong>.</p>
+<p>Appeals will only be considered for students with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Serious medical conditions (e.g., chronic heart conditions or kidney problems).</p>
+</li>
+<li>
+<p>Severe physical impairments (e.g., requiring permanent use of a wheelchair).</p>
+</li>
+</ul>
+<p>Please ensure that all appeals are supported by relevant medical documents,
+such as medical reports or letters from doctors.</p>
+<p>For more information on the MAE, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>.</p>
+<hr>
+<h3><strong>Appeal to Transfer In to Bowen Secondary School (2026 Intake)</strong></h3>
+<p>Please click on <strong><a href="http://go.gov.sg/s1appealtobowen2026" rel="noopener noreferrer nofollow" target="_blank"><u>this link</u></a></strong> to
+submit an online application of appeal to transfer into Bowen Secondary
+School. Do note that the deadline is <strong>Wednesday 24 December 2025, 12pm</strong>
+</p>
+<p>Do note that for request/appeal for transfer, you are<strong> still required to complete the registration at the school your child/ward has been posted to first</strong>.</p>
+<hr>
 <h3><strong>Release of GCE N-Level Results – Thursday, 18 December 2025, 2pm</strong></h3>
 <p>The GCE N-Level results will be released on <strong>Thursday, 18 December 2025 at 2.00pm</strong>.</p>
 <h4><strong>Important Information for Students</strong></h4>
