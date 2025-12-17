@@ -62,13 +62,18 @@ sections:
             Hall.
           linktext: Learn more
           url: /school-information/school-matters/news-n-events/
-        - title: 2026 Sec 2 - Sec 4/5 Booklist
-          description: Find the respective Sec 2 - 4/5 booklists at the level pages.
-          linktext: Learn more
-          url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
         - title: Sec 1 Registration
           description: Please see PG notification before completing registration on 22 Dec
             9am-1pm
           linktext: Sec 1 Registration Microsite
           url: https://go.gov.sg/bowensec1reg
+        - title: Appeal to Transfer-In (2026 Intake)
+          description: Complete registration at posted school first. Submit appeal by Wed
+            24 Dec 12pm
+          linktext: Online Appeal Link
+          url: http://go.gov.sg/s1appealtobowen2026
+        - title: 2026 Sec 2 - Sec 4/5 Booklist
+          description: Find the respective Sec 2 - 4/5 booklists at the level pages.
+          linktext: Learn more
+          url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
 ---
