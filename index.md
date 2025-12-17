@@ -66,9 +66,9 @@ sections:
           description: Find the respective Sec 2 - 4/5 booklists at the level pages.
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-        - title: DSA to Bowen for 2026
-          description: Bowen invites P6 students or equivalent to apply for DSA to Sec 1
-            in 2026
-          linktext: Learn more
-          url: /signature-programmes/direct-school-admission-1/
+        - title: Sec 1 Registration
+          description: Please see PG notification before completing registration on 22 Dec
+            9am-1pm
+          linktext: Sec 1 Registration Microsite
+          url: https://go.gov.sg/bowensec1reg
 ---
