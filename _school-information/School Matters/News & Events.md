@@ -6,38 +6,70 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
-<h3><strong>Release of GCE N-Level Results – Thursday, 18 December 2025, 2pm</strong></h3>
-<p>The GCE N-Level results will be released on <strong>Thursday, 18 December 2025 at 2.00pm</strong>.</p>
-<h4><strong>Important Information for Students</strong></h4>
-<ul>
-<li>
-<p><strong>Reporting Venue:</strong> School Hall</p>
-</li>
-<li>
-<p><strong>Reporting Time:</strong> Please be seated by <strong>1.45pm</strong>
+<h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
+<p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
+family. We are excited to have your teen join our Bowen family and look
+forward to partnering with you in their secondary school journey.</p>
+<p>Please note that you will be receiving a Parents Gateway (PG) notification
+by the end of <strong>Fri, 19 Dec 2025 </strong>with further information
+on S1 Registration.</p>
+<p><strong><u>Key Information on S1 Registration</u></strong>
 </p>
-</li>
-<li>
-<p><strong>Attire:</strong>:</p>
-<ul>
-<li>
-<p>Full school uniform (no tie required), <strong>or</strong>
+<p>On <strong>Mon 22 Dec 2025</strong>, you will receive a follow-up PG message
+from your teen’s Form Teachers with details of their class allocation and
+instructions for S1 Registration.</p>
+<p>If you do not receive the PG message by 9:00 AM, please contact our <strong>General Office at 6385 9466</strong> for
+assistance.</p>
+<p>S1 Registration will be conducted online via our
+<br><a href="https://go.gov.sg/bowensec1reg" rel="noopener nofollow" target="_blank">Sec 1 Resgistration Microsite (https://go.gov.sg/bowensec1reg)</a>
 </p>
+<p><strong>⚠️ Important<br>The Sec 1 Registration Microsite link will be available only on Monday, 22 December 2025, from 9am to 1pm.</strong>
+</p>
+<p>Please complete the registration on <strong>Mon 22 Dec between 9:00 AM to 1:00 PM</strong>.</p>
+<p>Note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Registration is successful only after clicking the “Submit” button.</p>
 </li>
 <li>
-<p>Full uniform (without tie) or Smart Casual (School Polo T-shirt with school
-skirt/ pants) with proper grooming.</p>
+<p>This process will take some time (potentially more than 1 hour) as it
+includes completing the S1 Camp Declaration, guidance on purchasing books
+and uniforms, and other important steps. We kindly request that you set
+aside sufficient time to complete the process.</p>
 </li>
 <li>
-<p>Students not in proper attire / grooming will not be able to collect their
-results with the rest of the cohort.</p>
+<p>You may also refer to our S1 Registration website for other comprehensive
+information e.g. on Full SBB, download our S1 Welcome Pack.</p>
 </li>
 </ul>
+<h4>MOE Medical Appeal Exercise (MAE)</h4>
+<p>If you wish to appeal for a school transfer due to your teen’s medical
+conditions, please submit your appeal in person by <strong>Mon 22 Dec 2025, 12:00 PM</strong>.</p>
+<p>Appeals will only be considered for students with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Serious medical conditions (e.g., chronic heart conditions or kidney problems).</p>
+</li>
+<li>
+<p>Severe physical impairments (e.g., requiring permanent use of a wheelchair).</p>
 </li>
 </ul>
-<p>Only parents/guardian can accompany their teen to the school to collect
-results.</p>
-<p>Please note that <strong>entry into the school is strictly via the Main Gate</strong>.</p>
+<p>Please ensure that all appeals are supported by relevant medical documents,
+such as medical reports or letters from doctors.</p>
+<p>For more information on the MAE, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>.</p>
+<hr>
+<h3><strong>Appeal to Transfer In to Bowen Secondary School (2026 Intake)</strong></h3>
+<p>Please click on <strong><a href="http://go.gov.sg/s1appealtobowen2026" rel="noopener noreferrer nofollow" target="_blank"><u>this link</u></a></strong> to
+submit an online application of appeal to transfer into Bowen Secondary
+School. Do note that the deadline is <strong>Wednesday 24 December 2025, 12pm</strong>
+</p>
+<p>Do note that for request/appeal for transfer, you are<strong> still required to complete the registration at the school your child/ward has been posted to first</strong>.</p>
+<hr>
+<h3><strong>Information and Briefing Slides for GCE N-Level Results Release</strong></h3>
+<p>Please find the following links to information shared during the GCE N-Level
+Result Release.</p>
+<p><a href="/files/Level Matters/S4n5/2025_N_Results_Release__Hall__Abridged_Students_final.pdf" rel="noopener nofollow" target="_blank">2025 N Level Result Briefing Slides &gt;&gt;&gt;</a>
+</p>
 <h4><strong>ITE Course Applications</strong></h4>
 <p>Students who wish to apply for ITE courses may submit their applications
 online via the ITE application portal. <a href="https://www.ite.edu.sg/intake-exercises/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/intake-exercises</a>

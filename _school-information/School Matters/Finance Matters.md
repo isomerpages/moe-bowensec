@@ -346,8 +346,8 @@ Monthly fees in government or government-aided schools have 2 diƯerent componen
   color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;height:16.0pt" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:16.0pt"><td style="width:1.8%;padding:.75pt 5.4pt 0cm 5.4pt;
   height:16.0pt" nowrap="" width="1%"></td><td height="32" width="0" style="height:16.0pt;border:none"></td></tr></tbody></table>
 
-* For IS (ASEAN) and IS (Non-ASEAN), school fees are inclusive of GST.
-* For IS, there will be a 9% GST imposed on the miscellaneous fees.
+* For all International Students (IS), school fees are inclusive of GST.
+* For all International Students (IS), there will be a 9% GST imposed on the miscellaneous fees.
 * The Ministry of Education (MOE) has increased school fees for Singapore permanent residents (PR) and international students (IS) in Government and Government-Aided schools for the period 2024 to 2026. <br>[Read the MOE Press Release here &gt;&gt;&gt;](https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026)
 
 MOE Links  
@@ -426,25 +426,35 @@ Students who require financial support for school fees, textbooks, uniforms or m
 *   school-based financial assistance schemes (FAS).
 
 To be eligible for FAS, the student should be a&nbsp;**Singapore Citizen**&nbsp;and meet the following criteria:
+![](/images/School%20Information/Finance%20Matters/FAS_table1.jpg)
+
+Financial assistance benefits for MOE FAS and School-based FAS are as follows: 
+![](/images/School%20Information/Finance%20Matters/FAS_table2.jpg)
+
+
 
 ### MOE 2026 FAS Pamphlet
 
-Parents may apply via the&nbsp;[FormSG link](https://form.gov.sg/68b7e92465cd36be287889c6)&nbsp;or through the 'Services' tab in the Parents Gateway app
-
-
-
-### 2026 FAS Application Form
 1. [2026 FAS Pamphlet in English](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_EL.pdf)
 2. [2026 FAS Pamphlet in Chinese](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_CL.pdf)
 3. [2026 FAS Pamphlet in Malay](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_ML.pdf)
 4. [2026 FAS Pamphlet in Tamil](/files/Admin%20and%20Finance/FAS%20Matters/2026_MOE_FAS_Pamphlet_TL.pdf)
 
 ### FAS Application Procedures 
-Parents are to apply for MOE FAS by completing the FAS application form **online** using the e-FAS form which is available on Parents Gateway (under ‘Services’ tab – Financial Assistance) or through the e-FAS link/ QR code below, via Singpass login.&nbsp;
 
-Parents can also visit MOE website at the FAS FAQs and the Income Family Micro-Insurance Scheme (IFMIS), a free insurance scheme provided to MOE FAS recipients by NTUC Income.
+##### Important Note: 
+FAS applicants are advised not to buy textbooks and uniforms until they are informed of the application outcome. Please note that there are **no refunds** for purchases made before the application is approved. 
 
-Link: [_https://www.moe.gov.sg/financial-matters/financial-assistance_](https://www.moe.gov.sg/financial-matters/financial-assistance) 
+##### Online Application: 
+Parents are encouraged to submit an online application using the following methods:
+
+* [MOE Financial Assistance Online Application for 2026](https://go.gov.sg/moe-efasggas) (Singpass required) through the FormSG Link
+* Parents Gateway (under ‘Services’ tab – Financial Assistance) or 
+* scan the QR code below
+<img src="/images/School%20Information/Finance%20Matters/FAS_QR.jpg" style="width:40%">
+
+For more information, please visit 
+[_https://www.moe.gov.sg/financial-matters/financial-assistance_](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 If you have any query with regards to financial assistance, please contact: 
 **Bowen General Office <br> Tel : 6385 9466**
@@ -453,6 +463,15 @@ If you have any query with regards to financial assistance, please contact:
 
 ### Student Lockers
 
-Since the launch of the students' personal learning device, the school has provided all students with a locker to safe-keep their personal learning device and valuables in school.
+Since the implementation of the Personal Learning Device (PLD) programme, the school has provided each student with a locker for the safe storage of their PLD and personal belongings during the school day.
 
-The lockers are strategically placed outside their respective classrooms and are allocated based on the students class index numbers. The lockers are equipped with a combination lock and students may preset their personal pin for the duration of use. Students may use their assigned lockers for the current academic year and the will be reassigned on the last day of school.
+The lockers are located outside the respective classrooms and are assigned according to students’ class index numbers. Each locker is fitted with a combination lock, and students may set their own personal PIN.
+
+Lockers are allocated for use within the current academic year only. Students are required to clear and return their lockers on the last day of school.
+
+Students are reminded to:
+* Keep their lockers locked at all times
+* Safeguard their personal PIN
+* Use the lockers responsibly and for intended purposes only
+
+The school will not be held responsible for the loss of items stored improperly.

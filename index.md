@@ -22,15 +22,24 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
-  - infobar:
-      title: Release of GCE N-Level Results
-      subtitle: Thursday, 18 Dec 2025, 2pm
-      id: infobar
-      description: Students are to report by 1.45pm at School Hall in full uniform (no
-        tie) or smart casual (proper grooming). Parents may accompany. Entry
-        strictly via Main Gate.
+  - infopic:
+      title: Sec 1 Registration
+      subtitle: MonDAY, 22 Dec 2025 9am – 1pm
+      id: infopic
+      description: Sec 1 registration is online only. Students need not report to
+        school. The registration link will only be available on Mon 22 Dec from
+        9am.
       button: MORE INFORMATION
       url: /school-information/school-matters/news-n-events/
+      image: /images/School Events/2025/2026_year_SEC_1_E_REG_BANNER.jpg
+      alt: Image alt text
+  - infobar:
+      title: Appeal to Transfer-In to Bowen Secondary
+      id: infobar
+      description: Please complete registration at posted school. Submit the online
+        application of appeal to transfer into Bowen by Wed, 24 Dec 2025, 12pm.
+      button: Appeal LiNK
+      url: http://go.gov.sg/s1appealtobowen2026
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
@@ -46,18 +55,23 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: Release of N-Level Resuts
-          description: Thur, 18 Dec, 2.00pm. Students are to report by 1.45pm at School
-            Hall.
-          linktext: Learn more
+        - title: Sec 1 Registration
+          description: Please see PG notification before completing registration on 22 Dec
+            9am-1pm
+          linktext: Sec 1 Registration Microsite
+          url: https://go.gov.sg/bowensec1reg
+        - title: Appeal to Transfer-In (2026 Intake)
+          description: Complete registration at posted school first. Submit appeal by Wed
+            24 Dec 12pm
+          linktext: Online Appeal Link
+          url: http://go.gov.sg/s1appealtobowen2026
+        - title: Information on N-Level Results
+          description: Find briefing slides and information shared during the N-Level
+            Result release.
+          linktext: Find out more
           url: /school-information/school-matters/news-n-events/
         - title: 2026 Sec 2 - Sec 4/5 Booklist
           description: Find the respective Sec 2 - 4/5 booklists at the level pages.
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-        - title: DSA to Bowen for 2026
-          description: Bowen invites P6 students or equivalent to apply for DSA to Sec 1
-            in 2026
-          linktext: Learn more
-          url: /signature-programmes/direct-school-admission-1/
 ---
