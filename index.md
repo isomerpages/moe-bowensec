@@ -22,15 +22,6 @@ sections:
         - title: Level Matters
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
-  - infobar:
-      title: Release of GCE N-Level Results
-      subtitle: Thursday, 18 Dec 2025, 2pm
-      id: infobar
-      description: Students are to report by 1.45pm at School Hall in full uniform (no
-        tie) or smart casual (proper grooming). Parents may accompany. Entry
-        strictly via Main Gate.
-      button: MORE INFORMATION
-      url: /school-information/school-matters/news-n-events/
   - infopic:
       title: Sec 1 Registration
       subtitle: MonDAY, 22 Dec 2025 9am – 1pm
@@ -42,6 +33,13 @@ sections:
       url: /school-information/school-matters/news-n-events/
       image: /images/School Events/2025/2026_year_SEC_1_E_REG_BANNER.jpg
       alt: Image alt text
+  - infobar:
+      title: Appeal to Transfer-In to Bowen Secondary
+      id: infobar
+      description: Please complete registration at posted school. Submit the online
+        application of appeal to transfer into Bowen by Wed, 24 Dec 2025, 12pm.
+      button: Appeal LiNK
+      url: http://go.gov.sg/s1appealtobowen2026
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
