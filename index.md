@@ -55,11 +55,6 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: Release of N-Level Resuts
-          description: Thur, 18 Dec, 2.00pm. Students are to report by 1.45pm at School
-            Hall.
-          linktext: Learn more
-          url: /school-information/school-matters/news-n-events/
         - title: Sec 1 Registration
           description: Please see PG notification before completing registration on 22 Dec
             9am-1pm
@@ -70,6 +65,11 @@ sections:
             24 Dec 12pm
           linktext: Online Appeal Link
           url: http://go.gov.sg/s1appealtobowen2026
+        - title: Information on N-Level Results
+          description: Find briefing slides and information shared during the N-Level
+            Result release.
+          linktext: Find out more
+          url: /school-information/school-matters/news-n-events/
         - title: 2026 Sec 2 - Sec 4/5 Booklist
           description: Find the respective Sec 2 - 4/5 booklists at the level pages.
           linktext: Learn more
