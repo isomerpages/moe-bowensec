@@ -10,11 +10,13 @@ variant: tiptap
 <p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
 family. We are excited to have your teen join our Bowen family and look
 forward to partnering with you in their secondary school journey.</p>
+<p>Please note that you will be receiving a Parents Gateway (PG) notification
+by the end of Fri, 19 Dec 2025 with further information on S1 Registration.</p>
 <p><strong><u>Key Information on S1 Registration</u></strong>
 </p>
-<p>On <strong>Mon 22 Dec</strong>, you will receive a Parents Gateway (PG)
-message from your teen’s Form Teachers with details of their class allocation
-and instructions for S1 Registration.</p>
+<p>On <strong>Mon 22 Dec 2025</strong>, you will receive a follow-up PG message
+from your teen’s Form Teachers with details of their class allocation and
+instructions for S1 Registration.</p>
 <p>If you do not receive the PG message by 9:00 AM, please contact our <strong>General Office at 6385 9466</strong> for
 assistance.</p>
 <p>S1 Registration will be conducted online via our
