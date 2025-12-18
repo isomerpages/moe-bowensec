@@ -11,7 +11,8 @@ variant: tiptap
 family. We are excited to have your teen join our Bowen family and look
 forward to partnering with you in their secondary school journey.</p>
 <p>Please note that you will be receiving a Parents Gateway (PG) notification
-by the end of Fri, 19 Dec 2025 with further information on S1 Registration.</p>
+by the end of <strong>Fri, 19 Dec 2025 </strong>with further information
+on S1 Registration.</p>
 <p><strong><u>Key Information on S1 Registration</u></strong>
 </p>
 <p>On <strong>Mon 22 Dec 2025</strong>, you will receive a follow-up PG message
