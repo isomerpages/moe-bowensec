@@ -65,38 +65,9 @@ School. Do note that the deadline is <strong>Wednesday 24 December 2025, 12pm</s
 </p>
 <p>Do note that for request/appeal for transfer, you are<strong> still required to complete the registration at the school your child/ward has been posted to first</strong>.</p>
 <hr>
-<h3><strong>Release of GCE N-Level Results – Thursday, 18 December 2025, 2pm</strong></h3>
-<p>The GCE N-Level results will be released on <strong>Thursday, 18 December 2025 at 2.00pm</strong>.</p>
-<h4><strong>Important Information for Students</strong></h4>
-<ul>
-<li>
-<p><strong>Reporting Venue:</strong> School Hall</p>
-</li>
-<li>
-<p><strong>Reporting Time:</strong> Please be seated by <strong>1.45pm</strong>
-</p>
-</li>
-<li>
-<p><strong>Attire:</strong>:</p>
-<ul>
-<li>
-<p>Full school uniform (no tie required), <strong>or</strong>
-</p>
-</li>
-<li>
-<p>Full uniform (without tie) or Smart Casual (School Polo T-shirt with school
-skirt/ pants) with proper grooming.</p>
-</li>
-<li>
-<p>Students not in proper attire / grooming will not be able to collect their
-results with the rest of the cohort.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>Only parents/guardian can accompany their teen to the school to collect
-results.</p>
-<p>Please note that <strong>entry into the school is strictly via the Main Gate</strong>.</p>
+<h3><strong>Information and Briefing Slides for GCE N-Level Results  Release</strong></h3>
+<p>Please find the following links to information shared during the GCE N-Level
+Result Release.</p>
 <h4><strong>ITE Course Applications</strong></h4>
 <p>Students who wish to apply for ITE courses may submit their applications
 online via the ITE application portal. <a href="https://www.ite.edu.sg/intake-exercises/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/intake-exercises</a>
