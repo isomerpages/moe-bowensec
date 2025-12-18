@@ -65,7 +65,7 @@ School. Do note that the deadline is <strong>Wednesday 24 December 2025, 12pm</s
 </p>
 <p>Do note that for request/appeal for transfer, you are<strong> still required to complete the registration at the school your child/ward has been posted to first</strong>.</p>
 <hr>
-<h3><strong>Information and Briefing Slides for GCE N-Level Results  Release</strong></h3>
+<h3><strong>Information and Briefing Slides for GCE N-Level Results Release</strong></h3>
 <p>Please find the following links to information shared during the GCE N-Level
 Result Release.</p>
 <h4><strong>ITE Course Applications</strong></h4>
