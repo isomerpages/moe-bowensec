@@ -68,6 +68,8 @@ School. Do note that the deadline is <strong>Wednesday 24 December 2025, 12pm</s
 <h3><strong>Information and Briefing Slides for GCE N-Level Results Release</strong></h3>
 <p>Please find the following links to information shared during the GCE N-Level
 Result Release.</p>
+<p><a href="/files/Level Matters/S4n5/2025_N_Results_Release__Hall__Abridged_Students_final.pdf" rel="noopener nofollow" target="_blank">2025 N Level Result Briefing Slides</a>
+</p>
 <h4><strong>ITE Course Applications</strong></h4>
 <p>Students who wish to apply for ITE courses may submit their applications
 online via the ITE application portal. <a href="https://www.ite.edu.sg/intake-exercises/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/intake-exercises</a>
