@@ -5,9 +5,6 @@ description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-Here you can find information about School Fees, Financial Assistance Scheme (FAS) and other finance matters.  
-  
-
 ### School Fees
 
 Bowen Secondary School is a government school. The school fees tier for 2026 will be as follows:
@@ -388,20 +385,22 @@ Upon receiving the bill from MOE / School, the parent can pay using the SGQR cod
 ##### **AXS**  
 Parents can also pay through any of the AXS payment channels as follows:
 
+###### **AXS m-Station app** 
+Download the AXS Mobile App from App Store or Google Play. Create an account using your mobile number.   
+
+###### **AXS Web** 
+Visit [https://axs.com.sg/](https://axs.com.sg/) and follow the onscreen instructions.
+
+######  **AXS Station**
+* Locate your nearest AXS Station
+* Select 'AXS Services'
+* Select 'Pay Bills now' 
+* Select 'e-Services' 
+* Select 'Education' 
+* Select 'MOE' 
+* Select 'Student Bill Payment' 
+
 ![](/images/School%20Information/Finance%20Matters/axs_payment.jpg)
-
-*   **AXS m-Station app** <br>Download the AXS Mobile App from App Store or Google Play. Create an account using your mobile number.   
-
-*   **AXS Web** <br>Visit [https://axs.com.sg/](https://axs.com.sg/) and follow the onscreen instructions.
-
-*  ** AXS Station**<br>  
-a. Locate your nearest AXS Station <br>
-b. Select 'AXS Services'.<br>
-c. Select 'Pay Bills now' <br>
-d. Select 'e-Services' <br>
-e. Select 'Education' <br>
-f. Select 'MOE' <br>
-g. Select 'Student Bill Payment' <br>
 
 #####  **Cash Payment at school General Office**
 
@@ -417,6 +416,7 @@ There is no deduction in January as the fees for January and February are combin
  
 There will still be deductions in November and December as the fees payable are calculated on an annual basis and spread out over a period of 12 months, including school holidays.
 
+<hr>
 
 # Financial Assistance Scheme (FAS)
 
