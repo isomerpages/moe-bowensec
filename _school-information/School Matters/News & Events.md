@@ -21,7 +21,7 @@ instructions for S1 Registration.</p>
 <p>If you do not receive the PG message by 9:00 AM, please contact our <strong>General Office at 6385 9466</strong> for
 assistance.</p>
 <p>S1 Registration will be conducted online via our
-<br><a href="https://go.gov.sg/bowensec1reg" rel="noopener nofollow" target="_blank">Sec 1 Registration Microsite (https://go.gov.sg/bowensec1reg)</a>
+<br><a href="https://go.gov.sg/bowensec1reg" rel="noopener nofollow" target="_blank">Sec 1 Registration Microsite - https://go.gov.sg/bowensec1reg</a>
 </p>
 <p><strong>⚠️ Important<br>The Sec 1 Registration Microsite link will be available only on Monday, 22 December 2025, from 9am to 1pm.</strong>
 </p>
