@@ -57,8 +57,8 @@ sections:
       id: textcards
       cards:
         - title: Sec 1 Registration
-          description: Please see PG notification before completing registration on 22 Dec
-            9am-1pm
+          description: Link is live only from 22 Dec 9am-1pm. See PG notification before
+            registration
           linktext: Sec 1 Registration Microsite
           url: https://go.gov.sg/bowensec1reg
         - title: Appeal to Transfer-In (2026 Intake)
