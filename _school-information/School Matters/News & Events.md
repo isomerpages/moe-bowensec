@@ -56,7 +56,8 @@ conditions, please submit your appeal in person by <strong>Mon 22 Dec 2025, 12:0
 </ul>
 <p>Please ensure that all appeals are supported by relevant medical documents,
 such as medical reports or letters from doctors.</p>
-<p>For more information on the MAE, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>.</p>
+<p>For more information on the MOE Medical Appeal Exercise (MAE),</p>
+<p>please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>.</p>
 <hr>
 <h3><strong>Appeal to Transfer In to Bowen Secondary School (2026 Intake)</strong></h3>
 <p>Please click on <strong><a href="http://go.gov.sg/s1appealtobowen2026" rel="noopener noreferrer nofollow" target="_blank"><u>this link</u></a></strong> to
