@@ -26,3 +26,7 @@ in the links below</p>
 your own choice of email address and password (there is no preset user
 ID or Password).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/Booklist and Uniform/2026_Sec1_online_purchase_instructions.jpg">
+</div>
+<p></p>
