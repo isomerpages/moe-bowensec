@@ -27,7 +27,7 @@ sections:
       subtitle: Friday, 2 Jan 2026
       id: infopic
       description: Sec 2 -5 report to Hall (7:25am) and Sec 1 report to classrooms
-        (7:50am). Please click the link below for more information.
+        (8:50am). Please click the link below for more information.
       button: MORE INFORMATION
       alt: Image alt text
       image: /images/School Events/2026/First_Day_of_School_Announcement.jpg
