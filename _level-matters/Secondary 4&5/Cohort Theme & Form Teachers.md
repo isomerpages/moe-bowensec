@@ -12,7 +12,7 @@ variant: tiptap
 <br><a href="sharifah_kamelia_syed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_kamelia_syed@schools.gov.sg</a>
 </p>
 <hr>
-<h3>2026 Sec 3 Cohort Theme</h3>
+<h3>2026 Sec 4/5 Cohort Theme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Level%20Matters/S2/2024%20s2%20cohort%20theme.jpg">
 </div>
