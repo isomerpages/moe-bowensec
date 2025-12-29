@@ -104,7 +104,11 @@ from <strong>8.00am–5.00pm</strong>.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Book%20Lists/2026/S4_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 4/5 Booklist</a>
+<p><a href="/files/Book%20Lists/2026/S4_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 4 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Book Lists/2026/S5_booklist_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 5 Booklist</a>
 </p>
 </li>
 <li>
