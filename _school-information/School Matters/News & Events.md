@@ -89,11 +89,14 @@ completed, printed, and brought along on the day of collection.</p>
 <p>For further assistance, please contact the school’s General Office at <strong>6385 9466</strong>,
 from <strong>8.00am–5.00pm</strong>.</p>
 <hr>
-<h3>2026 Sec 2 - 4/5 Booklist</h3>
+<h3>2026 Sec 1 - 4/5 Booklist</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Book%20Lists/2026/Online_Purchase_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Online Purchase Guide for Books and Uniform</a>
 </p>
+</li>
+<li>
+<p></p>
 </li>
 <li>
 <p><a href="/files/Book%20Lists/2026/S2_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Booklist</a>
