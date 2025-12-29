@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <h1>Latest News and Events</h1>
 <h3><strong>Welcome back to school!</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/First_Day_of_School_Announcement.jpg">
 </div>
@@ -83,7 +82,6 @@ charged PLD</p>
 <p>Students are encouraged to rest early the day before school reopens.</p>
 </li>
 </ul>
-<p></p>
 <hr>
 <h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
 <p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
