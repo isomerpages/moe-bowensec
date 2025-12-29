@@ -72,7 +72,7 @@ charged PLD</p>
 <p>Please refer to the respective level in the school website</p>
 </li>
 <li>
-<p>Available from <strong>Wednesday, 31 December, 5.00pm</strong> 
+<p>Available from <strong>Wednesday, 31 December, 5.00pm</strong>
 </p>
 </li>
 </ul>
