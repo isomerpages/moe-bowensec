@@ -75,4 +75,11 @@ sections:
           description: Find the respective Sec 2 - 4/5 booklists at the level pages.
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
