@@ -23,6 +23,16 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
+      title: Welcome Back to School
+      subtitle: Friday, 2 Jan 2026
+      id: infopic
+      description: Sec 2 -5 report to Hall (7:25am) and Sec 1 report to classrooms
+        (7:50am). Please click the link below for more information.
+      button: MORE INFORMATION
+      alt: Image alt text
+      image: /images/School Events/2026/First_Day_of_School_Announcement.jpg
+      url: /school-information/school-matters/news-n-events/
+  - infopic:
       title: Sec 1 Registration
       subtitle: MonDAY, 22 Dec 2025 9am – 1pm
       id: infopic

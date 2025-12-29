@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary 4&5
 variant: markdown
 ---
-### Online Purchase of 2026 Textbooks and Uniforms for Sec 4
+### Online Purchase of 2026 Textbooks and Uniforms for Sec 4/5
 
 1. Please note that the sale of 2026 textbooks and uniforms will be conducted online.
 
@@ -26,6 +26,7 @@ variant: markdown
 
 * [2026 Online Purchase Guide](/files/Book%20Lists/2026/Online_Purchase_Guide.pdf)
 * [2026 Sec 4 Booklist](/files/Book%20Lists/2026/S4_Booklist_2026.pdf)
+* [2026 Sec 5 Booklist](/files/Book%20Lists/2026/S5_booklist_2026.pdf)
 
 
 ### Uniform Pricing and Size Guides
