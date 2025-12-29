@@ -6,6 +6,85 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
+<h3><strong>Welcome back to school!</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/First_Day_of_School_Announcement.jpg">
+</div>
+<p><strong>Reporting &amp; Dismissal</strong>
+</p>
+<ul>
+<li>
+<p><strong>S2–S5:</strong> Report at <strong>7.25am</strong> to the <strong>School Hall</strong>
+</p>
+</li>
+<li>
+<p><strong>S1:</strong> Report at <strong>8.50am</strong> to <strong>Classrooms</strong>
+</p>
+</li>
+<li>
+<p><strong>Dismissal Time:</strong>  <strong>12.30pm</strong> (all levels)</p>
+</li>
+</ul>
+<p><strong>Important Notes</strong>
+</p>
+<ul>
+<li>
+<p><strong>S2–S5 students</strong> are to report directly to the Hall with
+their valuables (e.g. wallet, mobile phone, PLD).</p>
+</li>
+<li>
+<p><strong>S3 students</strong> should check their <strong>ICON email</strong> for
+class allocation details.</p>
+</li>
+</ul>
+<p><strong>Attire</strong>
+</p>
+<ul>
+<li>
+<p><strong>S2–S5:</strong> Full school uniform (without tie), proper grooming</p>
+</li>
+<li>
+<p><strong>S1:</strong> Full school uniform (without tie) <strong>or</strong> smart
+casual attire (polo shirt with shorts/skirt), proper grooming
+<br><em>S1 students may wear their primary school uniform if the Bowen uniform has not been purchased or received.</em>
+</p>
+</li>
+</ul>
+<p><strong>What to Bring</strong>
+</p>
+<ul>
+<li>
+<p>Writing materials</p>
+</li>
+<li>
+<p><strong>S2–S5:</strong> Report Book (signed by parent/guardian) and a fully
+charged PLD</p>
+</li>
+<li>
+<p><strong>S1:</strong> Refer to the Welcome Pack</p>
+</li>
+</ul>
+<p><strong>2026 Timetable</strong>
+</p>
+<ul>
+<li>
+<p>Please refer to the respective level in the school website</p>
+</li>
+<li>
+<p>Available from <strong>Wednesday, 31 December, 5.00pm</strong> 
+</p>
+</li>
+</ul>
+<p><strong>Reminder</strong>
+</p>
+<ul>
+<li>
+<p>Students are encouraged to rest early the day before school reopens.</p>
+</li>
+</ul>
+<p></p>
+<hr>
 <h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
 <p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
 family. We are excited to have your teen join our Bowen family and look
