@@ -68,7 +68,7 @@ sections:
       id: textcards
       cards:
         - title: 2026 Sem 1 Class Timetables
-          description: Please navgate to the respective level pages for the timetables.
+          description: Please navigate to the respective level pages for the timetables.
           linktext: MORE INFORMATION
           url: /school-information/school-matters/news-n-events/
         - title: Appeal to Transfer-In (2026 Intake)
