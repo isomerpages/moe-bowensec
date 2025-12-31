@@ -81,8 +81,8 @@ sections:
             Result release.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
-        - title: 2026 Sec 2 - Sec 4/5 Booklist
-          description: Find the respective Sec 2 - 4/5 booklists at the level pages.
+        - title: 2026 Booklists
+          description: Find the respective booklists at the level pages.
           linktext: Learn more
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
 ---
