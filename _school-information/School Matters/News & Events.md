@@ -83,6 +83,29 @@ charged PLD</p>
 </li>
 </ul>
 <hr>
+<h3><strong>2026 Semester 1 Timetables</strong></h3>
+<p>Please navigate to the respective level pages via the links below to access
+the respective timetables.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/school-information/level-matters/secondary-1/class-timetables/" rel="noopener nofollow" target="_blank">Sec 1 Sem 1 Timetables</a>
+</p>
+</li>
+<li>
+<p><a href="/school-information/level-matters/secondary-2/class-timetables/" rel="noopener nofollow" target="_blank">Sec 2 Sem 1 Timetables</a> 
+</p>
+</li>
+<li>
+<p><a href="/school-information/level-matters/secondary-3/class-timetables/" rel="noopener nofollow" target="_blank">Sec 3 Sem 1 Timetables</a>
+</p>
+</li>
+<li>
+<p><a href="/school-information/level-matters/secondary-4-5/class-timetables/" rel="noopener nofollow" target="_blank">Sec 4/5 Sem 1 Class Timetables</a>
+</p>
+</li>
+</ul>
+<hr>
+<p></p>
 <h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
 <p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
 family. We are excited to have your teen join our Bowen family and look

@@ -27,7 +27,8 @@ sections:
       subtitle: Friday, 2 Jan 2026
       id: infopic
       description: Sec 2 -5 report to Hall (7:25am) and Sec 1 report to classrooms
-        (8:50am). Please click the link below for more information.
+        (8:50am). Please click the link below for more information including
+        class timetables.
       button: MORE INFORMATION
       alt: Image alt text
       image: /images/School Events/2026/First_Day_of_School_Announcement.jpg
@@ -66,11 +67,10 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: Sec 1 Registration
-          description: Starts only 22 Dec 2025 from 9am-1pm. See PG notification before
-            registration
-          linktext: Sec 1 Registration Microsite
-          url: https://go.gov.sg/bowensec1reg
+        - title: 2026 Sem 1 Class Timetables
+          description: Please navgate to the respective level pages for the timetables.
+          linktext: MORE INFORMATION
+          url: /school-information/school-matters/news-n-events/
         - title: Appeal to Transfer-In (2026 Intake)
           description: Complete registration at posted school first. Submit appeal by Wed
             24 Dec 12pm
