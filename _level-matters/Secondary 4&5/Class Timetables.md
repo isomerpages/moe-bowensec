@@ -9,6 +9,10 @@ variant: tiptap
 <h5>Sem 1 timetables w.e.f. 2 Jan</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Class Timetables/2026_Term1_V3/2026_SEM1_S4T_TT_V3.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Topaz</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Class%20Timetables/2026_Term1_V3/2026_SEM1_S4S_TT_V3.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Sapphire</a>
 </p>
 </li>
