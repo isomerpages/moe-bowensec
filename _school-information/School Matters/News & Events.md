@@ -6,7 +6,7 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
-<h3><strong>Start of 2026 Term 1 Letters</strong></h3>
+<h3><strong>2026 Start of Term 1 Letters</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
