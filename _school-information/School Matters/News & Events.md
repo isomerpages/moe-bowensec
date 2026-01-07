@@ -27,7 +27,7 @@ variant: tiptap
 </ul>
 <hr>
 <p></p>
-<h3><strong>Release of GCE O-Level Results</strong></h3>
+<h3><strong>Release of 2025 GCE O-Level Results</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/2026_O_level_result_release.jpg">
