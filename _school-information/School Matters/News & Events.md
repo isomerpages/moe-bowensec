@@ -6,82 +6,111 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
-<h3><strong>Welcome back to school!</strong></h3>
+<h3><strong>2026 Start of Term 1 Letters</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
+</p>
+</li>
+</ul>
+<hr>
+<p></p>
+<h3><strong>Release of 2025 GCE O-Level Results</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/First_Day_of_School_Announcement.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/2026_O_level_result_release.jpg">
 </div>
-<p><strong>Reporting &amp; Dismissal</strong>
-</p>
-<ul>
+<h4><strong>Results Release Date &amp; Time</strong></h4>
+<p>The GCE O Level Results will be released on <strong>14 January 2026 at 2.00pm</strong>.</p>
+<h4><strong>Key Collection Information</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>S2–S5:</strong> Report at <strong>7.25am</strong> to the <strong>School Hall</strong>
-</p>
+<p><strong>Venue:</strong> School Hall</p>
 </li>
 <li>
-<p><strong>S1:</strong> Report at <strong>8.50am</strong> to <strong>Classrooms</strong>
-</p>
+<p><strong>Reporting Time:</strong> Please be seated by 1.45pm</p>
 </li>
 <li>
-<p><strong>Dismissal Time:</strong>  <strong>12.30pm</strong> (all levels)</p>
+<p><strong>Dress code:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full uniform (without tie), OR</p>
+</li>
+<li>
+<p>Smart casual attire (Polo T-shirt with school skirt/pants)</p>
+</li>
+<li>
+<p>Proper grooming is required</p>
 </li>
 </ul>
-<p><strong>Important Notes</strong>
-</p>
-<ul>
-<li>
-<p><strong>S2–S5 students</strong> are to report directly to the Hall with
-their valuables (e.g. wallet, mobile phone, PLD).</p>
-</li>
-<li>
-<p><strong>S3 students</strong> should check their <strong>ICON email</strong> for
-class allocation details.</p>
 </li>
 </ul>
-<p><strong>Attire</strong>
-</p>
-<ul>
+<h4><strong>Parent/Guardian Attendance</strong></h4>
+<p>Parents and guardians are welcome to accompany their child to school for
+results collection.</p>
+<p>Students unable to collect results in person may appoint a proxy.</p>
+<p>Proxies must:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>S2–S5:</strong> Full school uniform (without tie), proper grooming</p>
+<p>Produce relevant documents for school verification</p>
 </li>
 <li>
-<p><strong>S1:</strong> Full school uniform (without tie) <strong>or</strong> smart
-casual attire (polo shirt with shorts/skirt), proper grooming
-<br><em>S1 students may wear their primary school uniform if the Bowen uniform has not been purchased or received.</em>
-</p>
-</li>
-</ul>
-<p><strong>What to Bring</strong>
-</p>
-<ul>
-<li>
-<p>Writing materials</p>
-</li>
-<li>
-<p><strong>S2–S5:</strong> Report Book (signed by parent/guardian) and a fully
-charged PLD</p>
-</li>
-<li>
-<p><strong>S1:</strong> Refer to the Welcome Pack</p>
-</li>
-</ul>
-<p><strong>2026 Timetable</strong>
-</p>
-<ul>
-<li>
-<p>Please refer to the respective level in the school website</p>
-</li>
-<li>
-<p>Available from <strong>Wednesday, 31 December, 5.00pm</strong>
+<p>Complete the attached <a href="/files/Level Matters/S4n5/JAE_Proxy_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form</a>
 </p>
 </li>
 </ul>
-<p><strong>Reminder</strong>
-</p>
-<ul>
+<h3><strong>Joint Admissions Exercise (JAE) - Important Dates</strong></h3>
+<h4><strong>Form A Distribution</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
-<p>Students are encouraged to rest early the day before school reopens.</p>
+<p><strong>Digital copies:</strong> Sent to registered email addresses from
+2.45pm on 14 January 2026</p>
+</li>
+<li>
+<p><strong>Download option:</strong> Available through JAE-Internet System
+(JAE-IS) during application period</p>
 </li>
 </ul>
+<h4><strong>Application Period</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>JAE-IS Access:</strong> 4pm on 14 January 2026 to 4.30pm on 19
+January 2026</p>
+</li>
+<li>
+<p><strong>Website:</strong>  <a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>
+</p>
+</li>
+</ul>
+<h3><strong>JAE Results Release</strong></h3>
+<p><strong>Posting results available on 3 February 2026 via:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>JAE-Internet System (JAE-IS) through the JAE website</p>
+</li>
+<li>
+<p>SMS to registered Singapore mobile phone number</p>
+</li>
+</ul>
+<p>For more details, visit:</p>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise</u></a>
+</p>
+<p>For queries, contact the school's General Office <strong>6385 9466</strong> during
+office hours</p>
 <hr>
 <h3><strong>2026 Semester 1 Timetables</strong></h3>
 <p>Please navigate to the respective level pages via the links below to access
@@ -92,7 +121,7 @@ the respective timetables.</p>
 </p>
 </li>
 <li>
-<p><a href="/school-information/level-matters/secondary-2/class-timetables/" rel="noopener nofollow" target="_blank">Sec 2 Sem 1 Timetables</a> 
+<p><a href="/school-information/level-matters/secondary-2/class-timetables/" rel="noopener nofollow" target="_blank">Sec 2 Sem 1 Timetables</a>
 </p>
 </li>
 <li>
