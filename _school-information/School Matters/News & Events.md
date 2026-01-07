@@ -6,6 +6,27 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
+<h3><strong>Start of Term 1 Letters</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
+</p>
+</li>
+</ul>
+<hr>
+<p></p>
 <h3><strong>Release of GCE O-Level Results</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -22,7 +43,7 @@ variant: tiptap
 <p><strong>Reporting Time:</strong> Please be seated by 1.45pm</p>
 </li>
 <li>
-<p><strong>Dress code: </strong>
+<p><strong>Dress code:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
