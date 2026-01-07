@@ -71,11 +71,11 @@ sections:
           description: Please navigate to the respective level pages for the timetables.
           linktext: MORE INFORMATION
           url: /school-information/school-matters/news-n-events/
-        - title: Appeal to Transfer-In (2026 Intake)
-          description: Complete registration at posted school first. Submit appeal by Wed
-            24 Dec 12pm
-          linktext: Online Appeal Link
-          url: http://go.gov.sg/s1appealtobowen2026
+        - title: 2026 Start of Term 1 Letters
+          description: Please find the Start of Term 1 Letters at the respective Level
+            pages.
+          linktext: MORE INFORMATION
+          url: /school-information/school-matters/news-n-events
         - title: Information on N-Level Results
           description: Find briefing slides and information shared during the N-Level
             Result release.
