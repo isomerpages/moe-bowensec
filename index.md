@@ -69,12 +69,12 @@ sections:
       cards:
         - title: 2026 Sem 1 Class Timetables
           description: Please navigate to the respective level pages for the timetables.
-          linktext: MORE INFORMATION
+          linktext: Find out more
           url: /school-information/school-matters/news-n-events/
         - title: 2026 Start of Term 1 Letters
           description: Please find the Start of Term 1 Letters at the respective Level
             pages.
-          linktext: MORE INFORMATION
+          linktext: Find out more
           url: /school-information/school-matters/news-n-events
         - title: Information on N-Level Results
           description: Find briefing slides and information shared during the N-Level
