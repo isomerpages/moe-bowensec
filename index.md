@@ -23,15 +23,15 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Welcome Back to School
-      subtitle: Friday, 2 Jan 2026
+      title: Release of 2025 GCE-O Level Results
+      subtitle: Wed, 14 Jan 2026, 2pm
       id: infopic
-      description: Sec 2 -5 report to Hall (7:25am) and Sec 1 report to classrooms
-        (8:50am). Please click the link below for more information including
-        class timetables.
+      description: Graduating Bowenians, please be seated in School Hall by 1.45pm for
+        results collection. Wear full uniform (no tie) or smart casual. Parents
+        welcome.
       button: MORE INFORMATION
       alt: Image alt text
-      image: /images/School Events/2026/First_Day_of_School_Announcement.jpg
+      image: /images/School Events/2026/2026_O_level_result_release.jpg
       url: /school-information/school-matters/news-n-events/
   - infopic:
       title: Sec 1 Registration
