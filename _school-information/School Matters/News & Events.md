@@ -6,73 +6,40 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
-<h3><strong>2026 Start of Term 1 Letters</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Start of Term 1 Letter</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Level Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
-</p>
-</li>
-</ul>
-<hr>
-<p></p>
-<h3><strong>Release of 2025 GCE O-Level Results</strong></h3>
+<h3>Release of 2025 GCE O-Level Results</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/2026_O_level_result_release.jpg">
 </div>
-<h4><strong>Results Release Date &amp; Time</strong></h4>
-<p>The GCE O Level Results will be released on <strong>14 January 2026 at 2.00pm</strong>.</p>
-<h4><strong>Key Collection Information</strong></h4>
+<h4><strong>Materials from today's O-level results release</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Venue:</strong> School Hall</p>
-</li>
-<li>
-<p><strong>Reporting Time:</strong> Please be seated by 1.45pm</p>
-</li>
-<li>
-<p><strong>Dress code:</strong>
+<p><a href="https://drive.google.com/file/d/1t1xzhANaZYMlK8GOeDDEtEhWHaDuH68x/view?usp=drive_link" rel="noopener nofollow" target="_blank">Link to Bowen 2025 O Level Result Release Briefing Slides (Abridged version)</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Full uniform (without tie), OR</p>
 </li>
 <li>
-<p>Smart casual attire (Polo T-shirt with school skirt/pants)</p>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener nofollow" target="_blank">Link to Courses offered in 2026 JAE</a>
+</p>
 </li>
 <li>
-<p>Proper grooming is required</p>
-</li>
-</ul>
-</li>
-</ul>
-<h4><strong>Parent/Guardian Attendance</strong></h4>
-<p>Parents and guardians are welcome to accompany their child to school for
-results collection.</p>
-<p>Students unable to collect results in person may appoint a proxy.</p>
-<p>Proxies must:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Produce relevant documents for school verification</p>
+<p><a href="https://www.moe.gov.sg/schoolfinder?journey=Post%20secondary-JC%20school" rel="noopener nofollow" target="_blank">MOE School Finder</a>
+</p>
 </li>
 <li>
-<p>Complete the attached <a href="/files/Level Matters/S4n5/JAE_Proxy_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form</a>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/guide-to-jae-internet-system-2026-jae.pdf" rel="noopener nofollow" target="_blank">JAE INTERNET SYSTEM (JAE-IS) USER GUIDE</a>
 </p>
 </li>
 </ul>
-<h3><strong>Joint Admissions Exercise (JAE) - Important Dates</strong></h3>
+<p>Updates: Please share the confirmed course that you are enrolled in using
+this link: <a href="https://go.gov.sg/2025bowencohort" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025bowencohort</a>
+</p>
+<p>If there are any changes, please submit this form again <strong>by Fri 6 Feb.</strong>
+</p>
+<h3>Joint Admissions Exercise (JAE) - Important Dates</h3>
 <h4><strong>Form A Distribution</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -95,7 +62,7 @@ January 2026</p>
 </p>
 </li>
 </ul>
-<h3><strong>JAE Results Release</strong></h3>
+<h3>JAE Results Release</h3>
 <p><strong>Posting results available on 3 February 2026 via:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -110,7 +77,8 @@ January 2026</p>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise</u></a>
 </p>
 <p>For queries, contact the school's General Office <strong>6385 9466</strong> during
-office hours</p>
+office hours.</p>
+<p></p>
 <hr>
 <h3><strong>2026 Semester 1 Timetables</strong></h3>
 <p>Please navigate to the respective level pages via the links below to access
@@ -134,7 +102,26 @@ the respective timetables.</p>
 </li>
 </ul>
 <hr>
-<p></p>
+<h3><strong>2026 Start of Term 1 Letters</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
+</p>
+</li>
+</ul>
+<hr>
 <h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
 <p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
 family. We are excited to have your teen join our Bowen family and look
