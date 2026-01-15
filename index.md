@@ -26,9 +26,8 @@ sections:
       title: Release of 2025 GCE-O Level Results
       subtitle: Wed, 14 Jan 2026, 2pm
       id: infopic
-      description: Graduating Bowenians, please be seated in School Hall by 1.45pm for
-        results collection. Wear full uniform (no tie) or smart casual. Parents
-        welcome.
+      description: Congratulations to our graduating Bowenians. Please find a summary
+        of the information shared & briefing slides in the link below.
       button: MORE INFORMATION
       alt: Image alt text
       image: /images/School Events/2026/2026_O_level_result_release.jpg
