@@ -14,7 +14,7 @@ variant: tiptap
 <h4>Materials from today's O-level results release</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1t1xzhANaZYMlK8GOeDDEtEhWHaDuH68x/view?usp=drive_link" rel="noopener nofollow" target="_blank">Link to Bowen 2025 O Level Resu;t Release Briefing Slides (Abridged version)</a>
+<p><a href="https://drive.google.com/file/d/1t1xzhANaZYMlK8GOeDDEtEhWHaDuH68x/view?usp=drive_link" rel="noopener nofollow" target="_blank">Link to Bowen 2025 O Level Result Release Briefing Slides (Abridged version)</a>
 </p>
 </li>
 </ol>
