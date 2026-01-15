@@ -32,46 +32,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/2026_O_level_result_release.jpg">
 </div>
-<h4><strong>Results Release Date &amp; Time</strong></h4>
-<p>The GCE O Level Results will be released on <strong>14 January 2026 at 2.00pm</strong>.</p>
-<h4><strong>Key Collection Information</strong></h4>
-<ul data-tight="true" class="tight">
+<h4>Materials from today's O-level results release</h4>
+<ol data-tight="true" class="tight">
 <li>
-<p><strong>Venue:</strong> School Hall</p>
-</li>
-<li>
-<p><strong>Reporting Time:</strong> Please be seated by 1.45pm</p>
-</li>
-<li>
-<p><strong>Dress code:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Full uniform (without tie), OR</p>
-</li>
-<li>
-<p>Smart casual attire (Polo T-shirt with school skirt/pants)</p>
-</li>
-<li>
-<p>Proper grooming is required</p>
-</li>
-</ul>
-</li>
-</ul>
-<h4><strong>Parent/Guardian Attendance</strong></h4>
-<p>Parents and guardians are welcome to accompany their child to school for
-results collection.</p>
-<p>Students unable to collect results in person may appoint a proxy.</p>
-<p>Proxies must:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Produce relevant documents for school verification</p>
-</li>
-<li>
-<p>Complete the attached <a href="/files/Level Matters/S4n5/JAE_Proxy_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form</a>
+<p><a href="https://drive.google.com/file/d/1t1xzhANaZYMlK8GOeDDEtEhWHaDuH68x/view?usp=drive_link" rel="noopener nofollow" target="_blank">Link to Bowen 2025 O Level Resu;t Release Briefing Slides (Abridged version) </a>
 </p>
 </li>
-</ul>
+</ol>
+<p>2. <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener nofollow" target="_blank">Link to Courses offered in 2026 JAE</a>
+</p>
+<p>3. <a href="https://www.moe.gov.sg/schoolfinder?journey=Post%20secondary-JC%20school" rel="noopener nofollow" target="_blank">MOE School Finder</a>
+</p>
+<p>4. <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a> 
+</p>
+<p>5. <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/guide-to-jae-internet-system-2026-jae.pdf" rel="noopener nofollow" target="_blank">JAE INTERNET SYSTEM (JAE-IS) USER GUIDE</a>
+</p>
+<p>Updates: Please share the confirmed course that you are enrolled in using
+this link: <a href="https://go.gov.sg/2025bowencohort" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025bowencohort</a>
+</p>
+<p>If there are any changes, please submit this form again <strong>by Fri 6 Feb.</strong>
+</p>
 <h3><strong>Joint Admissions Exercise (JAE) - Important Dates</strong></h3>
 <h4><strong>Form A Distribution</strong></h4>
 <ul data-tight="true" class="tight">
