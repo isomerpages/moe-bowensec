@@ -12,20 +12,28 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/2026_O_level_result_release.jpg">
 </div>
 <h4>Materials from today's O-level results release</h4>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1t1xzhANaZYMlK8GOeDDEtEhWHaDuH68x/view?usp=drive_link" rel="noopener nofollow" target="_blank">Link to Bowen 2025 O Level Result Release Briefing Slides (Abridged version)</a>
 </p>
 </li>
-</ol>
-<p>2. <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener nofollow" target="_blank">Link to Courses offered in 2026 JAE</a>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener nofollow" target="_blank">Link to Courses offered in 2026 JAE</a>
 </p>
-<p>3. <a href="https://www.moe.gov.sg/schoolfinder?journey=Post%20secondary-JC%20school" rel="noopener nofollow" target="_blank">MOE School Finder</a>
+</li>
+<li>
+<p> <a href="https://www.moe.gov.sg/schoolfinder?journey=Post%20secondary-JC%20school" rel="noopener nofollow" target="_blank">MOE School Finder</a>
 </p>
-<p>4. <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a>
+</li>
+<li>
+<p> <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a>
 </p>
-<p>5. <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/guide-to-jae-internet-system-2026-jae.pdf" rel="noopener nofollow" target="_blank">JAE INTERNET SYSTEM (JAE-IS) USER GUIDE</a>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/guide-to-jae-internet-system-2026-jae.pdf" rel="noopener nofollow" target="_blank">JAE INTERNET SYSTEM (JAE-IS) USER GUIDE</a>
 </p>
+</li>
+</ul>
 <p>Updates: Please share the confirmed course that you are enrolled in using
 this link: <a href="https://go.gov.sg/2025bowencohort" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025bowencohort</a>
 </p>
