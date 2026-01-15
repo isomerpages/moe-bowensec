@@ -6,27 +6,6 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
-<h3><strong>2026 Start of Term 1 Letters</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Start of Term 1 Letter</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Level Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
-</p>
-</li>
-</ul>
-<hr>
-<p></p>
 <h3><strong>Release of 2025 GCE O-Level Results</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -35,7 +14,7 @@ variant: tiptap
 <h4>Materials from today's O-level results release</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1t1xzhANaZYMlK8GOeDDEtEhWHaDuH68x/view?usp=drive_link" rel="noopener nofollow" target="_blank">Link to Bowen 2025 O Level Resu;t Release Briefing Slides (Abridged version) </a>
+<p><a href="https://drive.google.com/file/d/1t1xzhANaZYMlK8GOeDDEtEhWHaDuH68x/view?usp=drive_link" rel="noopener nofollow" target="_blank">Link to Bowen 2025 O Level Resu;t Release Briefing Slides (Abridged version)</a>
 </p>
 </li>
 </ol>
@@ -43,7 +22,7 @@ variant: tiptap
 </p>
 <p>3. <a href="https://www.moe.gov.sg/schoolfinder?journey=Post%20secondary-JC%20school" rel="noopener nofollow" target="_blank">MOE School Finder</a>
 </p>
-<p>4. <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a> 
+<p>4. <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">MOE Course Finder</a>
 </p>
 <p>5. <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/guide-to-jae-internet-system-2026-jae.pdf" rel="noopener nofollow" target="_blank">JAE INTERNET SYSTEM (JAE-IS) USER GUIDE</a>
 </p>
@@ -114,7 +93,26 @@ the respective timetables.</p>
 </li>
 </ul>
 <hr>
-<p></p>
+<h3><strong>2026 Start of Term 1 Letters</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Start of Term 1 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
+</p>
+</li>
+</ul>
+<hr>
 <h3><strong>Secondary 1 Online Registration (2026 Intake)</strong></h3>
 <p>A warm welcome to our 2026 Secondary 1 students and parents to the Bowen
 family. We are excited to have your teen join our Bowen family and look
