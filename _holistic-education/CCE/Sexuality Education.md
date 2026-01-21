@@ -97,8 +97,69 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h3><strong>2026 Sexuality Education Lessons in CCE</strong></h3>
-<h4><strong>&nbsp;Secondary 1</strong></h4>
-<p><strong>&nbsp;</strong>
+<h3><strong>2026 Sexuality Education Lessons in CCE&nbsp;</strong></h3>
+<p>Please find the following Sexuality Education lessons that will be taught
+in BOWEN Secondary School for 2026 below</p>
+<p><a href="/files/Holistic Education/CCE/SED/2026_SED_Lesson_outline.pdf" rel="noopener nofollow" target="_blank">2026 SED Lesson Outline for Bowen Secondary</a>
 </p>
+<p></p>
+<h3>eTeens Programme:</h3>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB.
+<br>
+<br><em>eTeens</em> is conducted in two segments – a mass talk segment and
+a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.
+<br>
+</p>
+</li>
+<li>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+</li>
+</ol>
+<p></p>
+<h4>Information for Parents</h4>
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.
+<br>
+</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form<a href="/files/Holistic Education/CCE/SED/Annex_A_2026_SED.pdf" rel="noopener noreferrer nofollow" target="_blank"> Annex A</a>.
+This form will be communicated to parents at the start of the year and
+is also available <a href="/files/Holistic Education/CCE/SED/Annex_A_2026_SED.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
+completed form is to be submitted <strong>by 31/01/2026.</strong>
+<br>
+</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form <a href="/files/Holistic Education/CCE/SED/Annex_B_2026_SED.pdf" rel="noopener nofollow" target="_blank">Annex B</a>.
+This form will be communicated to parents at the start of the year and
+is also available <a href="/files/Holistic Education/CCE/SED/Annex_B_2026_SED.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;The
+completed form is to be submitted <strong>by 31/01/2026.</strong>
+</p>
+<p></p>
+</li>
+<li>
+<p>Parents can contact the school at <strong>6385 9466</strong> for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p></p>
