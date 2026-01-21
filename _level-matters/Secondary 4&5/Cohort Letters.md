@@ -14,5 +14,9 @@ slides.</p>
 <p><a href="/files/Level%20Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026__Letter_to_parents_TA1_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4/5 Term Assessment 1 (TA1) Letter</a>
+</p>
+</li>
 </ol>
 <p></p>
