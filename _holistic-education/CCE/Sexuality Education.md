@@ -3,7 +3,7 @@ title: Sexuality Education
 permalink: /holistic-education/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
-variant: markdown
+variant: tiptap
 ---
 <h3>MOE Sexuality Education in Schools</h3>
 <ol data-tight="true" class="tight">
