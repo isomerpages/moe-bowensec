@@ -6,6 +6,9 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
+<p></p>
+<h3>Term Letters for TA1</h3>
+<p></p>
 <h3>Release of 2025 GCE O-Level Results</h3>
 <p></p>
 <div class="isomer-image-wrapper">
