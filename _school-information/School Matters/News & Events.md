@@ -10,11 +10,11 @@ variant: tiptap
 <h3>2026 Term Letters for TA1</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Level Matters/S1/2026__Letter_to_parents_TA1_Sec_1.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1  TA1 Letter</a>
+<p><a href="/files/Level Matters/S1/2026__Letter_to_parents_TA1_Sec_1.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 TA1 Letter</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Level Matters/S2/2026__Letter_to_parents_TA1_Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 TA1 Letter</a>
+<p><a href="/files/Level Matters/S2/2026__Letter_to_parents_TA1_Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 TA1 Letter</a>
 </p>
 </li>
 <li>
