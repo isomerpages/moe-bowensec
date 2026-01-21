@@ -34,7 +34,7 @@ sections:
       url: /school-information/school-matters/news-n-events/
   - infopic:
       title: Sec 1 Registration
-      subtitle: MonDAY, 22 Dec 2025 9am – 1pm
+      subtitle: Monday, 22 Dec 2025 9am – 1pm
       id: infopic
       description: Sec 1 registration is online only. Students need not report to
         school. The registration link will only be available on Mon 22 Dec from
@@ -70,9 +70,9 @@ sections:
           description: Please navigate to the respective level pages for the timetables.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
-        - title: 2026 Start of Term 1 Letters
-          description: Please find the Start of Term 1 Letters at the respective Level
-            pages.
+        - title: 2026 Term Assessment 1 (TA1) Letters
+          description: Please find the Term Assessment 1 (TA1) letters at the respective
+            Level pages.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events
         - title: Information on N-Level Results

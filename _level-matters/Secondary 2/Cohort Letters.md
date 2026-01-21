@@ -13,5 +13,9 @@ download as a PDF copy.</p>
 <p><a href="/files/Level%20Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S2/2026__Letter_to_parents_TA1_Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Term Assessment 1 (TA1) Letter</a>
+</p>
+</li>
 </ol>
 <p></p>
