@@ -34,7 +34,7 @@ sections:
       url: /school-information/school-matters/news-n-events/
   - infopic:
       title: Sec 1 Registration
-      subtitle: MonDAY, 22 Dec 2025 9am – 1pm
+      subtitle: Monday, 22 Dec 2025 9am – 1pm
       id: infopic
       description: Sec 1 registration is online only. Students need not report to
         school. The registration link will only be available on Mon 22 Dec from
