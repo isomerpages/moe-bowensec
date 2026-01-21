@@ -129,6 +129,10 @@ Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Education/CCE/eteens_programme_2026.jpg">
+</div>
 <h4>Information for Parents</h4>
 <ol start="10" data-tight="true" class="tight">
 <li>
