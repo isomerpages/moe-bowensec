@@ -97,7 +97,8 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<p></p>
+<h3><strong>2026 Sexuality Education Lessons in CCE</strong></h3>
+<h4><strong>&nbsp;Secondary 1</strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
