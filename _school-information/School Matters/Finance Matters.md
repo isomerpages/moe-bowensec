@@ -23,16 +23,16 @@ Monthly fees in government or government-aided schools have 2 different componen
     
 
 ##### Permanent Residents  
-The maximum monthly fee is $700 per month.
+The maximum monthly fee is $700 per month. <p></p>
 
 ##### International students (ASEAN)  
 The maximum monthly fee is $1,111.80 per month.<br>
-The 11 member countries of the Association of Southeast Asian Nations (ASEAN) are Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste, and Vietnam.
+The 11 member countries of the Association of Southeast Asian Nations (ASEAN) are Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste, and Vietnam.<p></p>
 
  ##### International students (non-ASEAN)
 The maximum monthly fee is $2,211.80 per month.<br>
 Examples of non-ASEAN countries include China, Japan, South Korea, Australia, India, New Zealand, Russia, the United States, Sri Lanka, and Serbia.
-
+<p></p>
 
 ##### How school fees are structured for PR, IS (ASEAN) and IS (non-ASEAN)
 
