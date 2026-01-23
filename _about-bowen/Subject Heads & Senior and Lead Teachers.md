@@ -60,22 +60,6 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Astee Goh
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_shin_ee_astee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr. Gary See Gim Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs. Chua Shi Hui</p>
@@ -101,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Alvin Chong</p>
@@ -115,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Tan Shuming</p>
@@ -129,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Mohamad Irsyad</p>
@@ -143,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Sheik Habib</p>
@@ -157,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Melissa Chong</p>
@@ -167,6 +151,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_huilin_melissa@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.Alamel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH/ EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alamel_moghan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
