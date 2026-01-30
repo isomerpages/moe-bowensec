@@ -25,7 +25,6 @@ International Students will pay the full trip cost.
 These trips allow our students to experience what it is like to study in a different cultural, linguistic and/or social environment to what they are so familiar with in Singapore. 
 
 #### Timeline (Approximate)
-
 ##### Term 1
 * School will start to share information for overseas school
 trips and invite students to apply for the trips for the year.
@@ -41,6 +40,3 @@ Actual Trip!
 
 ##### The following year
 * Students to share their experiences with school mates.
-
-
-
