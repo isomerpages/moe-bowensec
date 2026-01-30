@@ -10,38 +10,48 @@ variant: markdown
 In Bowen, we strive to create a caring and vibrant learning environment for Bowenians to ‘**Do Well and Do Good’**. Our rules and regulations describe the standard of conduct and behaviour expected of our students at all times. Our end-goal is to guide our students to cultivate core values and habits and to become self-disciplined individuals of good character, which is integral for growth and maturity.
 
 
-[Bowen School Rules (Updated 2025)](/files/Care%20&amp;%20Discipline/Bowen_Sec_Discipline_and_Rules_2025.pdf)
+[Discipline and School Rules (updated 2026)](/files/Care%20&amp;%20Discipline/Bowen_Sec_Discipline_and_Rules_2026.pdf)
 
 <hr>
 
 ## Care and Support 
-[Bowen Care and Well-Being (updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Student_Well_Being_2024.pdf)
+[Student Well-Being and Support](/files/Care%20&amp;%20Discipline/Bowen_Sec_WellBeing_n_Support_2026.pdf)
 
-We aim to nurture future-ready Bowenians who are self-disciplined individuals of sound character and caring peers. The growing-up years is rife with many new challenges. However, surmounting them together with supportive peers can turn these challenges into welcomed and fun opportunities for growth. So Bowenians, navigate your Bowen Experience (BE) with your peers as a cohesive team while seeking always to develop a strong sense of personal well-being and confidence.
+We aim to nurture future-ready Bowenians who are selfdisciplined
+individuals of sound character and caring peers.Young people may face new challenges in their growing up years. However, Bowenians, turn these challenges into welcomed and meaningful opportunities for growth by surmounting them together with your supportive peers. Navigate your 
+**Bowen Experience (BE)** with your peers as a cohesive team; seek
+always to develop a strong sense of personal well-being and confidence while championing collective well-being and morale.
 
-To navigate your Bowen Experience confidently, the school encourages you to embrace a set of learning routines, R-E-A-D-Y BE! These routines will prime your mind to practise good habits that will help you succeed as you immerse yourself in your school experiences with enthusiasm and daring. 
+To fully benefit from your BE, the school encourages you to
+embody the learning dispositions stated in our school routine,
+**R-E-A-D-Y BE!** These traits are crucial for your growth. They
+prime your mind to practise good habits that will help you be a
+successful active learner, fully-committed and fully-immersed
+in your school life, fuelling your passion to be a leader, learner
+and champion.
 
 ![](/images/Holistic%20Education/The%20Desired%20Bowenian/READY_BE_updated_Jan_2023.png)
-### Bowen Peer Support and Relationships (PSR) @ Level 1
+### Bowen Peer Support and Relationships
 
 <img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_Diagram.jpg" style="width:50%">
 
-Building positive peer relationships is crucial aspect of your BE. Every Bowenian should strive to be a caring peer supporter and confident up-stander who helps make Bowen a caring and enabling school environment. So, build a supportive network of diverse friends from your form class, teaching groups as well as CCAs. Advocate each other’s well-being and safety as you forge meaningful bonds with each other.
+Building positive peer relationships is integral aspect of your BE. Every Bowenian should strive to be a **caring peer supporter and confident up-stander** who helps make Bowen a caring and enabling school environment. Build a supportive network of diverse friends from your form class, teaching groups as well as CCAs. Advocate each other’s well-being and safety as you forge meaningful bonds with each other.
 
-Within your network of supportive friends, exercise positive peer influencing, peer bonding and peer helping. For example, when your peers have concerns, personal troubles or are bullied, reach out to them. Be by their side and notify a teacher to further extend help and support to your friend.
+In your network of supportive friends, exercise positive peer influencing, peer bonding and peer helping. When your peers have concerns, personal troubles or are bullied, reach out to them. Be by their side. Notify the teachers to further extend and enhance the quality of help your friend could get.
 
-If you yourself wish to have a Care Chat with a Student Well-being Teacher, go to this link: https://tinyurl.com/BowenCares:
+If you yourself wish have a Care Chat with a Student Well-being Teacher, go to this [link](https://tinyurl.com/BowenCares) 
 
-![](/images/School%20Information/Care%20and%20Discipline/SWB_Team_2024.jpg)
+![](/images/School%20Information/Care%20and%20Discipline/Bowen_Care_team.jpg)
+
 
 ### Peer Support &amp; Relationships (PSR), FCBT &amp; CAREbean Programme
 <img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_MVM.jpg" style="width:70%">
 
-In 2024, look out for a series fun-filled activities that await you. The Student Well-Being Teachers and your Peer Support Leaders (PSLs) will drive many peer bonding activities throughout the year like your Friday Class Bonding Time (FCBT) and our twice weekly, after-school CAREbean Programme, which will be available  both as a face-to-face and online event. 
+Look out for a series fun-filled activities that await you this year. The SWB Teachers and your Peer Support Leaders (PSLs) will drive many peer bonding activities throughout the year such as your **Friday Class Bonding Time (FCBT)** and our twice weekly, after-school **CAREbean Programme**, which will be available both as a face-to-face and online event.
 
-For our face-to-face CAREbean Programme, anticipate using new recreational facilities like our pool table, gaming consoles and board games. Do register ahead of time before you drop by our CAREbean Corner (which is just next to the front of the hall, on the right, along the corridor). Please note that the number of students allowed at the CARE-bean may be limited twenty to adhere to safe management measures.
+For our face-to-face CAREbean Programme, anticipate using new recreational facilities like our pool table, gaming consoles and board games. Do register ahead of time before you drop by our **CAREbean Corner** (which is just next to the front of the hall, on the right, along the corridor). Please note that the number of students allowed at the CARE-bean may be limited due to space constraints.
 
-On our CAREbean days (Monday and Thursdays), our Student Well-Being Teachers and PSLs will be stationed at the CAREbean Corner. If you need a Care Chat, simply walk in for a chat. 
+On our CAREbean days (Monday and Thursdays), our SWB Teachers and PSLs will be stationed at the CAREbean Corner. If you need a Care Chat, simply walk in for a chat.
 
 For more information about care activities, check out the following links:
 •	our PSL Instagram https://www.instagram.com/bowen.psl/ 
