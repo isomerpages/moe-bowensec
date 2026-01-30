@@ -41,7 +41,8 @@ In your network of supportive friends, exercise positive peer influencing, peer 
 
 If you yourself wish have a Care Chat with a Student Well-being Teacher, go to this [link](https://tinyurl.com/BowenCares) 
 
-![](/images/School%20Information/Care%20and%20Discipline/SWB_Team_2024.jpg)
+
+
 
 ### Peer Support &amp; Relationships (PSR), FCBT &amp; CAREbean Programme
 <img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_MVM.jpg" style="width:70%">
