@@ -46,7 +46,7 @@ sections:
   - infobar:
       title: Appeal to Transfer-In to Bowen Secondary
       id: infobar
-      description: Please complete registration at posted school first. Theh submit
+      description: Please complete registration at posted school first. Then submit
         the online application of appeal to transfer into Bowen by Wed, 24 Dec
         2025, 12pm.
       button: Appeal LiNK
