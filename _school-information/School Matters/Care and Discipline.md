@@ -15,22 +15,31 @@ In Bowen, we strive to create a caring and vibrant learning environment for Bowe
 <hr>
 
 ## Care and Support 
-[Bowen Care and Well-Being (updated 2024)](/files/Care%20&amp;%20Discipline/Bowen_Student_Well_Being_2024.pdf)
+[Student Well-Being and Support](/files/Care%20&amp;%20Discipline/Bowen_Sec_WellBeing_n_Support_2026.pdf)
 
-We aim to nurture future-ready Bowenians who are self-disciplined individuals of sound character and caring peers. The growing-up years is rife with many new challenges. However, surmounting them together with supportive peers can turn these challenges into welcomed and fun opportunities for growth. So Bowenians, navigate your Bowen Experience (BE) with your peers as a cohesive team while seeking always to develop a strong sense of personal well-being and confidence.
+We aim to nurture future-ready Bowenians who are selfdisciplined
+individuals of sound character and caring peers.Young people may face new challenges in their growing up years. However, Bowenians, turn these challenges into welcomed and meaningful opportunities for growth by surmounting them together with your supportive peers. Navigate your 
+**Bowen Experience (BE)** with your peers as a cohesive team; seek
+always to develop a strong sense of personal well-being and confidence while championing collective well-being and morale.
 
-To navigate your Bowen Experience confidently, the school encourages you to embrace a set of learning routines, R-E-A-D-Y BE! These routines will prime your mind to practise good habits that will help you succeed as you immerse yourself in your school experiences with enthusiasm and daring. 
+To fully benefit from your BE, the school encourages you to
+embody the learning dispositions stated in our school routine,
+**R-E-A-D-Y BE!** These traits are crucial for your growth. They
+prime your mind to practise good habits that will help you be a
+successful active learner, fully-committed and fully-immersed
+in your school life, fuelling your passion to be a leader, learner
+and champion.
 
 ![](/images/Holistic%20Education/The%20Desired%20Bowenian/READY_BE_updated_Jan_2023.png)
-### Bowen Peer Support and Relationships (PSR) @ Level 1
+### Bowen Peer Support and Relationships
 
 <img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_Diagram.jpg" style="width:50%">
 
-Building positive peer relationships is crucial aspect of your BE. Every Bowenian should strive to be a caring peer supporter and confident up-stander who helps make Bowen a caring and enabling school environment. So, build a supportive network of diverse friends from your form class, teaching groups as well as CCAs. Advocate each other’s well-being and safety as you forge meaningful bonds with each other.
+Building positive peer relationships is integral aspect of your BE. Every Bowenian should strive to be a **caring peer supporter and confident up-stander** who helps make Bowen a caring and enabling school environment. Build a supportive network of diverse friends from your form class, teaching groups as well as CCAs. Advocate each other’s well-being and safety as you forge meaningful bonds with each other.
 
-Within your network of supportive friends, exercise positive peer influencing, peer bonding and peer helping. For example, when your peers have concerns, personal troubles or are bullied, reach out to them. Be by their side and notify a teacher to further extend help and support to your friend.
+In your network of supportive friends, exercise positive peer influencing, peer bonding and peer helping. When your peers have concerns, personal troubles or are bullied, reach out to them. Be by their side. Notify the teachers to further extend and enhance the quality of help your friend could get.
 
-If you yourself wish to have a Care Chat with a Student Well-being Teacher, go to this link: https://tinyurl.com/BowenCares:
+If you yourself wish have a Care Chat with a Student Well-being Teacher, go to this [link](https://tinyurl.com/BowenCares) 
 
 ![](/images/School%20Information/Care%20and%20Discipline/SWB_Team_2024.jpg)
 
