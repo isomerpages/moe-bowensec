@@ -56,8 +56,8 @@ sections:
             Level pages.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events
-        - title: Information on N-Level Results
-          description: Find briefing slides and information shared during the N-Level
+        - title: Information on O-Level Results
+          description: Find briefing slides and information shared during the O-Level
             Result release.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
