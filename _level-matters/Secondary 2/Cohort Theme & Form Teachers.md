@@ -151,10 +151,10 @@ way. These gems are:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Serene Goh</p>
+<p>Ms. Quek Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>serene_goh@schools.gov.sg</p>
+<p>quek_ying_ying_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
