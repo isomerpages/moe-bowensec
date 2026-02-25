@@ -7,7 +7,26 @@ variant: tiptap
 ---
 <h1>Latest News and Events</h1>
 <p></p>
-<h3>2026 Term Letters for TA1</h3>
+<h3>2026 Overall Term Assessment Schedule</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_1_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Overall Term Assessment Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_2_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Overall Term Assessment Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_3_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Overall Term Assessment Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_4_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Overall Term Assessment Schedule</a>
+</p>
+</li>
+</ul>
+<h3>2026 TA1 Letters</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Level Matters/S1/2026__Letter_to_parents_TA1_Sec_1.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 TA1 Letter</a>
