@@ -7,6 +7,6 @@ variant: markdown
 ---
 **Term Assessments and Examination Timetables**  
 
-### 2025 Assessment Schedule
+### 2026 Assessment Schedule
 
-1. [2025 Sec 3 End Of Year Exam Timetable (Updated 20 Aug)](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_3_EOY_Timetable_Rev_1.pdf)
+1. [2026 Sec 3 Overall Term Assessment Schedule](/files/Examination%20Timetables/2026%20Exam%20Timetables/2026_Sec_3_TA1_schedule.pdf)
