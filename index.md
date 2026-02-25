@@ -23,16 +23,6 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Release of 2025 GCE-O Level Results
-      subtitle: Wed, 14 Jan 2026, 2pm
-      id: infopic
-      description: Congratulations to our graduating Bowenians. Please find a summary
-        of the information shared & briefing slides in the link below.
-      button: MORE INFORMATION
-      alt: Image alt text
-      image: /images/School Events/2026/2026_O_level_result_release.jpg
-      url: /school-information/school-matters/news-n-events/
-  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
