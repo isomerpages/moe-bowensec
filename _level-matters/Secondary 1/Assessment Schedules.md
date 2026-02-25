@@ -7,7 +7,6 @@ variant: markdown
 ---
 **Term Assessments and Examination Timetables**  
 
-### 2025 Assessment Schedule
+### 2026 Assessment Schedule
 
-1. [2025 Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/19w6XG7KLSTYdJJSbMLgRO7GQgUDp06Etb4qwn_r2cF0/edit?gid=318370374#gid=318370374)
-2. [2025 Sec 1 End of Year Exam Timetable](/files/Examination%20Timetables/2025%20Exam%20Timetables/EOY/2025_Sec_1_EOY_Timetable_5_Aug.pdf)
+1. [2026 Sec 1 Overall Term Assessment Schedule](/files/Examination%20Timetables/2026%20Exam%20Timetables/2026_Sec_1_TA1_schedule.pdf)
