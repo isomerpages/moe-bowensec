@@ -46,9 +46,8 @@ sections:
             Level pages.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events
-        - title: Information on O-Level Results
-          description: Find briefing slides and information shared during the O-Level
-            Result release.
+        - title: 2026 TA1 Schedule
+          description: Find find the TA1 schedule here
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
         - title: 2026 Booklists
