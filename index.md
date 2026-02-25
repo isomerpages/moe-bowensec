@@ -46,7 +46,7 @@ sections:
             Level pages.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events
-        - title: 2026 TA1 Schedule
+        - title: 2026 Overall Term Assessment Schedule
           description: Find find the TA1 schedule here
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
