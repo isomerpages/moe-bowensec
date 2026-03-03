@@ -25,7 +25,7 @@ We encourage parents/guardians to contact the General Office when trying to get 
 
 4. **Where can I find the the school booklists?**
 
-
+You can find the updated school booklists [here](https://www.bowensec.moe.edu.sg/school-information/school-matters/online-purchase-of-textbooks-and-uniforms/). 
 
 5. **What time does the school start?**
 
@@ -36,15 +36,14 @@ Morning assembly starts at 7.30am on regular school days. Students are encourage
 The school uniform is a key symbol of school identity. Students should wear the school uniform neatly and with pride.&nbsp;All students are to wear the prescribed school uniform and modifications to the uniform are not allowed.
 
 
-
 7. **Where can school uniforms be purchased?**
 
-School uniforms can be purchased at the following places
+School uniforms can be purchased at the following places 
 
 
 8. **When are the school holidays for the current year?
 
-
+you can refer to the MOE website [here](https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026) on school holidays for the current year.
 
 9. **I am a student and I am travelling out of Singapore during the holidays. Must I disclose my travel plans?**
 
@@ -55,15 +54,29 @@ There is also a guide to assist you here.
 
 10. **Where can I find general information about your school?**
 
-
+You can find the general information here
 
 ### Finance Matters
 
 1. **How much are the current school fees?**
 
+* For Singaporeans, The maximum monthly fee is $25 per month.
+* For Permanent Residents, The maximum monthly fee is $700 per month.
+* For International students (ASEAN), The maximum monthly fee is $1,111.80 per month.
+* For International students (non-ASEAN), The maximum monthly fee is $2,211.80 per month. 
+Examples of non-ASEAN countries include China, Japan, South Korea, Australia, India, New Zealand, Russia, the United States, Sri Lanka, and Serbia.
+
+For more information, please visit on this [link](https://www.bowensec.moe.edu.sg/school-information/school-matters/finance-matters/)
 
 2. **How can school fees payment be made?**
 
+Parents can choose to pay the monthly school fees by the various methods:
+* eGIRO
+* SGQR
+* AXS
+* Cash Payment at school General Office
+
+For more information, please visit on this [link](https://www.bowensec.moe.edu.sg/school-information/school-matters/finance-matters/)
 
 3. **What are the MOE financial schemes available?**
 
