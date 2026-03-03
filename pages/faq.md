@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 ### General Question
 
@@ -24,8 +25,7 @@ We encourage parents/guardians to contact the General Office when trying to get 
 
 4. **Where can I find the the school booklists?**
 
-You can find the school booklists on this page:&nbsp;
-[2023 Booklist](/school-information/level-matters/2023-booklists/)
+
 
 5. **What time does the school start?**
 
@@ -35,39 +35,16 @@ Morning assembly starts at 7.30am on regular school days. Students are encourage
 
 The school uniform is a key symbol of school identity. Students should wear the school uniform neatly and with pride.&nbsp;All students are to wear the prescribed school uniform and modifications to the uniform are not allowed.
 
-  
-You can find detailed information about the school uniform in&nbsp;  
-[School Rules and Regulations here &gt;&gt;&gt;](/school-information/school-matters/care-and-discipline)  
-or  <br>
-you can download the document  
-[Care and Discipline - School Rules](/files/Care%20and%20Discipline%20-%20School%20rules.pdf)
+
 
 7. **Where can school uniforms be purchased?**
 
 School uniforms can be purchased at the following places
 
-**Pacific Bookstores Pte Ltd (School Bookshop)**  
-c/o Bowen Secondary School  <br>
-2 Lorong Napiri, Singapore 547529    <br>
-Tel/Fax: 6386 2669  
-      
-Business Hours    <br>
-Monday – Thursday: 7.00 am – 3.30 pm    <br>
-Friday: 7.00 am to 3.00 pm  
-      
-**Johnson Uniform and Trading Company Pte Ltd**  
-471 (2nd Floor) Geylang Road     <br>
-Singapore 389430     <br>
-Tel: 6345 8698     <br>
-Fax: 6744 7689  
-      
-Business Hours     <br>
-Monday – Friday: 10.00 am – 6.00 pm     <br>
-Saturday: 10.00 am to 3.00 pm
 
-8. **When are the school holidays for 2022?**
+8. **When are the school holidays for the current year?
 
-https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022
+
 
 9. **I am a student and I am travelling out of Singapore during the holidays. Must I disclose my travel plans?**
 
@@ -78,32 +55,15 @@ There is also a guide to assist you here.
 
 10. **Where can I find general information about your school?**
 
-You can download the brochure here.  
-[2022_Bowen Experience_Fact Sheet.pdf](/files/2022_Bowen%20Experience_Fact%20Sheet.pdf)
+
 
 ### Finance Matters
 
 1. **How much are the current school fees?**
 
-All students will receive their bills for school, miscellaneous and autonomous fees by postal mail to their home address from MOE directly. You can find out detailed information about secondary&nbsp;school fees from the&nbsp;[MOE website here &gt;&gt;&gt;](https://www.moe.gov.sg/education/secondary)
 
 2. **How can school fees payment be made?**
 
-**OPTION 1: GIRO**  
-
-Parents are encouraged to pay their children’s fees through GIRO so that the pupils do not have to bring large sums of cash to school. GIRO deduction will be made monthly from February to December. The deduction in February will include the fees for January. Deduction date is on 26th of every month. Eg: For March fees, the deduction date will be on 26th March.
-
-_(Please note that&nbsp;GIRO deductions will be suspended after two consecutive unsuccessful deductions due to insufficient funds. Students will then receive cash bills and will have to pay the outstanding amount in cash. GIRO deduction will be reinstated once all outstanding fees have been paid.)_  
-
-
-**OPTION 2: CHEQUE**
-
-For cheque payment, either post the cheque or submit it to our General Office. Please make cheques payable to "Bowen Secondary School".
-
-  
-**OPTION 3: CASH**  
-
-Alternatively, you may make cash payments at our General Office.
 
 3. **What are the MOE financial schemes available?**
 
@@ -115,18 +75,6 @@ To find out more about, you may click on the links below
 
 [MOE Website information on FAS scheme &gt;&gt;&gt;](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))
 
-4. **How can students under FAS go about redeeming Transport Subsidy?**
-
-Students on FAS may redeem the&nbsp;evouchers via the Transitlink eVoucher System&nbsp;from the&nbsp;**28th of the current month to the 10th of the next month**.&nbsp;  
-  
-Evouchers can be redeemed at any&nbsp;**Transitlink Add Value Machines**&nbsp;or&nbsp;**Transit Link Ticket Offices**&nbsp;located at&nbsp;**selected stations**&nbsp;such as Hougang and Serangoon stations.  
-  
-
-To find out more about, you may click on the links below
-
-[Step-by-Step Guide to Redeem Transport Voucher &gt;&gt;&gt;](/school-information/school-matters/financial-assistance-scheme)
-
-[Transport Subsidy Guide FAS.pdf &gt;&gt;&gt;](/files/Transport%20Subsidy%20Guide%20FAS.pdf)
 
 ### Personal Learning Device (PLD) Matters
 
@@ -218,10 +166,6 @@ Google Suite for Education allows students to collaborate using cloud-based tool
 **Office Hours:**&nbsp;Monday ― Friday:  8am - 4pm    <br>
 **Tel: 63852042**&nbsp;(School-based Helpdesk)  
       
-**ACE-Learning**    <br>
-A Math on-line learning platform.    <br>
-**- Consult individual Subject Teachers**  
-
 **SSOE-MIMS login (School-based WIFI networks)**    <br>
 This covers the login required on all SSOE devices that are on school-based networks,    <br>
 Eg. Computers in computer lab,&nbsp;
