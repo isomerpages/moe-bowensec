@@ -65,6 +65,7 @@ You can find the school general information [here](https://www.bowensec.moe.edu.
 ### Finance Matters
 
 1. **How much are the current school fees?**
+
 For more information, please visit on this [link](https://www.bowensec.moe.edu.sg/school-information/school-matters/finance-matters/)
 
 2. **How can school fees payment be made?**
