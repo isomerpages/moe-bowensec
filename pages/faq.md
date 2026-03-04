@@ -26,6 +26,11 @@ We encourage parents/guardians to contact the General Office when trying to get 
 4. **Where can I find the the school booklists?**
 You can find the updated school booklists at the various level pages.
 
+[Sec 1 Booklist](/files/Book%20Lists/2026/2026_Sec_1_Booklist.pdf)
+[Sec 2 Booklist](/files/Book%20Lists/2026/S2_Booklist_2026.pdf)
+[Sec 3 Booklist](/files/Book%20Lists/2026/S3_Booklist_2026.pdf)
+[Sec 4 Booklist](/files/Book%20Lists/2026/S4_Booklist_2026.pdf)
+
 5. **What time does the school start?**
 
 Morning assembly starts at 7.30am on regular school days. Students are encouraged to reach school early especially on rainy days, as traffic can be heavy during inclement weather.
