@@ -7,7 +7,7 @@ variant: markdown
 
 1. **How can I get to Bowen Secondary School?**
  
- Our school is situated along the junction of the main roads of Yio Chu Kang Road and Hougang Ave 2. Thus, it is easily accessible by&nbsp;**public buses**&nbsp;from MRT stations such as Ang Mo Kio MRT, Hougang MRT or Serangoon MRT.  
+ Our school is situated along the junction of the main roads of Yio Chu Kang Road and Hougang Ave 2. Thus, it is easily accessible by public buses or from MRT stations such as Ang Mo Kio MRT, Hougang MRT or Serangoon MRT.  
   
 Click on the link to find out&nbsp;[how to get to Bowen Secondary school&nbsp; &gt;&gt;&gt;](/school-information/contact-information/school-contact-information)
 
@@ -24,8 +24,7 @@ Click on the link to find out more&nbsp;[School Contact Information&nbsp; &gt;&g
 We encourage parents/guardians to contact the General Office when trying to get in touch with specific teachers in our school. They are the best people to assist you as they will be able to direct your call to the specific teacher or take a message to get the teacher to return your call. Do leave your name, child's name and class and your contact number so that the teacher will be able to return your call.
 
 4. **Where can I find the the school booklists?**
-
-You can find the updated school booklists [here](https://www.bowensec.moe.edu.sg/school-information/school-matters/online-purchase-of-textbooks-and-uniforms/). 
+You can find the updated school booklists at the various level pages.
 
 5. **What time does the school start?**
 
@@ -45,7 +44,7 @@ For more information, please visit on this [link](https://www.bowensec.moe.edu.s
 
 8. **When are the school holidays for the current year?
 
-you can refer to the MOE website [here](https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026) on school holidays for the current year.
+You can refer to the MOE website [here](https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026) on school holidays for the current year.
 
 9. **I am a student and I am travelling out of Singapore during the holidays. Must I disclose my travel plans?**
 
@@ -61,13 +60,6 @@ You can find the school general information [here](https://www.bowensec.moe.edu.
 ### Finance Matters
 
 1. **How much are the current school fees?**
-
-* For Singaporeans, The maximum monthly fee is $25 per month.
-* For Permanent Residents, The maximum monthly fee is $700 per month.
-* For International students (ASEAN), The maximum monthly fee is $1,111.80 per month.
-* For International students (non-ASEAN), The maximum monthly fee is $2,211.80 per month. 
-Examples of non-ASEAN countries include China, Japan, South Korea, Australia, India, New Zealand, Russia, the United States, Sri Lanka, and Serbia.
-
 For more information, please visit on this [link](https://www.bowensec.moe.edu.sg/school-information/school-matters/finance-matters/)
 
 2. **How can school fees payment be made?**
@@ -176,17 +168,10 @@ Saturdays:    <br>
 **Email:&nbsp;&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)**    <br>
 **Tel: (65) 6702 6513**  
       
-**School Google Suite Accounts (@bws.edu.sg)**    <br>
-Google Suite for Education allows students to collaborate using cloud-based tools. Applications include G-mail, Google Docs, Slides, Spreadsheet, Google Classroom etc.  
 **Office Hours:**&nbsp;Monday ― Friday:  8am - 4pm    <br>
 **Tel: 63852042**&nbsp;(School-based Helpdesk)  
       
-**SSOE-MIMS login (School-based WIFI networks)**    <br>
-This covers the login required on all SSOE devices that are on school-based networks,    <br>
-Eg. Computers in computer lab,&nbsp;
 
-**Office Hours:**&nbsp;Monday ― Friday:  8am - 4pm    <br>
-**Tel: 63852042**&nbsp;(School-based Helpdesk)
 
 6. **My child has his own laptop. Is there any way he/she can connect to the Internet to access on-line lesson content when in school?**
 
