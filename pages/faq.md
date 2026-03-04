@@ -27,8 +27,11 @@ We encourage parents/guardians to contact the General Office when trying to get 
 You can find the updated school booklists at the various level pages.
 
 [Sec 1 Booklist](/files/Book%20Lists/2026/2026_Sec_1_Booklist.pdf)
+
 [Sec 2 Booklist](/files/Book%20Lists/2026/S2_Booklist_2026.pdf)
+
 [Sec 3 Booklist](/files/Book%20Lists/2026/S3_Booklist_2026.pdf)
+
 [Sec 4 Booklist](/files/Book%20Lists/2026/S4_Booklist_2026.pdf)
 
 5. **What time does the school start?**
