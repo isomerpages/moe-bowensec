@@ -38,7 +38,9 @@ The school uniform is a key symbol of school identity. Students should wear the 
 
 7. **Where can school uniforms be purchased?**
 
-School uniforms can be purchased at the following places 
+School uniforms can be purchased in our school.
+
+For more information, please visit on this [link](https://www.bowensec.moe.edu.sg/school-information/school-matters/online-purchase-of-textbooks-and-uniforms/)
 
 
 8. **When are the school holidays for the current year?
@@ -54,7 +56,7 @@ There is also a guide to assist you here.
 
 10. **Where can I find general information about your school?**
 
-You can find the general information here
+You can find the school general information [here](https://www.bowensec.moe.edu.sg/school-information/contact-information/school-contact-information/)
 
 ### Finance Matters
 
