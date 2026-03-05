@@ -26,6 +26,11 @@ We encourage parents/guardians to contact the General Office when trying to get 
 4. **Where can I find the the school booklists?**
 You can find the updated school booklists at the various level pages.
 
+[Sec 1 Booklist](/files/Book%20Lists/2026/2026_Sec_1_Booklist.pdf)<br>
+[Sec 2 Booklist](/files/Book%20Lists/2026/S2_Booklist_2026.pdf)<br>
+[Sec 3 Booklist](/files/Book%20Lists/2026/S3_Booklist_2026.pdf)<br>
+[Sec 4 Booklist](/files/Book%20Lists/2026/S4_Booklist_2026.pdf)
+
 5. **What time does the school start?**
 
 Morning assembly starts at 7.30am on regular school days. Students are encouraged to reach school early especially on rainy days, as traffic can be heavy during inclement weather.
@@ -60,6 +65,7 @@ You can find the school general information [here](https://www.bowensec.moe.edu.
 ### Finance Matters
 
 1. **How much are the current school fees?**
+
 For more information, please visit on this [link](https://www.bowensec.moe.edu.sg/school-information/school-matters/finance-matters/)
 
 2. **How can school fees payment be made?**
