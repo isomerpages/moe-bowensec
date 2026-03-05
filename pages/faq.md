@@ -23,7 +23,8 @@ Click on the link to find out more&nbsp;[School Contact Information&nbsp; &gt;&g
 
 We encourage parents/guardians to contact the General Office when trying to get in touch with specific teachers in our school. They are the best people to assist you as they will be able to direct your call to the specific teacher or take a message to get the teacher to return your call. Do leave your name, child's name and class and your contact number so that the teacher will be able to return your call.
 
-4. **Where can I find the the school booklists?**
+4. **Where can I find the the school booklists?**<br>
+
 You can find the updated school booklists at the various level pages.
 
 [Sec 1 Booklist](/files/Book%20Lists/2026/2026_Sec_1_Booklist.pdf)<br>
