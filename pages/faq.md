@@ -250,13 +250,13 @@ the link below,</p>
 </p>
 </li>
 </ol>
-<p>From 11 August 2021, our school provides each student with a locker for
-the academic year to secure his/her Personal Learning Device. The locker
-is equipped with a 4 digit combination lock which the student con configure
-by himself/herself. At the end of the academic year, students will return
-and clear their lockers. The school will reassign the lockers to students
-the following academic year. The school reserves the right to conduct spot-checks
-to ensure that the contents of the lockers adhere to the school rules.&nbsp;</p>
+<p>Since 2021, our school provides each student with a locker for the academic
+year to secure his/her Personal Learning Device. The locker is equipped
+with a 4 digit combination lock which the student con configure by himself/herself.
+At the end of the academic year, students will return and clear their lockers.
+The school will reassign the lockers to students the following academic
+year. The school reserves the right to conduct spot-checks to ensure that
+the contents of the lockers adhere to the school rules.&nbsp;</p>
 <p>Students may refer to the&nbsp;<a href="https://youtu.be/vjhdo3pLJuw" rel="noopener noreferrer nofollow" target="_blank">following link</a>&nbsp;on how to reset
 their combination lock.</p>
 <ol start="5" data-tight="true" class="tight">
@@ -288,17 +288,7 @@ attempts. SLS also require students to have a minimum of 12 character password.<
 </p>
 <p><strong>Office Hours:</strong>&nbsp;Monday ― Friday: 8am - 4pm
 <br><strong>Tel: 63852042</strong>&nbsp;(School-based Helpdesk)</p>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p><strong>My child has his own laptop. Is there any way he/she can connect to the Internet to access on-line lesson content when in school?</strong>
-</p>
-</li>
-</ol>
-<p>The school's SWN Wi-Fi network provides students who bring their own devices,
-a means to connect to the internet for learning purposes using their school
-IAMS account,
-<br>Please refer to the guide&nbsp;<strong><a href="/holistic-education/academic-programmes/information-n-communications-technology" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;on
-how to connect to the SWN network.</p>
+<p></p>
 <h3>Miscellaneous</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -310,8 +300,7 @@ how to connect to the SWN network.</p>
 parents to interact with schools more conveniently on administrative and
 financial matters. Parents will also be able to use this app to stay updated
 on school’s programme and activities.</p>
-<p>To find out more about, you may click on the links below
-<br><a href="/school-information/school-matters/online-portals/portals-for-students-n-parents/parent-gateway-mobile-app" rel="noopener noreferrer nofollow" target="_blank">Parent Gateway Information &gt;&gt;&gt;</a> 
+<p>To find out more about, you may click on the link below
 <br><a href="/files/FAQ%20for%20Parent%20Gateway.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs on Parent Gateway &gt;&gt;&gt;</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
