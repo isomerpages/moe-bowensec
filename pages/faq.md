@@ -46,11 +46,25 @@ will be able to return your call.</p>
 </li>
 </ol>
 <p>You can find the updated school booklists at the various level pages.</p>
-<p><a href="/files/Book%20Lists/2026/2026_Sec_1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Booklist</a>
-<br><a href="/files/Book%20Lists/2026/S2_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Booklist</a>
-<br><a href="/files/Book%20Lists/2026/S3_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Booklist</a>
-<br><a href="/files/Book%20Lists/2026/S4_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Booklist</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/school-information/level-matters/secondary-1/booklist-and-online-purchase-of-textbooks-n-uniforms/" rel="noopener nofollow" target="_blank">Sec 1 Boojklist</a>
 </p>
+</li>
+<li>
+<p><a href="/school-information/level-matters/secondary-2/secondary-2-booklist/" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.bowensec.moe.edu.sg/school-information/level-matters/secondary-3/secondary-3-booklist/" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
+</p>
+</li>
+<li>
+<p><a href="/school-information/level-matters/secondary-4-5/secondary-4-booklist/" rel="noopener nofollow" target="_blank">Sec 4 and 5 Booklist</a>
+<br>
+</p>
+</li>
+</ul>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>What time does the school start?</strong>
