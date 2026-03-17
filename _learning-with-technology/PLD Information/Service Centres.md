@@ -13,5 +13,3 @@ variant: markdown
 ![](/images/Signature%20Programmes/Learning%20With%20Technology/Slide4.jpg)
 
 
-### Acer Service Centre Information
-![](/images/Signature%20Programmes/Learning%20With%20Technology/PLD%202.jpeg)
