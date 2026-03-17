@@ -28,6 +28,7 @@ student should be familiar with the platforms available and remember their
 UserIDs.&nbsp; Some platforms share common UserIDs, while others use different
 UserIDs.&nbsp;&nbsp;</p>
 <p>These tables list the various login platforms available for students.</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -86,8 +87,7 @@ Mobile Carts
 <p>SWN Wireless Network</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NRIC/BC/FIN number
-<br>Eg. T0123456A</p>
+<p>MIMS account</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Non-SSOE devices connecting wirelessly to school network such as own mobile
@@ -101,8 +101,22 @@ devices</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Learning/Admin Portals
-<br>· Student Learning Space (SLS)
-<br>· Ace-Learning (Maths)</p>
+<br>· Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MIMS Account</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online learning platforms – SLS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· Ace-Learning (Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hybrid Name and NRIC/BC/FIN number
@@ -110,9 +124,7 @@ devices</p>
 <br>Eg. AMYLI3456A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online learning platforms – SLS and Ace-learning
-<br>
-<br>Online booking of parent-teacher meeting session – MConline</p>
+<p>Online learning platforms – Ace-learning</p>
 </td>
 </tr>
 </tbody>
@@ -120,8 +132,9 @@ devices</p>
 <ul>
 <li>
 <p>SSOE-devices and SWN Wireless Student User ID In order to access school-based
-devices and the wireless network, students will be using their NRIC/BC/FIN
-number as the user ID.</p>
+devices and the wireless network, students will be using their <strong>MIMS Account</strong> as
+the user ID.</p>
+<p></p>
 </li>
 <li>
 <p>On-line Learning Portals Accounts Student User ID In order to access online
@@ -152,20 +165,17 @@ list</p>
 Browser.</p>
 </li>
 <li>
-<p><strong>Login</strong>&nbsp;using your&nbsp;<strong>IAMS account</strong>.
+<p><strong>Login</strong>&nbsp;using your&nbsp;<strong>MIMS account</strong>.
 (Remember to check on the box to agree&nbsp;to the T&amp;C.)</p>
-</li>
-<li>
-<p>Download and install the&nbsp;<strong>MOE-SSL certificate.</strong>&nbsp;(You
-only need to do so once.</p>
+<p></p>
 </li>
 </ol>
 <p><strong>Note:</strong>&nbsp;You cannot login to more than one device using
 the same account at the same time.</p>
 <p><strong>Disconnect from SWN Wi-Fi after use</strong>
 </p>
-<p>Please remember to&nbsp;<strong>logout</strong>&nbsp;from SWN networkwhen
-you have finished using the connection.</p>
+<p>Please remember to&nbsp;<strong>logout</strong>&nbsp;from SWN network
+when you have finished using the connection.</p>
 <hr>
 <h3>Guide for Student Password Recovery</h3>
 <p><a href="/files/Learning%20With%20Technology/guide%20for%20student%20password%20reset%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide for Student Password Reset</a>
@@ -222,7 +232,7 @@ you have finished using the connection.</p>
 <p>Mr. Muhammad Hafiz Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_hafiz_rosli@schools.gov.sg</p>
