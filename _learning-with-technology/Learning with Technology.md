@@ -241,7 +241,7 @@ you have finished using the connection.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Faizan</p>
+<p>Mr. Naavalan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -252,7 +252,7 @@ you have finished using the connection.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Naavalan</p>
+<p>Ms. Nila</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
