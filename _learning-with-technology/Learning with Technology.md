@@ -28,6 +28,7 @@ student should be familiar with the platforms available and remember their
 UserIDs.&nbsp; Some platforms share common UserIDs, while others use different
 UserIDs.&nbsp;&nbsp;</p>
 <p>These tables list the various login platforms available for students.</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -101,20 +102,29 @@ devices</p>
 <td rowspan="1" colspan="1">
 <p>Online Learning/Admin Portals
 <br>· Student Learning Space (SLS)</p>
-<p>· Ace-Learning (Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MIMS Account</p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online learning platforms – SLS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· Ace-Learning (Maths)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Hybrid Name and NRIC/BC/FIN number
 <br>
 <br>Eg. AMYLI3456A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online learning platforms – SLS and Ace-learning
-<br>
-<br>
-</p>
+<p>Online learning platforms – Ace-learning</p>
 </td>
 </tr>
 </tbody>
