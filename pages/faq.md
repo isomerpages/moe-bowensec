@@ -175,11 +175,8 @@ to leave it in school.</p>
 <p>Please encourage your child to first contact the school's ICT Service
 Desk first with the device when he or she is in school. We can then advice
 if it is necessary to contact the PLD service centre for further assistance.&nbsp;Otherwise,
-you may also contact the PLD service centre directly.&nbsp; You can find
-information about PLD warranty, service centre and other information in
-the link below,</p>
-<p><a href="/signature-programmes/personallearningldevice/" rel="noopener noreferrer nofollow" target="_blank">PLD Information Page &gt;&gt;&gt;&gt;</a>
-</p>
+you may also contact the PLD service centre directly.&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Where is the Bowen ICT Service Desk located and what are the operating hours?</strong>
