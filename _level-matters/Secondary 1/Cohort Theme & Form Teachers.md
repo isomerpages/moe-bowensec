@@ -132,7 +132,7 @@ its own and will sparkle in its unique way.</p>
 <p>Ms. Monica Suan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suan_ching_yeah_monica@</p>
+<p>suan_ching_yeah_monica@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ its own and will sparkle in its unique way.</p>
 <p>Mdm. Lidia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noorlidiawati_said@</p>
+<p>noorlidiawati_said@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
