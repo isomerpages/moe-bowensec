@@ -91,6 +91,17 @@ as provide small group tutoring to those who need the extra help.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Sheik Habib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sheik_habib_noor@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs. Chua Shi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,17 +219,6 @@ as provide small group tutoring to those who need the extra help.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shafiqah_hadam_hussain@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Sheik Habib</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sheik_habib_noor@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
