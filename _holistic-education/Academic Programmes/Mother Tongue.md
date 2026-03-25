@@ -250,21 +250,6 @@ across Asia and the people who speak that language or share that culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Sankar
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / TL &amp; ML</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sankar_thilahavathi@schools.gov.sg
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Banu</p>
 </td>
 <td rowspan="1" colspan="1">
