@@ -48,7 +48,7 @@ will be able to return your call.</p>
 <p>You can find the updated school booklists at the various level pages.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/school-information/level-matters/secondary-1/booklist-and-online-purchase-of-textbooks-n-uniforms/" rel="noopener nofollow" target="_blank">Sec 1 Boojklist</a>
+<p><a href="/school-information/level-matters/secondary-1/booklist-and-online-purchase-of-textbooks-n-uniforms/" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
 </p>
 </li>
 <li>
@@ -165,8 +165,6 @@ forms are available for collection in-person at the school's General Office.&nbs
 you need further assistance, please do not hesitate to call the school's
 General Office to find out more.</p>
 <p>To find out more about, you may click on the links below</p>
-<p><a href="/school-information/school-matters/financial-assistance-scheme" rel="noopener noreferrer nofollow" target="_blank">FAS Application Information &gt;&gt;&gt;</a>
-</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE Website information on FAS scheme &gt;&gt;&gt;</a>
 </p>
 <h3>Personal Learning Device (PLD) Matters</h3>
