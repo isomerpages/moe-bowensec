@@ -175,7 +175,7 @@ Conference
 <p>Mrs. Astee Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Science</p>
+<p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_shin_ee_astee@schools.gov.sg</p>
