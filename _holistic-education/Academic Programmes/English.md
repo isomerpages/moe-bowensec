@@ -6,7 +6,7 @@ third_nav_title: Academic Programmes
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NNnLN6XWfLo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NNnLN6XWfLo"></iframe>
 </div>
 <p>Language learning goes beyond mastering the mechanics of a language. It
 is the art of weaving the delicate threads of words and phrases to produce
@@ -312,17 +312,6 @@ or Literature presentation or debate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>cai_junting@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Chandra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shanmugam_chandraghantha@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
