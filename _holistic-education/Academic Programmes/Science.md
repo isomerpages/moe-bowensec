@@ -316,17 +316,6 @@ Conference
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Randy Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_chen_long_randy@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs. Corinne Teo</p>
 </td>
 <td rowspan="1" colspan="1">
