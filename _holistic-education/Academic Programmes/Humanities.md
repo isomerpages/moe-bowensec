@@ -146,7 +146,7 @@ textbook theories to real-life occurrences.</p>
 <p>Mr. Irsyad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamad_irsyad@schools.gov.sg</p>

@@ -84,7 +84,7 @@ across Asia and the people who speak that language or share that culture.</p>
 <p>Ms. Lee Yu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ST / CL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_yu_jie@schools.gov.sg</p>
@@ -250,21 +250,6 @@ across Asia and the people who speak that language or share that culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Sankar
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / TL &amp; ML</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sankar_thilahavathi@schools.gov.sg
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Banu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -313,116 +298,6 @@ across Asia and the people who speak that language or share that culture.</p>
 <p>Student correspondents in Singapore submit articles to ZaoBao Comma on-line
 edition. Since 2014, Bowen has about a growing number of articles published
 and some articles have even won awards.</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>#</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Recent Articles</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Contributor</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://zbschools.sg/news/school/stories-16665#" rel="noopener noreferrer nofollow" target="_blank">博文中学适应新常态活动依然精彩</a>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 Sept 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>黄冰菁、李弦惠、许亦惠</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://zbschools.sg/showbiz/manga/stories-16694" rel="noopener noreferrer nofollow" target="_blank">《动漫馆》：学之旅</a>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 Sept 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>许亦惠
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://zbschools.sg/news/school/stories-16362" rel="noopener noreferrer nofollow" target="_blank">质疑就是动力</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 Aug 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>黄冰菁
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>《线上面试限制才能》
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 Aug 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E1 Yeo Fengwei
-<br>interviewed by ZbComma
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020年联合学生通讯员俱乐部招生名单公布
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 April 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>联合早报</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>2020年联合学生通讯员俱乐部招生名单公布</h3>
 <p>17 April 2020,&nbsp;联合早报</p>
 <div class="isomer-image-wrapper">

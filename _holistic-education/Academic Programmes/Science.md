@@ -175,7 +175,7 @@ Conference
 <p>Mrs. Astee Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Science</p>
+<p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_shin_ee_astee@schools.gov.sg</p>
@@ -312,17 +312,6 @@ Conference
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_huilin_melissa@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Randy Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>low_chen_long_randy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
