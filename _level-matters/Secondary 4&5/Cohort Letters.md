@@ -18,5 +18,13 @@ slides.</p>
 <p><a href="/files/Level Matters/S4n5/2026__Letter_to_parents_TA1_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4/5 Term Assessment 1 (TA1) Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_Sec_4_5_Start_of_Term_2_Letter___4TSPARK5E.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Start of Term 2 Letter for 4T, 4S, 4P, 4A, 4R, 4K and 5E only</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_Sec_4_5_Start_of_Term_2_Letter___4LE.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Start of Term 2 Letter for 4L and 4E only</a>
+</p>
+</li>
 </ol>
 <p></p>
