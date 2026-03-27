@@ -197,6 +197,48 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Jermaine Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_soo_sian_jermaine@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Monica Suan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>suan_ching_yeah_monica@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Lee Yu Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_yu_jie@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Winston Chua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rebecca Ang</p>
@@ -222,21 +264,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jermaine Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer (SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_soo_sian_jermaine@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Dorothy Lim</p>
@@ -250,7 +278,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Wah Kian</p>
@@ -260,20 +288,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_wah_kian@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Monica Suan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>suan_ching_yeah_monica@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
