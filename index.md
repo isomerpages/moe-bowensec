@@ -41,7 +41,7 @@ sections:
           description: Please navigate to the respective level pages for the timetables.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
-        - title: 2026 Start of Term Assessment 2 Letters
+        - title: 2026 Start of Term 2 Letters
           description: Please find the Start of Term 2 letters at the respective Level
             pages.
           linktext: Find out more
