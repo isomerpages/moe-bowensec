@@ -41,13 +41,13 @@ sections:
           description: Please navigate to the respective level pages for the timetables.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
-        - title: 2026 Term Assessment 1 (TA1) Letters
-          description: Please find the Term Assessment 1 (TA1) letters at the respective
-            Level pages.
+        - title: 2026 Start of Term Assessment 2 Letters
+          description: Please find the Start of Term 2 letters at the respective Level
+            pages.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events
         - title: 2026 Overall Term Assessment Schedule
-          description: Find find the TA1 schedule here
+          description: Find find the Term Assesments (TA2 & TA3) schedules here
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
         - title: 2026 Booklists
