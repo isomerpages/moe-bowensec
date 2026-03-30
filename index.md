@@ -47,7 +47,7 @@ sections:
           linktext: Find out more
           url: /school-information/school-matters/news-n-events
         - title: 2026 Overall Term Assessment Schedule
-          description: Find find the TA1 schedule here
+          description: Find find the Term Assesments (TA2 & TA3) schedules here
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
         - title: 2026 Booklists
