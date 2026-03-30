@@ -18,5 +18,9 @@ slides.</p>
 <p><a href="/files/Level Matters/S3/2026__Letter_to_parents_TA1_Sec_3.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term Assessment 1 (TA1) Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S3/2026_Sec_3_Start_of_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Start of Term 2 Letter</a>
+</p>
+</li>
 </ol>
 <p></p>
