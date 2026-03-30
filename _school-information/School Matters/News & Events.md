@@ -68,22 +68,22 @@ the respective timetables.</p>
 </li>
 </ul>
 <hr>
-<h3><strong>2026 Start of Term 1 Letters</strong></h3>
+<h3><strong>2026 Start of Term 2 Letters</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1 Start of Term 1 Letter</a>
+<p><a href="/files/Level Matters/S1/2026_Sec_1_Start_of_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Start of Term 2 Letter</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 2 Start of Term 1 Letter</a>
+<p><a href="/files/Level Matters/S2/2026_Sec_2_Start_of_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Start of Term 2 Letter</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 3 Start of Term 1 Letter</a>
+<p><a href="/files/Level Matters/S3/2026_Sec_3_Start_of_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Start of Term 2 Letter</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Level Matters/S4n5/2026_S4_5_Start_of_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 1 Letter</a>
+<p><a href="/files/Level Matters/S4n5/2026__Letter_to_parents_TA1_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 and 5 Start of Term 2 Letter</a>
 </p>
 </li>
 </ul>
