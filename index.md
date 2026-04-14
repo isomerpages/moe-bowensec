@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: DARE TO BELIEVE
       button: MORE INFORMATION
-      url: https://www.bowensec.moe.edu.sg/
+      url: /school-information/school-matters/news-n-events/
       image: /images/School Events/2026/2026_SD_instagram_smaller.jpg
       alt: Image alt text
   - infopic:
