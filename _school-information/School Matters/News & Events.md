@@ -11,11 +11,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="44th Speech &amp; Prize presentation Day" src="/images/School Events/2026/2026_SD_Banne_smallerr.jpg">
 </div>
 <p>The school’s <strong>44<sup>th</sup> Speech and Prize Presentation Day</strong> will
-be held on <strong>15 May 2026 </strong>, recognising student achievement
-and excellence. The ceremony will honour students who have performed well
-academically, as well as those who have demonstrated commendable effort,
-progress and positive contributions to the school community. Awards presented
-will reflect both academic success and holistic development.</p>
+be held on <strong>15 May 2026. </strong>This meaningful occasion shines
+a spotlight on students who have excelled academically and demonstrated
+commendable effort and determination. Awards presented will reflect both
+academic success and holistic development.</p>
 <p>We are delighted to have our Guest of Honour, ms. Joan Poh, a distinguished
 alumna who has proudly represented Singapore at the Olympic Games. Her
 journey reflects the values we hope to instil in every student — perseverance,
