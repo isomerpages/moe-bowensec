@@ -23,6 +23,15 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
+      title: 44th SPEECH & PRIZE PRESENTATION DAY
+      subtitle: 15 May 2026, FRIDAY
+      id: infopic
+      description: DARE TO BELIEVE
+      button: MORE INFORMATION
+      url: /school-information/school-matters/news-n-events/
+      image: /images/School Events/2026/2026_SD_instagram_smaller.jpg
+      alt: Image alt text
+  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
