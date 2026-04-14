@@ -10,7 +10,7 @@ variant: tiptap
 options.</p>
 <p><strong>AForte</strong>&nbsp;is a Bowen signature Applied Learning Module
 (ApLM) designed to cater to the holistic development of students who are
-offering predoominantly G1 and G2 subjects.</p>
+offering predominantly G1 and G2 subjects.</p>
 <h4>Objectives</h4>
 <p>Coined from the word "<em>Forte</em>&nbsp;- a talent/skill in which a
 person excels in", our&nbsp;<strong>AForte</strong>&nbsp;programme aims
