@@ -20,6 +20,26 @@ alumna who has proudly represented Singapore at the Olympic Games. Her
 journey reflects the values we hope to instil in every student — perseverance,
 discipline and the courage to pursue one’s dreams.</p>
 <hr>
+<h3><strong>Bowen Student Leaders’ Investiture 2026</strong></h3>
+<p>Date: 27 April 2026 (Monday)
+<br>Time: 0800-0900am
+<br>Venue: Bowen School Hall</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/Student_Investiture_banner.png">
+</div>
+<p>The Bowen Student Leaders’ Investiture marks the official appointment
+of our student leaders, including Student Councillors, Peer Support Leaders,
+CCA Leaders, Tech Champions, and Class Leaders.</p>
+<p>A highlight of the ceremony is the badge-pinning segment, where parents
+of our newly appointed Executive Committee (ExCo) members are invited on
+stage to present the leadership badges. This meaningful moment adds a personal
+touch, making the occasion especially memorable for both students and their
+families.</p>
+<p>With student leaders from other schools joining us as invited guests,
+the event also serves as a valuable platform to foster connections, exchange
+ideas, and grow together as part of a wider leadership community.</p>
+<hr>
 <h3><strong>2026 Start of Term 2 Letters</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
