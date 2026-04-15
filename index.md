@@ -39,7 +39,7 @@ sections:
         Student Councillors, CCA Leaders, Tech Champions and Class Leaders.
       button: MORE INFORMATION
       url: /school-information/school-matters/news-n-events/
-      image: /images/School Events/2026/Student_Investiture.png
+      image: /images/School Events/2026/Student_Investiture_main.png
       alt: Image alt text
   - infopic:
       title: "My Parent, My Classmate: Season 2"
