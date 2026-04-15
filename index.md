@@ -32,6 +32,16 @@ sections:
       image: /images/School Events/2026/2026_SD_instagram_smaller.jpg
       alt: Image alt text
   - infopic:
+      title: Bowen Student Leaders’ Investiture 2026
+      subtitle: 27 April 2026, MONDAY 8-9am
+      id: infopic
+      description: Celebrating the appointment of our student leaders, including
+        Student Councillors, CCA Leaders, Tech Champions and Class Leaders.
+      button: MORE INFORMATION
+      url: /school-information/school-matters/news-n-events/
+      image: /images/School Events/2026/Student_Investiture.png
+      alt: Image alt text
+  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
