@@ -4,7 +4,7 @@ permalink: /signature-programmes/direct-school-admission-1/
 description: ""
 variant: tiptap
 ---
-<h3>Direct School Admission (DSA) for Academic Year 2026</h3>
+<h3>Direct School Admission (DSA)</h3>
 <p>The annual DSA-Sec Exercise allows Primary 6 students to apply to a participating
 secondary school based on their diverse talents and potential, beyond their
 performance at the PSLE. Students can consider applying for a secondary
@@ -15,11 +15,13 @@ to study in that school to develop their talent in the chosen area.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
-the area of talent</p>
-<h3>Direct School Admission (DSA) to Bowen Secondary School</h3>
-<p>Bowen welcomes students who are currently in Primary 6 (or the equivaleBowen
-welcomes students who are currently in Primary 6 (or the equivalent) to
-apply under DSA-Sec for entry to Secondary 1 in Bowen. Bowen is committed
+the area of talent. Students who are successfully admitted to the school
+via DSA are required to honour their commitment to the school and participate
+in the activities related to the talent they are selected for from years
+1-4.</p>
+<h3>Direct School Admission (DSA) to Bowen</h3>
+<p>Bowen welcomes students who are currently in Primary 6 (or the equivalent)
+to apply under DSA-Sec for entry to Secondary 1 in Bowen. Bowen is committed
 to developing students to their fullest potential in both their areas of
 talent and their studies.&nbsp;</p>
 <p>We strongly encourage those with talents in the following areas to apply
