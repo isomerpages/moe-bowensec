@@ -7,27 +7,20 @@ variant: tiptap
 ---
 <p>The Mother Tongue Department aims to empower Bowenians to succeed in the
 21st Century by:&nbsp;</p>
-<ol>
-<li>
-<p>Developing their proficiency and ability to communicate in the Mother
-Tongue Languages (MTL)&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a valuable skill for life and work, which gives our students a competitive
-edge.&nbsp;</p>
-</li>
-</ul>
+<p>Developing their proficiency and ability to communicate in the Mother
+Tongue Languages (MTL), a valuable skill for life and work, which gives
+our students a competitive edge.&nbsp;</p>
 </li>
 <li>
 <p>Cultivating&nbsp;deeper&nbsp;appreciation of culture,&nbsp;history&nbsp;and&nbsp;values
 through learning of Mother Tongue Languages,&nbsp;</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>and hence retain our Asian roots and values while embracing&nbsp;globalisation.</p>
 </li>
 </ul>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/MT1.png">
 </div>
@@ -294,13 +287,243 @@ across Asia and the people who speak that language or share that culture.</p>
 </tr>
 </tbody>
 </table>
-<h1>Bowen Young Journalists</h1>
-<p>Student correspondents in Singapore submit articles to ZaoBao Comma on-line
-edition. Since 2014, Bowen has about a growing number of articles published
-and some articles have even won awards.</p>
-<h3>2020年联合学生通讯员俱乐部招生名单公布</h3>
-<p>17 April 2020,&nbsp;联合早报</p>
+<h1>Bowen Student Correspondents</h1>
+<p>ZaoBao (ZB) Schools (<a href="http://ZBSchools.sg" rel="noopener noreferrer nofollow" target="_blank">ZBSchools.sg</a>) is a Chinese-language news
+and learning platform designed for primary and secondary school students
+across Singapore. It brings together content from Comma, Big Thumb, and
+Little Thumb, offering a rich collection of news materials and learning
+resources.</p>
+<p>Over the years, Bowen’s student correspondents have contributed an increasing
+number of articles to the platform, with several pieces earning recognition
+and awards.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newspaper%20cutting%202.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Education/Academic Programmes/Zaobao_Schools.jpg">
 </div>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Article name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Link</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/2/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>《云朵》</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2026000223" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.zbschools.sg/article/detail/2026000223</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>郑海峰</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>创作</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>《目光》</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000821" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000821</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>郑海峰</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>创作</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21/5/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>年度教育与职业指导工作坊</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000623" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000623</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>董芷涵</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>报道</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7/5/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>《我的某某》</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000562" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000562</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>郑海峰</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>创作</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5/3/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>感受短暂的饥饿</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000308" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000308</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>董芷涵</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>报道</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>博文中学与台湾新北市义学国中交流计划</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000236" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000236</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>董芷涵</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>报道</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19/2/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>博文中学舞龙迎蛇年</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000237" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000237</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>董芷涵</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>报道</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>博文嘉年华 搭建骨牌 重拾信心</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000100" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000100</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>董芷涵</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>报道</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8/1/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>《光影》</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.zbschools.sg/article/detail/2025000021" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000021</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>郑海峰</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>创作</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

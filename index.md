@@ -56,15 +56,14 @@ sections:
       title: Quick Links
       id: textcards
       cards:
+        - title: Direct School Admission (DSA) 2027
+          description: Apply under DSA-Sec for entry to Sec 1 in Bowen in 2027
+          linktext: Find out more
+          url: /signature-programmes/direct-school-admission-1/
         - title: 2026 Sem 1 Class Timetables
           description: Please navigate to the respective level pages for the timetables.
           linktext: Find out more
           url: /school-information/school-matters/news-n-events/
-        - title: 2026 Start of Term 2 Letters
-          description: Please find the Start of Term 2 letters at the respective Level
-            pages.
-          linktext: Find out more
-          url: /school-information/school-matters/news-n-events
         - title: 2026 Overall Term Assessment Schedule
           description: Find find the Term Assesments (TA2 & TA3) schedules here
           linktext: Find out more
