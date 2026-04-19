@@ -133,18 +133,23 @@ performing arts and sports categories through:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Achievement/Experience in providing leadership in Values-in-Action (VIA)
-Programmes in primary school or in community organisations; OR
-<br>
-</p>
+Programmes in primary school or in community organisations; OR</p>
+</li>
+<li>
 <p>Participation in business and entrepreneurship programmes in primary school
-or similar experience in other significant platforms; OR
-<br>
-</p>
+or similar experience in other significant platforms; OR</p>
+</li>
+<li>
 <p>Participation and/or recognition in projects and competitions related
 to design and invention</p>
-<p>
-<br>Must pass interview.</p>
+</li>
+<li>
+<p>Must pass interview.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants</p>
@@ -172,15 +177,18 @@ programme Key Personnel,</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Achievement/Awards/Experience at Singapore Youth Festival Arts Presentations;
-OR
-<br>
-</p>
-<p>Minimum 2 years of playing an instrument or in a Music CCA;
-<br>
-<br>
-</p>
+OR</p>
+</li>
+<li>
+<p>Minimum 2 years of playing an instrument or in a Music CCA;</p>
+</li>
+<li>
 <p>Must pass audition and interview.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants</p>
@@ -191,11 +199,12 @@ OR
 <li>
 <p>may bring their own musical equipment.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
+<li>
 <p>Based on the audition results, the school will further shortlist applicants
 for a second-round interview with the School Leaders, CCA Key Personnel
 and Teachers.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -212,13 +221,19 @@ and Teachers.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Achievement/Awards in National Schools’ competitions / international competitions;
-OR
-<br>
-<br>Participation at National Schools' competitions, Zonal, National or Club
-level;
-<br>
-<br>Must pass selection trial and interview.</p>
+OR</p>
+</li>
+<li>
+<p>Participation at National Schools' competitions, Zonal, National or Club
+level;</p>
+</li>
+<li>
+<p>Must pass selection trial and interview.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,11 +245,12 @@ level;
 <li>
 <p>may bring their own sports equipment.</p>
 </li>
-</ul>
-<p>&nbsp;</p>
+<li>
 <p>Based on trial results, the school will further shortlist applicants for
 a second-round face interview with the School Leaders, CCA Key Personnel
 and Teachers.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
