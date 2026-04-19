@@ -94,7 +94,6 @@ performing arts and sports categories through:</p>
 <li>
 <p><strong>Exemplary conduct in primary school and,</strong>
 </p>
-<p></p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -120,14 +119,25 @@ performing arts and sports categories through:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Community &amp; Youth Leadership</strong>
 </p>
+</li>
+<li>
+<p><strong>Entrepreneurship</strong>
+</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Achievement/Experience in providing leadership in Values-in-Action (VIA)
 Programmes in primary school or in community organisations; OR
 <br>
-<br>Participation in business and entrepreneurship programmes in primary school
+</p>
+<p>Participation in business and entrepreneurship programmes in primary school
 or similar experience in other significant platforms; OR
 <br>
 </p>
@@ -135,7 +145,6 @@ or similar experience in other significant platforms; OR
 to design and invention</p>
 <p>
 <br>Must pass interview.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants</p>
@@ -155,22 +164,20 @@ programme Key Personnel,</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Entrepreneurship</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Marching Band</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievement / Awards at Singapore Youth Festival Arts Presentations; OR
+<p>Achievement/Awards/Experience at Singapore Youth Festival Arts Presentations;
+OR
 <br>
-<br>Minimum 2 years of playing an instrument or in a Music CCA;
+</p>
+<p>Minimum 2 years of playing an instrument or in a Music CCA;
+<br>
 <br>
 </p>
 <p>Must pass audition and interview.</p>
@@ -193,20 +200,28 @@ and Teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Badminton</strong>
 </p>
+</li>
+<li>
+<p><strong>Football</strong>
+</p>
+</li>
+</ul>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Achievement/Awards in National Schools’ competitions / international competitions;
 OR
 <br>
 <br>Participation at National Schools' competitions, Zonal, National or Club
 level;
 <br>
-</p>
-<p>Must pass selection trial and interview.</p>
+<br>Must pass selection trial and interview.</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Shortlisted applicants</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -214,36 +229,31 @@ level;
 </li>
 <li>
 <p>may bring their own sports equipment.</p>
-<p></p>
+</li>
+</ul>
+<p>&nbsp;</p>
 <p>Based on trial results, the school will further shortlist applicants for
 a second-round face interview with the School Leaders, CCA Key Personnel
 and Teachers.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Football</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+<p><em>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
+</p>
 </li>
 <li>
-<p>You will receive notification from the school by Mid July 2025, if your
-child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
+<p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+</p>
 </li>
 <li>
-<p>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025.</strong>
+<p><em>You will be notified by the school by mid-July 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection.</em>
+</p>
+</li>
+<li>
+<p><em>All applicants will receive their application outcomes </em><strong><em>between 17 Aug and 28 Aug 2026.</em></strong>
 </p>
 </li>
 </ul>
@@ -251,7 +261,6 @@ child has been shortlisted to undergo Direct School Admission (DSA) selection.</
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
 The application is <strong>free-of-charge</strong> and will be open <strong>from 7 May 2025, 11am to 3<sup>rd </sup>June 2025, 3pm.</strong>
