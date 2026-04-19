@@ -30,10 +30,12 @@ for admission to join our Bowen community:</p>
 <p>We offer DSA for Boys and Girls in:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Entrepreneurship</p>
+<p><strong>Entrepreneurship</strong>
+</p>
 </li>
 <li>
-<p>Community Youth Leadership</p>
+<p><strong>Community Youth Leadership</strong>
+</p>
 </li>
 </ul>
 <p>The programme taps on Bowen’s flagship<strong> ChANgeMakers programme</strong>.</p>
@@ -55,7 +57,6 @@ our wide range of community partners).</p>
 <p>Opportunity to extend learning through overseas exposure.</p>
 </li>
 </ul>
-<p></p>
 <h3>DSA (Performing Arts / Sports and Games)</h3>
 <p>We offer DSA for Boys and Girls in:</p>
 <ul data-tight="true" class="tight">
@@ -79,10 +80,13 @@ performing arts and sports categories through:</p>
 <p>Quality and rigorous training by experienced coaches.</p>
 </li>
 <li>
-<p>Extensive range of competition opportunities.</p>
+<p>Extensive range of competition and other developmental opportunities.</p>
 </li>
 <li>
-<p>Courses and workshops for student-athletes.</p>
+<p>Courses and workshops, including external opportunities.</p>
+</li>
+<li>
+<p>Specialised Education &amp; Career Guidance in related fields.</p>
 </li>
 </ul>
 <h3>Selection Criteria</h3>
