@@ -263,17 +263,13 @@ and Teachers.</p>
 </table>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
-The application is <strong>free-of-charge</strong> and will be open <strong>from 7 May 2025, 11am to 3<sup>rd </sup>June 2025, 3pm.</strong>
+The application is<strong> free-of-charge</strong> and will be open f<strong>rom 6 May 2026, 11am to 2nd June 2026, 4.30pm</strong>.</p>
+<p>For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
-<p>For more details, please refer to MOE website –
-<br><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
-</p>
-<p><em>*Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number to access the DSA-Sec Portal. For more details, please refer to MOE website – </em>
-<br><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p>*Other applicants not studying in MOE mainstream primary schools will
+need to apply for a Registration Number to access the DSA-Sec Portal. For
+more details, please refer to MOE website – <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 <h3>Selection Process &amp; Key Dates</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_Flow_2025.jpg">
-</div>
 <p></p>
