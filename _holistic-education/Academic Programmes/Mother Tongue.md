@@ -7,27 +7,20 @@ variant: tiptap
 ---
 <p>The Mother Tongue Department aims to empower Bowenians to succeed in the
 21st Century by:&nbsp;</p>
-<ol>
-<li>
-<p>Developing their proficiency and ability to communicate in the Mother
-Tongue Languages (MTL)&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a valuable skill for life and work, which gives our students a competitive
-edge.&nbsp;</p>
-</li>
-</ul>
+<p>Developing their proficiency and ability to communicate in the Mother
+Tongue Languages (MTL), a valuable skill for life and work, which gives
+our students a competitive edge.&nbsp;</p>
 </li>
 <li>
 <p>Cultivating&nbsp;deeper&nbsp;appreciation of culture,&nbsp;history&nbsp;and&nbsp;values
 through learning of Mother Tongue Languages,&nbsp;</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>and hence retain our Asian roots and values while embracing&nbsp;globalisation.</p>
 </li>
 </ul>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/MT1.png">
 </div>
