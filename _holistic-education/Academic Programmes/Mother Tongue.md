@@ -295,12 +295,13 @@ across Asia and the people who speak that language or share that culture.</p>
 </tbody>
 </table>
 <h1>Bowen Young Journalists</h1>
-<p>Student correspondents in Singapore submit articles to ZaoBao Comma on-line
-edition. Since 2014, Bowen has about a growing number of articles published
-and some articles have even won awards.</p>
-<h3>2020年联合学生通讯员俱乐部招生名单公布</h3>
-<p>17 April 2020,&nbsp;联合早报</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newspaper%20cutting%202.png">
-</div>
+<p>ZaoBao (ZB) Schools (<a href="http://ZBSchools.sg" rel="noopener noreferrer nofollow" target="_blank">ZBSchools.sg</a>) is a Chinese-language news
+and learning platform designed for primary and secondary school students
+across Singapore. It brings together content from Comma, Big Thumb, and
+Little Thumb, offering a rich collection of news materials and learning
+resources.</p>
+<p>Over the years, Bowen’s student correspondents have contributed an increasing
+number of articles to the platform, with several pieces earning recognition
+and awards.</p>
+<h3></h3>
 <p></p>
