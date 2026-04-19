@@ -303,6 +303,10 @@ resources.</p>
 <p>Over the years, Bowen’s student correspondents have contributed an increasing
 number of articles to the platform, with several pieces earning recognition
 and awards.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Education/Academic Programmes/Zaobao_Schools.jpg">
+</div>
+<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
