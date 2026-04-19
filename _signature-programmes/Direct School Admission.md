@@ -272,4 +272,7 @@ more details, please refer to MOE website – <a href="https://go.gov.sg/nmsdsa-
 </p>
 <h3>Selection Process &amp; Key Dates</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/DSA/DSA_timeline_2027.png">
+</div>
 <p></p>
