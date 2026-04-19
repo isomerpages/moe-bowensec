@@ -26,19 +26,17 @@ to developing students to their fullest potential in both their areas of
 talent and their studies.&nbsp;</p>
 <p>We strongly encourage those with talents in the following areas to apply
 for admission to join our Bowen community:</p>
-<h3>DSA (Entrepreneurship &amp; Innovation / Leadership &amp; Uniformed Groups)</h3>
+<h3>DSA (Entrepreneurship and Innovation / Leadership and Uniformed Groups)</h3>
 <p>We offer DSA for Boys and Girls in:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Entrepreneurship</strong>
-</p>
+<p>Entrepreneurship</p>
 </li>
 <li>
-<p><strong>Community Youth Leadership</strong>
-</p>
+<p>Community Youth Leadership</p>
 </li>
 </ul>
-<p>The programme taps on Bowen’s flagship <a href="/signature-programmes/bowen-changemakers/" rel="noopener nofollow" target="_blank">Changemaker's Programme</a>.</p>
+<p>The programme taps on Bowen’s flagship<strong> ChANgeMakers programme</strong>.</p>
 <p>ChANgeMakers aims to nurture Bowenians to advocate social causes and become
 value creators for Singapore through:</p>
 <ul data-tight="true" class="tight">
@@ -48,12 +46,16 @@ social needs in the community.</p>
 </li>
 <li>
 <p>Opportunities to lead and serve at school and community level (e.g. with
-our wide range of community partners)</p>
+our wide range of community partners).</p>
 </li>
 <li>
-<p>Courses and workshops (e.g. Design Thinking).</p>
+<p>Courses, workshops (e.g. Design Thinking) and mentoring.</p>
+</li>
+<li>
+<p>Opportunity to extend learning through overseas exposure.</p>
 </li>
 </ul>
+<p></p>
 <h3>DSA (Performing Arts / Sports and Games)</h3>
 <p>We offer DSA for Boys and Girls in:</p>
 <ul data-tight="true" class="tight">
