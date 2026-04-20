@@ -57,7 +57,8 @@ sections:
       id: textcards
       cards:
         - title: Direct School Admission (DSA) 2027
-          description: Apply under DSA-Sec for entry to Sec 1 in Bowen in 2027
+          description: Apply for DSA to Bowen Sec 1 in 2027. 6 May, 11am - 2 June 2026,
+            4.30pm
           linktext: Find out more
           url: /signature-programmes/direct-school-admission-1/
         - title: 2026 Sem 1 Class Timetables
