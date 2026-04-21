@@ -279,7 +279,7 @@ and Teachers.</p>
 </table>
 <h3>Centralised DSA-Sec Application Process</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal*.
-The application is<strong> free-of-charge</strong> and will be open f<strong>rom 6 May 2026, 11am to 2nd June 2026, 4.30pm</strong>.</p>
+The application is<strong> free-of-charge</strong> and will be open <strong>from 6<sup>th</sup> May 2026, 11am to 2<sup>nd</sup> June 2026, 4.30pm</strong>.</p>
 <p>For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>*Other applicants not studying in MOE mainstream primary schools will
