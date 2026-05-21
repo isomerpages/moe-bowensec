@@ -61,10 +61,10 @@ sections:
             4.30pm
           linktext: Find out more
           url: /signature-programmes/direct-school-admission-1/
-        - title: 2026 Sem 1 Class Timetables
-          description: Please navigate to the respective level pages for the timetables.
-          linktext: Find out more
-          url: /school-information/school-matters/news-n-events/
+        - title: Sec 2 Subject Combination Trial
+          description: "Trial Starts from 21 May, 8am Deadline: 25 May 5pm"
+          linktext: Go to Subject Combination Trial
+          url: https://go.gov.sg/bowensec2
         - title: 2026 Overall Term Assessment Schedule
           description: Find find the Term Assesments (TA2 & TA3) schedules here
           linktext: Find out more
