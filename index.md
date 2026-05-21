@@ -59,7 +59,7 @@ sections:
         - title: Direct School Admission (DSA) 2027
           description: Apply for DSA to Bowen Sec 1 in 2027. 6 May, 11am - 2 June 2026,
             4.30pm
-          linktext: Find out more
+          linktext: DSA Infornation
           url: /signature-programmes/direct-school-admission-1/
         - title: Sec 2 Subject Combination Trial
           description: "Trial Starts from 21 May, 8am Deadline: 25 May 5pm"
@@ -67,10 +67,10 @@ sections:
           url: https://go.gov.sg/bowensec2
         - title: 2026 Overall Term Assessment Schedule
           description: Find find the Term Assesments (TA2 & TA3) schedules here
-          linktext: Find out more
+          linktext: Overall Term Assesment Schedules
           url: /school-information/school-matters/news-n-events/
         - title: 2026 Booklists
           description: Find the respective booklists at the level pages.
-          linktext: Learn more
+          linktext: 2026 Booklists
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
 ---
