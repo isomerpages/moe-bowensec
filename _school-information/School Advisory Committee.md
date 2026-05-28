@@ -28,7 +28,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. V Vijaykumar</p>
+<p>Mr. V Vijaykumarr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
