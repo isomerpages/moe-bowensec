@@ -328,21 +328,6 @@ and conducive learning environment to reach their full potential.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Kwan Way Yeng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>21</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Ai Keow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +339,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>22</strong>
+<p><strong>21</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
