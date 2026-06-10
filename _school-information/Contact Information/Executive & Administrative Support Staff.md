@@ -72,21 +72,6 @@ and conducive learning environment to reach their full potential.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Vincent Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>poh_chee_wai@schools.go.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr.&nbsp;&nbsp;Yazid Bin Jumaat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +83,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5</strong>
+<p><strong>4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +98,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6</strong>
+<p><strong>5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +113,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7</strong>
+<p><strong>6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +128,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8</strong>
+<p><strong>7</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,7 +143,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9</strong>
+<p><strong>8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +158,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10</strong>
+<p><strong>9</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +174,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11</strong>
+<p><strong>10</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +189,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12</strong>
+<p><strong>11</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,7 +204,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13</strong>
+<p><strong>12</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +219,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>14</strong>
+<p><strong>13</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,7 +234,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>15</strong>
+<p><strong>14</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,7 +249,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>16</strong>
+<p><strong>15</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +264,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>17</strong>
+<p><strong>16</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,7 +279,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>18</strong>
+<p><strong>17</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -309,52 +294,7 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>19</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Foo Tee Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>20</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Yeow Bee Geok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>21</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Kwan Way Yeng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>22</strong>
+<p><strong>18</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,11 +309,56 @@ and conducive learning environment to reach their full potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>23</strong>
+<p><strong>19</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Nancy Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>20</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Kwan Way Yeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>21</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ai Keow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>22</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr See Hui Deng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
