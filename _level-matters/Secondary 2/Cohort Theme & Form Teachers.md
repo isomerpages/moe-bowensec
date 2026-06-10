@@ -247,21 +247,10 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Chia Choi Queen</p>
+<p>Mr. Fang Jiexin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_choi_queen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Mah Chwee Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mah_chwee_peng@schools.gov.sg</p>
+<p>fang_jiexin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
