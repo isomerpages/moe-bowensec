@@ -79,6 +79,22 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Kan Kok Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Kan_kok_leong@schools.gov.sg" rel="noopener nofollow" target="_blank">Kan_kok_leong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Department Heads</h2>
