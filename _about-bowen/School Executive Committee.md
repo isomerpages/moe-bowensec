@@ -91,7 +91,7 @@ variant: tiptap
 <p>Mr. Kan Kok Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Kan_kok_leong@schools.gov.sg" rel="noopener nofollow" target="_blank">Kan_kok_leong@schools.gov.sg</a>
+<p><a href="Kan_kok_leong@schools.gov.sg" rel="noopener nofollow" target="_blank">Kan_Kok_Leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
