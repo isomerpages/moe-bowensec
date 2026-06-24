@@ -48,7 +48,7 @@ and conducive learning environment to reach their full potential.</p>
 <p>Vice Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kan_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kan_kok_leong@chools.gov.sg</a>
+<p><a href="mailto:kan_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kan_kok_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
