@@ -80,24 +80,24 @@ ideas, and grow together as part of a wider leadership community.</p>
 </li>
 </ul>
 <hr>
-<h3><strong>2026 Semester 1 Timetables</strong></h3>
+<h3><strong>2026 Semester 2 Timetables</strong></h3>
 <p>Please navigate to the respective level pages via the links below to access
 the respective timetables.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/school-information/level-matters/secondary-1/class-timetables/" rel="noopener nofollow" target="_blank">Sec 1 Sem 1 Timetables</a>
+<p><a href="/school-information/level-matters/secondary-1/class-timetables/" rel="noopener nofollow" target="_blank">Sec 1 Sem 2 Timetables</a>
 </p>
 </li>
 <li>
-<p><a href="/school-information/level-matters/secondary-2/class-timetables/" rel="noopener nofollow" target="_blank">Sec 2 Sem 1 Timetables</a>
+<p><a href="/school-information/level-matters/secondary-2/class-timetables/" rel="noopener nofollow" target="_blank">Sec 2 Sem 2 Timetables</a>
 </p>
 </li>
 <li>
-<p><a href="/school-information/level-matters/secondary-3/class-timetables/" rel="noopener nofollow" target="_blank">Sec 3 Sem 1 Timetables</a>
+<p><a href="/school-information/level-matters/secondary-3/class-timetables/" rel="noopener nofollow" target="_blank">Sec 3 Sem 2 Timetables</a>
 </p>
 </li>
 <li>
-<p><a href="/school-information/level-matters/secondary-4-5/class-timetables/" rel="noopener nofollow" target="_blank">Sec 4/5 Sem 1 Class Timetables</a>
+<p><a href="/school-information/level-matters/secondary-4-5/class-timetables/" rel="noopener nofollow" target="_blank">Sec 4/5 Sem 2 Class Timetables</a>
 </p>
 </li>
 </ul>
