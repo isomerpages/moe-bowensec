@@ -61,10 +61,10 @@ sections:
             4.30pm
           linktext: DSA Infornation
           url: /signature-programmes/direct-school-admission-1/
-        - title: Sec 2 Subject Combination Trial
-          description: "Trial Starts from 21 May, 8am Deadline: 25 May 5pm"
-          linktext: Go to Subject Combination Trial
-          url: https://go.gov.sg/bowensec2
+        - title: Semester 2 Timetable
+          description: ""
+          linktext: Click Here
+          url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
         - title: 2026 Overall Term Assessment Schedule
           description: Find find the Term Assesments (TA2 & TA3) schedules here
           linktext: Overall Term Assesment Schedules
