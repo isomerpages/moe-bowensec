@@ -6,7 +6,7 @@ third_nav_title: Secondary 3
 variant: tiptap
 ---
 <h2>2026 Sec 3 Timetables</h2>
-<h5>Sem 1 timetables w.e.f. 29 June</h5>
+<h5>Sem 2 timetables w.e.f. 29 June</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Class Timetables/2026_Term3_V3/2026_SEM2_S3T_TT_V3.pdf" rel="noopener nofollow" target="_blank">3 Topaz</a>
