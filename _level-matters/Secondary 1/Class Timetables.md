@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## 2026 Sec 1 Timetables
 
-##### Sem 1 timetables w.e.f. 8 Jan
+##### Sem 1 timetables w.e.f. 29 June
 
 * [1 Topaz](/files/Class%20Timetables/2026_Term3_V3/2026_SEM2_S1T_TT_V3.pdf)
 * [1 Sapphire](/files/Class%20Timetables/2026_Term3_V3/2026_SEM2_S1S_TT_V3.pdf)
