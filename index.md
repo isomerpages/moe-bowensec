@@ -59,9 +59,9 @@ sections:
         - title: Direct School Admission (DSA) 2027
           description: Apply for DSA to Bowen Sec 1 in 2027. 6 May, 11am - 2 June 2026,
             4.30pm
-          linktext: DSA Infornation
+          linktext: DSA Information
           url: /signature-programmes/direct-school-admission-1/
-        - title: Semester 2 Timetable
+        - title: 2026 Semester 2 Timetable
           description: ""
           linktext: Click Here
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
