@@ -67,18 +67,16 @@ ideas, and grow together as part of a wider leadership community.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_2_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Overall </a>
-<a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_1_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">Weighted</a><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_2_TA1_schedule.pdf" rel="noopener nofollow" target="_blank"> Assessment Schedule</a>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_2_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Overall Weighted Assessment Schedule</a>
 </p>
 </li>
 <li>
 <p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_3_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Overall </a>
-<a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_1_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">Weighted</a><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_3_TA1_schedule.pdf" rel="noopener nofollow" target="_blank"> Assessment Schedule</a>
+<a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_1_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">Weighted</a><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_3_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_4_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Overall </a>
-<a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_1_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">Weighted</a><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_4_TA1_schedule.pdf" rel="noopener nofollow" target="_blank"> Assessment Schedule</a>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_4_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Overall Weighted Assessment Schedule</a>
 </p>
 </li>
 </ul>
