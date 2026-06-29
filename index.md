@@ -23,15 +23,6 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: Doing Well, Doing Good
-      id: infopic
-      description: Discover how Doing Well, Doing Good comes to life through
-        meaningful service, leadership and compassion.
-      button: Play Inclusive Programme
-      url: /school-information/school-matters/news-n-events/
-      image: /images/Home Page/Doing_well_Doing_Good_BH.jpg
-      alt: Doing Well Doing Good
-  - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
       description: Watch four brave parents return to secondary school to reconnect
