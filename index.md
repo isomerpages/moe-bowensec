@@ -23,14 +23,14 @@ sections:
           description: Sec 1, 2, 3, 4/5
           url: /school-information/level-matters/secondary-1/
   - infopic:
-      title: 44th SPEECH & PRIZE PRESENTATION DAY
-      subtitle: 15 May 2026, FRIDAY
+      title: Doing Well, Doing Good
       id: infopic
-      description: DARE TO BELIEVE
+      description: Discover how Doing Well, Doing Good comes to life through
+        meaningful service, leadership and compassion.
       button: MORE INFORMATION
       url: /school-information/school-matters/news-n-events/
-      image: /images/School Events/2026/2026_SD_instagram_smaller.jpg
-      alt: Image alt text
+      image: /images/Home Page/Doing_well_Doing_Good_BH.jpg
+      alt: Doing Well Doing Good
   - infopic:
       title: Bowen Student Leaders’ Investiture 2026
       subtitle: 27 April 2026, MONDAY 8-9am
