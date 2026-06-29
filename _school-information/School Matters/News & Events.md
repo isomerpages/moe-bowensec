@@ -6,27 +6,6 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
-<h3><strong>Play Inclusive Programme</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home Page/Doing_well_Doing_Good_BH.jpg">
-</div>
-<p>Bowen Secondary School students recently participated in the Play Inclusive
-programme, exemplifying the spirit of "Doing Well, Doing Good." Through
-inclusive sports, students engaged children with special needs, fostering
-empathy, meaningful interactions, and a greater appreciation for an inclusive
-community.</p>
-<p>The students' efforts were recently recognised at the launch of the Network
-of Deeds by Kids, a national initiative that supports child- and youth-led
-community projects by connecting young changemakers with social service
-agencies and community partners. The network provides opportunities for
-mentorship, collaboration, and capacity building to help sustain and expand
-meaningful community initiatives.</p>
-<p>Reflecting on the experience, one participating student shared that the
-programme gave him the opportunity to meet other young people who shared
-the same passion for making a positive difference in the community.</p>
-<hr>
-<p></p>
 <h3><strong>44<sup>th</sup> Speech and Prize Presentation Day</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="44th Speech &amp; Prize presentation Day" src="/images/School Events/2026/2026_SD_Banne_smallerr.jpg">
