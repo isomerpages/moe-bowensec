@@ -27,20 +27,10 @@ sections:
       id: infopic
       description: Discover how Doing Well, Doing Good comes to life through
         meaningful service, leadership and compassion.
-      button: MORE INFORMATION
+      button: Play Inclusive Programme
       url: /school-information/school-matters/news-n-events/
       image: /images/Home Page/Doing_well_Doing_Good_BH.jpg
       alt: Doing Well Doing Good
-  - infopic:
-      title: Bowen Student Leaders’ Investiture 2026
-      subtitle: 27 April 2026, MONDAY 8-9am
-      id: infopic
-      description: Celebrating the appointment of our student leaders, including
-        Student Councillors, CCA Leaders, Tech Champions and Class Leaders.
-      button: MORE INFORMATION
-      url: /school-information/school-matters/news-n-events/
-      image: /images/School Events/2026/Student_Investiture_main.png
-      alt: Image alt text
   - infopic:
       title: "My Parent, My Classmate: Season 2"
       id: infopic
