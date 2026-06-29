@@ -60,7 +60,7 @@ ideas, and grow together as part of a wider leadership community.</p>
 </li>
 </ul>
 <hr>
-<h3><strong>2026 Overall Term Assessment Schedule</strong></h3>
+<h3><strong>Weighted Assessment at Bowen Secondary</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_Sec_1_TA1_schedule.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Overall Term Assessment Schedule</a>
