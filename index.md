@@ -65,7 +65,7 @@ sections:
           description: ""
           linktext: Click Here
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
-        - title: 2026 Overall Term Assessment Schedule
+        - title: Weighted Assessment at Bowen Secondary
           description: Find find the Term Assesments (TA2 & TA3) schedules here
           linktext: Overall Term Assesment Schedules
           url: /school-information/school-matters/news-n-events/
