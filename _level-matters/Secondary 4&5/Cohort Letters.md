@@ -26,5 +26,9 @@ slides.</p>
 <p><a href="/files/Level Matters/S4n5/2026_Sec_4_5_Start_of_Term_2_Letter___4LE.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Start of Term 2 Letter for 4L and 4E only</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_S4_Start_of_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 Start of Term 3 Letter</a>
+</p>
+</li>
 </ol>
 <p></p>
