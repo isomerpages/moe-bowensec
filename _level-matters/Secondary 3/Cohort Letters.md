@@ -22,5 +22,9 @@ slides.</p>
 <p><a href="/files/Level Matters/S3/2026_Sec_3_Start_of_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Start of Term 2 Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S3/2026_S3_Start_of_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Start of Term 3 Letter</a>
+</p>
+</li>
 </ol>
 <p></p>
