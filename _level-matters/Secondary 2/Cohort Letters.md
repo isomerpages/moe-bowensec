@@ -21,5 +21,9 @@ download as a PDF copy.</p>
 <p><a href="/files/Level Matters/S2/2026_Sec_2_Start_of_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Start of Term 2 Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S2/2026_S2_Start_of_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Start of Term 3 Letter</a>
+</p>
+</li>
 </ol>
 <p></p>
