@@ -53,7 +53,7 @@ we believe each class is a gem of its own and will sparkle in its unique
 way. These gems are:</p>
 <p><strong>Topaz, Sapphire, Peridot, Amethyst, Ruby, Kunzite, Larimar and Emerald.</strong>
 </p>
-<h3>2026 Secondary 1 Form Teachers</h3>
+<h3>2026 Secondary 2 Form Teachers</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -140,21 +140,10 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Poon ZiLi</p>
+<p>Ms. Brenda Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poon_zi_li@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Quek Ying Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>quek_ying_ying_a@schools.gov.sg</p>
+<p>brenda_teo_yan_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -259,10 +248,10 @@ way. These gems are:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Juriah</p>
+<p>Ms. Sarvini Gunasekaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>juriah_wati_mohd_shariff@schools.gov.sg</p>
+<p>sarvini_gunasekaran@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
