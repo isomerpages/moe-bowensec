@@ -177,10 +177,10 @@ its own and will sparkle in its unique way.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Sandra Lim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_cai_ling_sandra@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
