@@ -245,21 +245,6 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Tan Kok Boon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_boon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>HOD / Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head / Student Management</p>
@@ -287,7 +272,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
