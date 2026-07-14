@@ -335,7 +335,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 Sec 1 Year Head</p>
+<p>2026 Sec 1 Year Heads</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Hairil &amp; Ms. Estelle Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_noor_hairil_muhammad@schools.gov.sg</a>
+</p>
+<p><a href="mailto:estelle_chong_chyi_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estelle_chong_chyi_shin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026 Sec 2 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs. Bernice Kuan</p>
@@ -347,11 +365,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2</strong>
+<p><strong>3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 Sec 2 Year Head</p>
+<p>2026 Sec 3 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs. Chan Soo Yong</p>
@@ -363,50 +381,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3</strong>
+<p><strong>4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 Sec 3 Year Head</p>
+<p>2026 Sec 4 and 5 Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Sharifah Kamelia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharifah_kamelia_syed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_kamelia_syed@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025 Sec 3
-<br>Asst Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Hairil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_noor_hairil_muhammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_noor_hairil_muhammad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025 Sec 4 and 5 Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Estelle Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:estelle_chong_chyi_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estelle_chong_chyi_shin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
