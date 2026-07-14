@@ -30,9 +30,6 @@ variant: markdown
 		 
 [NLB Discover Reads](https://www.nlb.gov.sg/main/site/discovereads)
 
-<hr>
-
-[Class AV Equipment Fault Reporting](https://goo.gl/forms/EalxK7AXli9dVbKc2)
 
 ### For Parents
 
