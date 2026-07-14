@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Leadership
 variant: tiptap
 ---
-<h2>EcoChampions</h2>
+<h2>Eco Champions</h2>
 <p></p>
 <p>EcoChampions at Bowen Secondary School empower students to take active
 ownership of sustainability and environmental stewardship. Aligned with
