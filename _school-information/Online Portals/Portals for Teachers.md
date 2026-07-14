@@ -170,13 +170,13 @@ variant: tiptap
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/bowensec-time-off-requests-record-2" rel="noopener noreferrer nofollow" target="_blank">Bowen Tme-Off Endorsement/Approval Form (For SLs and ROs)</a>
+<p><a href="https://for.edu.sg/bowensec-time-off-requests-record-2" rel="noopener noreferrer nofollow" target="_blank">Bowen Time-Off Endorsement/Approval Form (For SLs and ROs)</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Other MOE Portals </h4>
+<h4>Other MOE Portals</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

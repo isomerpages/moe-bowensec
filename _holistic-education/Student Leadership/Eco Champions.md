@@ -1,18 +1,21 @@
 ---
-title: EcoChampions
+title: Eco Champions
 permalink: /holistic-education/student-leadership/eco-champions/
 description: ""
 third_nav_title: Student Leadership
 variant: tiptap
 ---
-<h2>EcoChampions</h2>
-<p></p>
+<h2>Eco Champions</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eco Champions in Action" src="/images/Holistic Education/Student Leadership/ecochampions.jpg">
+</div>
 <p>EcoChampions at Bowen Secondary School empower students to take active
-ownership of sustainability and environmental stewardship. Aligned with
-Singapore's Green Plan 2030, the programme develops informed and responsible
-individuals who understand the importance of sustainable living and are
-committed to making a positive impact in the school and community.</p>
-<h2>Student-Led Sustainability</h2>
+ownership of sustainability and environmental stewardship.</p>
+<p>Aligned with Singapore's Green Plan 2030, the programme develops informed
+and responsible individuals who understand the importance of sustainable
+living and are committed to making a positive impact in the school and
+community.</p>
+<h4>Student-Led Sustainability</h4>
 <p>Through student-led initiatives, EcoChampions champion environmentally
 responsible habits and inspire their peers to take collective action towards
 a greener future.</p>
