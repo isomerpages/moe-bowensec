@@ -3,6 +3,7 @@ title: Student Leadership
 permalink: /holistic-education/student-leadership/
 description: ""
 third_nav_title: Student Leadership
+variant: markdown
 ---
 ![](/images/Holistic%20Education/Student%20Leadership/bowen%20student%20leaders%20montage.png)
 
@@ -13,7 +14,7 @@ In Bowen, there are 6 main groups of student leaders –
 * CCA Leaders
 * Class Leaders
 * Tech Champions
-* CCE Ambassadors
+* EcoChampions
 
 We believe everyone has the potential to lead. Hence, Bowenians will be exposed to a diverse opportunities and platforms to be groomed and grow.
 
