@@ -59,8 +59,4 @@ school activities are not permitted.</p>
 <p>Mr. Alvin Chong (SH/ICT)</p>
 </li>
 </ul>
-<h2><strong>PLD Service Centre Information</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Lenovo PLD Service Centre" src="https://isomer-user-content.by.gov.sg/681/36789dbf-0b19-43bc-aa21-0094495d4d8b/Lenovo%20PLD%20Service%20Centre.jpg">
-</div>
 <p></p>
