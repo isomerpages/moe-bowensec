@@ -204,20 +204,6 @@ when you have finished using the connection.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr. Tan Kok Boon</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>HOD / ICT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>tan_kok_boon@schools.gov.sg</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr. Alvin Chong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,6 +211,17 @@ when you have finished using the connection.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>alvin_chong_chee_leong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Alamel Moghan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Edtech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alamel_moghan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
