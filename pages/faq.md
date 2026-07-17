@@ -215,26 +215,21 @@ you may also contact the PLD service centre directly.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday – Friday (During recess/lunch)</p>
+<p><strong>Monday - Thursday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>According to timetable</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday – Thursday (after school)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 pm – 4.30 pm</p>
+<p>7:45am - 1230pm
+<br>2:30pm - 4:30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (after school)</p>
+<p><strong>Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.30 pm – 3.30 pm</p>
+<p>12:30pm - 3:30pm</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +239,8 @@ you may also contact the PLD service centre directly.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday – Friday</p>
+<p><strong>Monday – Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 am – 11.00 am
