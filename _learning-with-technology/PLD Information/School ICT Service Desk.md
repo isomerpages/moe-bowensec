@@ -33,63 +33,11 @@ school activities are not permitted.</p>
 </li>
 </ul>
 <p>ICT Service Desk Operating Hours</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p><strong>ICT Service Desk Operating Hours</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>During School Term</strong>
-<br>Students may visit the ICT Service Desk only during their recess, lunch
-breaks or after school. Visits during lessons, CCA sessions or official
-school activities are not permitted.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday - Thursday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7:45am - 1230pm
-<br>2:30pm - 4:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Friday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12:30pm - 3:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>During School Holidays</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday - Friday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9:00am - 11:00am
-<br>1:00pm - 3:00pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning With Technology/ICT_operating_Hours_2026.jpg">
+</div>
 <h3><strong>Contact Person/s:</strong></h3>
 <ul>
 <li>
