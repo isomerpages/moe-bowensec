@@ -2,8 +2,8 @@ collections:
   learning-with-technology:
     output: true
     order:
-      - School ICT Service Desk.md
       - Learning with Technology.md
-      - PLD Information/Personal Learning Device.md
+      - School ICT Service Desk.md
       - PLD Information/.keep
+      - PLD Information/Personal Learning Device.md
       - PLD Information/Service Centres.md
