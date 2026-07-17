@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Learning with Technology.md
-      - School ICT Service Desk.md
       - PLD Information/.keep
       - PLD Information/Personal Learning Device.md
       - PLD Information/Service Centres.md
