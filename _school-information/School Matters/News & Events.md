@@ -36,6 +36,14 @@ variant: tiptap
 <p><a href="/files/Level Matters/S4n5/2026_S4_Start_of_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Start of Term 3 Letter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_Letter_to_Parents_N_Level_Prelims.pdf" rel="noopener nofollow" target="_blank">2026 Letter to Parents for N Level Preliminary Examination</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_Letter_to_Parents_O_Level_Prelims.pdf" rel="noopener nofollow" target="_blank">2026 Letter to Parents for O Level Preliminary Examination</a>
+</p>
+</li>
 </ul>
 <hr>
 <h3><strong>Weighted Assessment at Bowen Secondary</strong></h3>
