@@ -42,8 +42,8 @@ sections:
           linktext: N and O Prelim Schedule
           url: /school-information/level-matters/secondary-4-5/assessment-schedules/
         - title: 2026 Semester 2 Timetable
-          description: ""
-          linktext: Click Here
+          description: Please  find the Semester 2 Timetables here
+          linktext: Semester 2 Timetables
           url: https://www.bowensec.moe.edu.sg/school-information/school-matters/news-n-events/
         - title: Weighted Assessment at Bowen Secondary
           description: Find find the Term Assesments (TA2 & TA3) schedules here
