@@ -6,38 +6,20 @@ third_nav_title: School Matters
 variant: tiptap
 ---
 <h1>Latest News and Events</h1>
-<h3><strong>44<sup>th</sup> Speech and Prize Presentation Day</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="44th Speech &amp; Prize presentation Day" src="/images/School Events/2026/2026_SD_Banne_smallerr.jpg">
-</div>
-<p>The school’s <strong>44<sup>th</sup> Speech and Prize Presentation Day</strong> was
-held on <strong>15 May 2026. </strong>This meaningful occasion shines a
-spotlight on students who have excelled academically and demonstrated commendable
-effort and determination. Awards presented will reflect both academic success
-and holistic development.</p>
-<p>We were delighted to have our Guest of Honour, Ms. Joan Poh, a distinguished
-alumna who has proudly represented Singapore at the Olympic Games. Her
-journey reflects the values we hope to instil in every student — perseverance,
-discipline and the courage to pursue one’s dreams.</p>
-<hr>
-<h3><strong>Bowen Student Leaders’ Investiture 2026</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events/2026/Student_Investiture_banner.png">
-</div>
-<p>The Bowen Student Leaders’ Investiture marked the official appointment
-of our student leaders, including Student Councillors, Peer Support Leaders,
-CCA Leaders, Tech Champions, and Class Leaders.</p>
-<p>A highlight of the ceremony is the badge-pinning segment, where parents
-of our newly appointed Executive Committee (ExCo) members are invited on
-stage to present the leadership badges. This meaningful moment adds a personal
-touch, making the occasion especially memorable for both students and their
-families.</p>
-<p>With student leaders from other schools joining us as invited guests,
-the event also serves as a valuable platform to foster connections, exchange
-ideas, and grow together as part of a wider leadership community.</p>
-<hr>
-<h3><strong>2026 Start of Term 3 Letters</strong></h3>
+<h3><strong>2026 N and O level Prelim Examination Schedules</strong></h3>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_N_Prelims_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 N Level Examination Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Examination Timetables/2026 Exam Timetables/2026_O_Prelims__Schedule.pdf" rel="noopener nofollow" target="_blank">2026 O Level Examination Schedule</a>
+</p>
+<p></p>
+<p>
+<br><strong>2026 Start of Term 3 Letters</strong>
+</p>
+</li>
 <li>
 <p><a href="/files/Level Matters/S1/2026_S1_Start_of_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Start of Term 3 Letter</a>
 </p>
@@ -52,6 +34,14 @@ ideas, and grow together as part of a wider leadership community.</p>
 </li>
 <li>
 <p><a href="/files/Level Matters/S4n5/2026_S4_Start_of_Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Start of Term 3 Letter</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_Letter_to_Parents_N_Level_Prelims.pdf" rel="noopener nofollow" target="_blank">2026 Letter to Parents for N Level Preliminary Examination</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Level Matters/S4n5/2026_Letter_to_Parents_O_Level_Prelims.pdf" rel="noopener nofollow" target="_blank">2026 Letter to Parents for O Level Preliminary Examination</a>
 </p>
 </li>
 </ul>

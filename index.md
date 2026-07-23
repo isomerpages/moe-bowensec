@@ -37,11 +37,10 @@ sections:
       title: Quick Links
       id: textcards
       cards:
-        - title: Direct School Admission (DSA) 2027
-          description: Apply for DSA to Bowen Sec 1 in 2027. 6 May, 11am - 2 June 2026,
-            4.30pm
-          linktext: DSA Information
-          url: /signature-programmes/direct-school-admission-1/
+        - title: 2026 N and O level Prelim Exam Schedules
+          description: Find the N and O level Prelim Examination Schedules here
+          linktext: N and O Prelim Schedule
+          url: /school-information/level-matters/secondary-4-5/assessment-schedules/
         - title: 2026 Semester 2 Timetable
           description: ""
           linktext: Click Here
