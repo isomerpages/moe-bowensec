@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-### School Counselling
+### School Counselling &amp; Learning Support
 At Bowen, we are committed to providing a safe, supportive and confidential environment where students can share their concerns and receive guidance. Through counselling, students are supported in understanding their emotions, developing healthy coping strategies and making positive choices that enhance their well-being and personal growth.
 
 School counselling is a collaborative process that empowers students to:
