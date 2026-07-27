@@ -5,15 +5,6 @@ description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-## School Rules and Regulations
-
-In Bowen, we strive to create a caring and vibrant learning environment for Bowenians to ‘**Do Well and Do Good’**. Our rules and regulations describe the standard of conduct and behaviour expected of our students at all times. Our end-goal is to guide our students to cultivate core values and habits and to become self-disciplined individuals of good character, which is integral for growth and maturity.
-
-
-[Discipline and School Rules (updated 2026)](/files/Care%20&amp;%20Discipline/Bowen_Sec_Discipline_and_Rules_2026.pdf)
-
-<hr>
-
 ## Care and Support 
 [Student Well-Being and Support](/files/Care%20&amp;%20Discipline/Bowen_Sec_WellBeing_n_Support_2026.pdf)
 
