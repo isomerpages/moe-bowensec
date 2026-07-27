@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Matters
 ---
-<h1>School Rules and Regulations</h1>
+<h1>School Rules and Code of Conduct</h1>
 <p>In Bowen, we strive to create a caring and vibrant learning environment
 for Bowenians to ‘**Do Well and Do Good’**. Our rules and regulations describe
 the standard of conduct and behaviour expected of our students at all times.
