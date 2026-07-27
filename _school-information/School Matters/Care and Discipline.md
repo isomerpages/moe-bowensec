@@ -40,7 +40,7 @@ For more information about care activities, check out the following links:
 [Student Well-Being and Support](/files/Care%20&amp;%20Discipline/Bowen_Sec_WellBeing_n_Support_2026.pdf)
 
 ### Reaching out and getting support outside of Bowen
-If you would like to talk to other trained professionals, you can also call the following organisations:
+Students and families seeking additional support may also contact the following organisations, which offer professional counselling and support services.
 
 <table style="width:454.5pt;margin-left:-.25pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
