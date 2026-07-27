@@ -1,50 +1,31 @@
 ---
-title: Care and Discipline
+title: Care and Peer Support
 permalink: /school-information/school-matters/care-and-discipline/
 description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-## School Rules and Regulations
+## Care and Peer Support 
+At Bowen, we are committed to nurturing future-ready Bowenians who are self-disciplined, resilient and of sound character. We believe that every challenge presents an opportunity for growth, and we strive to provide a safe, caring and supportive environment where students learn from their experiences, build confidence and make responsible choices.
 
-In Bowen, we strive to create a caring and vibrant learning environment for Bowenians to ‘**Do Well and Do Good’**. Our rules and regulations describe the standard of conduct and behaviour expected of our students at all times. Our end-goal is to guide our students to cultivate core values and habits and to become self-disciplined individuals of good character, which is integral for growth and maturity.
-
-
-[Discipline and School Rules (updated 2026)](/files/Care%20&amp;%20Discipline/Bowen_Sec_Discipline_and_Rules_2026.pdf)
-
-<hr>
-
-## Care and Support 
-[Student Well-Being and Support](/files/Care%20&amp;%20Discipline/Bowen_Sec_WellBeing_n_Support_2026.pdf)
-
-We aim to nurture future-ready Bowenians who are selfdisciplined
-individuals of sound character and caring peers.Young people may face new challenges in their growing up years. However, Bowenians, turn these challenges into welcomed and meaningful opportunities for growth by surmounting them together with your supportive peers. Navigate your 
-**Bowen Experience (BE)** with your peers as a cohesive team; seek
-always to develop a strong sense of personal well-being and confidence while championing collective well-being and morale.
-
-To fully benefit from your BE, the school encourages you to
-embody the learning dispositions stated in our school routine,
-**R-E-A-D-Y BE!** These traits are crucial for your growth. They
-prime your mind to practise good habits that will help you be a
-successful active learner, fully-committed and fully-immersed
-in your school life, fuelling your passion to be a leader, learner
-and champion.
+Guided by our **R-E-A-D-Y BE!** school routine, students develop positive learning habits, build strong relationships and take ownership of their actions. These values and dispositions empower every Bowenian to become an active learner, a compassionate leader and a responsible member of the school community.
 
 ![](/images/Holistic%20Education/The%20Desired%20Bowenian/READY_BE_updated_Jan_2023.png)
-### Bowen Peer Support and Relationships
+
+### Building Positive Peer Support &amp; Relationships (PSR)
 
 <img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_Diagram.jpg" style="width:50%">
 
-Building positive peer relationships is integral aspect of your BE. Every Bowenian should strive to be a **caring peer supporter and confident up-stander** who helps make Bowen a caring and enabling school environment. Build a supportive network of diverse friends from your form class, teaching groups as well as CCAs. Advocate each other’s well-being and safety as you forge meaningful bonds with each other.
+We also believe that every Bowenian has a role to play in creating a caring and inclusive school culture. Students are encouraged to build positive peer relationships, look out for one another and be confident upstanders who support the well-being and safety of their peers. When challenges arise, students are encouraged to seek help from trusted adults so that timely care and support can be provided.
 
-In your network of supportive friends, exercise positive peer influencing, peer bonding and peer helping. When your peers have concerns, personal troubles or are bullied, reach out to them. Be by their side. Notify the teachers to further extend and enhance the quality of help your friend could get.
+Should students require additional support, our Student Well-being Team and School Counsellors are available to provide guidance, encouragement and care in a safe and supportive environment.
 
-If you yourself wish have a Care Chat with a Student Well-being Teacher, go to this [link](https://tinyurl.com/BowenCares) 
+Students can request a Care Chat and speak with a Student Well-being Teacher as shown below.
 
 ![](/images/School%20Information/Care%20and%20Discipline/Bowen_Care_team.jpg)
 
 
-### Peer Support &amp; Relationships (PSR), FCBT &amp; CAREbean Programme
+### The Friday Class Bonding Time (FCBT) &amp; CAREbean Programme
 <img src="/images/School%20Information/Care%20and%20Discipline/Peer_Support_MVM.jpg" style="width:70%">
 
 Look out for a series fun-filled activities that await you this year. The SWB Teachers and your Peer Support Leaders (PSLs) will drive many peer bonding activities throughout the year such as your **Friday Class Bonding Time (FCBT)** and our twice weekly, after-school **CAREbean Programme**, which will be available both as a face-to-face and online event.
@@ -55,10 +36,11 @@ On our CAREbean days (Monday and Thursdays), our SWB Teachers and PSLs will be s
 
 For more information about care activities, check out the following links:
 •	our PSL Instagram https://www.instagram.com/bowen.psl/ 
-•	our PSL microsite at https://go.gov.sg/bowenpsl
 
-### Reaching Out and Getting Support outside Bowen
-If you would like to talk to other trained professionals, you can also call the following organisations:
+[Student Well-Being and Support](/files/Care%20&amp;%20Discipline/Bowen_Sec_WellBeing_n_Support_2026.pdf)
+
+### Reaching out and getting support outside of Bowen
+Students and families seeking additional support may also contact the following organisations, which offer professional counselling and support services.
 
 <table style="width:454.5pt;margin-left:-.25pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
