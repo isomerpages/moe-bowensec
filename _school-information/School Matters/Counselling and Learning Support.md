@@ -14,7 +14,23 @@ School counselling is a collaborative process that empowers students to:
     
 *   Build resilience and strengthen their coping strategies.
     
-*   Make positive and informed choices that contribute to their well-being and relationships.
+*   Make positive and informed choices that contribute to their well-being and relationships.  
+
+### Who May Benefit from School Counselling?
+
+Students may benefit from counselling if they are experiencing challenges such as:
+
+* **Stress and school anxiety**
+* **Academic and examination stress**
+*  **Grief and loss**
+*  **Friendship and relationship difficulties**
+*  **Family challenges**
+*  **Bullying**
+*  **Online safety concerns and cyber-related issues**
+    
+Students who would like to speak with a counsellor, or who are concerned about a friend, are encouraged to approach any teacher or submit a request for a counselling session.
+
+***Remember, you are not alone. Support is always available, and we are here to help.***
 
 
 <table style="width:399.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -82,23 +98,8 @@ School counselling is a collaborative process that empowers students to:
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt" valign="top" nowrap="" width="312"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Aptos;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-hansi-font-family:Aptos;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:black;mso-font-kerning:0pt;mso-ligatures:none">Sr Education and Career Guidance Counsellor</span></p></td></tr></tbody></table>
-    
 
-### Who May Benefit from School Counselling?
-
-Students may benefit from counselling if they are experiencing challenges such as:
-
-* **Stress and school anxiety**
-* **Academic and examination stress**
-*  **Grief and loss**
-*  **Friendship and relationship difficulties**
-*  **Family challenges**
-*  **Bullying**
-*  **Online safety concerns and cyber-related issues**
-    
-Students who would like to speak with a counsellor, or who are concerned about a friend, are encouraged to approach any teacher or submit a request for a counselling session.
-
-***Remember, you are not alone. Support is always available, and we are here to help.***
+<hr>
 
 ### BOWEN PARENTS REACH OUT
 
