@@ -14,4 +14,3 @@ and to become self-disciplined individuals of good character, which is
 integral for growth and maturity.</p>
 <p><a href="/files/Care &amp; Discipline/Bowen_Sec_Discipline_and_Rules_2026.pdf" rel="noopener nofollow" target="_blank">School Rules Based on Student Handbook 2026</a>
 </p>
-<p>&lt;hr&gt;</p>
